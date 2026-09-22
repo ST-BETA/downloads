@@ -1,0 +1,18 @@
+{
+  "appid": 2303100,
+  "files": [
+    {
+      "name": "2303100.zip",
+      "sha256": "20d40a6fc3d1e0fccbe8f077940ec0d04eb163a392aeb930ab086469e1e3bfb9",
+      "size": 296011
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2303100.zip",
+    "sha256": "20d40a6fc3d1e0fccbe8f077940ec0d04eb163a392aeb930ab086469e1e3bfb9",
+    "size": 296011
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 851800,
+  "files": [
+    {
+      "name": "851800.zip",
+      "sha256": "f5589bbffcb389c5f2ae0b27e9c69d7a96a9a68111bf61856c92fa2eaa505b15",
+      "size": 266640
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "851800.zip",
+    "sha256": "f5589bbffcb389c5f2ae0b27e9c69d7a96a9a68111bf61856c92fa2eaa505b15",
+    "size": 266640
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

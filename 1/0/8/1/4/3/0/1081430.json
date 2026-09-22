@@ -1,0 +1,18 @@
+{
+  "appid": 1081430,
+  "files": [
+    {
+      "name": "1081430.zip",
+      "sha256": "99d11d37c2d2770c7090c3379619460fc997d01dec369cc31b0c890bb883f817",
+      "size": 8169
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1081430.zip",
+    "sha256": "99d11d37c2d2770c7090c3379619460fc997d01dec369cc31b0c890bb883f817",
+    "size": 8169
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

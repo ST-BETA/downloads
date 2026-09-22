@@ -1,0 +1,18 @@
+{
+  "appid": 546090,
+  "files": [
+    {
+      "name": "546090.zip",
+      "sha256": "faa863b4312d7f70cdf17f41de7fac57af9fe0ca4ec76ce4f816045e84389ffc",
+      "size": 21342
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "546090.zip",
+    "sha256": "faa863b4312d7f70cdf17f41de7fac57af9fe0ca4ec76ce4f816045e84389ffc",
+    "size": 21342
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

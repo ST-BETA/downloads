@@ -1,0 +1,18 @@
+{
+  "appid": 1635,
+  "files": [
+    {
+      "name": "1635.zip",
+      "sha256": "b684b3ffb180a0977a01dc068867ce275a8b1e75901d3738ae92fa2502ba247c",
+      "size": 1226
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1635.zip",
+    "sha256": "b684b3ffb180a0977a01dc068867ce275a8b1e75901d3738ae92fa2502ba247c",
+    "size": 1226
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

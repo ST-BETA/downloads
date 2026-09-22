@@ -1,0 +1,18 @@
+{
+  "appid": 1567200,
+  "files": [
+    {
+      "name": "1567200.zip",
+      "sha256": "d93356ab753e4290aad4f3a12939547d0f77fc42ef942940e36b935137df7f94",
+      "size": 185503
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1567200.zip",
+    "sha256": "d93356ab753e4290aad4f3a12939547d0f77fc42ef942940e36b935137df7f94",
+    "size": 185503
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2022180,
+  "files": [
+    {
+      "name": "2022180.zip",
+      "sha256": "745942fbdaa447e3d39c9b66b481366d3e6ded66b4ff25ed20901a18eda813ed",
+      "size": 65391
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2022180.zip",
+    "sha256": "745942fbdaa447e3d39c9b66b481366d3e6ded66b4ff25ed20901a18eda813ed",
+    "size": 65391
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1960880,
+  "files": [
+    {
+      "name": "1960880.zip",
+      "sha256": "94a6397e162ee197422da369cffc61da54660c60bc610a0f6a7b20cff6f9ba26",
+      "size": 139200
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1960880.zip",
+    "sha256": "94a6397e162ee197422da369cffc61da54660c60bc610a0f6a7b20cff6f9ba26",
+    "size": 139200
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

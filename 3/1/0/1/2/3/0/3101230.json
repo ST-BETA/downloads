@@ -1,0 +1,18 @@
+{
+  "appid": 3101230,
+  "files": [
+    {
+      "name": "3101230.zip",
+      "sha256": "ea38b23f9f392d1744969caa9e8fb0b758e480e768c743825ea696ee15cc9114",
+      "size": 218949
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3101230.zip",
+    "sha256": "ea38b23f9f392d1744969caa9e8fb0b758e480e768c743825ea696ee15cc9114",
+    "size": 218949
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

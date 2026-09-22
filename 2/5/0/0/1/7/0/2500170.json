@@ -1,0 +1,18 @@
+{
+  "appid": 2500170,
+  "files": [
+    {
+      "name": "2500170.zip",
+      "sha256": "acd677ef1d688fd748c987d497ecf7f0cd901d344a0901fac68068f27e30c90c",
+      "size": 140840
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2500170.zip",
+    "sha256": "acd677ef1d688fd748c987d497ecf7f0cd901d344a0901fac68068f27e30c90c",
+    "size": 140840
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

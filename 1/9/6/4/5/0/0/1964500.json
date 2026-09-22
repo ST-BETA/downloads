@@ -1,0 +1,18 @@
+{
+  "appid": 1964500,
+  "files": [
+    {
+      "name": "1964500.zip",
+      "sha256": "40b69c0f67a36e825accdae649064490bc974160ec53b0b0f8d3e08b63a32459",
+      "size": 433035
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1964500.zip",
+    "sha256": "40b69c0f67a36e825accdae649064490bc974160ec53b0b0f8d3e08b63a32459",
+    "size": 433035
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 604100,
+  "files": [
+    {
+      "name": "604100.zip",
+      "sha256": "c8cf9b266a9cbb034669fa185f9a8ef9c4146914c738b205869e8d363cdac116",
+      "size": 9214
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "604100.zip",
+    "sha256": "c8cf9b266a9cbb034669fa185f9a8ef9c4146914c738b205869e8d363cdac116",
+    "size": 9214
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

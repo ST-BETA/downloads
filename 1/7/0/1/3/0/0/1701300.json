@@ -1,0 +1,18 @@
+{
+  "appid": 1701300,
+  "files": [
+    {
+      "name": "1701300.zip",
+      "sha256": "bb96d04e10d2391b5b16082da6a4e2c52d077f3575fbe12916bee9046924e747",
+      "size": 235943
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1701300.zip",
+    "sha256": "bb96d04e10d2391b5b16082da6a4e2c52d077f3575fbe12916bee9046924e747",
+    "size": 235943
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

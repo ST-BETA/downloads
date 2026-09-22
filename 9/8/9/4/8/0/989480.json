@@ -1,0 +1,18 @@
+{
+  "appid": 989480,
+  "files": [
+    {
+      "name": "989480.zip",
+      "sha256": "b35b3ab62f6bb189f062b3247a211af17da7149d7fa86f51eb4d42191d55c879",
+      "size": 31500
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "989480.zip",
+    "sha256": "b35b3ab62f6bb189f062b3247a211af17da7149d7fa86f51eb4d42191d55c879",
+    "size": 31500
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1801110,
+  "files": [
+    {
+      "name": "1801110.zip",
+      "sha256": "735ede69995d571ddca530b61246bb4907063b4707ea302cd6185561bf186cf1",
+      "size": 131540
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1801110.zip",
+    "sha256": "735ede69995d571ddca530b61246bb4907063b4707ea302cd6185561bf186cf1",
+    "size": 131540
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

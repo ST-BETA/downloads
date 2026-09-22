@@ -1,0 +1,18 @@
+{
+  "appid": 1337060,
+  "files": [
+    {
+      "name": "1337060.zip",
+      "sha256": "d3c6771e3fc50a18b81c448786644b3a9fc799dbc47069c7bfdfa1e0f42d03d7",
+      "size": 215709
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1337060.zip",
+    "sha256": "d3c6771e3fc50a18b81c448786644b3a9fc799dbc47069c7bfdfa1e0f42d03d7",
+    "size": 215709
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

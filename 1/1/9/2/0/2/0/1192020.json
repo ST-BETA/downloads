@@ -1,0 +1,18 @@
+{
+  "appid": 1192020,
+  "files": [
+    {
+      "name": "1192020.zip",
+      "sha256": "c914ffddcd0ab88d931a058aa578c1e490b46e1f2736a8147742ea9a0985a30d",
+      "size": 201308
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1192020.zip",
+    "sha256": "c914ffddcd0ab88d931a058aa578c1e490b46e1f2736a8147742ea9a0985a30d",
+    "size": 201308
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2015300,
+  "files": [
+    {
+      "name": "2015300.zip",
+      "sha256": "f7a37e7f62461b8208d24d1ea12ced6ad4c19faad38feaea886f68b7ba27d016",
+      "size": 341794
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2015300.zip",
+    "sha256": "f7a37e7f62461b8208d24d1ea12ced6ad4c19faad38feaea886f68b7ba27d016",
+    "size": 341794
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 200710,
+  "files": [
+    {
+      "name": "200710.zip",
+      "sha256": "0afd48d04827e07aaa2d5d115a0c817f066e0f86093cffe0b26c9a9af2f09e44",
+      "size": 329695
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200710.zip",
+    "sha256": "0afd48d04827e07aaa2d5d115a0c817f066e0f86093cffe0b26c9a9af2f09e44",
+    "size": 329695
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

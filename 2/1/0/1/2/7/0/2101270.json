@@ -1,0 +1,18 @@
+{
+  "appid": 2101270,
+  "files": [
+    {
+      "name": "2101270.zip",
+      "sha256": "40e27c35712e45ff80deaad81044a3c874549b74d80c5562f6998841bd5dc6a9",
+      "size": 183935
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2101270.zip",
+    "sha256": "40e27c35712e45ff80deaad81044a3c874549b74d80c5562f6998841bd5dc6a9",
+    "size": 183935
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

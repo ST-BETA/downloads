@@ -1,0 +1,18 @@
+{
+  "appid": 604060,
+  "files": [
+    {
+      "name": "604060.zip",
+      "sha256": "47c2948aa25541434b430ec908b9c003e03275a125512b0ad1eaba04693c415b",
+      "size": 42365
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "604060.zip",
+    "sha256": "47c2948aa25541434b430ec908b9c003e03275a125512b0ad1eaba04693c415b",
+    "size": 42365
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 850780,
+  "files": [
+    {
+      "name": "850780.zip",
+      "sha256": "a2332162818ad30eb02d6fbce0d0d12cd406876d8e42a9de00abf588a7564b53",
+      "size": 38876
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "850780.zip",
+    "sha256": "a2332162818ad30eb02d6fbce0d0d12cd406876d8e42a9de00abf588a7564b53",
+    "size": 38876
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

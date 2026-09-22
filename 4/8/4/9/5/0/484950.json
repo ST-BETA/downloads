@@ -1,0 +1,18 @@
+{
+  "appid": 484950,
+  "files": [
+    {
+      "name": "484950.zip",
+      "sha256": "eca98b4014e8bb1355c2625c1109293992bea709be20c3a235f5aaf2b4e4f90c",
+      "size": 211914
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "484950.zip",
+    "sha256": "eca98b4014e8bb1355c2625c1109293992bea709be20c3a235f5aaf2b4e4f90c",
+    "size": 211914
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 783250,
+  "files": [
+    {
+      "name": "783250.zip",
+      "sha256": "a835d0f50bf57103e51b06378a2ce30bc2fb71eb80d33db7f729d6eb67032936",
+      "size": 26872
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "783250.zip",
+    "sha256": "a835d0f50bf57103e51b06378a2ce30bc2fb71eb80d33db7f729d6eb67032936",
+    "size": 26872
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2500450,
+  "files": [
+    {
+      "name": "2500450.zip",
+      "sha256": "af4043db4b49823128f4a4f91b58eb17cbb49105f07332565f2c794f13e654d6",
+      "size": 47667
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2500450.zip",
+    "sha256": "af4043db4b49823128f4a4f91b58eb17cbb49105f07332565f2c794f13e654d6",
+    "size": 47667
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 200390,
+  "files": [
+    {
+      "name": "200390.zip",
+      "sha256": "bf3482dbe15683c89553377a65c25844861b0d8d4e08525c8ef8ff4bb0bd8320",
+      "size": 1502908
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200390.zip",
+    "sha256": "bf3482dbe15683c89553377a65c25844861b0d8d4e08525c8ef8ff4bb0bd8320",
+    "size": 1502908
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

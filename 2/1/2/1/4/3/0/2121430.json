@@ -1,0 +1,18 @@
+{
+  "appid": 2121430,
+  "files": [
+    {
+      "name": "2121430.zip",
+      "sha256": "f74b202c15388892abbab580c0676e7dbd0e19a1fd6299ee058e9a380549ac5b",
+      "size": 65712
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2121430.zip",
+    "sha256": "f74b202c15388892abbab580c0676e7dbd0e19a1fd6299ee058e9a380549ac5b",
+    "size": 65712
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

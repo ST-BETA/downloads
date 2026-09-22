@@ -1,0 +1,18 @@
+{
+  "appid": 1020450,
+  "files": [
+    {
+      "name": "1020450.zip",
+      "sha256": "c043c6fcfdfac7eb4940ce406690cba0b11c1791f7681715dcebfc1ed344ef4a",
+      "size": 36060
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1020450.zip",
+    "sha256": "c043c6fcfdfac7eb4940ce406690cba0b11c1791f7681715dcebfc1ed344ef4a",
+    "size": 36060
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 587440,
+  "files": [
+    {
+      "name": "587440.zip",
+      "sha256": "a4f643b879230142f15c10bda26e7c384f81c312ee6eb235c21afee93b960b0c",
+      "size": 448476
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "587440.zip",
+    "sha256": "a4f643b879230142f15c10bda26e7c384f81c312ee6eb235c21afee93b960b0c",
+    "size": 448476
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

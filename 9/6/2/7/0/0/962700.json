@@ -1,0 +1,18 @@
+{
+  "appid": 962700,
+  "files": [
+    {
+      "name": "962700.zip",
+      "sha256": "8be74aa92c65ba2134621c0ae829bd5fb106381d6b7635ae5368f12b44a2a826",
+      "size": 116567
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "962700.zip",
+    "sha256": "8be74aa92c65ba2134621c0ae829bd5fb106381d6b7635ae5368f12b44a2a826",
+    "size": 116567
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 641980,
+  "files": [
+    {
+      "name": "641980.zip",
+      "sha256": "45ac6541af433faf84db0beb9cbb1fea5ffb921379d403e865b5e3133d3ce0fc",
+      "size": 305200
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "641980.zip",
+    "sha256": "45ac6541af433faf84db0beb9cbb1fea5ffb921379d403e865b5e3133d3ce0fc",
+    "size": 305200
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

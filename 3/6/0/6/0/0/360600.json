@@ -1,0 +1,18 @@
+{
+  "appid": 360600,
+  "files": [
+    {
+      "name": "360600.zip",
+      "sha256": "7c7e523b1f5e290af9de186822d5773410ef19c6a0400ea4d1e2809e380716e8",
+      "size": 18047
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "360600.zip",
+    "sha256": "7c7e523b1f5e290af9de186822d5773410ef19c6a0400ea4d1e2809e380716e8",
+    "size": 18047
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

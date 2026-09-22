@@ -1,0 +1,18 @@
+{
+  "appid": 321600,
+  "files": [
+    {
+      "name": "321600.zip",
+      "sha256": "cd6f65caa74dcc4e348620e06d5b3491671daa9fa106e478f69b89c76a09884d",
+      "size": 2305
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "321600.zip",
+    "sha256": "cd6f65caa74dcc4e348620e06d5b3491671daa9fa106e478f69b89c76a09884d",
+    "size": 2305
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

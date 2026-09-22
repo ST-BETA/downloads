@@ -1,0 +1,18 @@
+{
+  "appid": 1877800,
+  "files": [
+    {
+      "name": "1877800.zip",
+      "sha256": "ea9718be6429a3f944c3936e53424a68824b304b134a96beafafe960dde27ff3",
+      "size": 78580
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1877800.zip",
+    "sha256": "ea9718be6429a3f944c3936e53424a68824b304b134a96beafafe960dde27ff3",
+    "size": 78580
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

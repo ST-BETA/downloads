@@ -1,0 +1,18 @@
+{
+  "appid": 2600120,
+  "files": [
+    {
+      "name": "2600120.zip",
+      "sha256": "f1570734240b261d08f5f9c87d3678719c795244950a1bc1e58126da8ce343c5",
+      "size": 370134
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2600120.zip",
+    "sha256": "f1570734240b261d08f5f9c87d3678719c795244950a1bc1e58126da8ce343c5",
+    "size": 370134
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

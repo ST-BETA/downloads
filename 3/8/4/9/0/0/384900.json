@@ -1,0 +1,18 @@
+{
+  "appid": 384900,
+  "files": [
+    {
+      "name": "384900.zip",
+      "sha256": "8c845e538f48bb7c274b0f17bbcb6d9c0d6496eb217306b9bd72ac7119eff319",
+      "size": 245134
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "384900.zip",
+    "sha256": "8c845e538f48bb7c274b0f17bbcb6d9c0d6496eb217306b9bd72ac7119eff319",
+    "size": 245134
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

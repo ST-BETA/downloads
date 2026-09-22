@@ -1,0 +1,18 @@
+{
+  "appid": 737600,
+  "files": [
+    {
+      "name": "737600.zip",
+      "sha256": "b00f8c1253c1512e7427f2e734016fd6a3f3662f04cff8de493976e30d34d8ca",
+      "size": 47924
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "737600.zip",
+    "sha256": "b00f8c1253c1512e7427f2e734016fd6a3f3662f04cff8de493976e30d34d8ca",
+    "size": 47924
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

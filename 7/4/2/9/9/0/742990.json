@@ -1,0 +1,18 @@
+{
+  "appid": 742990,
+  "files": [
+    {
+      "name": "742990.zip",
+      "sha256": "0ace96ceb06b634948f10c6c73d409a2175f8ec0b2f32870f6bacf284137bc30",
+      "size": 70688
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "742990.zip",
+    "sha256": "0ace96ceb06b634948f10c6c73d409a2175f8ec0b2f32870f6bacf284137bc30",
+    "size": 70688
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

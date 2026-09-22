@@ -1,0 +1,18 @@
+{
+  "appid": 307900,
+  "files": [
+    {
+      "name": "307900.zip",
+      "sha256": "1315afd3bc25e5756a476b95eba80b05b9892a8ddae3523a5f033cc79e86a5a3",
+      "size": 193139
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "307900.zip",
+    "sha256": "1315afd3bc25e5756a476b95eba80b05b9892a8ddae3523a5f033cc79e86a5a3",
+    "size": 193139
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

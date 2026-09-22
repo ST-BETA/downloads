@@ -1,0 +1,18 @@
+{
+  "appid": 80360,
+  "files": [
+    {
+      "name": "80360.zip",
+      "sha256": "bc0271649a7d608aafe754a3d8376eaf08fffffb2b166fb894ea8fb8ed7e084d",
+      "size": 112210
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "80360.zip",
+    "sha256": "bc0271649a7d608aafe754a3d8376eaf08fffffb2b166fb894ea8fb8ed7e084d",
+    "size": 112210
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

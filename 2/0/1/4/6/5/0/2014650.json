@@ -1,0 +1,18 @@
+{
+  "appid": 2014650,
+  "files": [
+    {
+      "name": "2014650.zip",
+      "sha256": "7c2c7247ae29973aa61e200fc57dd929e5596609dc100dd3f6ad77af35f45436",
+      "size": 556425
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2014650.zip",
+    "sha256": "7c2c7247ae29973aa61e200fc57dd929e5596609dc100dd3f6ad77af35f45436",
+    "size": 556425
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2008990,
+  "files": [
+    {
+      "name": "2008990.zip",
+      "sha256": "f80d0060586667ca0d5494d38024dc13870d2a5eaeffa41db8b4e2f71393fc0d",
+      "size": 44351
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2008990.zip",
+    "sha256": "f80d0060586667ca0d5494d38024dc13870d2a5eaeffa41db8b4e2f71393fc0d",
+    "size": 44351
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 809700,
+  "files": [
+    {
+      "name": "809700.zip",
+      "sha256": "2ac03001dcaa4f187cd381acf6107847397b6a05f9320d5c6f85d2b6d4b1a97a",
+      "size": 97800
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "809700.zip",
+    "sha256": "2ac03001dcaa4f187cd381acf6107847397b6a05f9320d5c6f85d2b6d4b1a97a",
+    "size": 97800
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

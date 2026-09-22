@@ -1,0 +1,18 @@
+{
+  "appid": 370620,
+  "files": [
+    {
+      "name": "370620.zip",
+      "sha256": "4363da80f89722536d47ed12bc25d2bc738dc17d65394d3aac4db9f7e0a2f26a",
+      "size": 34699
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "370620.zip",
+    "sha256": "4363da80f89722536d47ed12bc25d2bc738dc17d65394d3aac4db9f7e0a2f26a",
+    "size": 34699
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

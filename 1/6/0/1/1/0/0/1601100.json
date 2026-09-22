@@ -1,0 +1,18 @@
+{
+  "appid": 1601100,
+  "files": [
+    {
+      "name": "1601100.zip",
+      "sha256": "f0b76df54c2f869486d9c982e9febc242fd5d00e32c9a1ee28903c6226e1b8b0",
+      "size": 26256
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1601100.zip",
+    "sha256": "f0b76df54c2f869486d9c982e9febc242fd5d00e32c9a1ee28903c6226e1b8b0",
+    "size": 26256
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

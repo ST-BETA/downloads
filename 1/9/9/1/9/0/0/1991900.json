@@ -1,0 +1,18 @@
+{
+  "appid": 1991900,
+  "files": [
+    {
+      "name": "1991900.zip",
+      "sha256": "fd92a0be25e5405e467dd386f52b2e593244c203dc728516a92675ed68e450cb",
+      "size": 110724
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1991900.zip",
+    "sha256": "fd92a0be25e5405e467dd386f52b2e593244c203dc728516a92675ed68e450cb",
+    "size": 110724
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

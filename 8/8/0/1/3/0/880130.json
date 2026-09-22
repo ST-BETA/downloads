@@ -1,0 +1,18 @@
+{
+  "appid": 880130,
+  "files": [
+    {
+      "name": "880130.zip",
+      "sha256": "56945ef031115659875d1d13dcbcd4c26d73b55189713306b5c87605d2b37370",
+      "size": 284745
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "880130.zip",
+    "sha256": "56945ef031115659875d1d13dcbcd4c26d73b55189713306b5c87605d2b37370",
+    "size": 284745
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

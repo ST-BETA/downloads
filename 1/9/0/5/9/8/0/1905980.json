@@ -1,0 +1,18 @@
+{
+  "appid": 1905980,
+  "files": [
+    {
+      "name": "1905980.zip",
+      "sha256": "4ec04d264abd820443bd22e529787f3c8f555e6e59c5a4bb2d38720c81cd5750",
+      "size": 725020
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1905980.zip",
+    "sha256": "4ec04d264abd820443bd22e529787f3c8f555e6e59c5a4bb2d38720c81cd5750",
+    "size": 725020
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

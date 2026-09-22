@@ -1,0 +1,18 @@
+{
+  "appid": 2201910,
+  "files": [
+    {
+      "name": "2201910.zip",
+      "sha256": "d275fd057a77f98e053ceec4ddc182ba6084c81a22a0ab5f7ca7b9c7f49ac65c",
+      "size": 1086848
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2201910.zip",
+    "sha256": "d275fd057a77f98e053ceec4ddc182ba6084c81a22a0ab5f7ca7b9c7f49ac65c",
+    "size": 1086848
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

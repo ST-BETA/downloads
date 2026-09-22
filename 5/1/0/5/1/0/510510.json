@@ -1,0 +1,18 @@
+{
+  "appid": 510510,
+  "files": [
+    {
+      "name": "510510.zip",
+      "sha256": "07e96b98fc239e7e2dbbc8e2b5f8091f8c073a9f0923fb26fb1d7d649365ad86",
+      "size": 4461532
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "510510.zip",
+    "sha256": "07e96b98fc239e7e2dbbc8e2b5f8091f8c073a9f0923fb26fb1d7d649365ad86",
+    "size": 4461532
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

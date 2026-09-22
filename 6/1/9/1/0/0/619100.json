@@ -1,0 +1,18 @@
+{
+  "appid": 619100,
+  "files": [
+    {
+      "name": "619100.zip",
+      "sha256": "f2e5d3cf3fdb681f2eea08e8d5541dd05fc181330abe93bd34b98295084d036e",
+      "size": 131673
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "619100.zip",
+    "sha256": "f2e5d3cf3fdb681f2eea08e8d5541dd05fc181330abe93bd34b98295084d036e",
+    "size": 131673
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

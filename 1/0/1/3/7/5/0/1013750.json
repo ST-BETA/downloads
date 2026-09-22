@@ -1,0 +1,18 @@
+{
+  "appid": 1013750,
+  "files": [
+    {
+      "name": "1013750.zip",
+      "sha256": "c11c18c452d14fecb76da2ff8fccf9e5347a2843cc17d4da57bdffdf4c2d743d",
+      "size": 79478
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1013750.zip",
+    "sha256": "c11c18c452d14fecb76da2ff8fccf9e5347a2843cc17d4da57bdffdf4c2d743d",
+    "size": 79478
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

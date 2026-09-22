@@ -1,0 +1,18 @@
+{
+  "appid": 680590,
+  "files": [
+    {
+      "name": "680590.zip",
+      "sha256": "eb7ca4904dff7fc0db29ade2fca10fec206206086cadebc1479b37ddc542dc0f",
+      "size": 108025
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "680590.zip",
+    "sha256": "eb7ca4904dff7fc0db29ade2fca10fec206206086cadebc1479b37ddc542dc0f",
+    "size": 108025
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

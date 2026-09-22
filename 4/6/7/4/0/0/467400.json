@@ -1,0 +1,18 @@
+{
+  "appid": 467400,
+  "files": [
+    {
+      "name": "467400.zip",
+      "sha256": "c5c37a9980ac205e134bd4821460dbc70d43ff59c62184dba0c71a917983bd3d",
+      "size": 243416
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "467400.zip",
+    "sha256": "c5c37a9980ac205e134bd4821460dbc70d43ff59c62184dba0c71a917983bd3d",
+    "size": 243416
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

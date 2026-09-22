@@ -1,0 +1,18 @@
+{
+  "appid": 987740,
+  "files": [
+    {
+      "name": "987740.zip",
+      "sha256": "26e3ea56ecc0eec5845a872303b374226181cdc969d990782dba8e4f699f2f74",
+      "size": 14054
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "987740.zip",
+    "sha256": "26e3ea56ecc0eec5845a872303b374226181cdc969d990782dba8e4f699f2f74",
+    "size": 14054
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 42230,
+  "files": [
+    {
+      "name": "42230.zip",
+      "sha256": "97aac4889e76f5c0a4649b4754f85c6ae6da8276b1eef19b69b9a858ae837d58",
+      "size": 1371799
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "42230.zip",
+    "sha256": "97aac4889e76f5c0a4649b4754f85c6ae6da8276b1eef19b69b9a858ae837d58",
+    "size": 1371799
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

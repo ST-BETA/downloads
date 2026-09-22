@@ -1,0 +1,18 @@
+{
+  "appid": 503710,
+  "files": [
+    {
+      "name": "503710.zip",
+      "sha256": "d10cb44bfbf193b98e521f3f5e9110e6005a9db3d0d7d0947dcc943fcf86f9d1",
+      "size": 60544
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "503710.zip",
+    "sha256": "d10cb44bfbf193b98e521f3f5e9110e6005a9db3d0d7d0947dcc943fcf86f9d1",
+    "size": 60544
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

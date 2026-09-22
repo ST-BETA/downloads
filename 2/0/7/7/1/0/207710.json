@@ -1,0 +1,18 @@
+{
+  "appid": 207710,
+  "files": [
+    {
+      "name": "207710.zip",
+      "sha256": "c4314bb7e25223a9ad724a86c3e0db0b9ab3a5d22de93ed1906812a73f2321aa",
+      "size": 219125
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "207710.zip",
+    "sha256": "c4314bb7e25223a9ad724a86c3e0db0b9ab3a5d22de93ed1906812a73f2321aa",
+    "size": 219125
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

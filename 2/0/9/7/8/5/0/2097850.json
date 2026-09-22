@@ -1,0 +1,18 @@
+{
+  "appid": 2097850,
+  "files": [
+    {
+      "name": "2097850.zip",
+      "sha256": "1ff497bf5b0df0a0131d85dda0fe0424a95329b4fb0a47d25bd940323dddc640",
+      "size": 77225
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2097850.zip",
+    "sha256": "1ff497bf5b0df0a0131d85dda0fe0424a95329b4fb0a47d25bd940323dddc640",
+    "size": 77225
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

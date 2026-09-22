@@ -1,0 +1,18 @@
+{
+  "appid": 1997200,
+  "files": [
+    {
+      "name": "1997200.zip",
+      "sha256": "faf1c9d4ceb586034d1fc3c905da33d72fad55b2c538f5d6c610a1268dff03c4",
+      "size": 45907
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1997200.zip",
+    "sha256": "faf1c9d4ceb586034d1fc3c905da33d72fad55b2c538f5d6c610a1268dff03c4",
+    "size": 45907
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 105700,
+  "files": [
+    {
+      "name": "105700.zip",
+      "sha256": "567994a15766dda1b21243a3b00ae73ee359b57dfeb2031e956d3b8f38bf0f6c",
+      "size": 70339
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "105700.zip",
+    "sha256": "567994a15766dda1b21243a3b00ae73ee359b57dfeb2031e956d3b8f38bf0f6c",
+    "size": 70339
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

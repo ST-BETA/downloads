@@ -1,0 +1,18 @@
+{
+  "appid": 2543180,
+  "files": [
+    {
+      "name": "2543180.zip",
+      "sha256": "596721cb40e22b6b7c37786d7daeb37c223a9978967dd8340b5a056a648f7ecc",
+      "size": 3666544
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2543180.zip",
+    "sha256": "596721cb40e22b6b7c37786d7daeb37c223a9978967dd8340b5a056a648f7ecc",
+    "size": 3666544
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

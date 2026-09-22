@@ -1,0 +1,18 @@
+{
+  "appid": 355090,
+  "files": [
+    {
+      "name": "355090.zip",
+      "sha256": "69dc8fbd2a90c9aa513a3b147e07518f3089bbb5a730640e1bb021359107be4a",
+      "size": 97117
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "355090.zip",
+    "sha256": "69dc8fbd2a90c9aa513a3b147e07518f3089bbb5a730640e1bb021359107be4a",
+    "size": 97117
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

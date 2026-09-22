@@ -1,0 +1,18 @@
+{
+  "appid": 660400,
+  "files": [
+    {
+      "name": "660400.zip",
+      "sha256": "049b124e29c862e67d7d539f21ff167fd395ae2891076007bb6a6bd0dfd42429",
+      "size": 6820
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "660400.zip",
+    "sha256": "049b124e29c862e67d7d539f21ff167fd395ae2891076007bb6a6bd0dfd42429",
+    "size": 6820
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

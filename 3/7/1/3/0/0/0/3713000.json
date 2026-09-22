@@ -1,0 +1,18 @@
+{
+  "appid": 3713000,
+  "files": [
+    {
+      "name": "3713000.zip",
+      "sha256": "cf7704c971c09e86708ae69ff7e56ea39ce5697f43b35ea9d96739204df79ca4",
+      "size": 39264
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3713000.zip",
+    "sha256": "cf7704c971c09e86708ae69ff7e56ea39ce5697f43b35ea9d96739204df79ca4",
+    "size": 39264
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

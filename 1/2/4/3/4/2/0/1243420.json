@@ -1,0 +1,18 @@
+{
+  "appid": 1243420,
+  "files": [
+    {
+      "name": "1243420.zip",
+      "sha256": "4942008cb429c98759f7f58784b639dd86d93512fc2428ad7a7f2b1c07c99665",
+      "size": 200042
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1243420.zip",
+    "sha256": "4942008cb429c98759f7f58784b639dd86d93512fc2428ad7a7f2b1c07c99665",
+    "size": 200042
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 599800,
+  "files": [
+    {
+      "name": "599800.zip",
+      "sha256": "25dc6cd9e3348db34fa91a8a45417141680fc7b354d70746cfa14724088eddf6",
+      "size": 240233
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "599800.zip",
+    "sha256": "25dc6cd9e3348db34fa91a8a45417141680fc7b354d70746cfa14724088eddf6",
+    "size": 240233
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2019360,
+  "files": [
+    {
+      "name": "2019360.zip",
+      "sha256": "cd07f259f40aff10292430512627a78df7002b96c8abf465c936c818b3d7cb9b",
+      "size": 7164
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2019360.zip",
+    "sha256": "cd07f259f40aff10292430512627a78df7002b96c8abf465c936c818b3d7cb9b",
+    "size": 7164
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

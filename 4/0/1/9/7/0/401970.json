@@ -1,0 +1,18 @@
+{
+  "appid": 401970,
+  "files": [
+    {
+      "name": "401970.zip",
+      "sha256": "41e231ae485affc785e35783789a1beb59e242399d615b3b6e7505fee80e52fd",
+      "size": 727771
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "401970.zip",
+    "sha256": "41e231ae485affc785e35783789a1beb59e242399d615b3b6e7505fee80e52fd",
+    "size": 727771
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

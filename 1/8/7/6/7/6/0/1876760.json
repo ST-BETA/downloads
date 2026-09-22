@@ -1,0 +1,18 @@
+{
+  "appid": 1876760,
+  "files": [
+    {
+      "name": "1876760.zip",
+      "sha256": "b2c83f5469ca3a29213cb9271982b0d45fa1282fc22e9db0bed8957d13aee4fd",
+      "size": 200560
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1876760.zip",
+    "sha256": "b2c83f5469ca3a29213cb9271982b0d45fa1282fc22e9db0bed8957d13aee4fd",
+    "size": 200560
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

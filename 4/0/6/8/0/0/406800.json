@@ -1,0 +1,18 @@
+{
+  "appid": 406800,
+  "files": [
+    {
+      "name": "406800.zip",
+      "sha256": "3e9cb9193b2ce8de7e26909727787442e4abc8cae7b0b2c52bcb1f37c4bfa169",
+      "size": 598442
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "406800.zip",
+    "sha256": "3e9cb9193b2ce8de7e26909727787442e4abc8cae7b0b2c52bcb1f37c4bfa169",
+    "size": 598442
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

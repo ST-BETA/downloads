@@ -1,0 +1,18 @@
+{
+  "appid": 376150,
+  "files": [
+    {
+      "name": "376150.zip",
+      "sha256": "a135902be85aa71c4ae58900ea0a4fb5f85dba30444685debdd4f472d5dc8b8f",
+      "size": 210033
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "376150.zip",
+    "sha256": "a135902be85aa71c4ae58900ea0a4fb5f85dba30444685debdd4f472d5dc8b8f",
+    "size": 210033
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

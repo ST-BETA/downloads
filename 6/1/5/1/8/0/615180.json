@@ -1,0 +1,18 @@
+{
+  "appid": 615180,
+  "files": [
+    {
+      "name": "615180.zip",
+      "sha256": "03878cdca135b80985212af230ef34b60691ebf4d76fd27a4f0bcf69d57bf611",
+      "size": 152068
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "615180.zip",
+    "sha256": "03878cdca135b80985212af230ef34b60691ebf4d76fd27a4f0bcf69d57bf611",
+    "size": 152068
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

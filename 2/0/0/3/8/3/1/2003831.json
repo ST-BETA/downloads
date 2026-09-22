@@ -1,0 +1,18 @@
+{
+  "appid": 2003831,
+  "files": [
+    {
+      "name": "2003831.zip",
+      "sha256": "5584c0744652f7cecf4559de698c241eecb8aa49930dc02f42d9d7178d42e978",
+      "size": 568523
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2003831.zip",
+    "sha256": "5584c0744652f7cecf4559de698c241eecb8aa49930dc02f42d9d7178d42e978",
+    "size": 568523
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

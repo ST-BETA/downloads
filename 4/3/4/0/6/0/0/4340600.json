@@ -1,0 +1,18 @@
+{
+  "appid": 4340600,
+  "files": [
+    {
+      "name": "4340600.zip",
+      "sha256": "33f8740b3cf1be809a18ef8716b8ff912c1101e8e4b29b005c96da5743ffadcc",
+      "size": 346879
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4340600.zip",
+    "sha256": "33f8740b3cf1be809a18ef8716b8ff912c1101e8e4b29b005c96da5743ffadcc",
+    "size": 346879
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

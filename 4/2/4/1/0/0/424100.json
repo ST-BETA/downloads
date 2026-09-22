@@ -1,0 +1,18 @@
+{
+  "appid": 424100,
+  "files": [
+    {
+      "name": "424100.zip",
+      "sha256": "021ffc55ae1c9d17d18ef9e0f1d0635d2fc4bba29407a1db0e013ca8900e38f5",
+      "size": 20391
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "424100.zip",
+    "sha256": "021ffc55ae1c9d17d18ef9e0f1d0635d2fc4bba29407a1db0e013ca8900e38f5",
+    "size": 20391
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

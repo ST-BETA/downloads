@@ -1,0 +1,18 @@
+{
+  "appid": 3022010,
+  "files": [
+    {
+      "name": "3022010.zip",
+      "sha256": "75b3e727b27b5a8f1a358a0861e9e325d5a3c9c5d339129992c6de868b7b6dc1",
+      "size": 146255
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3022010.zip",
+    "sha256": "75b3e727b27b5a8f1a358a0861e9e325d5a3c9c5d339129992c6de868b7b6dc1",
+    "size": 146255
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

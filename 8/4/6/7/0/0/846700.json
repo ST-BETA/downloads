@@ -1,0 +1,18 @@
+{
+  "appid": 846700,
+  "files": [
+    {
+      "name": "846700.zip",
+      "sha256": "b7869418610a0598476dd2c1d11feaa693a07303a65cb601c88a83c9832f4e57",
+      "size": 1359143
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "846700.zip",
+    "sha256": "b7869418610a0598476dd2c1d11feaa693a07303a65cb601c88a83c9832f4e57",
+    "size": 1359143
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

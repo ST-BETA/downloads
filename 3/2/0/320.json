@@ -1,0 +1,18 @@
+{
+  "appid": 320,
+  "files": [
+    {
+      "name": "320.zip",
+      "sha256": "ee37678b52d3bd5747466feadd214fa820126120deb21db11252b39f4df7e494",
+      "size": 329160
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "320.zip",
+    "sha256": "ee37678b52d3bd5747466feadd214fa820126120deb21db11252b39f4df7e494",
+    "size": 329160
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

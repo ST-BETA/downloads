@@ -1,0 +1,18 @@
+{
+  "appid": 2008600,
+  "files": [
+    {
+      "name": "2008600.zip",
+      "sha256": "79b7c57243d5bee66b8faa0fae91e351c73539bc77fc782a128cc84d20daed59",
+      "size": 27078
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2008600.zip",
+    "sha256": "79b7c57243d5bee66b8faa0fae91e351c73539bc77fc782a128cc84d20daed59",
+    "size": 27078
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 861030,
+  "files": [
+    {
+      "name": "861030.zip",
+      "sha256": "00cb563626f5f7abaedf386af38497644be21f5b21023eda9ff03fe4ad9f4877",
+      "size": 99906
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "861030.zip",
+    "sha256": "00cb563626f5f7abaedf386af38497644be21f5b21023eda9ff03fe4ad9f4877",
+    "size": 99906
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

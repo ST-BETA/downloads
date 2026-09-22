@@ -1,0 +1,18 @@
+{
+  "appid": 2005840,
+  "files": [
+    {
+      "name": "2005840.zip",
+      "sha256": "4cc05291b965c43cd592aa0a62d8956564a4ef37e43301de5d0cfba3f9725339",
+      "size": 159753
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2005840.zip",
+    "sha256": "4cc05291b965c43cd592aa0a62d8956564a4ef37e43301de5d0cfba3f9725339",
+    "size": 159753
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

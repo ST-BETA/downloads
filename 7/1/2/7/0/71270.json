@@ -1,0 +1,18 @@
+{
+  "appid": 71270,
+  "files": [
+    {
+      "name": "71270.zip",
+      "sha256": "ab9a0f740eeb7da0b260feb6532f4c8587315f87345af8951a4110d38953d925",
+      "size": 532367
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "71270.zip",
+    "sha256": "ab9a0f740eeb7da0b260feb6532f4c8587315f87345af8951a4110d38953d925",
+    "size": 532367
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

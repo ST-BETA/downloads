@@ -1,0 +1,18 @@
+{
+  "appid": 1007980,
+  "files": [
+    {
+      "name": "1007980.zip",
+      "sha256": "f66ced030cb27b08de8feacf17a9f7b19ce4699ab5312f6152ea6f0c47ee0bcd",
+      "size": 24419
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1007980.zip",
+    "sha256": "f66ced030cb27b08de8feacf17a9f7b19ce4699ab5312f6152ea6f0c47ee0bcd",
+    "size": 24419
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

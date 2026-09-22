@@ -1,0 +1,18 @@
+{
+  "appid": 3910,
+  "files": [
+    {
+      "name": "3910.zip",
+      "sha256": "68e73917a1ace8a6060c3af680abe05dfb621dc72e098cf7187f7bc7c6e01274",
+      "size": 1410568
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3910.zip",
+    "sha256": "68e73917a1ace8a6060c3af680abe05dfb621dc72e098cf7187f7bc7c6e01274",
+    "size": 1410568
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

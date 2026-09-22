@@ -1,0 +1,18 @@
+{
+  "appid": 800170,
+  "files": [
+    {
+      "name": "800170.zip",
+      "sha256": "b5e659c932b46b6c49a96f74c8aa0eaf29b19048744aea2796a8ec595f25309c",
+      "size": 123276
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "800170.zip",
+    "sha256": "b5e659c932b46b6c49a96f74c8aa0eaf29b19048744aea2796a8ec595f25309c",
+    "size": 123276
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

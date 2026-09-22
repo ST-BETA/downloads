@@ -1,0 +1,18 @@
+{
+  "appid": 2000800,
+  "files": [
+    {
+      "name": "2000800.zip",
+      "sha256": "4f1fb53e9a8a504b3bff245372b07e7abf75502d8901342a460cf4450b40020a",
+      "size": 73587
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2000800.zip",
+    "sha256": "4f1fb53e9a8a504b3bff245372b07e7abf75502d8901342a460cf4450b40020a",
+    "size": 73587
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

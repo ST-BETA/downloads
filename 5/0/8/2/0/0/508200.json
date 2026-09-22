@@ -1,0 +1,18 @@
+{
+  "appid": 508200,
+  "files": [
+    {
+      "name": "508200.zip",
+      "sha256": "008267070e012426962f1e681c374422eee00b151fe78875502a16680027840b",
+      "size": 80397
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "508200.zip",
+    "sha256": "008267070e012426962f1e681c374422eee00b151fe78875502a16680027840b",
+    "size": 80397
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

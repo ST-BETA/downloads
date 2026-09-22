@@ -1,0 +1,18 @@
+{
+  "appid": 9040,
+  "files": [
+    {
+      "name": "9040.zip",
+      "sha256": "e2b56d49889ca9e4f6d64a3d85f30fe5553e92668d6a701f730d57a996fb574c",
+      "size": 90001
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "9040.zip",
+    "sha256": "e2b56d49889ca9e4f6d64a3d85f30fe5553e92668d6a701f730d57a996fb574c",
+    "size": 90001
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

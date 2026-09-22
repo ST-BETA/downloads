@@ -1,0 +1,18 @@
+{
+  "appid": 1919900,
+  "files": [
+    {
+      "name": "1919900.zip",
+      "sha256": "88d2c473d3b6d8ffb909ee6370d77945a8125f5418ea7dfdf884cd03e21dbf6c",
+      "size": 28752
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1919900.zip",
+    "sha256": "88d2c473d3b6d8ffb909ee6370d77945a8125f5418ea7dfdf884cd03e21dbf6c",
+    "size": 28752
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

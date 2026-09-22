@@ -1,0 +1,18 @@
+{
+  "appid": 1340600,
+  "files": [
+    {
+      "name": "1340600.zip",
+      "sha256": "be317749378c62b168ffc524c4873788a86bba003e05c3bb719c308c7e16832e",
+      "size": 62812
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1340600.zip",
+    "sha256": "be317749378c62b168ffc524c4873788a86bba003e05c3bb719c308c7e16832e",
+    "size": 62812
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 200190,
+  "files": [
+    {
+      "name": "200190.zip",
+      "sha256": "17d219dfaeddaaa42eeea034a6394fa3bf581e2c41da95bba6a2bcf0fc7fd0cc",
+      "size": 715306
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200190.zip",
+    "sha256": "17d219dfaeddaaa42eeea034a6394fa3bf581e2c41da95bba6a2bcf0fc7fd0cc",
+    "size": 715306
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

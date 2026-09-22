@@ -1,0 +1,18 @@
+{
+  "appid": 1911120,
+  "files": [
+    {
+      "name": "1911120.zip",
+      "sha256": "1d4520a47f049c89b0cd96d47d5dcecd5ed9d5a6d24639f2e243e7dd4f326be4",
+      "size": 150255
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1911120.zip",
+    "sha256": "1d4520a47f049c89b0cd96d47d5dcecd5ed9d5a6d24639f2e243e7dd4f326be4",
+    "size": 150255
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 440720,
+  "files": [
+    {
+      "name": "440720.zip",
+      "sha256": "11c6e6b89688b23477e86812cf1437de318cff2724891b485873610faa46a409",
+      "size": 62958
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "440720.zip",
+    "sha256": "11c6e6b89688b23477e86812cf1437de318cff2724891b485873610faa46a409",
+    "size": 62958
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 294650,
+  "files": [
+    {
+      "name": "294650.zip",
+      "sha256": "58b32381dd46f9611d5e8ff4e29efbba65878957dcc7944effc1c4ddd948cc59",
+      "size": 80200
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "294650.zip",
+    "sha256": "58b32381dd46f9611d5e8ff4e29efbba65878957dcc7944effc1c4ddd948cc59",
+    "size": 80200
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

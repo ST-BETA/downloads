@@ -1,0 +1,18 @@
+{
+  "appid": 987330,
+  "files": [
+    {
+      "name": "987330.zip",
+      "sha256": "d146e32644a0a4b1d2e8e5b6c35bb0ecebb50835c166b2cc471aef27b7d39494",
+      "size": 230990
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "987330.zip",
+    "sha256": "d146e32644a0a4b1d2e8e5b6c35bb0ecebb50835c166b2cc471aef27b7d39494",
+    "size": 230990
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

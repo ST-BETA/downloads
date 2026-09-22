@@ -1,0 +1,18 @@
+{
+  "appid": 1300,
+  "files": [
+    {
+      "name": "1300.zip",
+      "sha256": "ec313e78e9bf1e2d56f09c1c5eba0c2c89f5d50542149482ce620c1946590d91",
+      "size": 178035
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1300.zip",
+    "sha256": "ec313e78e9bf1e2d56f09c1c5eba0c2c89f5d50542149482ce620c1946590d91",
+    "size": 178035
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

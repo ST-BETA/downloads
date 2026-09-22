@@ -1,0 +1,18 @@
+{
+  "appid": 81707,
+  "files": [
+    {
+      "name": "81707.zip",
+      "sha256": "e3706dd999310931c506a0d8cf1a255e1a949f53bbf311d42affe2ba613ee248",
+      "size": 4459
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "81707.zip",
+    "sha256": "e3706dd999310931c506a0d8cf1a255e1a949f53bbf311d42affe2ba613ee248",
+    "size": 4459
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

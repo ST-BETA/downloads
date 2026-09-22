@@ -1,0 +1,18 @@
+{
+  "appid": 745090,
+  "files": [
+    {
+      "name": "745090.zip",
+      "sha256": "38141f59661b70809628af088a1bc006f429db0a1d307b4b981c0bff1ded9532",
+      "size": 66975
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "745090.zip",
+    "sha256": "38141f59661b70809628af088a1bc006f429db0a1d307b4b981c0bff1ded9532",
+    "size": 66975
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

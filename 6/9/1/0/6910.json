@@ -1,0 +1,18 @@
+{
+  "appid": 6910,
+  "files": [
+    {
+      "name": "6910.zip",
+      "sha256": "4943271a259c76a8a8bf19d5685c8c038c863b7612c3fd83c2969bac3e1c7f4c",
+      "size": 59531
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "6910.zip",
+    "sha256": "4943271a259c76a8a8bf19d5685c8c038c863b7612c3fd83c2969bac3e1c7f4c",
+    "size": 59531
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

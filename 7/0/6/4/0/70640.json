@@ -1,0 +1,18 @@
+{
+  "appid": 70640,
+  "files": [
+    {
+      "name": "70640.zip",
+      "sha256": "e423fcd61d36552ce4524e5828855fa68c2abaab76cb2e5810346f3d985827d6",
+      "size": 90059
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "70640.zip",
+    "sha256": "e423fcd61d36552ce4524e5828855fa68c2abaab76cb2e5810346f3d985827d6",
+    "size": 90059
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

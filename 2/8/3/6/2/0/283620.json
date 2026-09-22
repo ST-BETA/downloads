@@ -1,0 +1,18 @@
+{
+  "appid": 283620,
+  "files": [
+    {
+      "name": "283620.zip",
+      "sha256": "3a3882c789c797834ca6934d592af9c8453f9bab5acf5aaadb7f132d565d1352",
+      "size": 186440
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "283620.zip",
+    "sha256": "3a3882c789c797834ca6934d592af9c8453f9bab5acf5aaadb7f132d565d1352",
+    "size": 186440
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

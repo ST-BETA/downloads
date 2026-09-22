@@ -1,0 +1,18 @@
+{
+  "appid": 3555700,
+  "files": [
+    {
+      "name": "3555700.zip",
+      "sha256": "99ea25be695ab96d54efe9abcd8966364e5629a5f14a50455e831cf2da2448da",
+      "size": 62769
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3555700.zip",
+    "sha256": "99ea25be695ab96d54efe9abcd8966364e5629a5f14a50455e831cf2da2448da",
+    "size": 62769
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 601080,
+  "files": [
+    {
+      "name": "601080.zip",
+      "sha256": "de1548c87ca9e4985ec5f211b0a540c234f8e3045f680b48cb3b89a0e26660ff",
+      "size": 240600
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "601080.zip",
+    "sha256": "de1548c87ca9e4985ec5f211b0a540c234f8e3045f680b48cb3b89a0e26660ff",
+    "size": 240600
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 803850,
+  "files": [
+    {
+      "name": "803850.zip",
+      "sha256": "2cf65a7c642d8fd16163d53fc1cecaec33c0d0ae44ec4c04b0f813a4469c84dc",
+      "size": 822505
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "803850.zip",
+    "sha256": "2cf65a7c642d8fd16163d53fc1cecaec33c0d0ae44ec4c04b0f813a4469c84dc",
+    "size": 822505
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

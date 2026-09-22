@@ -1,0 +1,18 @@
+{
+  "appid": 2020710,
+  "files": [
+    {
+      "name": "2020710.zip",
+      "sha256": "8b725b1a0114c0044260e80dfb9ead698bc4db0c1f6390ade0aed64244e59b3a",
+      "size": 314564
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2020710.zip",
+    "sha256": "8b725b1a0114c0044260e80dfb9ead698bc4db0c1f6390ade0aed64244e59b3a",
+    "size": 314564
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

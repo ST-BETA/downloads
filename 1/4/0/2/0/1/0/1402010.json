@@ -1,0 +1,18 @@
+{
+  "appid": 1402010,
+  "files": [
+    {
+      "name": "1402010.zip",
+      "sha256": "05b984094128ef5efc4e86b03fff8652b523eaded9bb11e1b02e916cd0b8cd26",
+      "size": 30876
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1402010.zip",
+    "sha256": "05b984094128ef5efc4e86b03fff8652b523eaded9bb11e1b02e916cd0b8cd26",
+    "size": 30876
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

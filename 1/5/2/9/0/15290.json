@@ -1,0 +1,18 @@
+{
+  "appid": 15290,
+  "files": [
+    {
+      "name": "15290.zip",
+      "sha256": "37c0ee810790acec91dc5110e0468871d68cfd79999ec23c2c9415382c75895e",
+      "size": 233059
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "15290.zip",
+    "sha256": "37c0ee810790acec91dc5110e0468871d68cfd79999ec23c2c9415382c75895e",
+    "size": 233059
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

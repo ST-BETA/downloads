@@ -1,0 +1,18 @@
+{
+  "appid": 739360,
+  "files": [
+    {
+      "name": "739360.zip",
+      "sha256": "b6f5724e02485fde463166509feaf62bfc39218a7181e5befd48f3bd57a2550d",
+      "size": 85385
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "739360.zip",
+    "sha256": "b6f5724e02485fde463166509feaf62bfc39218a7181e5befd48f3bd57a2550d",
+    "size": 85385
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

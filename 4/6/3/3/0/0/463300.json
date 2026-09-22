@@ -1,0 +1,18 @@
+{
+  "appid": 463300,
+  "files": [
+    {
+      "name": "463300.zip",
+      "sha256": "c0f33d68a49481c4ec71d651ff330bff9b5f691c8bf9dbab05a48e1e819a65fa",
+      "size": 380806
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "463300.zip",
+    "sha256": "c0f33d68a49481c4ec71d651ff330bff9b5f691c8bf9dbab05a48e1e819a65fa",
+    "size": 380806
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

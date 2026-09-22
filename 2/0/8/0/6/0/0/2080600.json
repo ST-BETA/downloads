@@ -1,0 +1,18 @@
+{
+  "appid": 2080600,
+  "files": [
+    {
+      "name": "2080600.zip",
+      "sha256": "3403ad5af74f86d65b56dcbd0a578bf3db292b8df9cfd5be49527c108039754f",
+      "size": 312254
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2080600.zip",
+    "sha256": "3403ad5af74f86d65b56dcbd0a578bf3db292b8df9cfd5be49527c108039754f",
+    "size": 312254
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

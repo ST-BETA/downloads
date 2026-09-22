@@ -1,0 +1,18 @@
+{
+  "appid": 1209060,
+  "files": [
+    {
+      "name": "1209060.zip",
+      "sha256": "48b3eae94abc041614772321ce3ec43f86c4db1dbd05b40e37f64dec402e0b6b",
+      "size": 53997
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1209060.zip",
+    "sha256": "48b3eae94abc041614772321ce3ec43f86c4db1dbd05b40e37f64dec402e0b6b",
+    "size": 53997
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

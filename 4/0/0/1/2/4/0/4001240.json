@@ -1,0 +1,18 @@
+{
+  "appid": 4001240,
+  "files": [
+    {
+      "name": "4001240.zip",
+      "sha256": "e982572a16737cc199adb14807f50e5dd11ec0fa87e82d35d8e12c500273c69c",
+      "size": 6140
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4001240.zip",
+    "sha256": "e982572a16737cc199adb14807f50e5dd11ec0fa87e82d35d8e12c500273c69c",
+    "size": 6140
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

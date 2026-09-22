@@ -1,0 +1,18 @@
+{
+  "appid": 450500,
+  "files": [
+    {
+      "name": "450500.zip",
+      "sha256": "77ebee8d33a775f8840bce0cfabc15cf6b0b14f46e2dff66a6b69bd4c37ccdee",
+      "size": 38774
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "450500.zip",
+    "sha256": "77ebee8d33a775f8840bce0cfabc15cf6b0b14f46e2dff66a6b69bd4c37ccdee",
+    "size": 38774
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

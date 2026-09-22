@@ -1,0 +1,18 @@
+{
+  "appid": 2005160,
+  "files": [
+    {
+      "name": "2005160.zip",
+      "sha256": "a1ce7ec9131025fb75b504ccdd9bf015d87c19fd2d37304efe3f89151f7a5623",
+      "size": 759771
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2005160.zip",
+    "sha256": "a1ce7ec9131025fb75b504ccdd9bf015d87c19fd2d37304efe3f89151f7a5623",
+    "size": 759771
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1002560,
+  "files": [
+    {
+      "name": "1002560.zip",
+      "sha256": "617f6ddff88c7bfaa1dc37f1316cf45afa973ace5d76f5b52617e2aac3b97bf3",
+      "size": 63093
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1002560.zip",
+    "sha256": "617f6ddff88c7bfaa1dc37f1316cf45afa973ace5d76f5b52617e2aac3b97bf3",
+    "size": 63093
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

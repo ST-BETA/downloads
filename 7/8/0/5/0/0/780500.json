@@ -1,0 +1,18 @@
+{
+  "appid": 780500,
+  "files": [
+    {
+      "name": "780500.zip",
+      "sha256": "ac74204b51960319eb2894ff2756beba4a82bb49971724f916bc2f2c9713d0ed",
+      "size": 74194
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "780500.zip",
+    "sha256": "ac74204b51960319eb2894ff2756beba4a82bb49971724f916bc2f2c9713d0ed",
+    "size": 74194
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

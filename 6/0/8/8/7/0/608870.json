@@ -1,0 +1,18 @@
+{
+  "appid": 608870,
+  "files": [
+    {
+      "name": "608870.zip",
+      "sha256": "c3324ddb00adc1bbf2680cff56896634173857bb6fd4bc74baa7790fe20f1af5",
+      "size": 180532
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "608870.zip",
+    "sha256": "c3324ddb00adc1bbf2680cff56896634173857bb6fd4bc74baa7790fe20f1af5",
+    "size": 180532
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

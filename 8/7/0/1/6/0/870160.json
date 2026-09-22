@@ -1,0 +1,18 @@
+{
+  "appid": 870160,
+  "files": [
+    {
+      "name": "870160.zip",
+      "sha256": "220377d654d52a5ee0b24ca6be78d23cd24e8e35142cad8e70acc65c42800599",
+      "size": 603794
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "870160.zip",
+    "sha256": "220377d654d52a5ee0b24ca6be78d23cd24e8e35142cad8e70acc65c42800599",
+    "size": 603794
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

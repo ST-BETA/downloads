@@ -1,0 +1,18 @@
+{
+  "appid": 435400,
+  "files": [
+    {
+      "name": "435400.zip",
+      "sha256": "be818d81f72f464b4d1153195d2fc78b34a059a408b71c4e8a1c2cfbdf626843",
+      "size": 149116
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "435400.zip",
+    "sha256": "be818d81f72f464b4d1153195d2fc78b34a059a408b71c4e8a1c2cfbdf626843",
+    "size": 149116
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

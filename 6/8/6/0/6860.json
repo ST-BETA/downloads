@@ -1,0 +1,18 @@
+{
+  "appid": 6860,
+  "files": [
+    {
+      "name": "6860.zip",
+      "sha256": "cf3b67562067d62ba8fc68e17bbbb1987ea96ec2b95d3fe7c5faefb0d3849052",
+      "size": 211245
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "6860.zip",
+    "sha256": "cf3b67562067d62ba8fc68e17bbbb1987ea96ec2b95d3fe7c5faefb0d3849052",
+    "size": 211245
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 3041500,
+  "files": [
+    {
+      "name": "3041500.zip",
+      "sha256": "fefd8e21ba95da9f6c5158407b312ac1081ceb8ea5b2871764d2b02ec601ddd8",
+      "size": 372886
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3041500.zip",
+    "sha256": "fefd8e21ba95da9f6c5158407b312ac1081ceb8ea5b2871764d2b02ec601ddd8",
+    "size": 372886
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

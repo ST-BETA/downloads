@@ -1,0 +1,18 @@
+{
+  "appid": 403120,
+  "files": [
+    {
+      "name": "403120.zip",
+      "sha256": "98aaaa792f01d29d2681c69068a9aa3d5fbab4117359f9ea04998e0b42cfd9f8",
+      "size": 24771
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "403120.zip",
+    "sha256": "98aaaa792f01d29d2681c69068a9aa3d5fbab4117359f9ea04998e0b42cfd9f8",
+    "size": 24771
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

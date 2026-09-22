@@ -1,0 +1,18 @@
+{
+  "appid": 242960,
+  "files": [
+    {
+      "name": "242960.zip",
+      "sha256": "c23969ab909f692b7641ac15183fb99b90ae5c33d6ccc72fa7b08f87c80949e0",
+      "size": 99645
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "242960.zip",
+    "sha256": "c23969ab909f692b7641ac15183fb99b90ae5c33d6ccc72fa7b08f87c80949e0",
+    "size": 99645
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

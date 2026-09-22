@@ -1,0 +1,18 @@
+{
+  "appid": 42140,
+  "files": [
+    {
+      "name": "42140.zip",
+      "sha256": "8440a912b66d07f0b99e95ced326f6fa6dfa2af5cdaaa7cf546289a041021701",
+      "size": 64877
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "42140.zip",
+    "sha256": "8440a912b66d07f0b99e95ced326f6fa6dfa2af5cdaaa7cf546289a041021701",
+    "size": 64877
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

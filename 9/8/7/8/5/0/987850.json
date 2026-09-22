@@ -1,0 +1,18 @@
+{
+  "appid": 987850,
+  "files": [
+    {
+      "name": "987850.zip",
+      "sha256": "d33266538b6e61097cd7383a616688e5afc010454173b8ca1816b5c18d715fe5",
+      "size": 132312
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "987850.zip",
+    "sha256": "d33266538b6e61097cd7383a616688e5afc010454173b8ca1816b5c18d715fe5",
+    "size": 132312
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 705280,
+  "files": [
+    {
+      "name": "705280.zip",
+      "sha256": "433aaf869035004e44bda3a03e29fab612b25b58484399ab6b17a29ce270e0fc",
+      "size": 45601
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "705280.zip",
+    "sha256": "433aaf869035004e44bda3a03e29fab612b25b58484399ab6b17a29ce270e0fc",
+    "size": 45601
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

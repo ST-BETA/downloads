@@ -1,0 +1,18 @@
+{
+  "appid": 491100,
+  "files": [
+    {
+      "name": "491100.zip",
+      "sha256": "2469e087ddbb1f32064fb769916523da3df334bcde7ad399a540933d90ca20d9",
+      "size": 12158
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "491100.zip",
+    "sha256": "2469e087ddbb1f32064fb769916523da3df334bcde7ad399a540933d90ca20d9",
+    "size": 12158
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

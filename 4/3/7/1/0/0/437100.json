@@ -1,0 +1,18 @@
+{
+  "appid": 437100,
+  "files": [
+    {
+      "name": "437100.zip",
+      "sha256": "8d061f3a0aa885c369d7cb6a3a331c05e402246c4bf646280018ea9204021cc5",
+      "size": 131367
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "437100.zip",
+    "sha256": "8d061f3a0aa885c369d7cb6a3a331c05e402246c4bf646280018ea9204021cc5",
+    "size": 131367
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

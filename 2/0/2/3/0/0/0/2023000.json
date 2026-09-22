@@ -1,0 +1,18 @@
+{
+  "appid": 2023000,
+  "files": [
+    {
+      "name": "2023000.zip",
+      "sha256": "c37dab3484af7254bed1de84198083e939aa0e6f5d844aeb87a59b020b7f78d4",
+      "size": 2141
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2023000.zip",
+    "sha256": "c37dab3484af7254bed1de84198083e939aa0e6f5d844aeb87a59b020b7f78d4",
+    "size": 2141
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

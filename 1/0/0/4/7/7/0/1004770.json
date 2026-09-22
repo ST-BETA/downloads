@@ -1,0 +1,18 @@
+{
+  "appid": 1004770,
+  "files": [
+    {
+      "name": "1004770.zip",
+      "sha256": "40fb963576611f93938d8870d0d6c7160a17390ba9bc8fafb8be3866d682e338",
+      "size": 34508
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1004770.zip",
+    "sha256": "40fb963576611f93938d8870d0d6c7160a17390ba9bc8fafb8be3866d682e338",
+    "size": 34508
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

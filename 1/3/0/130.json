@@ -1,0 +1,18 @@
+{
+  "appid": 130,
+  "files": [
+    {
+      "name": "130.zip",
+      "sha256": "d533b373c3250477f8e16ef41994bd69e450333c92af889f92a78df26dd921ae",
+      "size": 2300772
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "130.zip",
+    "sha256": "d533b373c3250477f8e16ef41994bd69e450333c92af889f92a78df26dd921ae",
+    "size": 2300772
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

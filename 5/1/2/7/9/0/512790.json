@@ -1,0 +1,18 @@
+{
+  "appid": 512790,
+  "files": [
+    {
+      "name": "512790.zip",
+      "sha256": "855fe465f9ec6a642bc32c3124c27821fc8694e8a66873811c3e05bff4ef28c5",
+      "size": 1936393
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "512790.zip",
+    "sha256": "855fe465f9ec6a642bc32c3124c27821fc8694e8a66873811c3e05bff4ef28c5",
+    "size": 1936393
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

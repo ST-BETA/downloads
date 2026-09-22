@@ -1,0 +1,18 @@
+{
+  "appid": 487330,
+  "files": [
+    {
+      "name": "487330.zip",
+      "sha256": "08664ba6f7528d33bd35b49689db92044c6094f9a6f5a59dd09ef711b8642711",
+      "size": 64136
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "487330.zip",
+    "sha256": "08664ba6f7528d33bd35b49689db92044c6094f9a6f5a59dd09ef711b8642711",
+    "size": 64136
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

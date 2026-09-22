@@ -1,0 +1,18 @@
+{
+  "appid": 2000330,
+  "files": [
+    {
+      "name": "2000330.zip",
+      "sha256": "adcb735ab4e5a23b2de07b4137878e385398f8ae6701eb0da2177167b23b9180",
+      "size": 671557
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2000330.zip",
+    "sha256": "adcb735ab4e5a23b2de07b4137878e385398f8ae6701eb0da2177167b23b9180",
+    "size": 671557
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

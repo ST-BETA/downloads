@@ -1,0 +1,18 @@
+{
+  "appid": 365450,
+  "files": [
+    {
+      "name": "365450.zip",
+      "sha256": "e63fe8de935b993f6a9b002f3c2b15a212e252d72b1971e4b2fd810bbf6e38d5",
+      "size": 2380401
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "365450.zip",
+    "sha256": "e63fe8de935b993f6a9b002f3c2b15a212e252d72b1971e4b2fd810bbf6e38d5",
+    "size": 2380401
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

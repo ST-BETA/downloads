@@ -1,0 +1,18 @@
+{
+  "appid": 443050,
+  "files": [
+    {
+      "name": "443050.zip",
+      "sha256": "5cef75a142235132d2fb605208fd2776691c04edf577499873edf620ebd55f4b",
+      "size": 101230
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "443050.zip",
+    "sha256": "5cef75a142235132d2fb605208fd2776691c04edf577499873edf620ebd55f4b",
+    "size": 101230
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

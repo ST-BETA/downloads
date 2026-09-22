@@ -1,0 +1,18 @@
+{
+  "appid": 477900,
+  "files": [
+    {
+      "name": "477900.zip",
+      "sha256": "4cfbf40026347b9e8c2300bd6269a279db09be96ce19db36283640e4e004b19d",
+      "size": 347942
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "477900.zip",
+    "sha256": "4cfbf40026347b9e8c2300bd6269a279db09be96ce19db36283640e4e004b19d",
+    "size": 347942
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

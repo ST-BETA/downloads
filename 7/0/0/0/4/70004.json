@@ -1,0 +1,18 @@
+{
+  "appid": 70004,
+  "files": [
+    {
+      "name": "70004.zip",
+      "sha256": "5d9362e8106f711cb1d7b8e1087aa3711ddd5dbb4b41b6f9b316312265f9f14c",
+      "size": 60849
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "70004.zip",
+    "sha256": "5d9362e8106f711cb1d7b8e1087aa3711ddd5dbb4b41b6f9b316312265f9f14c",
+    "size": 60849
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

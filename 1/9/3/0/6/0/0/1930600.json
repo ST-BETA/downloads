@@ -1,0 +1,18 @@
+{
+  "appid": 1930600,
+  "files": [
+    {
+      "name": "1930600.zip",
+      "sha256": "a807555a1383fe6828e271c1f6a03bb507569190dea9edfd4a0feff92aed71eb",
+      "size": 193910
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1930600.zip",
+    "sha256": "a807555a1383fe6828e271c1f6a03bb507569190dea9edfd4a0feff92aed71eb",
+    "size": 193910
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

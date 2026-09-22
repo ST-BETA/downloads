@@ -1,0 +1,18 @@
+{
+  "appid": 681110,
+  "files": [
+    {
+      "name": "681110.zip",
+      "sha256": "c882e9bbf4c598c290cacc619292fa9e4e47778cc139f92eb833c09318dbc6e2",
+      "size": 366633
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "681110.zip",
+    "sha256": "c882e9bbf4c598c290cacc619292fa9e4e47778cc139f92eb833c09318dbc6e2",
+    "size": 366633
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

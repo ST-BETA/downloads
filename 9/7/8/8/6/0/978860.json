@@ -1,0 +1,18 @@
+{
+  "appid": 978860,
+  "files": [
+    {
+      "name": "978860.zip",
+      "sha256": "3a76e855fedbda18a674598ffb218425e9177eaed11f44252c598e9ab0d619db",
+      "size": 5334
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "978860.zip",
+    "sha256": "3a76e855fedbda18a674598ffb218425e9177eaed11f44252c598e9ab0d619db",
+    "size": 5334
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

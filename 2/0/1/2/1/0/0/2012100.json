@@ -1,0 +1,18 @@
+{
+  "appid": 2012100,
+  "files": [
+    {
+      "name": "2012100.zip",
+      "sha256": "05001a159082f5cc18e7a0a1ace87c7b1bd49220301d8fdced56d51a61440359",
+      "size": 78114
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2012100.zip",
+    "sha256": "05001a159082f5cc18e7a0a1ace87c7b1bd49220301d8fdced56d51a61440359",
+    "size": 78114
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

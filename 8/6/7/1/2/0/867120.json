@@ -1,0 +1,18 @@
+{
+  "appid": 867120,
+  "files": [
+    {
+      "name": "867120.zip",
+      "sha256": "cd45381e017515cc331cc10a820288fa636418c9213ad8679c12d7e2aeb9a526",
+      "size": 28045
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "867120.zip",
+    "sha256": "cd45381e017515cc331cc10a820288fa636418c9213ad8679c12d7e2aeb9a526",
+    "size": 28045
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1700900,
+  "files": [
+    {
+      "name": "1700900.zip",
+      "sha256": "a499f6d70da134639d4bb702909f72dfb9a95071b994d2766acda4ad5b60c50a",
+      "size": 67769
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1700900.zip",
+    "sha256": "a499f6d70da134639d4bb702909f72dfb9a95071b994d2766acda4ad5b60c50a",
+    "size": 67769
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

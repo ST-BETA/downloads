@@ -1,0 +1,18 @@
+{
+  "appid": 369140,
+  "files": [
+    {
+      "name": "369140.zip",
+      "sha256": "e6457503ebb8c0406882b63f16daff6c1be8b682bae418f6d9220d548eebd842",
+      "size": 795
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "369140.zip",
+    "sha256": "e6457503ebb8c0406882b63f16daff6c1be8b682bae418f6d9220d548eebd842",
+    "size": 795
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

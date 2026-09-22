@@ -1,0 +1,18 @@
+{
+  "appid": 633230,
+  "files": [
+    {
+      "name": "633230.zip",
+      "sha256": "333f0a51ccec31c1b4309744e88f44b54397652d4afebb720a30fa7e9676417e",
+      "size": 2195175
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "633230.zip",
+    "sha256": "333f0a51ccec31c1b4309744e88f44b54397652d4afebb720a30fa7e9676417e",
+    "size": 2195175
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

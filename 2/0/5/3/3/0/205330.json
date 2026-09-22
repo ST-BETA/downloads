@@ -1,0 +1,18 @@
+{
+  "appid": 205330,
+  "files": [
+    {
+      "name": "205330.zip",
+      "sha256": "238c93d13752e4e70fa4a23dad1e34764b58ee3ddc5e638fa1968c2044114ceb",
+      "size": 189119
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "205330.zip",
+    "sha256": "238c93d13752e4e70fa4a23dad1e34764b58ee3ddc5e638fa1968c2044114ceb",
+    "size": 189119
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

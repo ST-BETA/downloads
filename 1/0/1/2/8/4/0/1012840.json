@@ -1,0 +1,18 @@
+{
+  "appid": 1012840,
+  "files": [
+    {
+      "name": "1012840.zip",
+      "sha256": "ff3873040285309f3ebbe3ba8cce1d7fc2a99859220b86a8e51422a84aa626cd",
+      "size": 691320
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1012840.zip",
+    "sha256": "ff3873040285309f3ebbe3ba8cce1d7fc2a99859220b86a8e51422a84aa626cd",
+    "size": 691320
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

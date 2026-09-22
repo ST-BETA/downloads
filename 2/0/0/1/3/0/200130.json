@@ -1,0 +1,18 @@
+{
+  "appid": 200130,
+  "files": [
+    {
+      "name": "200130.zip",
+      "sha256": "ba20c4b3c90f666654b957cd7fcc75ea195d72de391abde849ac36201d07350f",
+      "size": 2358
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200130.zip",
+    "sha256": "ba20c4b3c90f666654b957cd7fcc75ea195d72de391abde849ac36201d07350f",
+    "size": 2358
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

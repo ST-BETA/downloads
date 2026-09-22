@@ -1,0 +1,18 @@
+{
+  "appid": 19200,
+  "files": [
+    {
+      "name": "19200.zip",
+      "sha256": "51253dd2d32a7a168c3546701a930ac6e1be2b115ce6b0850386815facc967f6",
+      "size": 502007
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "19200.zip",
+    "sha256": "51253dd2d32a7a168c3546701a930ac6e1be2b115ce6b0850386815facc967f6",
+    "size": 502007
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

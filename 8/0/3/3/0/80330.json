@@ -1,0 +1,18 @@
+{
+  "appid": 80330,
+  "files": [
+    {
+      "name": "80330.zip",
+      "sha256": "e1d94c6e8bfeadef9db5307dfd8dbd1ba7188f6e5c0c0cba4cca7adaa8ca9943",
+      "size": 65437
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "80330.zip",
+    "sha256": "e1d94c6e8bfeadef9db5307dfd8dbd1ba7188f6e5c0c0cba4cca7adaa8ca9943",
+    "size": 65437
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

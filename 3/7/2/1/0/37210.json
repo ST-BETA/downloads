@@ -1,0 +1,18 @@
+{
+  "appid": 37210,
+  "files": [
+    {
+      "name": "37210.zip",
+      "sha256": "3808ad63fe9105cc691c0f9c7b723fbfe4976cdf90e61c1e559306f25d855ad2",
+      "size": 308035
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "37210.zip",
+    "sha256": "3808ad63fe9105cc691c0f9c7b723fbfe4976cdf90e61c1e559306f25d855ad2",
+    "size": 308035
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

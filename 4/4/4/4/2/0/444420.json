@@ -1,0 +1,18 @@
+{
+  "appid": 444420,
+  "files": [
+    {
+      "name": "444420.zip",
+      "sha256": "cbfca0346b32dfb1954b8629bf794c44bfaace8caf3cefaa4d8e6ff52678711c",
+      "size": 127052
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "444420.zip",
+    "sha256": "cbfca0346b32dfb1954b8629bf794c44bfaace8caf3cefaa4d8e6ff52678711c",
+    "size": 127052
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

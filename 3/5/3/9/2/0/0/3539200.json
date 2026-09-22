@@ -1,0 +1,18 @@
+{
+  "appid": 3539200,
+  "files": [
+    {
+      "name": "3539200.zip",
+      "sha256": "81434ffb7e757a624bdfe95195208702c8498610d194d13fbcdf81b35d3fad1f",
+      "size": 123555
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3539200.zip",
+    "sha256": "81434ffb7e757a624bdfe95195208702c8498610d194d13fbcdf81b35d3fad1f",
+    "size": 123555
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

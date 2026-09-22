@@ -1,0 +1,18 @@
+{
+  "appid": 1123720,
+  "files": [
+    {
+      "name": "1123720.zip",
+      "sha256": "e31b0d09658a13fa25eb834ab3fcaaa10908b35aab5962afbb5990a50b7d4a46",
+      "size": 51154
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1123720.zip",
+    "sha256": "e31b0d09658a13fa25eb834ab3fcaaa10908b35aab5962afbb5990a50b7d4a46",
+    "size": 51154
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

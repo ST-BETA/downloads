@@ -1,0 +1,18 @@
+{
+  "appid": 2008420,
+  "files": [
+    {
+      "name": "2008420.zip",
+      "sha256": "3a5e140929fe67981659fa21d889c85b47522a4c4730a1d0e6f1dd8aab8e1e50",
+      "size": 688559
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2008420.zip",
+    "sha256": "3a5e140929fe67981659fa21d889c85b47522a4c4730a1d0e6f1dd8aab8e1e50",
+    "size": 688559
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

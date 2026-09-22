@@ -1,0 +1,18 @@
+{
+  "appid": 762380,
+  "files": [
+    {
+      "name": "762380.zip",
+      "sha256": "7389e21be4215b7b631508cb322d47557b1899151a7c3bb817377cc6d0e3536a",
+      "size": 129773
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "762380.zip",
+    "sha256": "7389e21be4215b7b631508cb322d47557b1899151a7c3bb817377cc6d0e3536a",
+    "size": 129773
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

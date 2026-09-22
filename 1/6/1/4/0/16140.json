@@ -1,0 +1,18 @@
+{
+  "appid": 16140,
+  "files": [
+    {
+      "name": "16140.zip",
+      "sha256": "ed984ec1d2eacdb7e5e3014238457fefdcdafbdb9870b9d35e217b950fca01cc",
+      "size": 27462
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "16140.zip",
+    "sha256": "ed984ec1d2eacdb7e5e3014238457fefdcdafbdb9870b9d35e217b950fca01cc",
+    "size": 27462
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

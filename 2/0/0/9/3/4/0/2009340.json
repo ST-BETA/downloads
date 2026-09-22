@@ -1,0 +1,18 @@
+{
+  "appid": 2009340,
+  "files": [
+    {
+      "name": "2009340.zip",
+      "sha256": "e94a6c56f4bc45207155f1516be4de9a6059e3039a3d5bf94f27bacfa137ccb7",
+      "size": 36825
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2009340.zip",
+    "sha256": "e94a6c56f4bc45207155f1516be4de9a6059e3039a3d5bf94f27bacfa137ccb7",
+    "size": 36825
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

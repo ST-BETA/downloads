@@ -1,0 +1,18 @@
+{
+  "appid": 917090,
+  "files": [
+    {
+      "name": "917090.zip",
+      "sha256": "4e1ada9cba788998ff50ec3a88c9a479ba5fd7df2ac5fc7741151768ccd42419",
+      "size": 4739
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "917090.zip",
+    "sha256": "4e1ada9cba788998ff50ec3a88c9a479ba5fd7df2ac5fc7741151768ccd42419",
+    "size": 4739
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

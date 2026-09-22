@@ -1,0 +1,18 @@
+{
+  "appid": 917000,
+  "files": [
+    {
+      "name": "917000.zip",
+      "sha256": "4aa6ea80c5458afeae2f5eb922ab9b861fb95dd0b26fc6559fa434ac0a0a2e9b",
+      "size": 147661
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "917000.zip",
+    "sha256": "4aa6ea80c5458afeae2f5eb922ab9b861fb95dd0b26fc6559fa434ac0a0a2e9b",
+    "size": 147661
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

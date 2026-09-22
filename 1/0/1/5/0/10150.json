@@ -1,0 +1,18 @@
+{
+  "appid": 10150,
+  "files": [
+    {
+      "name": "10150.zip",
+      "sha256": "cecf73e64a3dcfeb94e62e09457d15b7430162d9739a0aa5d4c1e23a1f321778",
+      "size": 360142
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "10150.zip",
+    "sha256": "cecf73e64a3dcfeb94e62e09457d15b7430162d9739a0aa5d4c1e23a1f321778",
+    "size": 360142
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

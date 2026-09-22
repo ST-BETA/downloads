@@ -1,0 +1,18 @@
+{
+  "appid": 820500,
+  "files": [
+    {
+      "name": "820500.zip",
+      "sha256": "1a6026feb85cd192f9e83391570052b67879884d8bd11e951a1cc2b7350065f1",
+      "size": 2532
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "820500.zip",
+    "sha256": "1a6026feb85cd192f9e83391570052b67879884d8bd11e951a1cc2b7350065f1",
+    "size": 2532
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

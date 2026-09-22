@@ -1,0 +1,18 @@
+{
+  "appid": 2233132,
+  "files": [
+    {
+      "name": "2233132.zip",
+      "sha256": "d07361bfdd81f798d07e5aebcc6fcd0cd377a76e508891b66c12bb888d2db3e3",
+      "size": 1850
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2233132.zip",
+    "sha256": "d07361bfdd81f798d07e5aebcc6fcd0cd377a76e508891b66c12bb888d2db3e3",
+    "size": 1850
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

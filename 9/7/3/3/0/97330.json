@@ -1,0 +1,18 @@
+{
+  "appid": 97330,
+  "files": [
+    {
+      "name": "97330.zip",
+      "sha256": "b211740e92f1d687ff5eb37de8d6ef31ed5c2c42c9fa8e42d05a6128ffff9ba0",
+      "size": 113362
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "97330.zip",
+    "sha256": "b211740e92f1d687ff5eb37de8d6ef31ed5c2c42c9fa8e42d05a6128ffff9ba0",
+    "size": 113362
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

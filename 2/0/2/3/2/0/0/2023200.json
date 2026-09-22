@@ -1,0 +1,18 @@
+{
+  "appid": 2023200,
+  "files": [
+    {
+      "name": "2023200.zip",
+      "sha256": "777a457d2ee04a9cb32b003a133fddd606b9bf4477d22f7f6ea81c61b09f76b7",
+      "size": 2101
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2023200.zip",
+    "sha256": "777a457d2ee04a9cb32b003a133fddd606b9bf4477d22f7f6ea81c61b09f76b7",
+    "size": 2101
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

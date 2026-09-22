@@ -1,0 +1,18 @@
+{
+  "appid": 1003750,
+  "files": [
+    {
+      "name": "1003750.zip",
+      "sha256": "9410100aa5aa32018b1834274086b8ec511ba8a148e2f133c2bfd490d21dedae",
+      "size": 35369
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1003750.zip",
+    "sha256": "9410100aa5aa32018b1834274086b8ec511ba8a148e2f133c2bfd490d21dedae",
+    "size": 35369
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 985720,
+  "files": [
+    {
+      "name": "985720.zip",
+      "sha256": "789bbd53fa29fccaaf97397b8b560877d9617146c845274cdbd7d66bfeecd7a3",
+      "size": 577513
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "985720.zip",
+    "sha256": "789bbd53fa29fccaaf97397b8b560877d9617146c845274cdbd7d66bfeecd7a3",
+    "size": 577513
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

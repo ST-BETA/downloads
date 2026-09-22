@@ -1,0 +1,18 @@
+{
+  "appid": 247120,
+  "files": [
+    {
+      "name": "247120.zip",
+      "sha256": "e85e400c9893875ca0d7017b3e0f4117cdd828241178a89b909bd630c5d567c5",
+      "size": 758951
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "247120.zip",
+    "sha256": "e85e400c9893875ca0d7017b3e0f4117cdd828241178a89b909bd630c5d567c5",
+    "size": 758951
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

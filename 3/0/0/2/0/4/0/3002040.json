@@ -1,0 +1,18 @@
+{
+  "appid": 3002040,
+  "files": [
+    {
+      "name": "3002040.zip",
+      "sha256": "3db34624cde1164d099c2e5a80223cc725162dc9b1cf907ee6a806f278d3b2d9",
+      "size": 44169
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3002040.zip",
+    "sha256": "3db34624cde1164d099c2e5a80223cc725162dc9b1cf907ee6a806f278d3b2d9",
+    "size": 44169
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2003220,
+  "files": [
+    {
+      "name": "2003220.zip",
+      "sha256": "cccf3f53e3f38edd58b347a9ef1cbb88e5938f1cdfe38ac03bd116b0256d3edf",
+      "size": 16587
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2003220.zip",
+    "sha256": "cccf3f53e3f38edd58b347a9ef1cbb88e5938f1cdfe38ac03bd116b0256d3edf",
+    "size": 16587
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

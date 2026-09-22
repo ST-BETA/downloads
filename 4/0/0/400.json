@@ -1,0 +1,18 @@
+{
+  "appid": 400,
+  "files": [
+    {
+      "name": "400.zip",
+      "sha256": "05a54003dee58159b468ecf3a98d8b5033b25664e8679278baf38bef82a1f53d",
+      "size": 734815
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "400.zip",
+    "sha256": "05a54003dee58159b468ecf3a98d8b5033b25664e8679278baf38bef82a1f53d",
+    "size": 734815
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

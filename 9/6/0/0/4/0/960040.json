@@ -1,0 +1,18 @@
+{
+  "appid": 960040,
+  "files": [
+    {
+      "name": "960040.zip",
+      "sha256": "c564ca65cbdf3e48c73ca5254bf613835010f4f1afe98df766fb775114b585ea",
+      "size": 177282
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "960040.zip",
+    "sha256": "c564ca65cbdf3e48c73ca5254bf613835010f4f1afe98df766fb775114b585ea",
+    "size": 177282
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

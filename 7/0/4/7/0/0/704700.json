@@ -1,0 +1,18 @@
+{
+  "appid": 704700,
+  "files": [
+    {
+      "name": "704700.zip",
+      "sha256": "c0972ef809fbd14ba29a808d68e2ad27b10c1ce340e62c799ee3d1839e7cc0aa",
+      "size": 16256
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "704700.zip",
+    "sha256": "c0972ef809fbd14ba29a808d68e2ad27b10c1ce340e62c799ee3d1839e7cc0aa",
+    "size": 16256
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

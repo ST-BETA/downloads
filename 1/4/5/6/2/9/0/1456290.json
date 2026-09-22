@@ -1,0 +1,18 @@
+{
+  "appid": 1456290,
+  "files": [
+    {
+      "name": "1456290.zip",
+      "sha256": "bd3c12f3bb544fd710bd6665ef4e9fab7350d86c09bd5942ccbe326bb787a24d",
+      "size": 123046
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1456290.zip",
+    "sha256": "bd3c12f3bb544fd710bd6665ef4e9fab7350d86c09bd5942ccbe326bb787a24d",
+    "size": 123046
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

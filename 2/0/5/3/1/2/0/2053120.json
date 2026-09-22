@@ -1,0 +1,18 @@
+{
+  "appid": 2053120,
+  "files": [
+    {
+      "name": "2053120.zip",
+      "sha256": "2255552acf9f1b4e72b6a4d2c899ff6e8d6ba0a985d0bbde753b5a1c3ead5bb6",
+      "size": 52435
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2053120.zip",
+    "sha256": "2255552acf9f1b4e72b6a4d2c899ff6e8d6ba0a985d0bbde753b5a1c3ead5bb6",
+    "size": 52435
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

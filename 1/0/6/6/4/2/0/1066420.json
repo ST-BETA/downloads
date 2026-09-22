@@ -1,0 +1,18 @@
+{
+  "appid": 1066420,
+  "files": [
+    {
+      "name": "1066420.zip",
+      "sha256": "799aa8c09e63e434917eccab211a6221862a02ca6e8a0c009a1d47485cd695ba",
+      "size": 308466
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1066420.zip",
+    "sha256": "799aa8c09e63e434917eccab211a6221862a02ca6e8a0c009a1d47485cd695ba",
+    "size": 308466
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

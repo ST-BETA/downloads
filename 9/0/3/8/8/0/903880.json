@@ -1,0 +1,18 @@
+{
+  "appid": 903880,
+  "files": [
+    {
+      "name": "903880.zip",
+      "sha256": "417e51129954fc9b1016cc73037c0cfe855cab3e8cf9f9472308e10540f2d2b8",
+      "size": 102824
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "903880.zip",
+    "sha256": "417e51129954fc9b1016cc73037c0cfe855cab3e8cf9f9472308e10540f2d2b8",
+    "size": 102824
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

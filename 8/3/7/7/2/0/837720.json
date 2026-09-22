@@ -1,0 +1,18 @@
+{
+  "appid": 837720,
+  "files": [
+    {
+      "name": "837720.zip",
+      "sha256": "d16269a1a03ba173b0bc0fdfa4bd16a25b73057bcb1546ff66811ad8485bb5a9",
+      "size": 42036
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "837720.zip",
+    "sha256": "d16269a1a03ba173b0bc0fdfa4bd16a25b73057bcb1546ff66811ad8485bb5a9",
+    "size": 42036
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

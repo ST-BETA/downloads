@@ -1,0 +1,18 @@
+{
+  "appid": 747700,
+  "files": [
+    {
+      "name": "747700.zip",
+      "sha256": "3edc67fd02b7a6a810da9cad94bf7fb01c9d846412644e923943b64ff2913c45",
+      "size": 209776
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "747700.zip",
+    "sha256": "3edc67fd02b7a6a810da9cad94bf7fb01c9d846412644e923943b64ff2913c45",
+    "size": 209776
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

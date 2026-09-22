@@ -1,0 +1,18 @@
+{
+  "appid": 6420,
+  "files": [
+    {
+      "name": "6420.zip",
+      "sha256": "b6ce559ba48225184f8446182a6b0b5a6beeec3361751ba860cf226e9ecae936",
+      "size": 1702188
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "6420.zip",
+    "sha256": "b6ce559ba48225184f8446182a6b0b5a6beeec3361751ba860cf226e9ecae936",
+    "size": 1702188
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

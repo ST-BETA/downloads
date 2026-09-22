@@ -1,0 +1,18 @@
+{
+  "appid": 2020890,
+  "files": [
+    {
+      "name": "2020890.zip",
+      "sha256": "5acec55e3bd7b326c6fa60a30cdf7bace04fe1cc052a9b932944761d1a255c90",
+      "size": 309833
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2020890.zip",
+    "sha256": "5acec55e3bd7b326c6fa60a30cdf7bace04fe1cc052a9b932944761d1a255c90",
+    "size": 309833
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

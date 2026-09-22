@@ -1,0 +1,18 @@
+{
+  "appid": 42000,
+  "files": [
+    {
+      "name": "42000.zip",
+      "sha256": "73bcfb34a792980cbb880aeb4aa46e398a935f1d6d8d04ada54b3e2b20824140",
+      "size": 74767
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "42000.zip",
+    "sha256": "73bcfb34a792980cbb880aeb4aa46e398a935f1d6d8d04ada54b3e2b20824140",
+    "size": 74767
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

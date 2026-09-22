@@ -1,0 +1,18 @@
+{
+  "appid": 235600,
+  "files": [
+    {
+      "name": "235600.zip",
+      "sha256": "1f0f4a99d5d35b92aa00941bbe0a0fc5118838ed3ff0dadf2e2f71199b38685b",
+      "size": 2584025
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "235600.zip",
+    "sha256": "1f0f4a99d5d35b92aa00941bbe0a0fc5118838ed3ff0dadf2e2f71199b38685b",
+    "size": 2584025
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

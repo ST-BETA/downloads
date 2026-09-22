@@ -1,0 +1,18 @@
+{
+  "appid": 2097230,
+  "files": [
+    {
+      "name": "2097230.zip",
+      "sha256": "a7e82a6fbb6e520b2421661690bfbe1792f578e7a01ebbd58b575dfed6f0bc4c",
+      "size": 53203
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2097230.zip",
+    "sha256": "a7e82a6fbb6e520b2421661690bfbe1792f578e7a01ebbd58b575dfed6f0bc4c",
+    "size": 53203
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

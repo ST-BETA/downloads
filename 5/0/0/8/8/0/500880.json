@@ -1,0 +1,18 @@
+{
+  "appid": 500880,
+  "files": [
+    {
+      "name": "500880.zip",
+      "sha256": "ce1c1b60e90e5b1dde3573b2a2531463fbe1b178796b0132e98ec3d4857a65d0",
+      "size": 175094
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "500880.zip",
+    "sha256": "ce1c1b60e90e5b1dde3573b2a2531463fbe1b178796b0132e98ec3d4857a65d0",
+    "size": 175094
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

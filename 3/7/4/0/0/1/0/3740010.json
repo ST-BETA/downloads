@@ -1,0 +1,18 @@
+{
+  "appid": 3740010,
+  "files": [
+    {
+      "name": "3740010.zip",
+      "sha256": "59228a6cfbff5b8678abbba15ca1cfab8c86780076db8c589e8ede47b897ef71",
+      "size": 49902
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3740010.zip",
+    "sha256": "59228a6cfbff5b8678abbba15ca1cfab8c86780076db8c589e8ede47b897ef71",
+    "size": 49902
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

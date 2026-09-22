@@ -1,0 +1,18 @@
+{
+  "appid": 671800,
+  "files": [
+    {
+      "name": "671800.zip",
+      "sha256": "1eff32a82af3f7985fd302204efb097b80006e1ca4a0ddf6895840e81e0f4eab",
+      "size": 20729
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "671800.zip",
+    "sha256": "1eff32a82af3f7985fd302204efb097b80006e1ca4a0ddf6895840e81e0f4eab",
+    "size": 20729
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

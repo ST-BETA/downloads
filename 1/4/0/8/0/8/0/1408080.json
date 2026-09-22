@@ -1,0 +1,18 @@
+{
+  "appid": 1408080,
+  "files": [
+    {
+      "name": "1408080.zip",
+      "sha256": "23a90efe36c2b73cb396fd80470cd497ef3098fc5f8ab512036b1fe9804a1f4d",
+      "size": 52417
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1408080.zip",
+    "sha256": "23a90efe36c2b73cb396fd80470cd497ef3098fc5f8ab512036b1fe9804a1f4d",
+    "size": 52417
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

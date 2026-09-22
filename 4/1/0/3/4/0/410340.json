@@ -1,0 +1,18 @@
+{
+  "appid": 410340,
+  "files": [
+    {
+      "name": "410340.zip",
+      "sha256": "7c8aa06c17ea6b012c85f19ce695307f7b521a94981d60fc71393832dba1826d",
+      "size": 5203860
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "410340.zip",
+    "sha256": "7c8aa06c17ea6b012c85f19ce695307f7b521a94981d60fc71393832dba1826d",
+    "size": 5203860
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

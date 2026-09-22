@@ -1,0 +1,18 @@
+{
+  "appid": 2108560,
+  "files": [
+    {
+      "name": "2108560.zip",
+      "sha256": "ebfd80b048ed925f5e15bf4b22fb6310ba1c51dd7c978741955e4cd81f98973c",
+      "size": 535864
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2108560.zip",
+    "sha256": "ebfd80b048ed925f5e15bf4b22fb6310ba1c51dd7c978741955e4cd81f98973c",
+    "size": 535864
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

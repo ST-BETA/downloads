@@ -1,0 +1,18 @@
+{
+  "appid": 2010340,
+  "files": [
+    {
+      "name": "2010340.zip",
+      "sha256": "e59a60f04e702a39a6cefc9fe8e79743f9af0f1c5e4ec9b6055e81128bf0a0ef",
+      "size": 102675
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2010340.zip",
+    "sha256": "e59a60f04e702a39a6cefc9fe8e79743f9af0f1c5e4ec9b6055e81128bf0a0ef",
+    "size": 102675
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

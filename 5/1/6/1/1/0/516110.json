@@ -1,0 +1,18 @@
+{
+  "appid": 516110,
+  "files": [
+    {
+      "name": "516110.zip",
+      "sha256": "8946ede181b0985fc231df6cb9058e4c835e28bd59c9e975948cc188a36b163c",
+      "size": 481312
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "516110.zip",
+    "sha256": "8946ede181b0985fc231df6cb9058e4c835e28bd59c9e975948cc188a36b163c",
+    "size": 481312
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

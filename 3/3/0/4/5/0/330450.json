@@ -1,0 +1,18 @@
+{
+  "appid": 330450,
+  "files": [
+    {
+      "name": "330450.zip",
+      "sha256": "064dcd97e7d714e0033793f8b0dfbe939e4c56c0e84d177de8991fe3da5a66fd",
+      "size": 59665
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "330450.zip",
+    "sha256": "064dcd97e7d714e0033793f8b0dfbe939e4c56c0e84d177de8991fe3da5a66fd",
+    "size": 59665
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

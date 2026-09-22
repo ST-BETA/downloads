@@ -1,0 +1,18 @@
+{
+  "appid": 108500,
+  "files": [
+    {
+      "name": "108500.zip",
+      "sha256": "1c09f47e36ecc6cd2f12f1a65f906d8a9c47465c3f7adf03a4b0c9d1bb9ec810",
+      "size": 837349
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "108500.zip",
+    "sha256": "1c09f47e36ecc6cd2f12f1a65f906d8a9c47465c3f7adf03a4b0c9d1bb9ec810",
+    "size": 837349
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

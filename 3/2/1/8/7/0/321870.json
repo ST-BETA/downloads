@@ -1,0 +1,18 @@
+{
+  "appid": 321870,
+  "files": [
+    {
+      "name": "321870.zip",
+      "sha256": "fb4a0785a49067901ab3352bcdb3b6bb61d8526ce8000589dfdad38594f95e31",
+      "size": 52862
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "321870.zip",
+    "sha256": "fb4a0785a49067901ab3352bcdb3b6bb61d8526ce8000589dfdad38594f95e31",
+    "size": 52862
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

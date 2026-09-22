@@ -1,0 +1,18 @@
+{
+  "appid": 435000,
+  "files": [
+    {
+      "name": "435000.zip",
+      "sha256": "27a1161fec328b5aee7dab81cdc1f54ea8cbfd6b125d6377f0f8da203118c8a0",
+      "size": 253870
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "435000.zip",
+    "sha256": "27a1161fec328b5aee7dab81cdc1f54ea8cbfd6b125d6377f0f8da203118c8a0",
+    "size": 253870
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

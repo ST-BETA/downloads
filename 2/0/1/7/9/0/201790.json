@@ -1,0 +1,18 @@
+{
+  "appid": 201790,
+  "files": [
+    {
+      "name": "201790.zip",
+      "sha256": "e2b43805c04eda8b4c620c3f35f36f0e3c15f404ef02768c1177d8b68f6a60e4",
+      "size": 445027
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201790.zip",
+    "sha256": "e2b43805c04eda8b4c620c3f35f36f0e3c15f404ef02768c1177d8b68f6a60e4",
+    "size": 445027
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

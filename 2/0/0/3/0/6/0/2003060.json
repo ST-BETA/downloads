@@ -1,0 +1,18 @@
+{
+  "appid": 2003060,
+  "files": [
+    {
+      "name": "2003060.zip",
+      "sha256": "4f419a3d4a9613c124a94a8debae5d8e0bc57913cda0c1965f46cce02efa48f3",
+      "size": 905732
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2003060.zip",
+    "sha256": "4f419a3d4a9613c124a94a8debae5d8e0bc57913cda0c1965f46cce02efa48f3",
+    "size": 905732
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

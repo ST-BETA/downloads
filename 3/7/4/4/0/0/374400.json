@@ -1,0 +1,18 @@
+{
+  "appid": 374400,
+  "files": [
+    {
+      "name": "374400.zip",
+      "sha256": "453c013b2a95370b44d721ba7b81d94078033dc2c99e7275c757ea6c71b31fcf",
+      "size": 5746
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "374400.zip",
+    "sha256": "453c013b2a95370b44d721ba7b81d94078033dc2c99e7275c757ea6c71b31fcf",
+    "size": 5746
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

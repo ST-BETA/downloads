@@ -1,0 +1,18 @@
+{
+  "appid": 497800,
+  "files": [
+    {
+      "name": "497800.zip",
+      "sha256": "685691c75177bb81c21f6a77eab463c795de7bdd72fec645dac877e74e48ca51",
+      "size": 1381358
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "497800.zip",
+    "sha256": "685691c75177bb81c21f6a77eab463c795de7bdd72fec645dac877e74e48ca51",
+    "size": 1381358
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

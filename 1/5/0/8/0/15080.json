@@ -1,0 +1,18 @@
+{
+  "appid": 15080,
+  "files": [
+    {
+      "name": "15080.zip",
+      "sha256": "c398460ba65ac8a92b0d5a8bd4e03e2e1cd7c458704716032f24f2d3624d350e",
+      "size": 66873
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "15080.zip",
+    "sha256": "c398460ba65ac8a92b0d5a8bd4e03e2e1cd7c458704716032f24f2d3624d350e",
+    "size": 66873
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

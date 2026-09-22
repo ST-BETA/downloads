@@ -1,0 +1,18 @@
+{
+  "appid": 440880,
+  "files": [
+    {
+      "name": "440880.zip",
+      "sha256": "1fcff54bc8b5cc17b70ca80063bbd1ae11e1ca69859ee78f44202b6f8537220a",
+      "size": 442625
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "440880.zip",
+    "sha256": "1fcff54bc8b5cc17b70ca80063bbd1ae11e1ca69859ee78f44202b6f8537220a",
+    "size": 442625
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

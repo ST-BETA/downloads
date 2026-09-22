@@ -1,0 +1,18 @@
+{
+  "appid": 997720,
+  "files": [
+    {
+      "name": "997720.zip",
+      "sha256": "bfbad81f54da87c99957fa99c06674750dccbbdb565f39e29f0b8446cc21c635",
+      "size": 316102
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "997720.zip",
+    "sha256": "bfbad81f54da87c99957fa99c06674750dccbbdb565f39e29f0b8446cc21c635",
+    "size": 316102
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 11250,
+  "files": [
+    {
+      "name": "11250.zip",
+      "sha256": "fb20db530c49d1f48a5572d4757ca9477013db2f1f09baa5ba50920dd669098b",
+      "size": 895648
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "11250.zip",
+    "sha256": "fb20db530c49d1f48a5572d4757ca9477013db2f1f09baa5ba50920dd669098b",
+    "size": 895648
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

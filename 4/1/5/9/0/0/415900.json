@@ -1,0 +1,18 @@
+{
+  "appid": 415900,
+  "files": [
+    {
+      "name": "415900.zip",
+      "sha256": "bfcca52f51aa00cec3a0471f1183f2e7c09a1ae5fdc32246dc27799649574af7",
+      "size": 182417
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "415900.zip",
+    "sha256": "bfcca52f51aa00cec3a0471f1183f2e7c09a1ae5fdc32246dc27799649574af7",
+    "size": 182417
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

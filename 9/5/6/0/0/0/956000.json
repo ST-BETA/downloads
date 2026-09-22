@@ -1,0 +1,18 @@
+{
+  "appid": 956000,
+  "files": [
+    {
+      "name": "956000.zip",
+      "sha256": "41332a0b778e2bdf59e30875d38ba23b3e1baf48d4600221c70f479ab9d19b59",
+      "size": 35439
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "956000.zip",
+    "sha256": "41332a0b778e2bdf59e30875d38ba23b3e1baf48d4600221c70f479ab9d19b59",
+    "size": 35439
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

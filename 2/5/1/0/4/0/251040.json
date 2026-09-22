@@ -1,0 +1,18 @@
+{
+  "appid": 251040,
+  "files": [
+    {
+      "name": "251040.zip",
+      "sha256": "1959e3c9cb69febf12fc45ebff05478911ca36b5dae637939d8216e4aee0ce1e",
+      "size": 291645
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "251040.zip",
+    "sha256": "1959e3c9cb69febf12fc45ebff05478911ca36b5dae637939d8216e4aee0ce1e",
+    "size": 291645
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

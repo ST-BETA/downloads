@@ -1,0 +1,18 @@
+{
+  "appid": 201290,
+  "files": [
+    {
+      "name": "201290.zip",
+      "sha256": "dcaa03428ef0206820fecdbb34ac40ced724e04ad27abdecc100c83fecee714f",
+      "size": 847182
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201290.zip",
+    "sha256": "dcaa03428ef0206820fecdbb34ac40ced724e04ad27abdecc100c83fecee714f",
+    "size": 847182
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

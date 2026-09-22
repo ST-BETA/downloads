@@ -1,0 +1,18 @@
+{
+  "appid": 801400,
+  "files": [
+    {
+      "name": "801400.zip",
+      "sha256": "d294326e045efa5fd5eda7678f822fb420370d4677b0539d5c6941974b95816c",
+      "size": 98629
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "801400.zip",
+    "sha256": "d294326e045efa5fd5eda7678f822fb420370d4677b0539d5c6941974b95816c",
+    "size": 98629
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

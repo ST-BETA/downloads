@@ -1,0 +1,18 @@
+{
+  "appid": 3192010,
+  "files": [
+    {
+      "name": "3192010.zip",
+      "sha256": "1e369dfda9e0e345160cc0a1ba1b4eebe3207a87056c41c39480291bdd6841a1",
+      "size": 172404
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3192010.zip",
+    "sha256": "1e369dfda9e0e345160cc0a1ba1b4eebe3207a87056c41c39480291bdd6841a1",
+    "size": 172404
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

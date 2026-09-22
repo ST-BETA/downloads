@@ -1,0 +1,18 @@
+{
+  "appid": 635220,
+  "files": [
+    {
+      "name": "635220.zip",
+      "sha256": "3938b7461ad705debdc7cce20ffaaa9549dc9a5a1af4d306f95562f60ce615ab",
+      "size": 202727
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "635220.zip",
+    "sha256": "3938b7461ad705debdc7cce20ffaaa9549dc9a5a1af4d306f95562f60ce615ab",
+    "size": 202727
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

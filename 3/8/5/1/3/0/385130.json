@@ -1,0 +1,18 @@
+{
+  "appid": 385130,
+  "files": [
+    {
+      "name": "385130.zip",
+      "sha256": "4bb3229b44b066ba692afed59e814d1846ac8b8ac4c259c4b4029ad77a327044",
+      "size": 150646
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "385130.zip",
+    "sha256": "4bb3229b44b066ba692afed59e814d1846ac8b8ac4c259c4b4029ad77a327044",
+    "size": 150646
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

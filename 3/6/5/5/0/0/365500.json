@@ -1,0 +1,18 @@
+{
+  "appid": 365500,
+  "files": [
+    {
+      "name": "365500.zip",
+      "sha256": "d2426749b78e4fd7d8da117b4a0bd6dd1c917f9eb91e4702190ef1d999248899",
+      "size": 48928
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "365500.zip",
+    "sha256": "d2426749b78e4fd7d8da117b4a0bd6dd1c917f9eb91e4702190ef1d999248899",
+    "size": 48928
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

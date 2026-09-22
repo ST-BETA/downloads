@@ -1,0 +1,18 @@
+{
+  "appid": 781500,
+  "files": [
+    {
+      "name": "781500.zip",
+      "sha256": "b5fa2c9f7a874800dbaf4b64534bd08ed33a56d62b2da1d7af8b103cc23438e0",
+      "size": 17856
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "781500.zip",
+    "sha256": "b5fa2c9f7a874800dbaf4b64534bd08ed33a56d62b2da1d7af8b103cc23438e0",
+    "size": 17856
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

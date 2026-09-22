@@ -1,0 +1,18 @@
+{
+  "appid": 1022432,
+  "files": [
+    {
+      "name": "1022432.zip",
+      "sha256": "7b25da8acf0e3c27c80754b28d06d0b7800b49d6dd739418a649b137442ab49b",
+      "size": 545
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1022432.zip",
+    "sha256": "7b25da8acf0e3c27c80754b28d06d0b7800b49d6dd739418a649b137442ab49b",
+    "size": 545
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

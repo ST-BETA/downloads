@@ -1,0 +1,18 @@
+{
+  "appid": 816080,
+  "files": [
+    {
+      "name": "816080.zip",
+      "sha256": "c99bcd2db69b6967d28af55278f06dd2c8283ef9053ee71eaa0b0aa2ac864e42",
+      "size": 24636
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "816080.zip",
+    "sha256": "c99bcd2db69b6967d28af55278f06dd2c8283ef9053ee71eaa0b0aa2ac864e42",
+    "size": 24636
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

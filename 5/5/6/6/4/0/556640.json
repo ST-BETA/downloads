@@ -1,0 +1,18 @@
+{
+  "appid": 556640,
+  "files": [
+    {
+      "name": "556640.zip",
+      "sha256": "589f69cefc02fec6cb64ddb7feda9dc42eb3dfa7cfab052ebcc62f1bcc22da16",
+      "size": 397551
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "556640.zip",
+    "sha256": "589f69cefc02fec6cb64ddb7feda9dc42eb3dfa7cfab052ebcc62f1bcc22da16",
+    "size": 397551
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

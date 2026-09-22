@@ -1,0 +1,18 @@
+{
+  "appid": 741930,
+  "files": [
+    {
+      "name": "741930.zip",
+      "sha256": "abd86db46778fa6d1875ecb8f15d5f479c68a31daba32f3874ae3400492c1aac",
+      "size": 108242
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "741930.zip",
+    "sha256": "abd86db46778fa6d1875ecb8f15d5f479c68a31daba32f3874ae3400492c1aac",
+    "size": 108242
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

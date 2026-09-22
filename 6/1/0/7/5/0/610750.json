@@ -1,0 +1,18 @@
+{
+  "appid": 610750,
+  "files": [
+    {
+      "name": "610750.zip",
+      "sha256": "36c41e7bcab20b5acfc363e2ca782374a76473c0a127cd4320e3c550e0beed87",
+      "size": 280689
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "610750.zip",
+    "sha256": "36c41e7bcab20b5acfc363e2ca782374a76473c0a127cd4320e3c550e0beed87",
+    "size": 280689
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

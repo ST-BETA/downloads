@@ -1,0 +1,18 @@
+{
+  "appid": 2299700,
+  "files": [
+    {
+      "name": "2299700.zip",
+      "sha256": "b443c74210f15ddad16fe67390bb71d3185380e1b605283eac271cba5db4eddd",
+      "size": 50544
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2299700.zip",
+    "sha256": "b443c74210f15ddad16fe67390bb71d3185380e1b605283eac271cba5db4eddd",
+    "size": 50544
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 252230,
+  "files": [
+    {
+      "name": "252230.zip",
+      "sha256": "f01b75c6e983596ca1e7b961b1a8b3ca076fdcf6d3c629266bb4781030badb3b",
+      "size": 455065
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "252230.zip",
+    "sha256": "f01b75c6e983596ca1e7b961b1a8b3ca076fdcf6d3c629266bb4781030badb3b",
+    "size": 455065
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 750130,
+  "files": [
+    {
+      "name": "750130.zip",
+      "sha256": "e787406eb43f429a8e5767f91dc8f34493a9a068b61fefe2358ff6c97c286bac",
+      "size": 2146601
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "750130.zip",
+    "sha256": "e787406eb43f429a8e5767f91dc8f34493a9a068b61fefe2358ff6c97c286bac",
+    "size": 2146601
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

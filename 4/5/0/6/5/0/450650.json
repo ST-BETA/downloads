@@ -1,0 +1,18 @@
+{
+  "appid": 450650,
+  "files": [
+    {
+      "name": "450650.zip",
+      "sha256": "a0743a69b79454eada39699e9f895cf7a52a7392b2bd05bad3d997142f7bd14d",
+      "size": 65554
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "450650.zip",
+    "sha256": "a0743a69b79454eada39699e9f895cf7a52a7392b2bd05bad3d997142f7bd14d",
+    "size": 65554
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

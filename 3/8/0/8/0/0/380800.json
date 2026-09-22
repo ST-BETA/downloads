@@ -1,0 +1,18 @@
+{
+  "appid": 380800,
+  "files": [
+    {
+      "name": "380800.zip",
+      "sha256": "24b791b1d2fb7edf3e3f39ac05732683641d39a619ad07a519440136ab2f9b0a",
+      "size": 15166
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "380800.zip",
+    "sha256": "24b791b1d2fb7edf3e3f39ac05732683641d39a619ad07a519440136ab2f9b0a",
+    "size": 15166
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

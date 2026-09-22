@@ -1,0 +1,18 @@
+{
+  "appid": 1213331,
+  "files": [
+    {
+      "name": "1213331.zip",
+      "sha256": "c6678b0306878e9ca0f27339ee27c635c2b9b3a3d8a7ea933d539fdb910ae045",
+      "size": 552
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1213331.zip",
+    "sha256": "c6678b0306878e9ca0f27339ee27c635c2b9b3a3d8a7ea933d539fdb910ae045",
+    "size": 552
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 834100,
+  "files": [
+    {
+      "name": "834100.zip",
+      "sha256": "b9ea725ce5893639a2cae4dc27142eb8ad0739bda98c5cf996153499732f8805",
+      "size": 16809
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "834100.zip",
+    "sha256": "b9ea725ce5893639a2cae4dc27142eb8ad0739bda98c5cf996153499732f8805",
+    "size": 16809
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1805000,
+  "files": [
+    {
+      "name": "1805000.zip",
+      "sha256": "1b620c341cca2bcc551f53450aa784d62f22700588a4eb4b2ff89737df88988f",
+      "size": 75628
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1805000.zip",
+    "sha256": "1b620c341cca2bcc551f53450aa784d62f22700588a4eb4b2ff89737df88988f",
+    "size": 75628
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

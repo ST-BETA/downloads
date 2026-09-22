@@ -1,0 +1,18 @@
+{
+  "appid": 2004550,
+  "files": [
+    {
+      "name": "2004550.zip",
+      "sha256": "7789196ab73ccdf311e834f93549a6a9e5c7a7a59d663c16d3693aa878d4f46a",
+      "size": 94825
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2004550.zip",
+    "sha256": "7789196ab73ccdf311e834f93549a6a9e5c7a7a59d663c16d3693aa878d4f46a",
+    "size": 94825
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 480770,
+  "files": [
+    {
+      "name": "480770.zip",
+      "sha256": "3da85657a0ae4860297885db3e60f0185a561fd4608fa77832105bf91f0abf81",
+      "size": 20629
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "480770.zip",
+    "sha256": "3da85657a0ae4860297885db3e60f0185a561fd4608fa77832105bf91f0abf81",
+    "size": 20629
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

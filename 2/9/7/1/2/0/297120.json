@@ -1,0 +1,18 @@
+{
+  "appid": 297120,
+  "files": [
+    {
+      "name": "297120.zip",
+      "sha256": "2d4d0d343caa31be19746fccdebcbbfd5dfe0ec7f53bbd9965f2c9ef8f730ccb",
+      "size": 52229
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "297120.zip",
+    "sha256": "2d4d0d343caa31be19746fccdebcbbfd5dfe0ec7f53bbd9965f2c9ef8f730ccb",
+    "size": 52229
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

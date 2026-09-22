@@ -1,0 +1,18 @@
+{
+  "appid": 2004180,
+  "files": [
+    {
+      "name": "2004180.zip",
+      "sha256": "cffc4aac0236bef67cf9b7c1092464d3e346c4a11eefcb37469b52abc441f59f",
+      "size": 111155
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2004180.zip",
+    "sha256": "cffc4aac0236bef67cf9b7c1092464d3e346c4a11eefcb37469b52abc441f59f",
+    "size": 111155
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

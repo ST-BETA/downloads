@@ -1,0 +1,18 @@
+{
+  "appid": 2070070,
+  "files": [
+    {
+      "name": "2070070.zip",
+      "sha256": "b1022dbe9447546c22d8f7fd76834adb6a54c8913ac0a093f140969cfd7c9344",
+      "size": 41930
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2070070.zip",
+    "sha256": "b1022dbe9447546c22d8f7fd76834adb6a54c8913ac0a093f140969cfd7c9344",
+    "size": 41930
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

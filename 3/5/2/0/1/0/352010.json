@@ -1,0 +1,18 @@
+{
+  "appid": 352010,
+  "files": [
+    {
+      "name": "352010.zip",
+      "sha256": "ceabbf88684b50ade2c1f03dfc3a5e4f24c9364dc1e618f8adb8d0af0f95e6b3",
+      "size": 181300
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "352010.zip",
+    "sha256": "ceabbf88684b50ade2c1f03dfc3a5e4f24c9364dc1e618f8adb8d0af0f95e6b3",
+    "size": 181300
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

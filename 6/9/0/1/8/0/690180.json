@@ -1,0 +1,18 @@
+{
+  "appid": 690180,
+  "files": [
+    {
+      "name": "690180.zip",
+      "sha256": "c5485743d5e75906c60542b4bdf96030785276065d4928460fbe93ecc7237c97",
+      "size": 45356
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "690180.zip",
+    "sha256": "c5485743d5e75906c60542b4bdf96030785276065d4928460fbe93ecc7237c97",
+    "size": 45356
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 996900,
+  "files": [
+    {
+      "name": "996900.zip",
+      "sha256": "e4773ada9c0e09b14ce5715dc9e044dade58fb1f307268d90b92db0e9f3ce59d",
+      "size": 2464
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "996900.zip",
+    "sha256": "e4773ada9c0e09b14ce5715dc9e044dade58fb1f307268d90b92db0e9f3ce59d",
+    "size": 2464
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

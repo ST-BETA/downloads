@@ -1,0 +1,18 @@
+{
+  "appid": 975470,
+  "files": [
+    {
+      "name": "975470.zip",
+      "sha256": "d713aaf2e00d25e8b66c19afd404ef05f033fbee6bb625f69cf57239850497af",
+      "size": 625165
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "975470.zip",
+    "sha256": "d713aaf2e00d25e8b66c19afd404ef05f033fbee6bb625f69cf57239850497af",
+    "size": 625165
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

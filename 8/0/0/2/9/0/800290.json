@@ -1,0 +1,18 @@
+{
+  "appid": 800290,
+  "files": [
+    {
+      "name": "800290.zip",
+      "sha256": "afe99217d161d34cb892d273fbee6356be72aa19e7c13a1a2196fdc100b2e8ca",
+      "size": 49815
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "800290.zip",
+    "sha256": "afe99217d161d34cb892d273fbee6356be72aa19e7c13a1a2196fdc100b2e8ca",
+    "size": 49815
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

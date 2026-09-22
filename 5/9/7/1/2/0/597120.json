@@ -1,0 +1,18 @@
+{
+  "appid": 597120,
+  "files": [
+    {
+      "name": "597120.zip",
+      "sha256": "a9e70463f46192b972d51cd70039e16fc87cc14ebfee7605616149ff6fc55b27",
+      "size": 91101
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "597120.zip",
+    "sha256": "a9e70463f46192b972d51cd70039e16fc87cc14ebfee7605616149ff6fc55b27",
+    "size": 91101
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

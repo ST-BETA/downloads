@@ -1,0 +1,18 @@
+{
+  "appid": 2545010,
+  "files": [
+    {
+      "name": "2545010.zip",
+      "sha256": "549c8bd03a76eceb6fe8f0a12250c29904cfa98cee4c2f916124e69af8cb230a",
+      "size": 303764
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2545010.zip",
+    "sha256": "549c8bd03a76eceb6fe8f0a12250c29904cfa98cee4c2f916124e69af8cb230a",
+    "size": 303764
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

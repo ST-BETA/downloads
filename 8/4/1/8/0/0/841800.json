@@ -1,0 +1,18 @@
+{
+  "appid": 841800,
+  "files": [
+    {
+      "name": "841800.zip",
+      "sha256": "6aaba9b00c2a4ce23b0cacbef88b52d1ceda38f0edf581472f4a3bb27ffca6be",
+      "size": 112380
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "841800.zip",
+    "sha256": "6aaba9b00c2a4ce23b0cacbef88b52d1ceda38f0edf581472f4a3bb27ffca6be",
+    "size": 112380
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

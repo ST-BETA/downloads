@@ -1,0 +1,18 @@
+{
+  "appid": 3206000,
+  "files": [
+    {
+      "name": "3206000.zip",
+      "sha256": "0d04b43ea7c2a849ea39b06a0a74c0b91211d121959e7c9742a949ed88df9baa",
+      "size": 62200
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3206000.zip",
+    "sha256": "0d04b43ea7c2a849ea39b06a0a74c0b91211d121959e7c9742a949ed88df9baa",
+    "size": 62200
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

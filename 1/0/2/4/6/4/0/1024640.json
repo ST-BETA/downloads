@@ -1,0 +1,18 @@
+{
+  "appid": 1024640,
+  "files": [
+    {
+      "name": "1024640.zip",
+      "sha256": "62d63a6b74679d9022db4a0403a3a157d1c9f69422a363e05f73180bad758f5b",
+      "size": 5610261
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1024640.zip",
+    "sha256": "62d63a6b74679d9022db4a0403a3a157d1c9f69422a363e05f73180bad758f5b",
+    "size": 5610261
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

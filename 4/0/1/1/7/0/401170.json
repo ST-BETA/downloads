@@ -1,0 +1,18 @@
+{
+  "appid": 401170,
+  "files": [
+    {
+      "name": "401170.zip",
+      "sha256": "40eabf0cbd02631d988ea32673ca3ade901ab7a038d571aca228b5a62a4b2604",
+      "size": 29435
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "401170.zip",
+    "sha256": "40eabf0cbd02631d988ea32673ca3ade901ab7a038d571aca228b5a62a4b2604",
+    "size": 29435
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2013500,
+  "files": [
+    {
+      "name": "2013500.zip",
+      "sha256": "4e2fef734a51e0aa7b7ebc49865499b13da8561e2872e5e6f6b984c77b253bd8",
+      "size": 45430
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2013500.zip",
+    "sha256": "4e2fef734a51e0aa7b7ebc49865499b13da8561e2872e5e6f6b984c77b253bd8",
+    "size": 45430
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

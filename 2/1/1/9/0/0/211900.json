@@ -1,0 +1,18 @@
+{
+  "appid": 211900,
+  "files": [
+    {
+      "name": "211900.zip",
+      "sha256": "62d9ffbba312be65f5e1c5069f7f91c0b42c3ea8cc73cb7e6c4b3005165b1ac8",
+      "size": 28238
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "211900.zip",
+    "sha256": "62d9ffbba312be65f5e1c5069f7f91c0b42c3ea8cc73cb7e6c4b3005165b1ac8",
+    "size": 28238
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

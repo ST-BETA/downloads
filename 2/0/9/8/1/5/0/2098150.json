@@ -1,0 +1,18 @@
+{
+  "appid": 2098150,
+  "files": [
+    {
+      "name": "2098150.zip",
+      "sha256": "3cc7cd427f7616de6b465797035e98062dd03a52f0c1abba7deb50187bd242c0",
+      "size": 90107
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2098150.zip",
+    "sha256": "3cc7cd427f7616de6b465797035e98062dd03a52f0c1abba7deb50187bd242c0",
+    "size": 90107
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

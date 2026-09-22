@@ -1,0 +1,18 @@
+{
+  "appid": 564100,
+  "files": [
+    {
+      "name": "564100.zip",
+      "sha256": "2844cef7a52770fee6b28f497b7ac95ec2422b1bb38d8d781d8aa20aa094d54f",
+      "size": 42309
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "564100.zip",
+    "sha256": "2844cef7a52770fee6b28f497b7ac95ec2422b1bb38d8d781d8aa20aa094d54f",
+    "size": 42309
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

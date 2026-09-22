@@ -1,0 +1,18 @@
+{
+  "appid": 1801900,
+  "files": [
+    {
+      "name": "1801900.zip",
+      "sha256": "5875719315cc5265f1f2c812d117ffaab4232962f479ae1ec41fe1128dab2580",
+      "size": 5326
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1801900.zip",
+    "sha256": "5875719315cc5265f1f2c812d117ffaab4232962f479ae1ec41fe1128dab2580",
+    "size": 5326
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

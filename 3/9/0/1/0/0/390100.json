@@ -1,0 +1,18 @@
+{
+  "appid": 390100,
+  "files": [
+    {
+      "name": "390100.zip",
+      "sha256": "b44f5a94308d8ac3afb38b66f5123d1b97b5d63342d0a33fc79647e20a60ff08",
+      "size": 181108
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "390100.zip",
+    "sha256": "b44f5a94308d8ac3afb38b66f5123d1b97b5d63342d0a33fc79647e20a60ff08",
+    "size": 181108
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

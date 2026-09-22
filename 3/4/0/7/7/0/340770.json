@@ -1,0 +1,18 @@
+{
+  "appid": 340770,
+  "files": [
+    {
+      "name": "340770.zip",
+      "sha256": "8b7852e372184d92b6bfc58771ee21126b3e315c2ddb249bd3fca9d0d9b88af4",
+      "size": 101209
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "340770.zip",
+    "sha256": "8b7852e372184d92b6bfc58771ee21126b3e315c2ddb249bd3fca9d0d9b88af4",
+    "size": 101209
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

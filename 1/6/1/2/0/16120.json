@@ -1,0 +1,18 @@
+{
+  "appid": 16120,
+  "files": [
+    {
+      "name": "16120.zip",
+      "sha256": "45daf8da5835d74aedb653e1cba7780ec433037cefb9bca457957465c9e9914e",
+      "size": 37329
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "16120.zip",
+    "sha256": "45daf8da5835d74aedb653e1cba7780ec433037cefb9bca457957465c9e9914e",
+    "size": 37329
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

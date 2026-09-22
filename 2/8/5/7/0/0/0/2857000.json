@@ -1,0 +1,18 @@
+{
+  "appid": 2857000,
+  "files": [
+    {
+      "name": "2857000.zip",
+      "sha256": "90c5283cb639f3d89d8dc34a38416d9e1434480d934e25cc4e46b99b99f027a8",
+      "size": 42755
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2857000.zip",
+    "sha256": "90c5283cb639f3d89d8dc34a38416d9e1434480d934e25cc4e46b99b99f027a8",
+    "size": 42755
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

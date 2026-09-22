@@ -1,0 +1,18 @@
+{
+  "appid": 2013240,
+  "files": [
+    {
+      "name": "2013240.zip",
+      "sha256": "22e97689064890f2eb8efc5d850905edaa8d673bb40b78f5b5770ed0e6b2f9c9",
+      "size": 843625
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2013240.zip",
+    "sha256": "22e97689064890f2eb8efc5d850905edaa8d673bb40b78f5b5770ed0e6b2f9c9",
+    "size": 843625
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

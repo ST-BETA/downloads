@@ -1,0 +1,18 @@
+{
+  "appid": 442260,
+  "files": [
+    {
+      "name": "442260.zip",
+      "sha256": "3c5f5552c7d7bc817dc6db367bbfa5cd159bab168427195d1469538876bf6f4d",
+      "size": 277785
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "442260.zip",
+    "sha256": "3c5f5552c7d7bc817dc6db367bbfa5cd159bab168427195d1469538876bf6f4d",
+    "size": 277785
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

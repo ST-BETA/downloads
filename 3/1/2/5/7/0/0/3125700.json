@@ -1,0 +1,18 @@
+{
+  "appid": 3125700,
+  "files": [
+    {
+      "name": "3125700.zip",
+      "sha256": "369d51d692bc051414f714a9bf196f617c1194df66c0617ce19ead6e6927e0f1",
+      "size": 95445
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3125700.zip",
+    "sha256": "369d51d692bc051414f714a9bf196f617c1194df66c0617ce19ead6e6927e0f1",
+    "size": 95445
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

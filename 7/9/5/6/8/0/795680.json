@@ -1,0 +1,18 @@
+{
+  "appid": 795680,
+  "files": [
+    {
+      "name": "795680.zip",
+      "sha256": "3bc86de5f6cbca375abd122368cd02bc8c749db62fbb7887b5423b75c6e0e708",
+      "size": 2460480
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "795680.zip",
+    "sha256": "3bc86de5f6cbca375abd122368cd02bc8c749db62fbb7887b5423b75c6e0e708",
+    "size": 2460480
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

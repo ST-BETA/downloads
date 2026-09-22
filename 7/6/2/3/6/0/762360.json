@@ -1,0 +1,18 @@
+{
+  "appid": 762360,
+  "files": [
+    {
+      "name": "762360.zip",
+      "sha256": "144187bf27ec14b3a71709f12a9e076b04edc3a511f6a8d19105bc054293a145",
+      "size": 47837
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "762360.zip",
+    "sha256": "144187bf27ec14b3a71709f12a9e076b04edc3a511f6a8d19105bc054293a145",
+    "size": 47837
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1500300,
+  "files": [
+    {
+      "name": "1500300.zip",
+      "sha256": "3556f21a83c88fe9795413dab751a2641e34183784b0e43b6b7f225e361076a3",
+      "size": 34520
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1500300.zip",
+    "sha256": "3556f21a83c88fe9795413dab751a2641e34183784b0e43b6b7f225e361076a3",
+    "size": 34520
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

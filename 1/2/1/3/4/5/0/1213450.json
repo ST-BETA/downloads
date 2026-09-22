@@ -1,0 +1,18 @@
+{
+  "appid": 1213450,
+  "files": [
+    {
+      "name": "1213450.zip",
+      "sha256": "1204dc5ccdc04b4524d68103f8648ed8bf4fdfa51d8b68c69e7137ea37fb1e14",
+      "size": 199673
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1213450.zip",
+    "sha256": "1204dc5ccdc04b4524d68103f8648ed8bf4fdfa51d8b68c69e7137ea37fb1e14",
+    "size": 199673
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

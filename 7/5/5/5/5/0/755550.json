@@ -1,0 +1,18 @@
+{
+  "appid": 755550,
+  "files": [
+    {
+      "name": "755550.zip",
+      "sha256": "9f1387bfa85eb310d8beff0a17fcd87d7212e0d95bf0e8824829c384d681aace",
+      "size": 51326
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "755550.zip",
+    "sha256": "9f1387bfa85eb310d8beff0a17fcd87d7212e0d95bf0e8824829c384d681aace",
+    "size": 51326
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

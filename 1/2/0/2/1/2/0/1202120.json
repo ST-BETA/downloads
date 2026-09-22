@@ -1,0 +1,18 @@
+{
+  "appid": 1202120,
+  "files": [
+    {
+      "name": "1202120.zip",
+      "sha256": "0d5543a38dfdae6dcada868fb2f0cdc4e4cc5155b501c82dd89827e5b587a860",
+      "size": 83842
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1202120.zip",
+    "sha256": "0d5543a38dfdae6dcada868fb2f0cdc4e4cc5155b501c82dd89827e5b587a860",
+    "size": 83842
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

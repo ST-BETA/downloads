@@ -1,0 +1,18 @@
+{
+  "appid": 440660,
+  "files": [
+    {
+      "name": "440660.zip",
+      "sha256": "79933106c621ca53fa1cfcec4b29fd2ef415b9d9519eeeebdcc76d2c85ece90c",
+      "size": 80075
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "440660.zip",
+    "sha256": "79933106c621ca53fa1cfcec4b29fd2ef415b9d9519eeeebdcc76d2c85ece90c",
+    "size": 80075
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

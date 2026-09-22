@@ -1,0 +1,18 @@
+{
+  "appid": 629,
+  "files": [
+    {
+      "name": "629.zip",
+      "sha256": "b53e782e77cca7dffabcc5727d21fef6c08c693927646116c7056726796898b4",
+      "size": 144809
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "629.zip",
+    "sha256": "b53e782e77cca7dffabcc5727d21fef6c08c693927646116c7056726796898b4",
+    "size": 144809
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

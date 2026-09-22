@@ -1,0 +1,18 @@
+{
+  "appid": 388500,
+  "files": [
+    {
+      "name": "388500.zip",
+      "sha256": "cf962730db4ae6ea8248033bb4e17fd5e3179024b9efa875c23a01298ad178c1",
+      "size": 3374
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "388500.zip",
+    "sha256": "cf962730db4ae6ea8248033bb4e17fd5e3179024b9efa875c23a01298ad178c1",
+    "size": 3374
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

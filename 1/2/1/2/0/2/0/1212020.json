@@ -1,0 +1,18 @@
+{
+  "appid": 1212020,
+  "files": [
+    {
+      "name": "1212020.zip",
+      "sha256": "53c2423247fbe4fdb41c4385fea2df4d06f2cb8e767b879118f3f5a69f1a185e",
+      "size": 493096
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1212020.zip",
+    "sha256": "53c2423247fbe4fdb41c4385fea2df4d06f2cb8e767b879118f3f5a69f1a185e",
+    "size": 493096
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

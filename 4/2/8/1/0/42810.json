@@ -1,0 +1,18 @@
+{
+  "appid": 42810,
+  "files": [
+    {
+      "name": "42810.zip",
+      "sha256": "5724c569490b0725c9e4a3954f3a253e7d79e650d74abe45da8d2352fefb8185",
+      "size": 1514871
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "42810.zip",
+    "sha256": "5724c569490b0725c9e4a3954f3a253e7d79e650d74abe45da8d2352fefb8185",
+    "size": 1514871
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

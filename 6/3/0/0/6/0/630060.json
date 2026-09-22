@@ -1,0 +1,18 @@
+{
+  "appid": 630060,
+  "files": [
+    {
+      "name": "630060.zip",
+      "sha256": "1c7b1b0c7c21aec7d2d2ae6e2fb036b4150fd56fd1f2cc28fc4c701eaa1f3ce1",
+      "size": 109575
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "630060.zip",
+    "sha256": "1c7b1b0c7c21aec7d2d2ae6e2fb036b4150fd56fd1f2cc28fc4c701eaa1f3ce1",
+    "size": 109575
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

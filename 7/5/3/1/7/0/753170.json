@@ -1,0 +1,18 @@
+{
+  "appid": 753170,
+  "files": [
+    {
+      "name": "753170.zip",
+      "sha256": "6da24ab0cef4a6ef90e88d6b655595eba09356685991b934ddb4a780d0576732",
+      "size": 44712
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "753170.zip",
+    "sha256": "6da24ab0cef4a6ef90e88d6b655595eba09356685991b934ddb4a780d0576732",
+    "size": 44712
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

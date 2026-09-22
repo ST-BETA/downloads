@@ -1,0 +1,18 @@
+{
+  "appid": 1975600,
+  "files": [
+    {
+      "name": "1975600.zip",
+      "sha256": "0ecb25b5bf62c7e0fc806a62316938224448d2b8703d2ada6e92b366183490b6",
+      "size": 139016
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1975600.zip",
+    "sha256": "0ecb25b5bf62c7e0fc806a62316938224448d2b8703d2ada6e92b366183490b6",
+    "size": 139016
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 41005,
+  "files": [
+    {
+      "name": "41005.zip",
+      "sha256": "64459061c72d5cf8ae36353d9d68f09085646ae452de95f34efa8bcea294080f",
+      "size": 1074
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "41005.zip",
+    "sha256": "64459061c72d5cf8ae36353d9d68f09085646ae452de95f34efa8bcea294080f",
+    "size": 1074
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

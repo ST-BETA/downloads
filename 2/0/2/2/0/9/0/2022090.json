@@ -1,0 +1,18 @@
+{
+  "appid": 2022090,
+  "files": [
+    {
+      "name": "2022090.zip",
+      "sha256": "2bcf8c5eb9e5ace09554ad0bae8370029af59aafc5dd67d6d4d0d51aeccf3291",
+      "size": 45215
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2022090.zip",
+    "sha256": "2bcf8c5eb9e5ace09554ad0bae8370029af59aafc5dd67d6d4d0d51aeccf3291",
+    "size": 45215
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

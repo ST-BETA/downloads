@@ -1,0 +1,18 @@
+{
+  "appid": 306601,
+  "files": [
+    {
+      "name": "306601.zip",
+      "sha256": "c81c509f47e5f3170dad9b7ac1728ede833f1c6644187ce2c119bfb85422c508",
+      "size": 23589
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "306601.zip",
+    "sha256": "c81c509f47e5f3170dad9b7ac1728ede833f1c6644187ce2c119bfb85422c508",
+    "size": 23589
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

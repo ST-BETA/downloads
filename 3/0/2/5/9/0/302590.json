@@ -1,0 +1,18 @@
+{
+  "appid": 302590,
+  "files": [
+    {
+      "name": "302590.zip",
+      "sha256": "239a4f12adceda5b1915c1df928e5cfdf665e53a2e652fafb33dccc0e77eb6f2",
+      "size": 42140
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "302590.zip",
+    "sha256": "239a4f12adceda5b1915c1df928e5cfdf665e53a2e652fafb33dccc0e77eb6f2",
+    "size": 42140
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

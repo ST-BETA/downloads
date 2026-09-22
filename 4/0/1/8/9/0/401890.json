@@ -1,0 +1,18 @@
+{
+  "appid": 401890,
+  "files": [
+    {
+      "name": "401890.zip",
+      "sha256": "da07bcafc83f55d689316ff9899f29145a4882411ad1a831845f3ac8ed92e687",
+      "size": 570094
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "401890.zip",
+    "sha256": "da07bcafc83f55d689316ff9899f29145a4882411ad1a831845f3ac8ed92e687",
+    "size": 570094
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

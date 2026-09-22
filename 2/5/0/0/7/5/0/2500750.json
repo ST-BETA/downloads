@@ -1,0 +1,18 @@
+{
+  "appid": 2500750,
+  "files": [
+    {
+      "name": "2500750.zip",
+      "sha256": "36c92b28c66a9a3898d9cb6c83d089a39fe3a302fb2f01b4b998d6f6cf93a79a",
+      "size": 884340
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2500750.zip",
+    "sha256": "36c92b28c66a9a3898d9cb6c83d089a39fe3a302fb2f01b4b998d6f6cf93a79a",
+    "size": 884340
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

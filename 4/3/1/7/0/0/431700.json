@@ -1,0 +1,18 @@
+{
+  "appid": 431700,
+  "files": [
+    {
+      "name": "431700.zip",
+      "sha256": "064d9ccaef7b31261ebede7a1754b8f01c307725a8825bd7a56447f5fd10d88e",
+      "size": 587328
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "431700.zip",
+    "sha256": "064d9ccaef7b31261ebede7a1754b8f01c307725a8825bd7a56447f5fd10d88e",
+    "size": 587328
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

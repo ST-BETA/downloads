@@ -1,0 +1,18 @@
+{
+  "appid": 20900,
+  "files": [
+    {
+      "name": "20900.zip",
+      "sha256": "ab5162eb45a1f36a36a8e32a5b677c5528bf1c181f48d94ede8cd84c9399ccec",
+      "size": 2379353
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "20900.zip",
+    "sha256": "ab5162eb45a1f36a36a8e32a5b677c5528bf1c181f48d94ede8cd84c9399ccec",
+    "size": 2379353
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

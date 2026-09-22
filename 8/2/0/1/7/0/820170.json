@@ -1,0 +1,18 @@
+{
+  "appid": 820170,
+  "files": [
+    {
+      "name": "820170.zip",
+      "sha256": "c0ec7ad89492556959e1e855d943ff57dbd9699ca12779a88bb05201618a32ab",
+      "size": 21589
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "820170.zip",
+    "sha256": "c0ec7ad89492556959e1e855d943ff57dbd9699ca12779a88bb05201618a32ab",
+    "size": 21589
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

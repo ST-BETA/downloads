@@ -1,0 +1,18 @@
+{
+  "appid": 911950,
+  "files": [
+    {
+      "name": "911950.zip",
+      "sha256": "915a4889f4e301690ef279c0453b19d1c3611f81c13ad6a087351196d8105b7d",
+      "size": 99622
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "911950.zip",
+    "sha256": "915a4889f4e301690ef279c0453b19d1c3611f81c13ad6a087351196d8105b7d",
+    "size": 99622
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

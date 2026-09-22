@@ -1,0 +1,18 @@
+{
+  "appid": 330720,
+  "files": [
+    {
+      "name": "330720.zip",
+      "sha256": "f1cc2b5b3359583c774a7f62c900a316b7c6e58a57aa20680fca2dbe035ad922",
+      "size": 175488
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "330720.zip",
+    "sha256": "f1cc2b5b3359583c774a7f62c900a316b7c6e58a57aa20680fca2dbe035ad922",
+    "size": 175488
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

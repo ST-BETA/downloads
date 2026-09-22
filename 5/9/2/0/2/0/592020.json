@@ -1,0 +1,18 @@
+{
+  "appid": 592020,
+  "files": [
+    {
+      "name": "592020.zip",
+      "sha256": "6250ba1fe4924faf39b777eebf5d05154f944670cc298a8ec3e0921c1b30468b",
+      "size": 600038
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "592020.zip",
+    "sha256": "6250ba1fe4924faf39b777eebf5d05154f944670cc298a8ec3e0921c1b30468b",
+    "size": 600038
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

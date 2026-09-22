@@ -1,0 +1,18 @@
+{
+  "appid": 3120070,
+  "files": [
+    {
+      "name": "3120070.zip",
+      "sha256": "2e804b423cdbfd226f55dbc6a7239204c2035cdcfb39c1eff21d557b885562bd",
+      "size": 157235
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3120070.zip",
+    "sha256": "2e804b423cdbfd226f55dbc6a7239204c2035cdcfb39c1eff21d557b885562bd",
+    "size": 157235
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

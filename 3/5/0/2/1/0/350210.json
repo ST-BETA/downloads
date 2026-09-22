@@ -1,0 +1,18 @@
+{
+  "appid": 350210,
+  "files": [
+    {
+      "name": "350210.zip",
+      "sha256": "dea954586836f9f47ff50b8acf045f007f9b6f3f507e8613dd233674c2719fd2",
+      "size": 37296
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "350210.zip",
+    "sha256": "dea954586836f9f47ff50b8acf045f007f9b6f3f507e8613dd233674c2719fd2",
+    "size": 37296
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 5725,
+  "files": [
+    {
+      "name": "5725.zip",
+      "sha256": "3979453bd68cd214b9b38d8588ef1aa05b8bf5204a312a10d20902424c92e976",
+      "size": 563
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "5725.zip",
+    "sha256": "3979453bd68cd214b9b38d8588ef1aa05b8bf5204a312a10d20902424c92e976",
+    "size": 563
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

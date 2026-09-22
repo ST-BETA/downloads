@@ -1,0 +1,18 @@
+{
+  "appid": 1039870,
+  "files": [
+    {
+      "name": "1039870.zip",
+      "sha256": "565ceca69f3700f40e3f3e602f80e10920006a8d4101915db98f1dbfcceec58f",
+      "size": 160874
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1039870.zip",
+    "sha256": "565ceca69f3700f40e3f3e602f80e10920006a8d4101915db98f1dbfcceec58f",
+    "size": 160874
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

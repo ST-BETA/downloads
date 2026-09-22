@@ -1,0 +1,18 @@
+{
+  "appid": 592270,
+  "files": [
+    {
+      "name": "592270.zip",
+      "sha256": "316d494203888e60b03166e248cd6e7cc0ec73a162f2962ba725109e1a61595e",
+      "size": 30866
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "592270.zip",
+    "sha256": "316d494203888e60b03166e248cd6e7cc0ec73a162f2962ba725109e1a61595e",
+    "size": 30866
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 465200,
+  "files": [
+    {
+      "name": "465200.zip",
+      "sha256": "7bc2d91d17906665ffb9358527eddbee57423f088e2eb0583a8fdbfa76d5d47a",
+      "size": 270004
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "465200.zip",
+    "sha256": "7bc2d91d17906665ffb9358527eddbee57423f088e2eb0583a8fdbfa76d5d47a",
+    "size": 270004
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

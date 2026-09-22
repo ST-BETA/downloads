@@ -1,0 +1,18 @@
+{
+  "appid": 951010,
+  "files": [
+    {
+      "name": "951010.zip",
+      "sha256": "8b8c5b72b1203477c80e052239a9b43b851e912dbc55387816c6d1aa0fca4310",
+      "size": 598084
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "951010.zip",
+    "sha256": "8b8c5b72b1203477c80e052239a9b43b851e912dbc55387816c6d1aa0fca4310",
+    "size": 598084
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

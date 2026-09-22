@@ -1,0 +1,18 @@
+{
+  "appid": 840920,
+  "files": [
+    {
+      "name": "840920.zip",
+      "sha256": "f93fec9effc15666948122472d3e3ea7d6c2c76bdbcf5b7cc4e3c531c25f3686",
+      "size": 379122
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "840920.zip",
+    "sha256": "f93fec9effc15666948122472d3e3ea7d6c2c76bdbcf5b7cc4e3c531c25f3686",
+    "size": 379122
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1994010,
+  "files": [
+    {
+      "name": "1994010.zip",
+      "sha256": "3720c3b40ea94954bc59c13c79261cba7c23a2a6e6ee88df6af88cb9ec69d907",
+      "size": 52253
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1994010.zip",
+    "sha256": "3720c3b40ea94954bc59c13c79261cba7c23a2a6e6ee88df6af88cb9ec69d907",
+    "size": 52253
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

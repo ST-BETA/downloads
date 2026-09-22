@@ -1,0 +1,18 @@
+{
+  "appid": 429360,
+  "files": [
+    {
+      "name": "429360.zip",
+      "sha256": "00fc5e6f66cd1cc460e66a30649c850e8988711e1fcb6213016f53896a63107f",
+      "size": 63646
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "429360.zip",
+    "sha256": "00fc5e6f66cd1cc460e66a30649c850e8988711e1fcb6213016f53896a63107f",
+    "size": 63646
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 15170,
+  "files": [
+    {
+      "name": "15170.zip",
+      "sha256": "9c14f6ffd2f099c58d6c3134d92ef4b04464a1118cb3d4ef781dbce8993189a4",
+      "size": 630645
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "15170.zip",
+    "sha256": "9c14f6ffd2f099c58d6c3134d92ef4b04464a1118cb3d4ef781dbce8993189a4",
+    "size": 630645
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

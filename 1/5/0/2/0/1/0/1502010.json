@@ -1,0 +1,18 @@
+{
+  "appid": 1502010,
+  "files": [
+    {
+      "name": "1502010.zip",
+      "sha256": "c49a492abb6171cfdfc54abc6290966b3eb9087c4d84b867ae97278896e57a6f",
+      "size": 381242
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1502010.zip",
+    "sha256": "c49a492abb6171cfdfc54abc6290966b3eb9087c4d84b867ae97278896e57a6f",
+    "size": 381242
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

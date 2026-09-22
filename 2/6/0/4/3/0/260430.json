@@ -1,0 +1,18 @@
+{
+  "appid": 260430,
+  "files": [
+    {
+      "name": "260430.zip",
+      "sha256": "28048313d404575d3491dbfdbb092ba84ad0d82195f8a8418bcd58523ad7d27a",
+      "size": 4443432
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "260430.zip",
+    "sha256": "28048313d404575d3491dbfdbb092ba84ad0d82195f8a8418bcd58523ad7d27a",
+    "size": 4443432
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

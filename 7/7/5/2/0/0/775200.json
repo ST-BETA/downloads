@@ -1,0 +1,18 @@
+{
+  "appid": 775200,
+  "files": [
+    {
+      "name": "775200.zip",
+      "sha256": "5602d546d2decead0660ba180d8437b504dca2c2381c99f4c2f2652cf1f7a366",
+      "size": 603620
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "775200.zip",
+    "sha256": "5602d546d2decead0660ba180d8437b504dca2c2381c99f4c2f2652cf1f7a366",
+    "size": 603620
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

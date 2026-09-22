@@ -1,0 +1,18 @@
+{
+  "appid": 2228120,
+  "files": [
+    {
+      "name": "2228120.zip",
+      "sha256": "092ae86695120eba24e5cd077a298359357a94e813bb5b1f2bea23b1aa005c70",
+      "size": 598567
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2228120.zip",
+    "sha256": "092ae86695120eba24e5cd077a298359357a94e813bb5b1f2bea23b1aa005c70",
+    "size": 598567
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

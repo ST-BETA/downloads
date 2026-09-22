@@ -1,0 +1,18 @@
+{
+  "appid": 2000970,
+  "files": [
+    {
+      "name": "2000970.zip",
+      "sha256": "64bae1f80b9e7ca659338133377212d17de91b2cdb9d650a1504e310a49fb8ce",
+      "size": 31487
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2000970.zip",
+    "sha256": "64bae1f80b9e7ca659338133377212d17de91b2cdb9d650a1504e310a49fb8ce",
+    "size": 31487
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

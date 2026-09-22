@@ -1,0 +1,18 @@
+{
+  "appid": 386010,
+  "files": [
+    {
+      "name": "386010.zip",
+      "sha256": "8f930006c749a2a58995c3bdc1016bb0aaf9def909d55b56ad629e4c42f1c0bb",
+      "size": 46777
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "386010.zip",
+    "sha256": "8f930006c749a2a58995c3bdc1016bb0aaf9def909d55b56ad629e4c42f1c0bb",
+    "size": 46777
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

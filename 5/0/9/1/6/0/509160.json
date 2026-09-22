@@ -1,0 +1,18 @@
+{
+  "appid": 509160,
+  "files": [
+    {
+      "name": "509160.zip",
+      "sha256": "398bb46b24f3b834a3adf9cec738bf640d04dbf10d6db7927d0650cb043e37dc",
+      "size": 4190
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "509160.zip",
+    "sha256": "398bb46b24f3b834a3adf9cec738bf640d04dbf10d6db7927d0650cb043e37dc",
+    "size": 4190
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

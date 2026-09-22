@@ -1,0 +1,18 @@
+{
+  "appid": 19980,
+  "files": [
+    {
+      "name": "19980.zip",
+      "sha256": "ce25b9c98cfa1dc7959db3cbe575babc9dd3032ad5b0ba02cd84c846e994bc2f",
+      "size": 375083
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "19980.zip",
+    "sha256": "ce25b9c98cfa1dc7959db3cbe575babc9dd3032ad5b0ba02cd84c846e994bc2f",
+    "size": 375083
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

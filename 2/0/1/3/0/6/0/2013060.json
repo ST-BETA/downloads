@@ -1,0 +1,18 @@
+{
+  "appid": 2013060,
+  "files": [
+    {
+      "name": "2013060.zip",
+      "sha256": "e9328ea052fde5b66e3e3e6d72083039c3e09be2310c0d5af961099b15722ba5",
+      "size": 239360
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2013060.zip",
+    "sha256": "e9328ea052fde5b66e3e3e6d72083039c3e09be2310c0d5af961099b15722ba5",
+    "size": 239360
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

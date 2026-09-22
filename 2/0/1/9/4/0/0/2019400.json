@@ -1,0 +1,18 @@
+{
+  "appid": 2019400,
+  "files": [
+    {
+      "name": "2019400.zip",
+      "sha256": "ed5694d052a4ac9dce57fde51429eaf6a7ad01b25dd8af099f9cd7c827badd64",
+      "size": 2305595
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2019400.zip",
+    "sha256": "ed5694d052a4ac9dce57fde51429eaf6a7ad01b25dd8af099f9cd7c827badd64",
+    "size": 2305595
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

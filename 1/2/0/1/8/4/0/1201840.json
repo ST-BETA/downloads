@@ -1,0 +1,18 @@
+{
+  "appid": 1201840,
+  "files": [
+    {
+      "name": "1201840.zip",
+      "sha256": "33551149a4b1fb04b7b66a4fe033b6015beb55aa4a08843b8277496233d0a449",
+      "size": 24092
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1201840.zip",
+    "sha256": "33551149a4b1fb04b7b66a4fe033b6015beb55aa4a08843b8277496233d0a449",
+    "size": 24092
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

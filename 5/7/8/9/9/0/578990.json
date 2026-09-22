@@ -1,0 +1,18 @@
+{
+  "appid": 578990,
+  "files": [
+    {
+      "name": "578990.zip",
+      "sha256": "401f048bdb74aeb8ac964645eea142f31fa41ec2490b8ac2db54b40e174a16e4",
+      "size": 598567
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "578990.zip",
+    "sha256": "401f048bdb74aeb8ac964645eea142f31fa41ec2490b8ac2db54b40e174a16e4",
+    "size": 598567
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

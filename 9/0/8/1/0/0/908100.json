@@ -1,0 +1,18 @@
+{
+  "appid": 908100,
+  "files": [
+    {
+      "name": "908100.zip",
+      "sha256": "ca1483e5ca77b4fbaef9aca1d42bf022da4f8b3fba82ff37f2b8a015c067d0c6",
+      "size": 121167
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "908100.zip",
+    "sha256": "ca1483e5ca77b4fbaef9aca1d42bf022da4f8b3fba82ff37f2b8a015c067d0c6",
+    "size": 121167
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

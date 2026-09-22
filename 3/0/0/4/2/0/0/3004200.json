@@ -1,0 +1,18 @@
+{
+  "appid": 3004200,
+  "files": [
+    {
+      "name": "3004200.zip",
+      "sha256": "43c3e6094cbfa211bac653980ded4dcb957102b46f73e128a0c55ae43ee3748d",
+      "size": 228261
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3004200.zip",
+    "sha256": "43c3e6094cbfa211bac653980ded4dcb957102b46f73e128a0c55ae43ee3748d",
+    "size": 228261
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

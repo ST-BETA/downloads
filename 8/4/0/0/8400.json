@@ -1,0 +1,18 @@
+{
+  "appid": 8400,
+  "files": [
+    {
+      "name": "8400.zip",
+      "sha256": "455c55b137916f905b0a3dd994ff5359c13dd863f63436e7c5b53a646428aa7c",
+      "size": 3765
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "8400.zip",
+    "sha256": "455c55b137916f905b0a3dd994ff5359c13dd863f63436e7c5b53a646428aa7c",
+    "size": 3765
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2011160,
+  "files": [
+    {
+      "name": "2011160.zip",
+      "sha256": "9209fc205470e59c7ae0d58cf28ffb66e21f20502380c65b2d178d8f3e152131",
+      "size": 9666
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2011160.zip",
+    "sha256": "9209fc205470e59c7ae0d58cf28ffb66e21f20502380c65b2d178d8f3e152131",
+    "size": 9666
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

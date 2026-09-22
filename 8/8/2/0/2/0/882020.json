@@ -1,0 +1,18 @@
+{
+  "appid": 882020,
+  "files": [
+    {
+      "name": "882020.zip",
+      "sha256": "8e01311b3efda97ac5a04cbaf7ecfc4dd6e5594fca24119a29a3940a43005fc2",
+      "size": 584291
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "882020.zip",
+    "sha256": "8e01311b3efda97ac5a04cbaf7ecfc4dd6e5594fca24119a29a3940a43005fc2",
+    "size": 584291
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

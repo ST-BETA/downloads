@@ -1,0 +1,18 @@
+{
+  "appid": 680700,
+  "files": [
+    {
+      "name": "680700.zip",
+      "sha256": "9e862aa672518fc728cf49b0f8b15048adf46b101894e5f6add37df9066d1621",
+      "size": 313210
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "680700.zip",
+    "sha256": "9e862aa672518fc728cf49b0f8b15048adf46b101894e5f6add37df9066d1621",
+    "size": 313210
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

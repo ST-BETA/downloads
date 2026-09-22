@@ -1,0 +1,18 @@
+{
+  "appid": 1008700,
+  "files": [
+    {
+      "name": "1008700.zip",
+      "sha256": "e868da2986f48dc9f453038573474f63c4b898e4b9598dc0c8b7be53c1a958a3",
+      "size": 64559
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1008700.zip",
+    "sha256": "e868da2986f48dc9f453038573474f63c4b898e4b9598dc0c8b7be53c1a958a3",
+    "size": 64559
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

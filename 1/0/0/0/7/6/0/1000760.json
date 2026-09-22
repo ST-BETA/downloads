@@ -1,0 +1,18 @@
+{
+  "appid": 1000760,
+  "files": [
+    {
+      "name": "1000760.zip",
+      "sha256": "ffc8cb7d01bb7a3e39e115ea87fd5718bfd1fccc5f4451e13ead9c2e2ff4d0c0",
+      "size": 126972
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1000760.zip",
+    "sha256": "ffc8cb7d01bb7a3e39e115ea87fd5718bfd1fccc5f4451e13ead9c2e2ff4d0c0",
+    "size": 126972
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

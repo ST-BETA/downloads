@@ -1,0 +1,18 @@
+{
+  "appid": 2100210,
+  "files": [
+    {
+      "name": "2100210.zip",
+      "sha256": "c1970fde345f619e3594bdc337d167be77c4b9b734d144147c4d0d8f700726cc",
+      "size": 22306
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2100210.zip",
+    "sha256": "c1970fde345f619e3594bdc337d167be77c4b9b734d144147c4d0d8f700726cc",
+    "size": 22306
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 20500,
+  "files": [
+    {
+      "name": "20500.zip",
+      "sha256": "34e6da4728aec97a8f5013ed7b856026ea413dd6ea7407c8ea3a61ba50c35e7d",
+      "size": 850670
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "20500.zip",
+    "sha256": "34e6da4728aec97a8f5013ed7b856026ea413dd6ea7407c8ea3a61ba50c35e7d",
+    "size": 850670
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

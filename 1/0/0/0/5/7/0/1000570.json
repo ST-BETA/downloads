@@ -1,0 +1,18 @@
+{
+  "appid": 1000570,
+  "files": [
+    {
+      "name": "1000570.zip",
+      "sha256": "f2d617e101ad5b7ea69365c3811bbf857e1a82ce4749aaccdb17da39cd6c83b4",
+      "size": 38829
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1000570.zip",
+    "sha256": "f2d617e101ad5b7ea69365c3811bbf857e1a82ce4749aaccdb17da39cd6c83b4",
+    "size": 38829
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

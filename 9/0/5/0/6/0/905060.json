@@ -1,0 +1,18 @@
+{
+  "appid": 905060,
+  "files": [
+    {
+      "name": "905060.zip",
+      "sha256": "5ba2e3b81cb377d64fcc17bc6ce01128898a1b267f07c091891edd415d939df6",
+      "size": 32972
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "905060.zip",
+    "sha256": "5ba2e3b81cb377d64fcc17bc6ce01128898a1b267f07c091891edd415d939df6",
+    "size": 32972
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

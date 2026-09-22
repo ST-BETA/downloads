@@ -1,0 +1,18 @@
+{
+  "appid": 278850,
+  "files": [
+    {
+      "name": "278850.zip",
+      "sha256": "1543d574a027f301a476fc44ca3df16c10cfd53e09cdd5cdbcd095dcf31263cb",
+      "size": 17920
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "278850.zip",
+    "sha256": "1543d574a027f301a476fc44ca3df16c10cfd53e09cdd5cdbcd095dcf31263cb",
+    "size": 17920
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

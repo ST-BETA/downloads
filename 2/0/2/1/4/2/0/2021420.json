@@ -1,0 +1,18 @@
+{
+  "appid": 2021420,
+  "files": [
+    {
+      "name": "2021420.zip",
+      "sha256": "05917a81b033ad5a7e7fb89b0b180f3c010dbc38d7ccd83e680ef90fa729aa71",
+      "size": 371498
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2021420.zip",
+    "sha256": "05917a81b033ad5a7e7fb89b0b180f3c010dbc38d7ccd83e680ef90fa729aa71",
+    "size": 371498
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

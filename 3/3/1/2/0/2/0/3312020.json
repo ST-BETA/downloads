@@ -1,0 +1,18 @@
+{
+  "appid": 3312020,
+  "files": [
+    {
+      "name": "3312020.zip",
+      "sha256": "2f2b879e5accdc6b73610530c7308721bdc507ef1734c7a9e817d32463de1208",
+      "size": 99222
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3312020.zip",
+    "sha256": "2f2b879e5accdc6b73610530c7308721bdc507ef1734c7a9e817d32463de1208",
+    "size": 99222
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1081300,
+  "files": [
+    {
+      "name": "1081300.zip",
+      "sha256": "ac9c4359ebbed8be767b80222d70e33b80bb85e64a21a3c12898baa376fd6b4b",
+      "size": 145123
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1081300.zip",
+    "sha256": "ac9c4359ebbed8be767b80222d70e33b80bb85e64a21a3c12898baa376fd6b4b",
+    "size": 145123
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

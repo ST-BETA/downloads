@@ -1,0 +1,18 @@
+{
+  "appid": 577360,
+  "files": [
+    {
+      "name": "577360.zip",
+      "sha256": "ce0453e4e9c959f6ca27954215f99b19290426b8dd583e3ea7ce83ef417ebfcc",
+      "size": 183405
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "577360.zip",
+    "sha256": "ce0453e4e9c959f6ca27954215f99b19290426b8dd583e3ea7ce83ef417ebfcc",
+    "size": 183405
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

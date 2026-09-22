@@ -1,0 +1,18 @@
+{
+  "appid": 850110,
+  "files": [
+    {
+      "name": "850110.zip",
+      "sha256": "b727f3d28873f8df34fb6592047178c09f56026a830f90cf03c8348f5e2fe1e4",
+      "size": 10035
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "850110.zip",
+    "sha256": "b727f3d28873f8df34fb6592047178c09f56026a830f90cf03c8348f5e2fe1e4",
+    "size": 10035
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

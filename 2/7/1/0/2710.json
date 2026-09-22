@@ -1,0 +1,18 @@
+{
+  "appid": 2710,
+  "files": [
+    {
+      "name": "2710.zip",
+      "sha256": "eac2c3774cca9c5abbda5d6bcf16aa62824a9d40c7c17d6bfd142fa2331250a5",
+      "size": 491162
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2710.zip",
+    "sha256": "eac2c3774cca9c5abbda5d6bcf16aa62824a9d40c7c17d6bfd142fa2331250a5",
+    "size": 491162
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

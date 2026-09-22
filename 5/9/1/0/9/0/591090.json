@@ -1,0 +1,18 @@
+{
+  "appid": 591090,
+  "files": [
+    {
+      "name": "591090.zip",
+      "sha256": "29225c3fea0368da243ee7965e833f7669dbad87bd3decb8ef660f5331134e28",
+      "size": 50005
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "591090.zip",
+    "sha256": "29225c3fea0368da243ee7965e833f7669dbad87bd3decb8ef660f5331134e28",
+    "size": 50005
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

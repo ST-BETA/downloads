@@ -1,0 +1,18 @@
+{
+  "appid": 3201250,
+  "files": [
+    {
+      "name": "3201250.zip",
+      "sha256": "5dc97ffb273c4a608888b28f0d4160bdbf8612c492c63c12f45c2a45dea9e5eb",
+      "size": 484433
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3201250.zip",
+    "sha256": "5dc97ffb273c4a608888b28f0d4160bdbf8612c492c63c12f45c2a45dea9e5eb",
+    "size": 484433
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

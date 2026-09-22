@@ -1,0 +1,18 @@
+{
+  "appid": 1045180,
+  "files": [
+    {
+      "name": "1045180.zip",
+      "sha256": "6855739836a95974b68a88133da7fdf706bb2c97484e1706b9ff2809c5ae0bc8",
+      "size": 295848
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1045180.zip",
+    "sha256": "6855739836a95974b68a88133da7fdf706bb2c97484e1706b9ff2809c5ae0bc8",
+    "size": 295848
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

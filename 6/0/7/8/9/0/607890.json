@@ -1,0 +1,18 @@
+{
+  "appid": 607890,
+  "files": [
+    {
+      "name": "607890.zip",
+      "sha256": "a3db072169d5f9afec41c98729534b9da0f8a9c7a0ac4f84b0ec6495a8d1e3e7",
+      "size": 1991634
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "607890.zip",
+    "sha256": "a3db072169d5f9afec41c98729534b9da0f8a9c7a0ac4f84b0ec6495a8d1e3e7",
+    "size": 1991634
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

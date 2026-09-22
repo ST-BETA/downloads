@@ -1,0 +1,18 @@
+{
+  "appid": 3531300,
+  "files": [
+    {
+      "name": "3531300.zip",
+      "sha256": "ab2d7326d8765ab77a631a4684bca49f17d39fef4312a7bd3cf429ee29db3f04",
+      "size": 52850
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3531300.zip",
+    "sha256": "ab2d7326d8765ab77a631a4684bca49f17d39fef4312a7bd3cf429ee29db3f04",
+    "size": 52850
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

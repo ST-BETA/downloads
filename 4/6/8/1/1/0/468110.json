@@ -1,0 +1,18 @@
+{
+  "appid": 468110,
+  "files": [
+    {
+      "name": "468110.zip",
+      "sha256": "44833eeca385bc5374ec14ce21638d37232676005d00414186970ca618edae7c",
+      "size": 53939
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "468110.zip",
+    "sha256": "44833eeca385bc5374ec14ce21638d37232676005d00414186970ca618edae7c",
+    "size": 53939
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

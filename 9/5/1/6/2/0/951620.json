@@ -1,0 +1,18 @@
+{
+  "appid": 951620,
+  "files": [
+    {
+      "name": "951620.zip",
+      "sha256": "80595d28ffab170de0383c2fd508157361d1f062b5d5944f51702d2728d22ba4",
+      "size": 920529
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "951620.zip",
+    "sha256": "80595d28ffab170de0383c2fd508157361d1f062b5d5944f51702d2728d22ba4",
+    "size": 920529
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

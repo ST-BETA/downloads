@@ -1,0 +1,18 @@
+{
+  "appid": 528110,
+  "files": [
+    {
+      "name": "528110.zip",
+      "sha256": "fe27c7bf37088a5031361db3e45e74aea35e256dd49def8fa9cc0a6bc0cc6896",
+      "size": 9002
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "528110.zip",
+    "sha256": "fe27c7bf37088a5031361db3e45e74aea35e256dd49def8fa9cc0a6bc0cc6896",
+    "size": 9002
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1020270,
+  "files": [
+    {
+      "name": "1020270.zip",
+      "sha256": "face386f85fa7cebd500c2ed35dad3c24c9e5021cb08a6f6ae90677efd32396e",
+      "size": 46250
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1020270.zip",
+    "sha256": "face386f85fa7cebd500c2ed35dad3c24c9e5021cb08a6f6ae90677efd32396e",
+    "size": 46250
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

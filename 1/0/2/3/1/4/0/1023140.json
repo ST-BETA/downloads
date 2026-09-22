@@ -1,0 +1,18 @@
+{
+  "appid": 1023140,
+  "files": [
+    {
+      "name": "1023140.zip",
+      "sha256": "0159f08fbd8e14ea1e59f6816c72bf6427e035263b522d24b89c471cf627cc12",
+      "size": 656046
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1023140.zip",
+    "sha256": "0159f08fbd8e14ea1e59f6816c72bf6427e035263b522d24b89c471cf627cc12",
+    "size": 656046
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

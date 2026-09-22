@@ -1,0 +1,18 @@
+{
+  "appid": 405050,
+  "files": [
+    {
+      "name": "405050.zip",
+      "sha256": "07630243533fb5e91cb831ded0a0ae0e7a6e83ef6f0bcab107321f4cb94c749a",
+      "size": 58955
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "405050.zip",
+    "sha256": "07630243533fb5e91cb831ded0a0ae0e7a6e83ef6f0bcab107321f4cb94c749a",
+    "size": 58955
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

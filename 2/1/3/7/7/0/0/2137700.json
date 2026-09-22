@@ -1,0 +1,18 @@
+{
+  "appid": 2137700,
+  "files": [
+    {
+      "name": "2137700.zip",
+      "sha256": "d28513fbcafb8e307dd72cd6659f99dc393ba9db34143717e0830d7bb5d11c5b",
+      "size": 1171604
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2137700.zip",
+    "sha256": "d28513fbcafb8e307dd72cd6659f99dc393ba9db34143717e0830d7bb5d11c5b",
+    "size": 1171604
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 513,
+  "files": [
+    {
+      "name": "513.zip",
+      "sha256": "99d3cf8026b07b92934d17553eb447a7e76d023e0b0f95df42bdfa5285908aa7",
+      "size": 64562
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "513.zip",
+    "sha256": "99d3cf8026b07b92934d17553eb447a7e76d023e0b0f95df42bdfa5285908aa7",
+    "size": 64562
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

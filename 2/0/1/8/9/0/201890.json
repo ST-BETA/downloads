@@ -1,0 +1,18 @@
+{
+  "appid": 201890,
+  "files": [
+    {
+      "name": "201890.zip",
+      "sha256": "e789ed0aab6be4fff4d3ee62957846c45e10dc24a34ee565f2fd0d21a8221e74",
+      "size": 17551
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201890.zip",
+    "sha256": "e789ed0aab6be4fff4d3ee62957846c45e10dc24a34ee565f2fd0d21a8221e74",
+    "size": 17551
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

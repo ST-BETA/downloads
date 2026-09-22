@@ -1,0 +1,18 @@
+{
+  "appid": 32770,
+  "files": [
+    {
+      "name": "32770.zip",
+      "sha256": "e644f4d371052089ceef51e1d73d19cd73c02ac2679d2e5f47816f0903b5fd60",
+      "size": 88077
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "32770.zip",
+    "sha256": "e644f4d371052089ceef51e1d73d19cd73c02ac2679d2e5f47816f0903b5fd60",
+    "size": 88077
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

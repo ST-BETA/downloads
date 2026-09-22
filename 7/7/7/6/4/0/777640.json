@@ -1,0 +1,18 @@
+{
+  "appid": 777640,
+  "files": [
+    {
+      "name": "777640.zip",
+      "sha256": "bbfba06310d3b5664b05cd9a752648cc4b7d21602a026fd71e6a839f2385cdff",
+      "size": 98068
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "777640.zip",
+    "sha256": "bbfba06310d3b5664b05cd9a752648cc4b7d21602a026fd71e6a839f2385cdff",
+    "size": 98068
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

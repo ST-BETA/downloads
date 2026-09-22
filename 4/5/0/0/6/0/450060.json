@@ -1,0 +1,18 @@
+{
+  "appid": 450060,
+  "files": [
+    {
+      "name": "450060.zip",
+      "sha256": "6c30620e91c8d123a44086198f830bfca181c7d610f71da2905d5dbdc9955264",
+      "size": 430882
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "450060.zip",
+    "sha256": "6c30620e91c8d123a44086198f830bfca181c7d610f71da2905d5dbdc9955264",
+    "size": 430882
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

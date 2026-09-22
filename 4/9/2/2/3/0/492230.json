@@ -1,0 +1,18 @@
+{
+  "appid": 492230,
+  "files": [
+    {
+      "name": "492230.zip",
+      "sha256": "e2bd0ecbfb6e699e5d4ae09aeae779d4833a56e1e00cc5baec74a8c582ed347c",
+      "size": 200124
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "492230.zip",
+    "sha256": "e2bd0ecbfb6e699e5d4ae09aeae779d4833a56e1e00cc5baec74a8c582ed347c",
+    "size": 200124
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

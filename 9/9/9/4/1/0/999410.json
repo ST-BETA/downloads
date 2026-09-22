@@ -1,0 +1,18 @@
+{
+  "appid": 999410,
+  "files": [
+    {
+      "name": "999410.zip",
+      "sha256": "138489f3c78975c6ec8df39aa2c1f4da3c9dced96c13b3ea70443d56398b60e3",
+      "size": 2620
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "999410.zip",
+    "sha256": "138489f3c78975c6ec8df39aa2c1f4da3c9dced96c13b3ea70443d56398b60e3",
+    "size": 2620
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

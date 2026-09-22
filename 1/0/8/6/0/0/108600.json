@@ -1,0 +1,18 @@
+{
+  "appid": 108600,
+  "files": [
+    {
+      "name": "108600.zip",
+      "sha256": "14e41ee86665c2417973b4a3b80c4b0010fbefdea377e0a5335a3020db298512",
+      "size": 23611496
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "108600.zip",
+    "sha256": "14e41ee86665c2417973b4a3b80c4b0010fbefdea377e0a5335a3020db298512",
+    "size": 23611496
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

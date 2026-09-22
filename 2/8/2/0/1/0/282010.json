@@ -1,0 +1,18 @@
+{
+  "appid": 282010,
+  "files": [
+    {
+      "name": "282010.zip",
+      "sha256": "2432cd0bfe0dbc76f4e79ffa156356c3c0149b36cf9b7d011058f5bdbcb3fd7a",
+      "size": 947946
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "282010.zip",
+    "sha256": "2432cd0bfe0dbc76f4e79ffa156356c3c0149b36cf9b7d011058f5bdbcb3fd7a",
+    "size": 947946
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

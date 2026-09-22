@@ -1,0 +1,18 @@
+{
+  "appid": 980300,
+  "files": [
+    {
+      "name": "980300.zip",
+      "sha256": "0e1aec9855e13e9415a62832c6f28ca1e383cab9c802c3c7be586fe1f8d24c07",
+      "size": 143438
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "980300.zip",
+    "sha256": "0e1aec9855e13e9415a62832c6f28ca1e383cab9c802c3c7be586fe1f8d24c07",
+    "size": 143438
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

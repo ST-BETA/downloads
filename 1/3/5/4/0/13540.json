@@ -1,0 +1,18 @@
+{
+  "appid": 13540,
+  "files": [
+    {
+      "name": "13540.zip",
+      "sha256": "d41f3d131451ba36f00de1a0b446c0344b67da639057cb84b344d118f278c445",
+      "size": 780326
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "13540.zip",
+    "sha256": "d41f3d131451ba36f00de1a0b446c0344b67da639057cb84b344d118f278c445",
+    "size": 780326
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

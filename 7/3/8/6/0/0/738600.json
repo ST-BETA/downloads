@@ -1,0 +1,18 @@
+{
+  "appid": 738600,
+  "files": [
+    {
+      "name": "738600.zip",
+      "sha256": "b88cc1aa64f5912c2ebf44180b8521997f06358f8588b332998a53f4ba82791d",
+      "size": 115366
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "738600.zip",
+    "sha256": "b88cc1aa64f5912c2ebf44180b8521997f06358f8588b332998a53f4ba82791d",
+    "size": 115366
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

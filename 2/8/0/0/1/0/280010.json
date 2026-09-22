@@ -1,0 +1,18 @@
+{
+  "appid": 280010,
+  "files": [
+    {
+      "name": "280010.zip",
+      "sha256": "8e461fa3bb0425a9b2a24c95b20cd47c73dd5a2d4d10776fb764d274e30e1736",
+      "size": 150848
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "280010.zip",
+    "sha256": "8e461fa3bb0425a9b2a24c95b20cd47c73dd5a2d4d10776fb764d274e30e1736",
+    "size": 150848
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

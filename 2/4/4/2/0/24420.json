@@ -1,0 +1,18 @@
+{
+  "appid": 24420,
+  "files": [
+    {
+      "name": "24420.zip",
+      "sha256": "db1fed014dc7510c1db53e0b8119c60f09daa531ee9af4f821a8f96c89b0843a",
+      "size": 1170833
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "24420.zip",
+    "sha256": "db1fed014dc7510c1db53e0b8119c60f09daa531ee9af4f821a8f96c89b0843a",
+    "size": 1170833
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

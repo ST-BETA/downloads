@@ -1,0 +1,18 @@
+{
+  "appid": 204260,
+  "files": [
+    {
+      "name": "204260.zip",
+      "sha256": "001b0e272b16c9ee34f9cee0cb1e940ae612bdd8c4325eb79dcdd05f1416e753",
+      "size": 59667
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "204260.zip",
+    "sha256": "001b0e272b16c9ee34f9cee0cb1e940ae612bdd8c4325eb79dcdd05f1416e753",
+    "size": 59667
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2337040,
+  "files": [
+    {
+      "name": "2337040.zip",
+      "sha256": "c553a1de74a64325668072123683b2908e4c03c6c4975019176dcd13eed1bd03",
+      "size": 21413
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2337040.zip",
+    "sha256": "c553a1de74a64325668072123683b2908e4c03c6c4975019176dcd13eed1bd03",
+    "size": 21413
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

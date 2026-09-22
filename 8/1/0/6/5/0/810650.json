@@ -1,0 +1,18 @@
+{
+  "appid": 810650,
+  "files": [
+    {
+      "name": "810650.zip",
+      "sha256": "d561c870a0a92bc6bbd35c288c5052b0f249a9338c3a77345da20ed36a874347",
+      "size": 188219
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "810650.zip",
+    "sha256": "d561c870a0a92bc6bbd35c288c5052b0f249a9338c3a77345da20ed36a874347",
+    "size": 188219
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

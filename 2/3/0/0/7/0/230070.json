@@ -1,0 +1,18 @@
+{
+  "appid": 230070,
+  "files": [
+    {
+      "name": "230070.zip",
+      "sha256": "dfd44931bda9416e91ecc11a673d3d8bf8e944948a00529370a6f59b117b2cf8",
+      "size": 921058
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "230070.zip",
+    "sha256": "dfd44931bda9416e91ecc11a673d3d8bf8e944948a00529370a6f59b117b2cf8",
+    "size": 921058
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

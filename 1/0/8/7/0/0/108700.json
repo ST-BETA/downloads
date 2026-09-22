@@ -1,0 +1,18 @@
+{
+  "appid": 108700,
+  "files": [
+    {
+      "name": "108700.zip",
+      "sha256": "f17f158a014c26a557edd2b0d522f182a013a2131b88590bb1800012c560b8e3",
+      "size": 49686
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "108700.zip",
+    "sha256": "f17f158a014c26a557edd2b0d522f182a013a2131b88590bb1800012c560b8e3",
+    "size": 49686
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

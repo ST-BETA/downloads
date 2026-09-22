@@ -1,0 +1,18 @@
+{
+  "appid": 3006900,
+  "files": [
+    {
+      "name": "3006900.zip",
+      "sha256": "594731383a2ac423fcec730ba8371fbd07604c6201d570488d9f226c3ff1ecf3",
+      "size": 293544
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3006900.zip",
+    "sha256": "594731383a2ac423fcec730ba8371fbd07604c6201d570488d9f226c3ff1ecf3",
+    "size": 293544
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 10090,
+  "files": [
+    {
+      "name": "10090.zip",
+      "sha256": "4ac7682acf7bda9554c6d2d34ea7883782f2616885b9ae033d939277c8b76f3c",
+      "size": 1430038
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "10090.zip",
+    "sha256": "4ac7682acf7bda9554c6d2d34ea7883782f2616885b9ae033d939277c8b76f3c",
+    "size": 1430038
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

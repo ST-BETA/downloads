@@ -1,0 +1,18 @@
+{
+  "appid": 853000,
+  "files": [
+    {
+      "name": "853000.zip",
+      "sha256": "a3cc1b1f4d700c0d0f15e2e9ebfd290e4fbd6d5188d58c4e68cb38cdbcbf2cb6",
+      "size": 37373
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "853000.zip",
+    "sha256": "a3cc1b1f4d700c0d0f15e2e9ebfd290e4fbd6d5188d58c4e68cb38cdbcbf2cb6",
+    "size": 37373
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 888790,
+  "files": [
+    {
+      "name": "888790.zip",
+      "sha256": "aee674bc0430939e39d310c5206949791c290e6575279cb897ead01c960d14e5",
+      "size": 323886
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "888790.zip",
+    "sha256": "aee674bc0430939e39d310c5206949791c290e6575279cb897ead01c960d14e5",
+    "size": 323886
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 570,
+  "files": [
+    {
+      "name": "570.zip",
+      "sha256": "65a9079cbfed0eb75439323d99f84a17c02b431468126c38208ac647d8d46617",
+      "size": 20641983
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "570.zip",
+    "sha256": "65a9079cbfed0eb75439323d99f84a17c02b431468126c38208ac647d8d46617",
+    "size": 20641983
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

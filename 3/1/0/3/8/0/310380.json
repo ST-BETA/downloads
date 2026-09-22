@@ -1,0 +1,18 @@
+{
+  "appid": 310380,
+  "files": [
+    {
+      "name": "310380.zip",
+      "sha256": "d3b221b0b5c342543ae51790c05818012af7d51cba53e285c11c635c407ab650",
+      "size": 4214709
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "310380.zip",
+    "sha256": "d3b221b0b5c342543ae51790c05818012af7d51cba53e285c11c635c407ab650",
+    "size": 4214709
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

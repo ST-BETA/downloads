@@ -1,0 +1,18 @@
+{
+  "appid": 786590,
+  "files": [
+    {
+      "name": "786590.zip",
+      "sha256": "9e64a8cea437e705b85e9602bcd667886e17c60252544b684fd094d1d844d040",
+      "size": 1010
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "786590.zip",
+    "sha256": "9e64a8cea437e705b85e9602bcd667886e17c60252544b684fd094d1d844d040",
+    "size": 1010
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

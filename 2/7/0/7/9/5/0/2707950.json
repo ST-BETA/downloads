@@ -1,0 +1,18 @@
+{
+  "appid": 2707950,
+  "files": [
+    {
+      "name": "2707950.zip",
+      "sha256": "deb5f0387c4093bb9c5fcca17b400a8c288531fdb09ae5a5955a46efb69ae9b6",
+      "size": 52650
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2707950.zip",
+    "sha256": "deb5f0387c4093bb9c5fcca17b400a8c288531fdb09ae5a5955a46efb69ae9b6",
+    "size": 52650
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 974010,
+  "files": [
+    {
+      "name": "974010.zip",
+      "sha256": "2065652827573387fd4b638979760fba9311438f928e3c43c3419fd7d642262e",
+      "size": 7350
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "974010.zip",
+    "sha256": "2065652827573387fd4b638979760fba9311438f928e3c43c3419fd7d642262e",
+    "size": 7350
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

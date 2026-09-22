@@ -1,0 +1,18 @@
+{
+  "appid": 888040,
+  "files": [
+    {
+      "name": "888040.zip",
+      "sha256": "249c0e723e46dc434968df659889f8aab0a88261306d159cb3468d6e60cb6f13",
+      "size": 132151
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "888040.zip",
+    "sha256": "249c0e723e46dc434968df659889f8aab0a88261306d159cb3468d6e60cb6f13",
+    "size": 132151
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

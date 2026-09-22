@@ -1,0 +1,18 @@
+{
+  "appid": 502380,
+  "files": [
+    {
+      "name": "502380.zip",
+      "sha256": "0d7a8ec2302232e9924435ef07603b41726d6471f0159a1120f25b289efd6076",
+      "size": 328747
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "502380.zip",
+    "sha256": "0d7a8ec2302232e9924435ef07603b41726d6471f0159a1120f25b289efd6076",
+    "size": 328747
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

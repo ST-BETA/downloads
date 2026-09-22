@@ -1,0 +1,23 @@
+{
+  "appid": 24010,
+  "files": [
+    {
+      "name": "24010_001.zip",
+      "sha256": "eb00c0d1027ed06de90d76c9b2465c59e856880f71963cec788fa87260bbaa69",
+      "size": 103809024
+    },
+    {
+      "name": "24010_002.zip",
+      "sha256": "73fa6a335ae79827f00e085aa64fed3011b17eb69e0d48bf6378e952c2648263",
+      "size": 64763581
+    }
+  ],
+  "merge": true,
+  "original": {
+    "name": "24010.zip",
+    "sha256": "ef01e9b7f21c6128311da687adfa02e950fde9f9370f95847a50ae6f1075c51b",
+    "size": 168572605
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

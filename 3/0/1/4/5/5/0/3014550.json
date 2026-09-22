@@ -1,0 +1,18 @@
+{
+  "appid": 3014550,
+  "files": [
+    {
+      "name": "3014550.zip",
+      "sha256": "ecb727b2640c142252539da837d7ef418fec19d2f8da70cdde46f4dbcac1da22",
+      "size": 397400
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3014550.zip",
+    "sha256": "ecb727b2640c142252539da837d7ef418fec19d2f8da70cdde46f4dbcac1da22",
+    "size": 397400
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

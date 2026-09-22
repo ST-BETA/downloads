@@ -1,0 +1,18 @@
+{
+  "appid": 1636000,
+  "files": [
+    {
+      "name": "1636000.zip",
+      "sha256": "79eec6d58b8f7cf6cfc9fa2aec52e16be2377310ba33347a2a5cfecf00d3e90a",
+      "size": 30925
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1636000.zip",
+    "sha256": "79eec6d58b8f7cf6cfc9fa2aec52e16be2377310ba33347a2a5cfecf00d3e90a",
+    "size": 30925
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2011250,
+  "files": [
+    {
+      "name": "2011250.zip",
+      "sha256": "30a5fdda0464bc7f9c4a38fd7f24c52dc98f9310a78c01ceef05a6e6c10ce922",
+      "size": 33806
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2011250.zip",
+    "sha256": "30a5fdda0464bc7f9c4a38fd7f24c52dc98f9310a78c01ceef05a6e6c10ce922",
+    "size": 33806
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

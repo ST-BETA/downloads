@@ -1,0 +1,18 @@
+{
+  "appid": 9900,
+  "files": [
+    {
+      "name": "9900.zip",
+      "sha256": "1bd2efccf809e4887a8c56a7965d76683c35228776e3c46085527c83e847b930",
+      "size": 45805
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "9900.zip",
+    "sha256": "1bd2efccf809e4887a8c56a7965d76683c35228776e3c46085527c83e847b930",
+    "size": 45805
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

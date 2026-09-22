@@ -1,0 +1,18 @@
+{
+  "appid": 841600,
+  "files": [
+    {
+      "name": "841600.zip",
+      "sha256": "d99fa8b7d341fae6d32b5e882feb6f602806eb2d1693f3649a0ce824967bb0b8",
+      "size": 1930759
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "841600.zip",
+    "sha256": "d99fa8b7d341fae6d32b5e882feb6f602806eb2d1693f3649a0ce824967bb0b8",
+    "size": 1930759
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

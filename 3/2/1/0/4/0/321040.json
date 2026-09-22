@@ -1,0 +1,18 @@
+{
+  "appid": 321040,
+  "files": [
+    {
+      "name": "321040.zip",
+      "sha256": "013f98839e37abdff229dfc7a71cbf6991c51c213cfce43157cf03f3d3d8e88a",
+      "size": 5060864
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "321040.zip",
+    "sha256": "013f98839e37abdff229dfc7a71cbf6991c51c213cfce43157cf03f3d3d8e88a",
+    "size": 5060864
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

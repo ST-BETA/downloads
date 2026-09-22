@@ -1,0 +1,18 @@
+{
+  "appid": 371700,
+  "files": [
+    {
+      "name": "371700.zip",
+      "sha256": "111f66b86a2ce60a1355d460d54e5ddfe1df4e994dfba1fdd9954a21e400e8da",
+      "size": 78662
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "371700.zip",
+    "sha256": "111f66b86a2ce60a1355d460d54e5ddfe1df4e994dfba1fdd9954a21e400e8da",
+    "size": 78662
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

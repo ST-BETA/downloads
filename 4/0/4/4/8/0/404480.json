@@ -1,0 +1,18 @@
+{
+  "appid": 404480,
+  "files": [
+    {
+      "name": "404480.zip",
+      "sha256": "993fcd3294abe756429e456faa44587c4d797f659374717aacfd2adaecab0987",
+      "size": 307497
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "404480.zip",
+    "sha256": "993fcd3294abe756429e456faa44587c4d797f659374717aacfd2adaecab0987",
+    "size": 307497
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

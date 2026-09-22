@@ -1,0 +1,18 @@
+{
+  "appid": 580930,
+  "files": [
+    {
+      "name": "580930.zip",
+      "sha256": "76010593433d4497ddbac137785b0b619efb9ada10158cbc2ed5eeaf388a493d",
+      "size": 302826
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "580930.zip",
+    "sha256": "76010593433d4497ddbac137785b0b619efb9ada10158cbc2ed5eeaf388a493d",
+    "size": 302826
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

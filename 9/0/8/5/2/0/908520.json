@@ -1,0 +1,18 @@
+{
+  "appid": 908520,
+  "files": [
+    {
+      "name": "908520.zip",
+      "sha256": "eb81c0412ecdf7a9afc5ae20f27ecdf0e5c36651a17c1897bf527be87c982dda",
+      "size": 15136
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "908520.zip",
+    "sha256": "eb81c0412ecdf7a9afc5ae20f27ecdf0e5c36651a17c1897bf527be87c982dda",
+    "size": 15136
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

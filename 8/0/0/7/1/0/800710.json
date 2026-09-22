@@ -1,0 +1,18 @@
+{
+  "appid": 800710,
+  "files": [
+    {
+      "name": "800710.zip",
+      "sha256": "8d1f7253546a40157cd67fa06ce306874e18d08fcc3134d74c673a210665e7b3",
+      "size": 15244
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "800710.zip",
+    "sha256": "8d1f7253546a40157cd67fa06ce306874e18d08fcc3134d74c673a210665e7b3",
+    "size": 15244
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

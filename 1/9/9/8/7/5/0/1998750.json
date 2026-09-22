@@ -1,0 +1,18 @@
+{
+  "appid": 1998750,
+  "files": [
+    {
+      "name": "1998750.zip",
+      "sha256": "0bd5636b4c4b54db725905569e35740008985cfc6a4045c3b25fb48481460a99",
+      "size": 35116
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1998750.zip",
+    "sha256": "0bd5636b4c4b54db725905569e35740008985cfc6a4045c3b25fb48481460a99",
+    "size": 35116
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

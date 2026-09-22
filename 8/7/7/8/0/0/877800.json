@@ -1,0 +1,18 @@
+{
+  "appid": 877800,
+  "files": [
+    {
+      "name": "877800.zip",
+      "sha256": "f73729307edafb486dcbbd6a76acb1e7e08b9d2b38bcee6bab87a79fa165ef0f",
+      "size": 80385
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "877800.zip",
+    "sha256": "f73729307edafb486dcbbd6a76acb1e7e08b9d2b38bcee6bab87a79fa165ef0f",
+    "size": 80385
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

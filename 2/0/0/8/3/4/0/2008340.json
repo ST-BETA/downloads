@@ -1,0 +1,18 @@
+{
+  "appid": 2008340,
+  "files": [
+    {
+      "name": "2008340.zip",
+      "sha256": "edb8227f4dd2897424cb9d1f4b409789c4b80263923ab6ecc6310cfabb7b865d",
+      "size": 158448
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2008340.zip",
+    "sha256": "edb8227f4dd2897424cb9d1f4b409789c4b80263923ab6ecc6310cfabb7b865d",
+    "size": 158448
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

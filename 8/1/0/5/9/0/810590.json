@@ -1,0 +1,18 @@
+{
+  "appid": 810590,
+  "files": [
+    {
+      "name": "810590.zip",
+      "sha256": "25e0d5b11004556a54c637e04287ab115e93eee853084fd2e3f3363d5d373baa",
+      "size": 24285
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "810590.zip",
+    "sha256": "25e0d5b11004556a54c637e04287ab115e93eee853084fd2e3f3363d5d373baa",
+    "size": 24285
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

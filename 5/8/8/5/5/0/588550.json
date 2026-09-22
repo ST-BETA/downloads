@@ -1,0 +1,18 @@
+{
+  "appid": 588550,
+  "files": [
+    {
+      "name": "588550.zip",
+      "sha256": "33689e0dc81e25ebd5913e9e420c7b06aac8d84ceaedcfafd16cf09d90fb34fc",
+      "size": 195225
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "588550.zip",
+    "sha256": "33689e0dc81e25ebd5913e9e420c7b06aac8d84ceaedcfafd16cf09d90fb34fc",
+    "size": 195225
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1206900,
+  "files": [
+    {
+      "name": "1206900.zip",
+      "sha256": "864ad2d560cd8f72c2aa711e76e5bb65a82571f3beaa73edda6f47212a6489da",
+      "size": 31815
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1206900.zip",
+    "sha256": "864ad2d560cd8f72c2aa711e76e5bb65a82571f3beaa73edda6f47212a6489da",
+    "size": 31815
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

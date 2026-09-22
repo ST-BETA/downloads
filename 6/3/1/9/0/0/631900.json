@@ -1,0 +1,18 @@
+{
+  "appid": 631900,
+  "files": [
+    {
+      "name": "631900.zip",
+      "sha256": "8d121d6b7ab0741c5e6c06d915e8671873df6bf4fcecb26c4a859466728bb127",
+      "size": 98191
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "631900.zip",
+    "sha256": "8d121d6b7ab0741c5e6c06d915e8671873df6bf4fcecb26c4a859466728bb127",
+    "size": 98191
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

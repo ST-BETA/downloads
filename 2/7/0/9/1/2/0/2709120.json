@@ -1,0 +1,18 @@
+{
+  "appid": 2709120,
+  "files": [
+    {
+      "name": "2709120.zip",
+      "sha256": "cf753d62524488113cac86b63ccefcc0866d0ec2ddab9e2c099dd385426dc665",
+      "size": 104426
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2709120.zip",
+    "sha256": "cf753d62524488113cac86b63ccefcc0866d0ec2ddab9e2c099dd385426dc665",
+    "size": 104426
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 433850,
+  "files": [
+    {
+      "name": "433850.zip",
+      "sha256": "ea9c911107edbc719619a691b719eb71a3defb93c68e7aae2ec8703ee47af7bb",
+      "size": 805483
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "433850.zip",
+    "sha256": "ea9c911107edbc719619a691b719eb71a3defb93c68e7aae2ec8703ee47af7bb",
+    "size": 805483
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

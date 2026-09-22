@@ -1,0 +1,18 @@
+{
+  "appid": 1201520,
+  "files": [
+    {
+      "name": "1201520.zip",
+      "sha256": "dd8c88e2d6c6a6c37f3fbd2e5d1a6aeea9d12a528512cb9ec3925c732682b10c",
+      "size": 31892
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1201520.zip",
+    "sha256": "dd8c88e2d6c6a6c37f3fbd2e5d1a6aeea9d12a528512cb9ec3925c732682b10c",
+    "size": 31892
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

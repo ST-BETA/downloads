@@ -1,0 +1,18 @@
+{
+  "appid": 2097880,
+  "files": [
+    {
+      "name": "2097880.zip",
+      "sha256": "a23e696a3df7cb001f5cef53c0a271fe7d2e80a9b7e1ace89db0c49c8de8b5ab",
+      "size": 95889
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2097880.zip",
+    "sha256": "a23e696a3df7cb001f5cef53c0a271fe7d2e80a9b7e1ace89db0c49c8de8b5ab",
+    "size": 95889
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

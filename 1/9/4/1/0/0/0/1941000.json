@@ -1,0 +1,18 @@
+{
+  "appid": 1941000,
+  "files": [
+    {
+      "name": "1941000.zip",
+      "sha256": "30e82e4a796b37bd836c973c9ed56a117f163ffd46b123cbdb9b1acd37eac45f",
+      "size": 12404
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1941000.zip",
+    "sha256": "30e82e4a796b37bd836c973c9ed56a117f163ffd46b123cbdb9b1acd37eac45f",
+    "size": 12404
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

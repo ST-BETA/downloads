@@ -1,0 +1,18 @@
+{
+  "appid": 765900,
+  "files": [
+    {
+      "name": "765900.zip",
+      "sha256": "2ea915a953ac077c055b8777876dcf065db7b84519c6c013d932288dec72661b",
+      "size": 154603
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "765900.zip",
+    "sha256": "2ea915a953ac077c055b8777876dcf065db7b84519c6c013d932288dec72661b",
+    "size": 154603
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

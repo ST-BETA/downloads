@@ -1,0 +1,18 @@
+{
+  "appid": 360680,
+  "files": [
+    {
+      "name": "360680.zip",
+      "sha256": "1370132be3029608823d5575a86d3b476f4e13f6f26ef66c7bff57cd62353dea",
+      "size": 104268
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "360680.zip",
+    "sha256": "1370132be3029608823d5575a86d3b476f4e13f6f26ef66c7bff57cd62353dea",
+    "size": 104268
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

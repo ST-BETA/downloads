@@ -1,0 +1,18 @@
+{
+  "appid": 203560,
+  "files": [
+    {
+      "name": "203560.zip",
+      "sha256": "ff71549c2552a9df67c90db402251b174c0027e88d273b546aefe4d307a86080",
+      "size": 109255
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "203560.zip",
+    "sha256": "ff71549c2552a9df67c90db402251b174c0027e88d273b546aefe4d307a86080",
+    "size": 109255
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1880400,
+  "files": [
+    {
+      "name": "1880400.zip",
+      "sha256": "df336404ee1b485299ec08b3e8027295cf0042ccff73d14ca92a8b174f84e0b3",
+      "size": 200018
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1880400.zip",
+    "sha256": "df336404ee1b485299ec08b3e8027295cf0042ccff73d14ca92a8b174f84e0b3",
+    "size": 200018
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

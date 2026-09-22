@@ -1,0 +1,18 @@
+{
+  "appid": 71230,
+  "files": [
+    {
+      "name": "71230.zip",
+      "sha256": "0d276f3951bee838cf68e65d55b72ed6b1ccebdd7a416029550d5dfbd68578a9",
+      "size": 39313
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "71230.zip",
+    "sha256": "0d276f3951bee838cf68e65d55b72ed6b1ccebdd7a416029550d5dfbd68578a9",
+    "size": 39313
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 871200,
+  "files": [
+    {
+      "name": "871200.zip",
+      "sha256": "5b460527f7e5032c51a9abed928ba41d95562070170c6ab47c291ee55b7926d2",
+      "size": 132514
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "871200.zip",
+    "sha256": "5b460527f7e5032c51a9abed928ba41d95562070170c6ab47c291ee55b7926d2",
+    "size": 132514
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

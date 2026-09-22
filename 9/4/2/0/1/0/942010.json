@@ -1,0 +1,18 @@
+{
+  "appid": 942010,
+  "files": [
+    {
+      "name": "942010.zip",
+      "sha256": "3a88614437d0791635c3b82b0b8f99239c57b4ede49531eb6ce61b85d1baaf18",
+      "size": 320023
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "942010.zip",
+    "sha256": "3a88614437d0791635c3b82b0b8f99239c57b4ede49531eb6ce61b85d1baaf18",
+    "size": 320023
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

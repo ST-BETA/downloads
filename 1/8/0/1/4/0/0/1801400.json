@@ -1,0 +1,18 @@
+{
+  "appid": 1801400,
+  "files": [
+    {
+      "name": "1801400.zip",
+      "sha256": "1509bae9baec5bf393378e5d08c557feecf978e0e1aa0e9a37b056d4419f9a3d",
+      "size": 10253
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1801400.zip",
+    "sha256": "1509bae9baec5bf393378e5d08c557feecf978e0e1aa0e9a37b056d4419f9a3d",
+    "size": 10253
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

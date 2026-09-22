@@ -1,0 +1,18 @@
+{
+  "appid": 967290,
+  "files": [
+    {
+      "name": "967290.zip",
+      "sha256": "2f56fbd048b07b17680ee66b977d12f43e55fd2dd111ec94db03d5cd319dbbf9",
+      "size": 400824
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "967290.zip",
+    "sha256": "2f56fbd048b07b17680ee66b977d12f43e55fd2dd111ec94db03d5cd319dbbf9",
+    "size": 400824
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

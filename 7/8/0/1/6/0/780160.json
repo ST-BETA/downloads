@@ -1,0 +1,18 @@
+{
+  "appid": 780160,
+  "files": [
+    {
+      "name": "780160.zip",
+      "sha256": "340de045ee1331b7f2e5b17e31633ab4f6a989bb25d54212a089b30ddac64dfb",
+      "size": 34022
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "780160.zip",
+    "sha256": "340de045ee1331b7f2e5b17e31633ab4f6a989bb25d54212a089b30ddac64dfb",
+    "size": 34022
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

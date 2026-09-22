@@ -1,0 +1,18 @@
+{
+  "appid": 834800,
+  "files": [
+    {
+      "name": "834800.zip",
+      "sha256": "af9e145dc8ea99ba556fd0a99d93ee277c58af7d8efb12cb9163b104bc09f8ef",
+      "size": 80421
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "834800.zip",
+    "sha256": "af9e145dc8ea99ba556fd0a99d93ee277c58af7d8efb12cb9163b104bc09f8ef",
+    "size": 80421
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

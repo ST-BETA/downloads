@@ -1,0 +1,18 @@
+{
+  "appid": 791800,
+  "files": [
+    {
+      "name": "791800.zip",
+      "sha256": "532a55a496f503c7c676f0124e3fdba5b624a7af156cce104a2e4c3560dc1da6",
+      "size": 1085167
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "791800.zip",
+    "sha256": "532a55a496f503c7c676f0124e3fdba5b624a7af156cce104a2e4c3560dc1da6",
+    "size": 1085167
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 577760,
+  "files": [
+    {
+      "name": "577760.zip",
+      "sha256": "de43bdcf5afe10ddb1298e9562c477fbe88c1c690af42aab1fc0d9cbd201597d",
+      "size": 111568
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "577760.zip",
+    "sha256": "de43bdcf5afe10ddb1298e9562c477fbe88c1c690af42aab1fc0d9cbd201597d",
+    "size": 111568
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

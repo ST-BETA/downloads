@@ -1,0 +1,18 @@
+{
+  "appid": 750660,
+  "files": [
+    {
+      "name": "750660.zip",
+      "sha256": "0edef1c2e4625b2b09e37aa4132b061f0b7f0e80fd2e1d47a0d2340aa33a24f2",
+      "size": 58077
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "750660.zip",
+    "sha256": "0edef1c2e4625b2b09e37aa4132b061f0b7f0e80fd2e1d47a0d2340aa33a24f2",
+    "size": 58077
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

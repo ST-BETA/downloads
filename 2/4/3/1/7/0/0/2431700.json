@@ -1,0 +1,18 @@
+{
+  "appid": 2431700,
+  "files": [
+    {
+      "name": "2431700.zip",
+      "sha256": "a985187c43daf529a582f1ddfe5e51ce9b37a7ac332a326161331cdfaf56e1ef",
+      "size": 503589
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2431700.zip",
+    "sha256": "a985187c43daf529a582f1ddfe5e51ce9b37a7ac332a326161331cdfaf56e1ef",
+    "size": 503589
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

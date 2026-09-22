@@ -1,0 +1,18 @@
+{
+  "appid": 1070123,
+  "files": [
+    {
+      "name": "1070123.zip",
+      "sha256": "d03bd99fa47b2309409ae9275093fe76669b9c97ea8c19f0c6c6061d26354071",
+      "size": 895
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1070123.zip",
+    "sha256": "d03bd99fa47b2309409ae9275093fe76669b9c97ea8c19f0c6c6061d26354071",
+    "size": 895
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

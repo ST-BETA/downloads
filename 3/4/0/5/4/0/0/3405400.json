@@ -1,0 +1,18 @@
+{
+  "appid": 3405400,
+  "files": [
+    {
+      "name": "3405400.zip",
+      "sha256": "244ab2e079c5dcf43623b0eac3a5124358b063c6e1e2f4fb545e3680db205322",
+      "size": 478242
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3405400.zip",
+    "sha256": "244ab2e079c5dcf43623b0eac3a5124358b063c6e1e2f4fb545e3680db205322",
+    "size": 478242
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

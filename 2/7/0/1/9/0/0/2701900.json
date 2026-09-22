@@ -1,0 +1,18 @@
+{
+  "appid": 2701900,
+  "files": [
+    {
+      "name": "2701900.zip",
+      "sha256": "eedaf1c3a46b2bcb1002d6482a487ea9ae3817e1021067221322b52abffe9728",
+      "size": 5997
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2701900.zip",
+    "sha256": "eedaf1c3a46b2bcb1002d6482a487ea9ae3817e1021067221322b52abffe9728",
+    "size": 5997
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 18120,
+  "files": [
+    {
+      "name": "18120.zip",
+      "sha256": "61e3b1b5cc0aa378542ec3f1613554bd618992d5ae01dda689d72081b03b57b7",
+      "size": 142228
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "18120.zip",
+    "sha256": "61e3b1b5cc0aa378542ec3f1613554bd618992d5ae01dda689d72081b03b57b7",
+    "size": 142228
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

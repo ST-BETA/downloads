@@ -1,0 +1,18 @@
+{
+  "appid": 2011930,
+  "files": [
+    {
+      "name": "2011930.zip",
+      "sha256": "1a0d7e738695ef1b442904d0c6234cf157b49a6f85588c5e49049323623b70f5",
+      "size": 639075
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2011930.zip",
+    "sha256": "1a0d7e738695ef1b442904d0c6234cf157b49a6f85588c5e49049323623b70f5",
+    "size": 639075
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

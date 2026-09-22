@@ -1,0 +1,18 @@
+{
+  "appid": 1760100,
+  "files": [
+    {
+      "name": "1760100.zip",
+      "sha256": "d47c5389d7ec7f28fa394cca386dac85cbb77a6d38967febcb7ce0d64bb8591e",
+      "size": 286716
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1760100.zip",
+    "sha256": "d47c5389d7ec7f28fa394cca386dac85cbb77a6d38967febcb7ce0d64bb8591e",
+    "size": 286716
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

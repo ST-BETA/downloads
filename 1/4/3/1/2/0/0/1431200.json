@@ -1,0 +1,18 @@
+{
+  "appid": 1431200,
+  "files": [
+    {
+      "name": "1431200.zip",
+      "sha256": "1e29c3935229a28842b414c25652a1276e8b9c5ba3e3d4cf0608e3f6b003dbdf",
+      "size": 166666
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1431200.zip",
+    "sha256": "1e29c3935229a28842b414c25652a1276e8b9c5ba3e3d4cf0608e3f6b003dbdf",
+    "size": 166666
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

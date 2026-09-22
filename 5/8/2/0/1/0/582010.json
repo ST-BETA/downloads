@@ -1,0 +1,18 @@
+{
+  "appid": 582010,
+  "files": [
+    {
+      "name": "582010.zip",
+      "sha256": "a2940d04cbe1ee6e5b59b52c4c339143b74c723d79207627cabe53c9c06c5a3e",
+      "size": 4351258
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "582010.zip",
+    "sha256": "a2940d04cbe1ee6e5b59b52c4c339143b74c723d79207627cabe53c9c06c5a3e",
+    "size": 4351258
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

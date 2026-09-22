@@ -1,0 +1,18 @@
+{
+  "appid": 2008100,
+  "files": [
+    {
+      "name": "2008100.zip",
+      "sha256": "fff7b23187a953e65d74546f7bc3c80cc6b17c4686d8dfff45f46587eaa17452",
+      "size": 466017
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2008100.zip",
+    "sha256": "fff7b23187a953e65d74546f7bc3c80cc6b17c4686d8dfff45f46587eaa17452",
+    "size": 466017
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

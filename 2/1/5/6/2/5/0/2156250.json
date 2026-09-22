@@ -1,0 +1,18 @@
+{
+  "appid": 2156250,
+  "files": [
+    {
+      "name": "2156250.zip",
+      "sha256": "2b91f1e0c95e1555237803850cd0becd5a1c720eddaade63150c1f6c78a4476c",
+      "size": 56645
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2156250.zip",
+    "sha256": "2b91f1e0c95e1555237803850cd0becd5a1c720eddaade63150c1f6c78a4476c",
+    "size": 56645
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

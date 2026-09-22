@@ -1,0 +1,18 @@
+{
+  "appid": 680100,
+  "files": [
+    {
+      "name": "680100.zip",
+      "sha256": "97e3c22b02e406d5e03849a0b003657f5081177a49d8ce4ba2b72a4faf4a37a4",
+      "size": 100065
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "680100.zip",
+    "sha256": "97e3c22b02e406d5e03849a0b003657f5081177a49d8ce4ba2b72a4faf4a37a4",
+    "size": 100065
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2025700,
+  "files": [
+    {
+      "name": "2025700.zip",
+      "sha256": "68ab0cbc5a5542bbb16d2fb95d70e4bdc6133abdea89829c1e73ab71ea973ccb",
+      "size": 281272
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2025700.zip",
+    "sha256": "68ab0cbc5a5542bbb16d2fb95d70e4bdc6133abdea89829c1e73ab71ea973ccb",
+    "size": 281272
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

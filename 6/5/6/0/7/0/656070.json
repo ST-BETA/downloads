@@ -1,0 +1,18 @@
+{
+  "appid": 656070,
+  "files": [
+    {
+      "name": "656070.zip",
+      "sha256": "256d323aab289fd020c3f7ec0b69a5929b7878ba80980cfafae26b0d94d7c35d",
+      "size": 108682
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "656070.zip",
+    "sha256": "256d323aab289fd020c3f7ec0b69a5929b7878ba80980cfafae26b0d94d7c35d",
+    "size": 108682
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

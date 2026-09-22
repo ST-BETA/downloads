@@ -1,0 +1,18 @@
+{
+  "appid": 817120,
+  "files": [
+    {
+      "name": "817120.zip",
+      "sha256": "fcdbb35ac8870ce773f66952ad81750c135da787427e7f80139ecc527433083f",
+      "size": 25139
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "817120.zip",
+    "sha256": "fcdbb35ac8870ce773f66952ad81750c135da787427e7f80139ecc527433083f",
+    "size": 25139
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

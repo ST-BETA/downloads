@@ -1,0 +1,18 @@
+{
+  "appid": 962301,
+  "files": [
+    {
+      "name": "962301.zip",
+      "sha256": "0c62fb51806e11ecbc172065f0349cb0fec6038454f064ffd5f6e9f8bd33f1e5",
+      "size": 585
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "962301.zip",
+    "sha256": "0c62fb51806e11ecbc172065f0349cb0fec6038454f064ffd5f6e9f8bd33f1e5",
+    "size": 585
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

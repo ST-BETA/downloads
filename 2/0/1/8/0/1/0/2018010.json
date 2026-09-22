@@ -1,0 +1,18 @@
+{
+  "appid": 2018010,
+  "files": [
+    {
+      "name": "2018010.zip",
+      "sha256": "6144bee2f67b244f01d5260df2b3470a6efa5c36fc4b87819b0ac484da149a34",
+      "size": 1136
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2018010.zip",
+    "sha256": "6144bee2f67b244f01d5260df2b3470a6efa5c36fc4b87819b0ac484da149a34",
+    "size": 1136
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

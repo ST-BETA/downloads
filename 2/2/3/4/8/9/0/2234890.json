@@ -1,0 +1,18 @@
+{
+  "appid": 2234890,
+  "files": [
+    {
+      "name": "2234890.zip",
+      "sha256": "acade324df7a675a418b00c1491c1711024fb40ab3701fd47a72e1405e23c782",
+      "size": 853289
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2234890.zip",
+    "sha256": "acade324df7a675a418b00c1491c1711024fb40ab3701fd47a72e1405e23c782",
+    "size": 853289
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

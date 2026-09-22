@@ -1,0 +1,18 @@
+{
+  "appid": 1987550,
+  "files": [
+    {
+      "name": "1987550.zip",
+      "sha256": "4db0592542684460c32b95324d5a7a4849406656c3cceebe9cf83cd657bcf67c",
+      "size": 1536618
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1987550.zip",
+    "sha256": "4db0592542684460c32b95324d5a7a4849406656c3cceebe9cf83cd657bcf67c",
+    "size": 1536618
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

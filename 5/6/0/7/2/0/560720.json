@@ -1,0 +1,18 @@
+{
+  "appid": 560720,
+  "files": [
+    {
+      "name": "560720.zip",
+      "sha256": "9c167b5a1107f8f1b20087faeefd7e7636afd2f49da58923444be873070ddd8a",
+      "size": 67484
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "560720.zip",
+    "sha256": "9c167b5a1107f8f1b20087faeefd7e7636afd2f49da58923444be873070ddd8a",
+    "size": 67484
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

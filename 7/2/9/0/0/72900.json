@@ -1,0 +1,18 @@
+{
+  "appid": 72900,
+  "files": [
+    {
+      "name": "72900.zip",
+      "sha256": "a5f059e0f44ac6f8ab6909a299ceed226a99066a842cd8b9b77baa0627e07457",
+      "size": 1251084
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "72900.zip",
+    "sha256": "a5f059e0f44ac6f8ab6909a299ceed226a99066a842cd8b9b77baa0627e07457",
+    "size": 1251084
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

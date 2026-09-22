@@ -1,0 +1,18 @@
+{
+  "appid": 2003832,
+  "files": [
+    {
+      "name": "2003832.zip",
+      "sha256": "f2aef78996ebeb5a3069bd656f8839268d5a17995d543c656b47331aba17ebe5",
+      "size": 504357
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2003832.zip",
+    "sha256": "f2aef78996ebeb5a3069bd656f8839268d5a17995d543c656b47331aba17ebe5",
+    "size": 504357
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

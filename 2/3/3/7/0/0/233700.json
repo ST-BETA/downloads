@@ -1,0 +1,18 @@
+{
+  "appid": 233700,
+  "files": [
+    {
+      "name": "233700.zip",
+      "sha256": "352add1a796385ceca1dcea1a6e99ecd3cbba5d1a52d1f397a0b04d01f46144a",
+      "size": 2514834
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "233700.zip",
+    "sha256": "352add1a796385ceca1dcea1a6e99ecd3cbba5d1a52d1f397a0b04d01f46144a",
+    "size": 2514834
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

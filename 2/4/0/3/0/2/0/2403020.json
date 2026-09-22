@@ -1,0 +1,18 @@
+{
+  "appid": 2403020,
+  "files": [
+    {
+      "name": "2403020.zip",
+      "sha256": "d12524d6690b0395eedb2a77e315b3f0488cd9120ea61a91938802e02a5608a0",
+      "size": 23171
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2403020.zip",
+    "sha256": "d12524d6690b0395eedb2a77e315b3f0488cd9120ea61a91938802e02a5608a0",
+    "size": 23171
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

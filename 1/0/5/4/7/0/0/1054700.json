@@ -1,0 +1,18 @@
+{
+  "appid": 1054700,
+  "files": [
+    {
+      "name": "1054700.zip",
+      "sha256": "03bb8272ef0ab6bea1ec5e6ff56e75553994252e24e002a7fab19e84d14b2bea",
+      "size": 506396
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1054700.zip",
+    "sha256": "03bb8272ef0ab6bea1ec5e6ff56e75553994252e24e002a7fab19e84d14b2bea",
+    "size": 506396
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

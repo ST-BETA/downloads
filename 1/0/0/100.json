@@ -1,0 +1,18 @@
+{
+  "appid": 100,
+  "files": [
+    {
+      "name": "100.zip",
+      "sha256": "61295ebe6471cb9b472946924f1de65dc1dbfe73b650b5853d480e0c76101707",
+      "size": 4201381
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "100.zip",
+    "sha256": "61295ebe6471cb9b472946924f1de65dc1dbfe73b650b5853d480e0c76101707",
+    "size": 4201381
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

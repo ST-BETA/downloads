@@ -1,0 +1,18 @@
+{
+  "appid": 15350,
+  "files": [
+    {
+      "name": "15350.zip",
+      "sha256": "c00de5e20fe547078d39a6a2e33d718595142d5f92b28cedc4926ffa1b22c1cf",
+      "size": 8406
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "15350.zip",
+    "sha256": "c00de5e20fe547078d39a6a2e33d718595142d5f92b28cedc4926ffa1b22c1cf",
+    "size": 8406
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

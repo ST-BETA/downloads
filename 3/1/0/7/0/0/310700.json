@@ -1,0 +1,18 @@
+{
+  "appid": 310700,
+  "files": [
+    {
+      "name": "310700.zip",
+      "sha256": "3ce4b111f5f5b6554e7fca93f80a10d428ea4f76b7906707cfd81ad3af39d20f",
+      "size": 7497
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "310700.zip",
+    "sha256": "3ce4b111f5f5b6554e7fca93f80a10d428ea4f76b7906707cfd81ad3af39d20f",
+    "size": 7497
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 700240,
+  "files": [
+    {
+      "name": "700240.zip",
+      "sha256": "d8142b319bcc2fc0fb496999382259f0b1a9b8f5917731ef09f0a15eec6e6047",
+      "size": 862965
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "700240.zip",
+    "sha256": "d8142b319bcc2fc0fb496999382259f0b1a9b8f5917731ef09f0a15eec6e6047",
+    "size": 862965
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

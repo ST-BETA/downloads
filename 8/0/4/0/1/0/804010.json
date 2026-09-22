@@ -1,0 +1,18 @@
+{
+  "appid": 804010,
+  "files": [
+    {
+      "name": "804010.zip",
+      "sha256": "f9d7a486121296bc15bacf59d8bdf49424fa9fb56573c78b8a16634dbafe86e5",
+      "size": 1447020
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "804010.zip",
+    "sha256": "f9d7a486121296bc15bacf59d8bdf49424fa9fb56573c78b8a16634dbafe86e5",
+    "size": 1447020
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 223810,
+  "files": [
+    {
+      "name": "223810.zip",
+      "sha256": "3ebb38c11fee06252a3f814bef152ea08aa2ea20d99626914f8329e61456eae7",
+      "size": 40346
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "223810.zip",
+    "sha256": "3ebb38c11fee06252a3f814bef152ea08aa2ea20d99626914f8329e61456eae7",
+    "size": 40346
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

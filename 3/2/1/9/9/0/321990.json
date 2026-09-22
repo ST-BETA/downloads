@@ -1,0 +1,18 @@
+{
+  "appid": 321990,
+  "files": [
+    {
+      "name": "321990.zip",
+      "sha256": "b7af42a5b0b17832c318e34dc1bdca449d72c0165d09575a2ff6f932ad10fb1e",
+      "size": 5873
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "321990.zip",
+    "sha256": "b7af42a5b0b17832c318e34dc1bdca449d72c0165d09575a2ff6f932ad10fb1e",
+    "size": 5873
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

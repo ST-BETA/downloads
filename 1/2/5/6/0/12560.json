@@ -1,0 +1,18 @@
+{
+  "appid": 12560,
+  "files": [
+    {
+      "name": "12560.zip",
+      "sha256": "4a264558b406dd8cc356dc0282a77bf2bc785c3770bd4d92cd162fbfcd187b57",
+      "size": 185606
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "12560.zip",
+    "sha256": "4a264558b406dd8cc356dc0282a77bf2bc785c3770bd4d92cd162fbfcd187b57",
+    "size": 185606
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 250400,
+  "files": [
+    {
+      "name": "250400.zip",
+      "sha256": "24147b7038ba91ee6f6f88917c2b412bdb2ae6e51bd4cb1d8eb22ca8f67e858b",
+      "size": 1200353
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "250400.zip",
+    "sha256": "24147b7038ba91ee6f6f88917c2b412bdb2ae6e51bd4cb1d8eb22ca8f67e858b",
+    "size": 1200353
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

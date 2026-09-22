@@ -1,0 +1,18 @@
+{
+  "appid": 1094000,
+  "files": [
+    {
+      "name": "1094000.zip",
+      "sha256": "d683b1865ab53b2229dba350a4db1970bc1583c39908af6137a613d2efaf2d03",
+      "size": 307423
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1094000.zip",
+    "sha256": "d683b1865ab53b2229dba350a4db1970bc1583c39908af6137a613d2efaf2d03",
+    "size": 307423
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

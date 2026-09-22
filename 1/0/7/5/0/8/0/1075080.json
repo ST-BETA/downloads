@@ -1,0 +1,18 @@
+{
+  "appid": 1075080,
+  "files": [
+    {
+      "name": "1075080.zip",
+      "sha256": "ce326b115f356260902dc1951583b80fca0b9908415956e56f84446003575891",
+      "size": 323660
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1075080.zip",
+    "sha256": "ce326b115f356260902dc1951583b80fca0b9908415956e56f84446003575891",
+    "size": 323660
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2001970,
+  "files": [
+    {
+      "name": "2001970.zip",
+      "sha256": "abbae090fc67a587929d0f4d3f8238f9b0b9bacbc915ba8c8a4f96cf492774d6",
+      "size": 192804
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2001970.zip",
+    "sha256": "abbae090fc67a587929d0f4d3f8238f9b0b9bacbc915ba8c8a4f96cf492774d6",
+    "size": 192804
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

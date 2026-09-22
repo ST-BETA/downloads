@@ -1,0 +1,18 @@
+{
+  "appid": 1155790,
+  "files": [
+    {
+      "name": "1155790.zip",
+      "sha256": "23fef80af38268dc4cbdf06ef2edbc2f1dc48c498f52e56eff06984546000c0e",
+      "size": 200879
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1155790.zip",
+    "sha256": "23fef80af38268dc4cbdf06ef2edbc2f1dc48c498f52e56eff06984546000c0e",
+    "size": 200879
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

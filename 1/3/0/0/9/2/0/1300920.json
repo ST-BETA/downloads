@@ -1,0 +1,18 @@
+{
+  "appid": 1300920,
+  "files": [
+    {
+      "name": "1300920.zip",
+      "sha256": "afb5a705e191d719ac2ee29128d7fdb841ada0cacc9a2c61635efbba3c283e11",
+      "size": 201104
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1300920.zip",
+    "sha256": "afb5a705e191d719ac2ee29128d7fdb841ada0cacc9a2c61635efbba3c283e11",
+    "size": 201104
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

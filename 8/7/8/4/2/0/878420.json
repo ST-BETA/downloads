@@ -1,0 +1,18 @@
+{
+  "appid": 878420,
+  "files": [
+    {
+      "name": "878420.zip",
+      "sha256": "736cf6204b260b6426ce7ff8896c4ffd2821971bcfef90f19ecf09b0b984570f",
+      "size": 91239
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "878420.zip",
+    "sha256": "736cf6204b260b6426ce7ff8896c4ffd2821971bcfef90f19ecf09b0b984570f",
+    "size": 91239
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

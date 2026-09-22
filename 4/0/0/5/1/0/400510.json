@@ -1,0 +1,18 @@
+{
+  "appid": 400510,
+  "files": [
+    {
+      "name": "400510.zip",
+      "sha256": "30c35b6880fa5b17f27cbebd9503b5c62ea0fd436238e3b4e1ae8f9fd0f10ee2",
+      "size": 695221
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "400510.zip",
+    "sha256": "30c35b6880fa5b17f27cbebd9503b5c62ea0fd436238e3b4e1ae8f9fd0f10ee2",
+    "size": 695221
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 3123860,
+  "files": [
+    {
+      "name": "3123860.zip",
+      "sha256": "c22725f338a44c8d8da9fc1c87fb2623692de532f32b73dd6694884509a3b563",
+      "size": 185971
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3123860.zip",
+    "sha256": "c22725f338a44c8d8da9fc1c87fb2623692de532f32b73dd6694884509a3b563",
+    "size": 185971
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

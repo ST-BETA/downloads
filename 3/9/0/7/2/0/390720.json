@@ -1,0 +1,18 @@
+{
+  "appid": 390720,
+  "files": [
+    {
+      "name": "390720.zip",
+      "sha256": "27cf27fb860824afddb3ffbb100ea9de3dc8b1e6680c4087ccce47ff852da22d",
+      "size": 160060
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "390720.zip",
+    "sha256": "27cf27fb860824afddb3ffbb100ea9de3dc8b1e6680c4087ccce47ff852da22d",
+    "size": 160060
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 3415010,
+  "files": [
+    {
+      "name": "3415010.zip",
+      "sha256": "400661369ab58fa2ab58a136299a92fc072f6ae3afb6703689eb02a16fcdd26d",
+      "size": 47576
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3415010.zip",
+    "sha256": "400661369ab58fa2ab58a136299a92fc072f6ae3afb6703689eb02a16fcdd26d",
+    "size": 47576
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

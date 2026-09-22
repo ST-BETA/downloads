@@ -1,0 +1,18 @@
+{
+  "appid": 351140,
+  "files": [
+    {
+      "name": "351140.zip",
+      "sha256": "7297d9773a09218f824069c0bb56430cd9c5e277dcdb16569db3b4ff8410efb4",
+      "size": 150574
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "351140.zip",
+    "sha256": "7297d9773a09218f824069c0bb56430cd9c5e277dcdb16569db3b4ff8410efb4",
+    "size": 150574
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

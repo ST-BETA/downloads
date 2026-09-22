@@ -1,0 +1,18 @@
+{
+  "appid": 638720,
+  "files": [
+    {
+      "name": "638720.zip",
+      "sha256": "2a887422092acfc9f5a182bee13db6b64c5f87c2055da3ba3b56fa7c91064c30",
+      "size": 46621
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "638720.zip",
+    "sha256": "2a887422092acfc9f5a182bee13db6b64c5f87c2055da3ba3b56fa7c91064c30",
+    "size": 46621
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

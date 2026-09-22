@@ -1,0 +1,18 @@
+{
+  "appid": 1030090,
+  "files": [
+    {
+      "name": "1030090.zip",
+      "sha256": "aa1e883e7c7c75b49fd63352681a7f6ab35996d78790200212935d2a932342c7",
+      "size": 85062
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1030090.zip",
+    "sha256": "aa1e883e7c7c75b49fd63352681a7f6ab35996d78790200212935d2a932342c7",
+    "size": 85062
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

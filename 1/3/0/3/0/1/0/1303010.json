@@ -1,0 +1,18 @@
+{
+  "appid": 1303010,
+  "files": [
+    {
+      "name": "1303010.zip",
+      "sha256": "fa5c2bb3e9b748b3b511dda8de9e4146b2076b87f1808dae1a567f5825000183",
+      "size": 1800243
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1303010.zip",
+    "sha256": "fa5c2bb3e9b748b3b511dda8de9e4146b2076b87f1808dae1a567f5825000183",
+    "size": 1800243
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

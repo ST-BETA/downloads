@@ -1,0 +1,18 @@
+{
+  "appid": 200490,
+  "files": [
+    {
+      "name": "200490.zip",
+      "sha256": "bf354790f1c098a679453076a688571290e0060ae138738596547ac96584e083",
+      "size": 141197
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200490.zip",
+    "sha256": "bf354790f1c098a679453076a688571290e0060ae138738596547ac96584e083",
+    "size": 141197
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

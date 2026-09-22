@@ -1,0 +1,18 @@
+{
+  "appid": 428900,
+  "files": [
+    {
+      "name": "428900.zip",
+      "sha256": "fc0b5f0093ba520224ab6e8cbbd35327218ff7216342c3e5f0198fefa77aa481",
+      "size": 130599
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "428900.zip",
+    "sha256": "fc0b5f0093ba520224ab6e8cbbd35327218ff7216342c3e5f0198fefa77aa481",
+    "size": 130599
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

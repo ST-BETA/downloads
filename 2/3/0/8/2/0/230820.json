@@ -1,0 +1,18 @@
+{
+  "appid": 230820,
+  "files": [
+    {
+      "name": "230820.zip",
+      "sha256": "2b1cf8da4794ccc33d4ad7582f4386e7b831bc16dc5bf7f52d9212019570bc10",
+      "size": 754631
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "230820.zip",
+    "sha256": "2b1cf8da4794ccc33d4ad7582f4386e7b831bc16dc5bf7f52d9212019570bc10",
+    "size": 754631
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

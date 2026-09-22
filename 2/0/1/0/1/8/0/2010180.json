@@ -1,0 +1,18 @@
+{
+  "appid": 2010180,
+  "files": [
+    {
+      "name": "2010180.zip",
+      "sha256": "abe1d99716b96d891f765f74cff8ab5fa7eb2d8acf835aa8527a54f2c903d042",
+      "size": 40821
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2010180.zip",
+    "sha256": "abe1d99716b96d891f765f74cff8ab5fa7eb2d8acf835aa8527a54f2c903d042",
+    "size": 40821
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

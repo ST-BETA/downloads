@@ -1,0 +1,18 @@
+{
+  "appid": 783560,
+  "files": [
+    {
+      "name": "783560.zip",
+      "sha256": "43e17d3a632a9070704cdfaa3be7fa0183674f1540c86c528d954286da6c9ea7",
+      "size": 32894
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "783560.zip",
+    "sha256": "43e17d3a632a9070704cdfaa3be7fa0183674f1540c86c528d954286da6c9ea7",
+    "size": 32894
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

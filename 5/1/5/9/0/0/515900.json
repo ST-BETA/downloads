@@ -1,0 +1,18 @@
+{
+  "appid": 515900,
+  "files": [
+    {
+      "name": "515900.zip",
+      "sha256": "622cea8ad01383c7110cf93eb49cd2bcb6e4414ba84c83bf95318d2e283c368d",
+      "size": 984166
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "515900.zip",
+    "sha256": "622cea8ad01383c7110cf93eb49cd2bcb6e4414ba84c83bf95318d2e283c368d",
+    "size": 984166
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

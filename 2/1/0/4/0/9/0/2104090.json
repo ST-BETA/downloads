@@ -1,0 +1,18 @@
+{
+  "appid": 2104090,
+  "files": [
+    {
+      "name": "2104090.zip",
+      "sha256": "18f2632f3e9a3d1a2e86f4239fb0ae3722678972b2b72ff935902aaac8d33a84",
+      "size": 240283
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2104090.zip",
+    "sha256": "18f2632f3e9a3d1a2e86f4239fb0ae3722678972b2b72ff935902aaac8d33a84",
+    "size": 240283
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

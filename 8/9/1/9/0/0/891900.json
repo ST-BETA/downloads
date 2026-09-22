@@ -1,0 +1,18 @@
+{
+  "appid": 891900,
+  "files": [
+    {
+      "name": "891900.zip",
+      "sha256": "a8382fba17b659bce38d782414625a5aba170dd19554c0f50165ba933e83cdd6",
+      "size": 324380
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "891900.zip",
+    "sha256": "a8382fba17b659bce38d782414625a5aba170dd19554c0f50165ba933e83cdd6",
+    "size": 324380
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 638110,
+  "files": [
+    {
+      "name": "638110.zip",
+      "sha256": "e9043bf56e933b34115713ef601839568783a6b635f331322aabcee33a0675cb",
+      "size": 181502
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "638110.zip",
+    "sha256": "e9043bf56e933b34115713ef601839568783a6b635f331322aabcee33a0675cb",
+    "size": 181502
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

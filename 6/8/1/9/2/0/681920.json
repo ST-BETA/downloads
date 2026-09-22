@@ -1,0 +1,18 @@
+{
+  "appid": 681920,
+  "files": [
+    {
+      "name": "681920.zip",
+      "sha256": "2e2f0b7242536ce0ef94ca1cb15a6db737f02ea25792f80365ca843a3586babf",
+      "size": 51768
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "681920.zip",
+    "sha256": "2e2f0b7242536ce0ef94ca1cb15a6db737f02ea25792f80365ca843a3586babf",
+    "size": 51768
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

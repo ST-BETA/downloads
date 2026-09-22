@@ -1,0 +1,18 @@
+{
+  "appid": 17080,
+  "files": [
+    {
+      "name": "17080.zip",
+      "sha256": "3a33d92f1f653a4e0f773df9f902a852c2975b9c9208b4738e306f545a3b8e8d",
+      "size": 349974
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "17080.zip",
+    "sha256": "3a33d92f1f653a4e0f773df9f902a852c2975b9c9208b4738e306f545a3b8e8d",
+    "size": 349974
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

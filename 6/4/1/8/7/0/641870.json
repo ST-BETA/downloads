@@ -1,0 +1,18 @@
+{
+  "appid": 641870,
+  "files": [
+    {
+      "name": "641870.zip",
+      "sha256": "678d8f1624a2e50f4b3106270b03002e7403104402def11d6b0bad9c0eb81223",
+      "size": 128311
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "641870.zip",
+    "sha256": "678d8f1624a2e50f4b3106270b03002e7403104402def11d6b0bad9c0eb81223",
+    "size": 128311
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

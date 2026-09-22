@@ -1,0 +1,18 @@
+{
+  "appid": 643090,
+  "files": [
+    {
+      "name": "643090.zip",
+      "sha256": "a9e22cfa159e3eb30cca070615abf0fa008dd054fe3d64aa55b85df029c4e3af",
+      "size": 9214
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "643090.zip",
+    "sha256": "a9e22cfa159e3eb30cca070615abf0fa008dd054fe3d64aa55b85df029c4e3af",
+    "size": 9214
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

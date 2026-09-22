@@ -1,0 +1,18 @@
+{
+  "appid": 560130,
+  "files": [
+    {
+      "name": "560130.zip",
+      "sha256": "263b74a8bd9cb902268c935e6f143cc868555a3ed9198c30a79f63d8c5551788",
+      "size": 60142348
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "560130.zip",
+    "sha256": "263b74a8bd9cb902268c935e6f143cc868555a3ed9198c30a79f63d8c5551788",
+    "size": 60142348
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

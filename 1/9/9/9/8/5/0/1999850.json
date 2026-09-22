@@ -1,0 +1,18 @@
+{
+  "appid": 1999850,
+  "files": [
+    {
+      "name": "1999850.zip",
+      "sha256": "9d9b884a23171a1b81e5ce42f91ea090add4fa411f903f015d75daf785cf570a",
+      "size": 182330
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1999850.zip",
+    "sha256": "9d9b884a23171a1b81e5ce42f91ea090add4fa411f903f015d75daf785cf570a",
+    "size": 182330
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

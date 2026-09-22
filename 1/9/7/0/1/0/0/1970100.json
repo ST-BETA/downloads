@@ -1,0 +1,18 @@
+{
+  "appid": 1970100,
+  "files": [
+    {
+      "name": "1970100.zip",
+      "sha256": "ddd8e9ee830a75bb3da03396df0a5cfa11881f16f8740f9715f9841ba87d8cb1",
+      "size": 67822
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1970100.zip",
+    "sha256": "ddd8e9ee830a75bb3da03396df0a5cfa11881f16f8740f9715f9841ba87d8cb1",
+    "size": 67822
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

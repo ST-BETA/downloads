@@ -1,0 +1,18 @@
+{
+  "appid": 1542600,
+  "files": [
+    {
+      "name": "1542600.zip",
+      "sha256": "e653eca4d44fca70d160631dd833b0aff8cbe319344b7f74b329f92588afb84b",
+      "size": 91210
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1542600.zip",
+    "sha256": "e653eca4d44fca70d160631dd833b0aff8cbe319344b7f74b329f92588afb84b",
+    "size": 91210
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

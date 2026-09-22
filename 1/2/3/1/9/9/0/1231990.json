@@ -1,0 +1,18 @@
+{
+  "appid": 1231990,
+  "files": [
+    {
+      "name": "1231990.zip",
+      "sha256": "4b45fa6a682e85632d568aedb2d7df8d02a97877fd6578f220934cf08abe4a87",
+      "size": 216356
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1231990.zip",
+    "sha256": "4b45fa6a682e85632d568aedb2d7df8d02a97877fd6578f220934cf08abe4a87",
+    "size": 216356
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

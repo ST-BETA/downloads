@@ -1,0 +1,18 @@
+{
+  "appid": 1980500,
+  "files": [
+    {
+      "name": "1980500.zip",
+      "sha256": "7cff5cde0763fc389b1b5dfe00187570ed5e68ee8eaa2f46cc6b0b50045b1b64",
+      "size": 62738
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1980500.zip",
+    "sha256": "7cff5cde0763fc389b1b5dfe00187570ed5e68ee8eaa2f46cc6b0b50045b1b64",
+    "size": 62738
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

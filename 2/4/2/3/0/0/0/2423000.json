@@ -1,0 +1,18 @@
+{
+  "appid": 2423000,
+  "files": [
+    {
+      "name": "2423000.zip",
+      "sha256": "5457098ce1a3f946c49614b3b79ea3c46b1c59b3acddad8f1c471026e0e8b5ac",
+      "size": 100931
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2423000.zip",
+    "sha256": "5457098ce1a3f946c49614b3b79ea3c46b1c59b3acddad8f1c471026e0e8b5ac",
+    "size": 100931
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 439800,
+  "files": [
+    {
+      "name": "439800.zip",
+      "sha256": "af7f987bffe314b640f3c7ae1a2fbfbc136c6655a307c129aef3b48561bc8900",
+      "size": 81403
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "439800.zip",
+    "sha256": "af7f987bffe314b640f3c7ae1a2fbfbc136c6655a307c129aef3b48561bc8900",
+    "size": 81403
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

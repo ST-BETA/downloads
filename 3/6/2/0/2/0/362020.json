@@ -1,0 +1,18 @@
+{
+  "appid": 362020,
+  "files": [
+    {
+      "name": "362020.zip",
+      "sha256": "3e830131b298d116112c73ee9a2dd1703a86141bb224ce353296d017a8d590e1",
+      "size": 235496
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "362020.zip",
+    "sha256": "3e830131b298d116112c73ee9a2dd1703a86141bb224ce353296d017a8d590e1",
+    "size": 235496
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2200410,
+  "files": [
+    {
+      "name": "2200410.zip",
+      "sha256": "3e7f265c3b6fc2645144eeeb1463a581517afc2f05fe35f18ec0fb00a9db2c0b",
+      "size": 168512
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2200410.zip",
+    "sha256": "3e7f265c3b6fc2645144eeeb1463a581517afc2f05fe35f18ec0fb00a9db2c0b",
+    "size": 168512
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

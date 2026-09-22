@@ -1,0 +1,18 @@
+{
+  "appid": 2171500,
+  "files": [
+    {
+      "name": "2171500.zip",
+      "sha256": "aa15b8731ee323587050043c38458eedce6215f682ce25f645ec4607078857d6",
+      "size": 90321
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2171500.zip",
+    "sha256": "aa15b8731ee323587050043c38458eedce6215f682ce25f645ec4607078857d6",
+    "size": 90321
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

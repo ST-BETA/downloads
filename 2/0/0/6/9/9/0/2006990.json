@@ -1,0 +1,18 @@
+{
+  "appid": 2006990,
+  "files": [
+    {
+      "name": "2006990.zip",
+      "sha256": "6c70ebd07aef606c2d22d4f04b43de2248a102fc94f87831927c3e3f3d894c78",
+      "size": 64267
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2006990.zip",
+    "sha256": "6c70ebd07aef606c2d22d4f04b43de2248a102fc94f87831927c3e3f3d894c78",
+    "size": 64267
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

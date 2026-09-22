@@ -1,0 +1,18 @@
+{
+  "appid": 3008400,
+  "files": [
+    {
+      "name": "3008400.zip",
+      "sha256": "6525c040736d48397158ee8d4d784d45f2c9cc2a861f606cb0d544e86c0dbfe4",
+      "size": 80523
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3008400.zip",
+    "sha256": "6525c040736d48397158ee8d4d784d45f2c9cc2a861f606cb0d544e86c0dbfe4",
+    "size": 80523
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

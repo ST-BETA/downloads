@@ -1,0 +1,18 @@
+{
+  "appid": 375120,
+  "files": [
+    {
+      "name": "375120.zip",
+      "sha256": "637ec24cd933a4bc05dc2a8ef60a8450a145c6a15b0180b7d9211c9e41eaa4d2",
+      "size": 8280
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "375120.zip",
+    "sha256": "637ec24cd933a4bc05dc2a8ef60a8450a145c6a15b0180b7d9211c9e41eaa4d2",
+    "size": 8280
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

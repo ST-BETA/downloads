@@ -1,0 +1,18 @@
+{
+  "appid": 1042010,
+  "files": [
+    {
+      "name": "1042010.zip",
+      "sha256": "761a3590e2cb6432284a22e0ade4028786c28cc1d605530476b927402e4f851c",
+      "size": 1505948
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1042010.zip",
+    "sha256": "761a3590e2cb6432284a22e0ade4028786c28cc1d605530476b927402e4f851c",
+    "size": 1505948
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 511470,
+  "files": [
+    {
+      "name": "511470.zip",
+      "sha256": "fd036ce2cc9850a35b92c27cb807c3bd797193631c38b3f135acd1653afe2f90",
+      "size": 133534
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "511470.zip",
+    "sha256": "fd036ce2cc9850a35b92c27cb807c3bd797193631c38b3f135acd1653afe2f90",
+    "size": 133534
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 990240,
+  "files": [
+    {
+      "name": "990240.zip",
+      "sha256": "d8abc1241c0199473820de57683e6bf83e52d6a6872b30b60c9331318a73e4cb",
+      "size": 39892
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "990240.zip",
+    "sha256": "d8abc1241c0199473820de57683e6bf83e52d6a6872b30b60c9331318a73e4cb",
+    "size": 39892
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

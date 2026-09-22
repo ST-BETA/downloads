@@ -1,0 +1,18 @@
+{
+  "appid": 9050,
+  "files": [
+    {
+      "name": "9050.zip",
+      "sha256": "ec9992a18b32f249d483ad01b19d08e92e5420e0fcd96ee0d9ee6f11de2471ce",
+      "size": 136693
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "9050.zip",
+    "sha256": "ec9992a18b32f249d483ad01b19d08e92e5420e0fcd96ee0d9ee6f11de2471ce",
+    "size": 136693
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

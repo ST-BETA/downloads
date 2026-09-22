@@ -1,0 +1,18 @@
+{
+  "appid": 888070,
+  "files": [
+    {
+      "name": "888070.zip",
+      "sha256": "4008a6d386bdb087a62367970bc2a5d04361ac35d877e67a9f6d0e8a68346546",
+      "size": 91371
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "888070.zip",
+    "sha256": "4008a6d386bdb087a62367970bc2a5d04361ac35d877e67a9f6d0e8a68346546",
+    "size": 91371
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

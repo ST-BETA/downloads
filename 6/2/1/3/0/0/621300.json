@@ -1,0 +1,18 @@
+{
+  "appid": 621300,
+  "files": [
+    {
+      "name": "621300.zip",
+      "sha256": "05c280b9370badabf72599f435d4ab28ed5ab4e57c0cc3c2549cb71ae3c4764c",
+      "size": 3043566
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "621300.zip",
+    "sha256": "05c280b9370badabf72599f435d4ab28ed5ab4e57c0cc3c2549cb71ae3c4764c",
+    "size": 3043566
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

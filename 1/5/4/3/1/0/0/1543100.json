@@ -1,0 +1,18 @@
+{
+  "appid": 1543100,
+  "files": [
+    {
+      "name": "1543100.zip",
+      "sha256": "864a56bd1c11ba12b1597b5789aaf9ffca95b36f91cd7774ef44002076123e97",
+      "size": 82655
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1543100.zip",
+    "sha256": "864a56bd1c11ba12b1597b5789aaf9ffca95b36f91cd7774ef44002076123e97",
+    "size": 82655
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

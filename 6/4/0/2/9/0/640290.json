@@ -1,0 +1,18 @@
+{
+  "appid": 640290,
+  "files": [
+    {
+      "name": "640290.zip",
+      "sha256": "1b0c5221839851ec658138d9676db3ce4e06336656d82522bf0fbfbac89b3604",
+      "size": 69704
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "640290.zip",
+    "sha256": "1b0c5221839851ec658138d9676db3ce4e06336656d82522bf0fbfbac89b3604",
+    "size": 69704
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

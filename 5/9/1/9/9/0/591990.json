@@ -1,0 +1,18 @@
+{
+  "appid": 591990,
+  "files": [
+    {
+      "name": "591990.zip",
+      "sha256": "c419c9fa0ee10188b5d3b1c207c50bce279f587a367bb70122ef0acda29962ba",
+      "size": 168326
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "591990.zip",
+    "sha256": "c419c9fa0ee10188b5d3b1c207c50bce279f587a367bb70122ef0acda29962ba",
+    "size": 168326
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

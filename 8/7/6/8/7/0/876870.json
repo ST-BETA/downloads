@@ -1,0 +1,18 @@
+{
+  "appid": 876870,
+  "files": [
+    {
+      "name": "876870.zip",
+      "sha256": "bc33ba0d8474282a745b8568d89226333eefa1385f82ed327a4f2968ad20068b",
+      "size": 73540
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "876870.zip",
+    "sha256": "bc33ba0d8474282a745b8568d89226333eefa1385f82ed327a4f2968ad20068b",
+    "size": 73540
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

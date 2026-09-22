@@ -1,0 +1,18 @@
+{
+  "appid": 542100,
+  "files": [
+    {
+      "name": "542100.zip",
+      "sha256": "27c73e8e6ce0f514ceaf7fc7c9ad5f8361349dc8957b927de4654a4163247f39",
+      "size": 166975
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "542100.zip",
+    "sha256": "27c73e8e6ce0f514ceaf7fc7c9ad5f8361349dc8957b927de4654a4163247f39",
+    "size": 166975
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

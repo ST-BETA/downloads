@@ -1,0 +1,18 @@
+{
+  "appid": 586700,
+  "files": [
+    {
+      "name": "586700.zip",
+      "sha256": "7a7e734b3f1b8c6229430d03fd12a0eaab2b4ebd3f49ab69cd709a796ae6aa04",
+      "size": 85405
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "586700.zip",
+    "sha256": "7a7e734b3f1b8c6229430d03fd12a0eaab2b4ebd3f49ab69cd709a796ae6aa04",
+    "size": 85405
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

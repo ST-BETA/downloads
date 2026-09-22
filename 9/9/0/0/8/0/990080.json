@@ -1,0 +1,18 @@
+{
+  "appid": 990080,
+  "files": [
+    {
+      "name": "990080.zip",
+      "sha256": "c7b05c68050cd7ecae32376c804118ff860ba6e16c13a898f6f3cc97a7f747de",
+      "size": 4023186
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "990080.zip",
+    "sha256": "c7b05c68050cd7ecae32376c804118ff860ba6e16c13a898f6f3cc97a7f747de",
+    "size": 4023186
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

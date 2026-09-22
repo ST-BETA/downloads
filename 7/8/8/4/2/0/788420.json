@@ -1,0 +1,18 @@
+{
+  "appid": 788420,
+  "files": [
+    {
+      "name": "788420.zip",
+      "sha256": "891cc430ba7431bafaabb30fc7516b61a00ca58f0d65e9cbae98e1b7e854e124",
+      "size": 73219
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "788420.zip",
+    "sha256": "891cc430ba7431bafaabb30fc7516b61a00ca58f0d65e9cbae98e1b7e854e124",
+    "size": 73219
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 783170,
+  "files": [
+    {
+      "name": "783170.zip",
+      "sha256": "5cac1a16630261e2c711c3ef246b6f400b89dc3402fb22fd14a8659b2c3af68b",
+      "size": 625675
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "783170.zip",
+    "sha256": "5cac1a16630261e2c711c3ef246b6f400b89dc3402fb22fd14a8659b2c3af68b",
+    "size": 625675
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

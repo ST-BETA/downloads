@@ -1,0 +1,18 @@
+{
+  "appid": 2019990,
+  "files": [
+    {
+      "name": "2019990.zip",
+      "sha256": "1829d0356a2afb3e4db0477376cd59be70bb3d54364572184b10d5bd264bf906",
+      "size": 28324
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2019990.zip",
+    "sha256": "1829d0356a2afb3e4db0477376cd59be70bb3d54364572184b10d5bd264bf906",
+    "size": 28324
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

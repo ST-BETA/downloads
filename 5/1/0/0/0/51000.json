@@ -1,0 +1,18 @@
+{
+  "appid": 51000,
+  "files": [
+    {
+      "name": "51000.zip",
+      "sha256": "700c9d2d508e0ce0622f3a21db44a8e83be0af4255a5675406eca51d0dad4806",
+      "size": 23349
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "51000.zip",
+    "sha256": "700c9d2d508e0ce0622f3a21db44a8e83be0af4255a5675406eca51d0dad4806",
+    "size": 23349
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

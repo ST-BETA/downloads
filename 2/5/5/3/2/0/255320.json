@@ -1,0 +1,18 @@
+{
+  "appid": 255320,
+  "files": [
+    {
+      "name": "255320.zip",
+      "sha256": "98cf664cbb5553830a20754383cc348aca060c3d7c460662876c1f6e0142e248",
+      "size": 204242
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "255320.zip",
+    "sha256": "98cf664cbb5553830a20754383cc348aca060c3d7c460662876c1f6e0142e248",
+    "size": 204242
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 201160,
+  "files": [
+    {
+      "name": "201160.zip",
+      "sha256": "0ea150d6dd2b8d1f213b7e0d20112f3e3ffc6fd3fc45f42eaac631c90797979a",
+      "size": 666760
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201160.zip",
+    "sha256": "0ea150d6dd2b8d1f213b7e0d20112f3e3ffc6fd3fc45f42eaac631c90797979a",
+    "size": 666760
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

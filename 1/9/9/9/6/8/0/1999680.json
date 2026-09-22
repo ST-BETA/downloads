@@ -1,0 +1,18 @@
+{
+  "appid": 1999680,
+  "files": [
+    {
+      "name": "1999680.zip",
+      "sha256": "4a7ffa10bd447305834eba9bb30694e789fea759286a118363a9f2fc8acaead9",
+      "size": 229364
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1999680.zip",
+    "sha256": "4a7ffa10bd447305834eba9bb30694e789fea759286a118363a9f2fc8acaead9",
+    "size": 229364
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

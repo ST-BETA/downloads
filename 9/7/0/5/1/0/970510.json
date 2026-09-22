@@ -1,0 +1,18 @@
+{
+  "appid": 970510,
+  "files": [
+    {
+      "name": "970510.zip",
+      "sha256": "5f60aaac866fc2ce863ea6f30cd8a19fcebc37c40dc8ce7f9dd24e2f31ba3ce9",
+      "size": 31656
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "970510.zip",
+    "sha256": "5f60aaac866fc2ce863ea6f30cd8a19fcebc37c40dc8ce7f9dd24e2f31ba3ce9",
+    "size": 31656
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

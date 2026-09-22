@@ -1,0 +1,18 @@
+{
+  "appid": 8770,
+  "files": [
+    {
+      "name": "8770.zip",
+      "sha256": "b7d8334bde9fa5c77a35aa04382f86a0d87232f7f612c251f49797b5599118ba",
+      "size": 740809
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "8770.zip",
+    "sha256": "b7d8334bde9fa5c77a35aa04382f86a0d87232f7f612c251f49797b5599118ba",
+    "size": 740809
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

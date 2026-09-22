@@ -1,0 +1,18 @@
+{
+  "appid": 3610,
+  "files": [
+    {
+      "name": "3610.zip",
+      "sha256": "c1e7dc37fd863af6423c46efe806f3df99a869343c7181800f469ccd1f813c01",
+      "size": 10172
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3610.zip",
+    "sha256": "c1e7dc37fd863af6423c46efe806f3df99a869343c7181800f469ccd1f813c01",
+    "size": 10172
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

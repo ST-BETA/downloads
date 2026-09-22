@@ -1,0 +1,18 @@
+{
+  "appid": 600250,
+  "files": [
+    {
+      "name": "600250.zip",
+      "sha256": "bf54ec97a851c329fb16915bef06a01acc69abdb9dbc6f97393ab99b5826fba7",
+      "size": 322461
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "600250.zip",
+    "sha256": "bf54ec97a851c329fb16915bef06a01acc69abdb9dbc6f97393ab99b5826fba7",
+    "size": 322461
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

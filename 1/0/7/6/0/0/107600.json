@@ -1,0 +1,18 @@
+{
+  "appid": 107600,
+  "files": [
+    {
+      "name": "107600.zip",
+      "sha256": "328a41b55f98337fd7b933d0427ffb04bb3d10ebe43f4ef7c6cc5d3237baa5e5",
+      "size": 53544
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "107600.zip",
+    "sha256": "328a41b55f98337fd7b933d0427ffb04bb3d10ebe43f4ef7c6cc5d3237baa5e5",
+    "size": 53544
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

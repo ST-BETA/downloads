@@ -1,0 +1,18 @@
+{
+  "appid": 3001980,
+  "files": [
+    {
+      "name": "3001980.zip",
+      "sha256": "de19268b6f1182713c8b60e111d5de720edc1f77e6a9dd02133fc4b66095fd55",
+      "size": 9030
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3001980.zip",
+    "sha256": "de19268b6f1182713c8b60e111d5de720edc1f77e6a9dd02133fc4b66095fd55",
+    "size": 9030
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

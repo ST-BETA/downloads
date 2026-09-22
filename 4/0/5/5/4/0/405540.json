@@ -1,0 +1,18 @@
+{
+  "appid": 405540,
+  "files": [
+    {
+      "name": "405540.zip",
+      "sha256": "bfd69bdd00a236a1b98478f266f62c506255b45284e489456e0a6feb992a4fb3",
+      "size": 10141
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "405540.zip",
+    "sha256": "bfd69bdd00a236a1b98478f266f62c506255b45284e489456e0a6feb992a4fb3",
+    "size": 10141
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

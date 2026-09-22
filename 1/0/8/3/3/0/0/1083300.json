@@ -1,0 +1,18 @@
+{
+  "appid": 1083300,
+  "files": [
+    {
+      "name": "1083300.zip",
+      "sha256": "88509cad66897e4f14a57ef4168ddf3094ad5f052ec3d271cbf1b84b460d10b2",
+      "size": 57535
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1083300.zip",
+    "sha256": "88509cad66897e4f14a57ef4168ddf3094ad5f052ec3d271cbf1b84b460d10b2",
+    "size": 57535
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

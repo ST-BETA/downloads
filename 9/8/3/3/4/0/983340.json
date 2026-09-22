@@ -1,0 +1,18 @@
+{
+  "appid": 983340,
+  "files": [
+    {
+      "name": "983340.zip",
+      "sha256": "698881a6e5a5bc408871bb31e358468fd95316e2d3ecb6997dae31e9499d3c33",
+      "size": 45666
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "983340.zip",
+    "sha256": "698881a6e5a5bc408871bb31e358468fd95316e2d3ecb6997dae31e9499d3c33",
+    "size": 45666
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

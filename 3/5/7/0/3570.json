@@ -1,0 +1,18 @@
+{
+  "appid": 3570,
+  "files": [
+    {
+      "name": "3570.zip",
+      "sha256": "c5cc422cf5a0aed00efbafb0182d2734094dd2e65043be0ca2a6790423f7ccb4",
+      "size": 9702
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3570.zip",
+    "sha256": "c5cc422cf5a0aed00efbafb0182d2734094dd2e65043be0ca2a6790423f7ccb4",
+    "size": 9702
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

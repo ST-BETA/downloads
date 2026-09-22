@@ -1,0 +1,18 @@
+{
+  "appid": 1997110,
+  "files": [
+    {
+      "name": "1997110.zip",
+      "sha256": "345fc7df22d4d04113ef9afca916227681599cea6e0249facc886342f6cc4c38",
+      "size": 40984
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1997110.zip",
+    "sha256": "345fc7df22d4d04113ef9afca916227681599cea6e0249facc886342f6cc4c38",
+    "size": 40984
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

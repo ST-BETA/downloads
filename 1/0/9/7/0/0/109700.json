@@ -1,0 +1,18 @@
+{
+  "appid": 109700,
+  "files": [
+    {
+      "name": "109700.zip",
+      "sha256": "c9203aef86998e8bd0950bd24d405c1b74153d7a5a2b0a2d30113b63f5038bba",
+      "size": 265600
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "109700.zip",
+    "sha256": "c9203aef86998e8bd0950bd24d405c1b74153d7a5a2b0a2d30113b63f5038bba",
+    "size": 265600
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 384400,
+  "files": [
+    {
+      "name": "384400.zip",
+      "sha256": "50b0ffcf1777a95a2f98020c7adb252a09d68f024a56d023c6db9112d892753b",
+      "size": 3793
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "384400.zip",
+    "sha256": "50b0ffcf1777a95a2f98020c7adb252a09d68f024a56d023c6db9112d892753b",
+    "size": 3793
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

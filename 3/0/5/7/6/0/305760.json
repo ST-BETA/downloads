@@ -1,0 +1,18 @@
+{
+  "appid": 305760,
+  "files": [
+    {
+      "name": "305760.zip",
+      "sha256": "b084bfad4fce7f6734c4d318dd8a96d5274c469ce42b1b2f50dcbba36dcaaecd",
+      "size": 507873
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "305760.zip",
+    "sha256": "b084bfad4fce7f6734c4d318dd8a96d5274c469ce42b1b2f50dcbba36dcaaecd",
+    "size": 507873
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

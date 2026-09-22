@@ -1,0 +1,18 @@
+{
+  "appid": 489440,
+  "files": [
+    {
+      "name": "489440.zip",
+      "sha256": "16c74144647590a542fd9af8c4c845a9bb09c3b923bf625ccc698ba6d70d0e35",
+      "size": 90125
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "489440.zip",
+    "sha256": "16c74144647590a542fd9af8c4c845a9bb09c3b923bf625ccc698ba6d70d0e35",
+    "size": 90125
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

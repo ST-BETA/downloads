@@ -1,0 +1,18 @@
+{
+  "appid": 703180,
+  "files": [
+    {
+      "name": "703180.zip",
+      "sha256": "fa8aade39c5711516f89a27bd59083c116cfca08ce25c5c8c03c074b609b47b6",
+      "size": 122885
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "703180.zip",
+    "sha256": "fa8aade39c5711516f89a27bd59083c116cfca08ce25c5c8c03c074b609b47b6",
+    "size": 122885
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

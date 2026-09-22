@@ -1,0 +1,18 @@
+{
+  "appid": 816120,
+  "files": [
+    {
+      "name": "816120.zip",
+      "sha256": "0579515c66cbaef70c5b7a849ef62ed7dc0160af3093be907d39fc9ee16e8101",
+      "size": 64323
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "816120.zip",
+    "sha256": "0579515c66cbaef70c5b7a849ef62ed7dc0160af3093be907d39fc9ee16e8101",
+    "size": 64323
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

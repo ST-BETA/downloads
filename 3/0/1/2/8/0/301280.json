@@ -1,0 +1,18 @@
+{
+  "appid": 301280,
+  "files": [
+    {
+      "name": "301280.zip",
+      "sha256": "601b1c7ce63abdd8dd8466ade8db35e3678dc49a91f8f74b7757048367801332",
+      "size": 1538382
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "301280.zip",
+    "sha256": "601b1c7ce63abdd8dd8466ade8db35e3678dc49a91f8f74b7757048367801332",
+    "size": 1538382
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

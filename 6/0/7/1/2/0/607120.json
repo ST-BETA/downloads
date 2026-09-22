@@ -1,0 +1,18 @@
+{
+  "appid": 607120,
+  "files": [
+    {
+      "name": "607120.zip",
+      "sha256": "4e9089d9f4f39ea202b35e992acf62a3cdf1d172456589eb85b174fbf71c628e",
+      "size": 728345
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "607120.zip",
+    "sha256": "4e9089d9f4f39ea202b35e992acf62a3cdf1d172456589eb85b174fbf71c628e",
+    "size": 728345
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

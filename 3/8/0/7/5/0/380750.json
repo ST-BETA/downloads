@@ -1,0 +1,18 @@
+{
+  "appid": 380750,
+  "files": [
+    {
+      "name": "380750.zip",
+      "sha256": "6b70070277acecf6d6d408117b0bcfd222c0981745bc198947368218f0d119d4",
+      "size": 1255504
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "380750.zip",
+    "sha256": "6b70070277acecf6d6d408117b0bcfd222c0981745bc198947368218f0d119d4",
+    "size": 1255504
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

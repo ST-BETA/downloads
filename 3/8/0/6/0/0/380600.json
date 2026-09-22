@@ -1,0 +1,18 @@
+{
+  "appid": 380600,
+  "files": [
+    {
+      "name": "380600.zip",
+      "sha256": "f19fbfde4823dcc73b14901050322484d9476c70586b055bd120ce6e20a4c6e4",
+      "size": 21088770
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "380600.zip",
+    "sha256": "f19fbfde4823dcc73b14901050322484d9476c70586b055bd120ce6e20a4c6e4",
+    "size": 21088770
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

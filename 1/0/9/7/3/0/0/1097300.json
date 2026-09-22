@@ -1,0 +1,18 @@
+{
+  "appid": 1097300,
+  "files": [
+    {
+      "name": "1097300.zip",
+      "sha256": "35b44c80a62a468a7b3cf235a2bbefc9124f528026b273401a20141b55965dbe",
+      "size": 96211
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1097300.zip",
+    "sha256": "35b44c80a62a468a7b3cf235a2bbefc9124f528026b273401a20141b55965dbe",
+    "size": 96211
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

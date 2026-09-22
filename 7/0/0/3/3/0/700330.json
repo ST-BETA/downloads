@@ -1,0 +1,18 @@
+{
+  "appid": 700330,
+  "files": [
+    {
+      "name": "700330.zip",
+      "sha256": "1f1a833a03af3937efbcf8f6c9321cdd71b82a0d22cadbf9e7c30421fb01a6ed",
+      "size": 502246
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "700330.zip",
+    "sha256": "1f1a833a03af3937efbcf8f6c9321cdd71b82a0d22cadbf9e7c30421fb01a6ed",
+    "size": 502246
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

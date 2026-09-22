@@ -1,0 +1,18 @@
+{
+  "appid": 1103800,
+  "files": [
+    {
+      "name": "1103800.zip",
+      "sha256": "11b4fa911901838cb23aa562fe5736be913157625bc0ee10b2dadfa962a12ce2",
+      "size": 93972
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1103800.zip",
+    "sha256": "11b4fa911901838cb23aa562fe5736be913157625bc0ee10b2dadfa962a12ce2",
+    "size": 93972
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

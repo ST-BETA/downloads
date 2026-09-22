@@ -1,0 +1,18 @@
+{
+  "appid": 1004150,
+  "files": [
+    {
+      "name": "1004150.zip",
+      "sha256": "d3a4617cb2eae945f64e97f4c0899e0c64dd2d9bed6a9853ab83cca3266616d7",
+      "size": 42144
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1004150.zip",
+    "sha256": "d3a4617cb2eae945f64e97f4c0899e0c64dd2d9bed6a9853ab83cca3266616d7",
+    "size": 42144
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

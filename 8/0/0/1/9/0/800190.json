@@ -1,0 +1,18 @@
+{
+  "appid": 800190,
+  "files": [
+    {
+      "name": "800190.zip",
+      "sha256": "9fab9f18a3ca13f27d6dc2e8ada0f19aa39194342c39b36783fc61fd485f00a4",
+      "size": 27350
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "800190.zip",
+    "sha256": "9fab9f18a3ca13f27d6dc2e8ada0f19aa39194342c39b36783fc61fd485f00a4",
+    "size": 27350
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 408280,
+  "files": [
+    {
+      "name": "408280.zip",
+      "sha256": "3b7cd3b6d19c40c7be8ef2fa1bdaf7bd16a73295fd70f4ff05fc6ee5ecf0833e",
+      "size": 90267
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "408280.zip",
+    "sha256": "3b7cd3b6d19c40c7be8ef2fa1bdaf7bd16a73295fd70f4ff05fc6ee5ecf0833e",
+    "size": 90267
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

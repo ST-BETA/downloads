@@ -1,0 +1,18 @@
+{
+  "appid": 48010,
+  "files": [
+    {
+      "name": "48010.zip",
+      "sha256": "a2a86705d44a1e2b858ad9f29b675849f66fb48742363c8ba9f8f979f6a673f7",
+      "size": 34225
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "48010.zip",
+    "sha256": "a2a86705d44a1e2b858ad9f29b675849f66fb48742363c8ba9f8f979f6a673f7",
+    "size": 34225
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

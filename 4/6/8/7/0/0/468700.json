@@ -1,0 +1,18 @@
+{
+  "appid": 468700,
+  "files": [
+    {
+      "name": "468700.zip",
+      "sha256": "860197ac4fec11be667fd3c05cf7230b7e0d909c15974f74dc2c98344e7a5d0d",
+      "size": 608214
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "468700.zip",
+    "sha256": "860197ac4fec11be667fd3c05cf7230b7e0d909c15974f74dc2c98344e7a5d0d",
+    "size": 608214
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

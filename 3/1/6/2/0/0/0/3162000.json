@@ -1,0 +1,18 @@
+{
+  "appid": 3162000,
+  "files": [
+    {
+      "name": "3162000.zip",
+      "sha256": "312afdf964e9f2f773d93706b041c39e927e28739561e0483270b0c5c3c1da32",
+      "size": 339108
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3162000.zip",
+    "sha256": "312afdf964e9f2f773d93706b041c39e927e28739561e0483270b0c5c3c1da32",
+    "size": 339108
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 308080,
+  "files": [
+    {
+      "name": "308080.zip",
+      "sha256": "5044976bf8b5624826b08c87d644c425ac2307bf9874f90503d57ec0154d3cc2",
+      "size": 195128
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "308080.zip",
+    "sha256": "5044976bf8b5624826b08c87d644c425ac2307bf9874f90503d57ec0154d3cc2",
+    "size": 195128
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

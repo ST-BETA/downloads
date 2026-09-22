@@ -1,0 +1,18 @@
+{
+  "appid": 55100,
+  "files": [
+    {
+      "name": "55100.zip",
+      "sha256": "50881acd4433fb8888d4af2091588d98ac102b3bbea26b086ea07f29d23b26fc",
+      "size": 982966
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "55100.zip",
+    "sha256": "50881acd4433fb8888d4af2091588d98ac102b3bbea26b086ea07f29d23b26fc",
+    "size": 982966
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 221001,
+  "files": [
+    {
+      "name": "221001.zip",
+      "sha256": "2a29fc3b3ca8e1969ba5ea4bd6457a6e9343a101abcf30ca6d639f18dc01a40c",
+      "size": 13217
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "221001.zip",
+    "sha256": "2a29fc3b3ca8e1969ba5ea4bd6457a6e9343a101abcf30ca6d639f18dc01a40c",
+    "size": 13217
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

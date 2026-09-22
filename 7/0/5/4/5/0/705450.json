@@ -1,0 +1,18 @@
+{
+  "appid": 705450,
+  "files": [
+    {
+      "name": "705450.zip",
+      "sha256": "04ed669822ce7c239b3dc9bbc60e7277273584a3bf762fc1da5371d6dc362cf6",
+      "size": 24352
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "705450.zip",
+    "sha256": "04ed669822ce7c239b3dc9bbc60e7277273584a3bf762fc1da5371d6dc362cf6",
+    "size": 24352
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

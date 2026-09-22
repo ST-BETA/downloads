@@ -1,0 +1,18 @@
+{
+  "appid": 410700,
+  "files": [
+    {
+      "name": "410700.zip",
+      "sha256": "bc60ad84ac4e1f7e0043f81fec9a4ec2617d8a9076f5b7b1c70e05853d489223",
+      "size": 227075
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "410700.zip",
+    "sha256": "bc60ad84ac4e1f7e0043f81fec9a4ec2617d8a9076f5b7b1c70e05853d489223",
+    "size": 227075
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

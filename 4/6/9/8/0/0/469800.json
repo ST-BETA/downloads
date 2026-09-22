@@ -1,0 +1,18 @@
+{
+  "appid": 469800,
+  "files": [
+    {
+      "name": "469800.zip",
+      "sha256": "1e4ee876f7b0dbf808458417b99f0fce0a6563a8701b80b42223a2f70a5ebfb2",
+      "size": 250421
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "469800.zip",
+    "sha256": "1e4ee876f7b0dbf808458417b99f0fce0a6563a8701b80b42223a2f70a5ebfb2",
+    "size": 250421
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

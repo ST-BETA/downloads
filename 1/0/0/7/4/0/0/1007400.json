@@ -1,0 +1,18 @@
+{
+  "appid": 1007400,
+  "files": [
+    {
+      "name": "1007400.zip",
+      "sha256": "f2660f4a1690c5855fdb5c8fa32d540b8a8c0021807af6cc52f363e3a1f6d6c4",
+      "size": 1628305
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1007400.zip",
+    "sha256": "f2660f4a1690c5855fdb5c8fa32d540b8a8c0021807af6cc52f363e3a1f6d6c4",
+    "size": 1628305
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

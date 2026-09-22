@@ -1,0 +1,18 @@
+{
+  "appid": 605110,
+  "files": [
+    {
+      "name": "605110.zip",
+      "sha256": "4fa8a174e80e813d32d30cbbda6cf71c93cc6aba01458cd1009dcf823f097173",
+      "size": 65379
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "605110.zip",
+    "sha256": "4fa8a174e80e813d32d30cbbda6cf71c93cc6aba01458cd1009dcf823f097173",
+    "size": 65379
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

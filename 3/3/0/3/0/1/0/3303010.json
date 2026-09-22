@@ -1,0 +1,18 @@
+{
+  "appid": 3303010,
+  "files": [
+    {
+      "name": "3303010.zip",
+      "sha256": "d889b639b2a7fb455a27be13a201cb95ef5d1bbe2650655651485b25731d4c4a",
+      "size": 42967
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3303010.zip",
+    "sha256": "d889b639b2a7fb455a27be13a201cb95ef5d1bbe2650655651485b25731d4c4a",
+    "size": 42967
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

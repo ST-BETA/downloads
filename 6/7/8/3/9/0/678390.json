@@ -1,0 +1,18 @@
+{
+  "appid": 678390,
+  "files": [
+    {
+      "name": "678390.zip",
+      "sha256": "1d232e1edca41a21df845266ba533c48b3204d688be8a8801ead49efc472d25d",
+      "size": 89968
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "678390.zip",
+    "sha256": "1d232e1edca41a21df845266ba533c48b3204d688be8a8801ead49efc472d25d",
+    "size": 89968
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

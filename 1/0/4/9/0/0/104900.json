@@ -1,0 +1,18 @@
+{
+  "appid": 104900,
+  "files": [
+    {
+      "name": "104900.zip",
+      "sha256": "5dbc9c204479dd7f14a5d7dcedf7d655b4c44ca4df0f488095478c9cdd87967d",
+      "size": 473404
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "104900.zip",
+    "sha256": "5dbc9c204479dd7f14a5d7dcedf7d655b4c44ca4df0f488095478c9cdd87967d",
+    "size": 473404
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

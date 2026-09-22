@@ -1,0 +1,18 @@
+{
+  "appid": 433360,
+  "files": [
+    {
+      "name": "433360.zip",
+      "sha256": "2d83439727599722a8f1e0f0ee0bb68bc7898dde47a9ee0896e4857d94971bb2",
+      "size": 30830
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "433360.zip",
+    "sha256": "2d83439727599722a8f1e0f0ee0bb68bc7898dde47a9ee0896e4857d94971bb2",
+    "size": 30830
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 356250,
+  "files": [
+    {
+      "name": "356250.zip",
+      "sha256": "edd6b6e551f445df5ec90564f42eb81ea6399bbb2fa17da466864a1c7abb785b",
+      "size": 269641
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "356250.zip",
+    "sha256": "edd6b6e551f445df5ec90564f42eb81ea6399bbb2fa17da466864a1c7abb785b",
+    "size": 269641
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 879600,
+  "files": [
+    {
+      "name": "879600.zip",
+      "sha256": "d81891ffa713b6e9bcc93135a301223b12c59ca458da5525d111d76e13534edb",
+      "size": 60681
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "879600.zip",
+    "sha256": "d81891ffa713b6e9bcc93135a301223b12c59ca458da5525d111d76e13534edb",
+    "size": 60681
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

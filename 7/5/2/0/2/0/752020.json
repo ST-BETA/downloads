@@ -1,0 +1,18 @@
+{
+  "appid": 752020,
+  "files": [
+    {
+      "name": "752020.zip",
+      "sha256": "bdbb7884354333bd4cdf5836917670e01a82f6edeed69335d65d6d091e375c7d",
+      "size": 2481590
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "752020.zip",
+    "sha256": "bdbb7884354333bd4cdf5836917670e01a82f6edeed69335d65d6d091e375c7d",
+    "size": 2481590
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

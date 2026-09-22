@@ -1,0 +1,18 @@
+{
+  "appid": 1553000,
+  "files": [
+    {
+      "name": "1553000.zip",
+      "sha256": "fe2de4a70dc887ca33ab53aaac89f17a0b3f45e366bf5de001f54090a8f9ff02",
+      "size": 331313
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1553000.zip",
+    "sha256": "fe2de4a70dc887ca33ab53aaac89f17a0b3f45e366bf5de001f54090a8f9ff02",
+    "size": 331313
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

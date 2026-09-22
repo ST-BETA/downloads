@@ -1,0 +1,18 @@
+{
+  "appid": 16810,
+  "files": [
+    {
+      "name": "16810.zip",
+      "sha256": "3a5a390011118501be07bc5819e5e34a11a895eb6dd8becd3df57e5f7242d0ea",
+      "size": 1234622
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "16810.zip",
+    "sha256": "3a5a390011118501be07bc5819e5e34a11a895eb6dd8becd3df57e5f7242d0ea",
+    "size": 1234622
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

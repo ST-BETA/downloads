@@ -1,0 +1,18 @@
+{
+  "appid": 729290,
+  "files": [
+    {
+      "name": "729290.zip",
+      "sha256": "b60d40fd35b0720e8a526e23a862db311a97294d7f601a01de28b9d061e983fe",
+      "size": 49052
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "729290.zip",
+    "sha256": "b60d40fd35b0720e8a526e23a862db311a97294d7f601a01de28b9d061e983fe",
+    "size": 49052
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

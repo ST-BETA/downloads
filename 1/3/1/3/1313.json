@@ -1,0 +1,18 @@
+{
+  "appid": 1313,
+  "files": [
+    {
+      "name": "1313.zip",
+      "sha256": "daa2c6c2022ec161e773ab89f1acbd57737371670df31f5b13d946b1bd112c1a",
+      "size": 388463
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1313.zip",
+    "sha256": "daa2c6c2022ec161e773ab89f1acbd57737371670df31f5b13d946b1bd112c1a",
+    "size": 388463
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

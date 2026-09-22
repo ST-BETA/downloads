@@ -1,0 +1,18 @@
+{
+  "appid": 543600,
+  "files": [
+    {
+      "name": "543600.zip",
+      "sha256": "3e9bab359db27dced7fea545efe39f1959e9080c83e19a98c63baf354a409b55",
+      "size": 137006
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "543600.zip",
+    "sha256": "3e9bab359db27dced7fea545efe39f1959e9080c83e19a98c63baf354a409b55",
+    "size": 137006
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

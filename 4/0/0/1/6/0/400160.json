@@ -1,0 +1,18 @@
+{
+  "appid": 400160,
+  "files": [
+    {
+      "name": "400160.zip",
+      "sha256": "f821e4e29fe86b75c77ed459d91f67f199d65c61daf2781538239fd5065d74e6",
+      "size": 129125
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "400160.zip",
+    "sha256": "f821e4e29fe86b75c77ed459d91f67f199d65c61daf2781538239fd5065d74e6",
+    "size": 129125
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 776360,
+  "files": [
+    {
+      "name": "776360.zip",
+      "sha256": "58a597cdd14cc9796aebb21fb0f12cf11f333dd0c2cdff07beeb6e1faefda31c",
+      "size": 52595
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "776360.zip",
+    "sha256": "58a597cdd14cc9796aebb21fb0f12cf11f333dd0c2cdff07beeb6e1faefda31c",
+    "size": 52595
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

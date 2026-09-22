@@ -1,0 +1,18 @@
+{
+  "appid": 745330,
+  "files": [
+    {
+      "name": "745330.zip",
+      "sha256": "7e3b4010e071f1a430629549b07bb780ace471e0c766b0a14593d9ca1d365811",
+      "size": 157863
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "745330.zip",
+    "sha256": "7e3b4010e071f1a430629549b07bb780ace471e0c766b0a14593d9ca1d365811",
+    "size": 157863
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

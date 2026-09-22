@@ -1,0 +1,18 @@
+{
+  "appid": 520270,
+  "files": [
+    {
+      "name": "520270.zip",
+      "sha256": "fcc763f42d4da8f7d1d84648864b236c2e5a33911bc46b39307a5ca03fba566c",
+      "size": 30789
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "520270.zip",
+    "sha256": "fcc763f42d4da8f7d1d84648864b236c2e5a33911bc46b39307a5ca03fba566c",
+    "size": 30789
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

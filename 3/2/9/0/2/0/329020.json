@@ -1,0 +1,18 @@
+{
+  "appid": 329020,
+  "files": [
+    {
+      "name": "329020.zip",
+      "sha256": "eb53aff28b9bcebcf54df5208a2a467220500c911e31045b82ccac50fa20b493",
+      "size": 238928
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "329020.zip",
+    "sha256": "eb53aff28b9bcebcf54df5208a2a467220500c911e31045b82ccac50fa20b493",
+    "size": 238928
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 500090,
+  "files": [
+    {
+      "name": "500090.zip",
+      "sha256": "64cedff2a97fa04b0c8263196f79948241531d6d779cb3de1e246a015b164ee5",
+      "size": 456312
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "500090.zip",
+    "sha256": "64cedff2a97fa04b0c8263196f79948241531d6d779cb3de1e246a015b164ee5",
+    "size": 456312
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

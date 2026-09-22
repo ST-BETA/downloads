@@ -1,0 +1,18 @@
+{
+  "appid": 571180,
+  "files": [
+    {
+      "name": "571180.zip",
+      "sha256": "4eb047f760b504e722584d10c78d9258f8072c69566bbd069ded5f4c7934635d",
+      "size": 335650
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "571180.zip",
+    "sha256": "4eb047f760b504e722584d10c78d9258f8072c69566bbd069ded5f4c7934635d",
+    "size": 335650
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

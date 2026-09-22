@@ -1,0 +1,18 @@
+{
+  "appid": 856100,
+  "files": [
+    {
+      "name": "856100.zip",
+      "sha256": "3075a4faaff37012766bda7897dc45bd8bb11a411c0691493bcfc66020dcca3b",
+      "size": 50718
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "856100.zip",
+    "sha256": "3075a4faaff37012766bda7897dc45bd8bb11a411c0691493bcfc66020dcca3b",
+    "size": 50718
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

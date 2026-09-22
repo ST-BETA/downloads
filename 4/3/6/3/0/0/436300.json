@@ -1,0 +1,18 @@
+{
+  "appid": 436300,
+  "files": [
+    {
+      "name": "436300.zip",
+      "sha256": "20bd84ac80bc4eeb0b07b899a057b86fd3d5f030aafab6d0c04ce91640f36ee0",
+      "size": 570658
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "436300.zip",
+    "sha256": "20bd84ac80bc4eeb0b07b899a057b86fd3d5f030aafab6d0c04ce91640f36ee0",
+    "size": 570658
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

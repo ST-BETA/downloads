@@ -1,0 +1,18 @@
+{
+  "appid": 1043020,
+  "files": [
+    {
+      "name": "1043020.zip",
+      "sha256": "3bff38a0b07da3bdc3fa561e4743cc1eb651e45462962c7dd036aabc88eb023f",
+      "size": 45391
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1043020.zip",
+    "sha256": "3bff38a0b07da3bdc3fa561e4743cc1eb651e45462962c7dd036aabc88eb023f",
+    "size": 45391
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 15390,
+  "files": [
+    {
+      "name": "15390.zip",
+      "sha256": "67bc2d5b48314b513c52812f5cc0223ba25f904d6e5bdc580a5d1fc8a2d43b89",
+      "size": 733006
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "15390.zip",
+    "sha256": "67bc2d5b48314b513c52812f5cc0223ba25f904d6e5bdc580a5d1fc8a2d43b89",
+    "size": 733006
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 774321,
+  "files": [
+    {
+      "name": "774321.zip",
+      "sha256": "b32145cce537f1db91cba237e600456180ff7ae7ad9a0ab923b806bb1d70ec4f",
+      "size": 1101075
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "774321.zip",
+    "sha256": "b32145cce537f1db91cba237e600456180ff7ae7ad9a0ab923b806bb1d70ec4f",
+    "size": 1101075
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 460750,
+  "files": [
+    {
+      "name": "460750.zip",
+      "sha256": "faecc2c4a663d9ee1585f9e3ec86deb5110724692713dcd59ad303c2d6eb80cf",
+      "size": 365571
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "460750.zip",
+    "sha256": "faecc2c4a663d9ee1585f9e3ec86deb5110724692713dcd59ad303c2d6eb80cf",
+    "size": 365571
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

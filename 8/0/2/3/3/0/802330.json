@@ -1,0 +1,18 @@
+{
+  "appid": 802330,
+  "files": [
+    {
+      "name": "802330.zip",
+      "sha256": "55cd00761858007f48488d3afe5e91f3e971fdaa092b58ff828d128d71f738e0",
+      "size": 101712
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "802330.zip",
+    "sha256": "55cd00761858007f48488d3afe5e91f3e971fdaa092b58ff828d128d71f738e0",
+    "size": 101712
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

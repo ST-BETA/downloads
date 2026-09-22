@@ -1,0 +1,18 @@
+{
+  "appid": 1014580,
+  "files": [
+    {
+      "name": "1014580.zip",
+      "sha256": "e188c3da431460dcb5abdb05ed1766ce7ed756b09ec6d6bb0a7eac797c212ec3",
+      "size": 213961
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1014580.zip",
+    "sha256": "e188c3da431460dcb5abdb05ed1766ce7ed756b09ec6d6bb0a7eac797c212ec3",
+    "size": 213961
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

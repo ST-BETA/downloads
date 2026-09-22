@@ -1,0 +1,18 @@
+{
+  "appid": 104200,
+  "files": [
+    {
+      "name": "104200.zip",
+      "sha256": "9cf2bf73b3331e343d849a4fa1483d20b1a5b291866682bb1502ba0a0859cbd9",
+      "size": 210592
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "104200.zip",
+    "sha256": "9cf2bf73b3331e343d849a4fa1483d20b1a5b291866682bb1502ba0a0859cbd9",
+    "size": 210592
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

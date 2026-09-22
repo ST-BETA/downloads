@@ -1,0 +1,18 @@
+{
+  "appid": 1122340,
+  "files": [
+    {
+      "name": "1122340.zip",
+      "sha256": "e20e9409ca68fa56df96d9f31dd8209c2bdf7213f83534612cbb9684ed7a1a59",
+      "size": 597623
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1122340.zip",
+    "sha256": "e20e9409ca68fa56df96d9f31dd8209c2bdf7213f83534612cbb9684ed7a1a59",
+    "size": 597623
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

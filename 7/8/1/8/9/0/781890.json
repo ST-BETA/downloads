@@ -1,0 +1,18 @@
+{
+  "appid": 781890,
+  "files": [
+    {
+      "name": "781890.zip",
+      "sha256": "296c31928f6c9a033099cc0a0ef4465c7222730edf8202bb2171f7ab8d9331ae",
+      "size": 5291
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "781890.zip",
+    "sha256": "296c31928f6c9a033099cc0a0ef4465c7222730edf8202bb2171f7ab8d9331ae",
+    "size": 5291
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 545180,
+  "files": [
+    {
+      "name": "545180.zip",
+      "sha256": "43bc25093e3cc288c0581ad766f4d903379104e4c56915d0929cb6d73e801c1e",
+      "size": 21589
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "545180.zip",
+    "sha256": "43bc25093e3cc288c0581ad766f4d903379104e4c56915d0929cb6d73e801c1e",
+    "size": 21589
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

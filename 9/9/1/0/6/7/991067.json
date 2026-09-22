@@ -1,0 +1,18 @@
+{
+  "appid": 991067,
+  "files": [
+    {
+      "name": "991067.zip",
+      "sha256": "305efb7f205421387661892b3d05a839a60e2b6e8ce824f83fddbcfa0407fb47",
+      "size": 93178
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "991067.zip",
+    "sha256": "305efb7f205421387661892b3d05a839a60e2b6e8ce824f83fddbcfa0407fb47",
+    "size": 93178
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

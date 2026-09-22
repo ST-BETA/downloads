@@ -1,0 +1,18 @@
+{
+  "appid": 756500,
+  "files": [
+    {
+      "name": "756500.zip",
+      "sha256": "41d5055620ca042db11b71701748466f47ff1900f3aa15e808adc319a7d3dbc2",
+      "size": 153696
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "756500.zip",
+    "sha256": "41d5055620ca042db11b71701748466f47ff1900f3aa15e808adc319a7d3dbc2",
+    "size": 153696
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

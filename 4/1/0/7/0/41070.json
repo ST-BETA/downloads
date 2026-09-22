@@ -1,0 +1,18 @@
+{
+  "appid": 41070,
+  "files": [
+    {
+      "name": "41070.zip",
+      "sha256": "9d44bdb05aea2f6c907370f48d9e28e6c2fdb3be0539b0271ede912c0dcd6687",
+      "size": 407553
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "41070.zip",
+    "sha256": "9d44bdb05aea2f6c907370f48d9e28e6c2fdb3be0539b0271ede912c0dcd6687",
+    "size": 407553
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1993010,
+  "files": [
+    {
+      "name": "1993010.zip",
+      "sha256": "69f8c8bb6f80f4cdb9662f1e427189909eed2769eb5b382687098ccbe3640b8a",
+      "size": 122962
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1993010.zip",
+    "sha256": "69f8c8bb6f80f4cdb9662f1e427189909eed2769eb5b382687098ccbe3640b8a",
+    "size": 122962
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

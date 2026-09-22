@@ -1,0 +1,18 @@
+{
+  "appid": 395500,
+  "files": [
+    {
+      "name": "395500.zip",
+      "sha256": "3bec7d57ab6a443425dfe0b8c920f2c0e115f6d2ee089c50cfff80f5c72e030c",
+      "size": 6894
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "395500.zip",
+    "sha256": "3bec7d57ab6a443425dfe0b8c920f2c0e115f6d2ee089c50cfff80f5c72e030c",
+    "size": 6894
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2060240,
+  "files": [
+    {
+      "name": "2060240.zip",
+      "sha256": "71ac9fccaa47c5585e09b06bdad4ac00233e222fb7e013d2e9d1547b634ee837",
+      "size": 152684
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2060240.zip",
+    "sha256": "71ac9fccaa47c5585e09b06bdad4ac00233e222fb7e013d2e9d1547b634ee837",
+    "size": 152684
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

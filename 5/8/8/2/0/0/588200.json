@@ -1,0 +1,18 @@
+{
+  "appid": 588200,
+  "files": [
+    {
+      "name": "588200.zip",
+      "sha256": "97effb9b6a5f7beb96558524c597945217e53494cdc01bc4e5be3dacea6a6d84",
+      "size": 46016
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "588200.zip",
+    "sha256": "97effb9b6a5f7beb96558524c597945217e53494cdc01bc4e5be3dacea6a6d84",
+    "size": 46016
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

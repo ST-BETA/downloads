@@ -1,0 +1,18 @@
+{
+  "appid": 3986100,
+  "files": [
+    {
+      "name": "3986100.zip",
+      "sha256": "d7d2b8031c00a20999da916920860c5928e3161f719bb68e2e42e3e94d7b4a8d",
+      "size": 152571
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3986100.zip",
+    "sha256": "d7d2b8031c00a20999da916920860c5928e3161f719bb68e2e42e3e94d7b4a8d",
+    "size": 152571
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

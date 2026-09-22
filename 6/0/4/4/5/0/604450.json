@@ -1,0 +1,18 @@
+{
+  "appid": 604450,
+  "files": [
+    {
+      "name": "604450.zip",
+      "sha256": "85cc64042bd4a85f3b3681a9273841feb98e7f1cf7641b379cc3496f261cef31",
+      "size": 125562
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "604450.zip",
+    "sha256": "85cc64042bd4a85f3b3681a9273841feb98e7f1cf7641b379cc3496f261cef31",
+    "size": 125562
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

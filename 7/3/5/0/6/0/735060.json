@@ -1,0 +1,18 @@
+{
+  "appid": 735060,
+  "files": [
+    {
+      "name": "735060.zip",
+      "sha256": "67ef6e2b2072b75e86e262684deefe8bf89c8259071340a7184ad32b64efb096",
+      "size": 290404
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "735060.zip",
+    "sha256": "67ef6e2b2072b75e86e262684deefe8bf89c8259071340a7184ad32b64efb096",
+    "size": 290404
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

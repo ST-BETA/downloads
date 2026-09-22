@@ -1,0 +1,18 @@
+{
+  "appid": 1180360,
+  "files": [
+    {
+      "name": "1180360.zip",
+      "sha256": "6711f39371c8999577ae509c739b8dbf9224132fda0bf9dd0e040c3ef8e396f8",
+      "size": 372351
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1180360.zip",
+    "sha256": "6711f39371c8999577ae509c739b8dbf9224132fda0bf9dd0e040c3ef8e396f8",
+    "size": 372351
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

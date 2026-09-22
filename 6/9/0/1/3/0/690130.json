@@ -1,0 +1,18 @@
+{
+  "appid": 690130,
+  "files": [
+    {
+      "name": "690130.zip",
+      "sha256": "348a68b8101f0bf5b71343ec436161fc0f22978c0ff7793bedd6b99b4176c232",
+      "size": 60425
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "690130.zip",
+    "sha256": "348a68b8101f0bf5b71343ec436161fc0f22978c0ff7793bedd6b99b4176c232",
+    "size": 60425
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

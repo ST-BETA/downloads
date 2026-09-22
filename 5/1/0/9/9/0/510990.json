@@ -1,0 +1,18 @@
+{
+  "appid": 510990,
+  "files": [
+    {
+      "name": "510990.zip",
+      "sha256": "e6f9a18e0e32ad171e68502ad3612d983840b4c0212ebdb1fcb696904f326514",
+      "size": 24888
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "510990.zip",
+    "sha256": "e6f9a18e0e32ad171e68502ad3612d983840b4c0212ebdb1fcb696904f326514",
+    "size": 24888
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 12650,
+  "files": [
+    {
+      "name": "12650.zip",
+      "sha256": "c1f6e0c286155894214dfe079e3f37cf0694793b5811685935f38d504779dd8d",
+      "size": 24057
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "12650.zip",
+    "sha256": "c1f6e0c286155894214dfe079e3f37cf0694793b5811685935f38d504779dd8d",
+    "size": 24057
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

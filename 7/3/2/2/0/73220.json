@@ -1,0 +1,18 @@
+{
+  "appid": 73220,
+  "files": [
+    {
+      "name": "73220.zip",
+      "sha256": "a8a1de20b3e37157fe8916196d4462335896ccede99ea5e1be71c68a29ca1ad8",
+      "size": 1062762
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "73220.zip",
+    "sha256": "a8a1de20b3e37157fe8916196d4462335896ccede99ea5e1be71c68a29ca1ad8",
+    "size": 1062762
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

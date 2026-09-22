@@ -1,0 +1,18 @@
+{
+  "appid": 711750,
+  "files": [
+    {
+      "name": "711750.zip",
+      "sha256": "d28af80aff2e01af05675cba3ffc76abb46a87fdb44d4226ce891d8eb84068c5",
+      "size": 542234
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "711750.zip",
+    "sha256": "d28af80aff2e01af05675cba3ffc76abb46a87fdb44d4226ce891d8eb84068c5",
+    "size": 542234
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

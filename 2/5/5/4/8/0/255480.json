@@ -1,0 +1,18 @@
+{
+  "appid": 255480,
+  "files": [
+    {
+      "name": "255480.zip",
+      "sha256": "d03fdeffbe76d4f3ee2ea6ce0e1d7daa0cd428139d56a0ca10f52802713bae9c",
+      "size": 972238
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "255480.zip",
+    "sha256": "d03fdeffbe76d4f3ee2ea6ce0e1d7daa0cd428139d56a0ca10f52802713bae9c",
+    "size": 972238
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

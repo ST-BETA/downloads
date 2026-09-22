@@ -1,0 +1,18 @@
+{
+  "appid": 20,
+  "files": [
+    {
+      "name": "20.zip",
+      "sha256": "89ea63dfd7a7873bbf78e1de34041d5fe3e1ce1fc5a8f51c2a03e3b8b3f872c3",
+      "size": 1807714
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "20.zip",
+    "sha256": "89ea63dfd7a7873bbf78e1de34041d5fe3e1ce1fc5a8f51c2a03e3b8b3f872c3",
+    "size": 1807714
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 346110,
+  "files": [
+    {
+      "name": "346110_001.zip",
+      "sha256": "3bbe57c56aae0cdfd7a2d10352b9bfbbb51ac3fce3a6cbd9cc7b085e80162500",
+      "size": 103809024
+    },
+    {
+      "name": "346110_002.zip",
+      "sha256": "1e26714ab0d46509e850407aff8c624a9c01be65729dff5f2aeebd8466e871d1",
+      "size": 12070660
+    }
+  ],
+  "merge": true,
+  "original": {
+    "name": "346110.zip",
+    "sha256": "73bf416c53dcabeb6133896a88d96839eb7f1f3e7e541bb1c046e1de4d468c2c",
+    "size": 115879684
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

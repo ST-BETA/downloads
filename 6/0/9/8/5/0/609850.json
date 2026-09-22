@@ -1,0 +1,18 @@
+{
+  "appid": 609850,
+  "files": [
+    {
+      "name": "609850.zip",
+      "sha256": "8a5b4ecbdda6a90488c507594c353936700a0d65c0ad353e338fd122a3dfce95",
+      "size": 135452
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "609850.zip",
+    "sha256": "8a5b4ecbdda6a90488c507594c353936700a0d65c0ad353e338fd122a3dfce95",
+    "size": 135452
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2004200,
+  "files": [
+    {
+      "name": "2004200.zip",
+      "sha256": "7ad6f2c8b6f03f9e4eec437c73e0e6f81a2e84e892785d232aa60acf4e8dc5a9",
+      "size": 19688
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2004200.zip",
+    "sha256": "7ad6f2c8b6f03f9e4eec437c73e0e6f81a2e84e892785d232aa60acf4e8dc5a9",
+    "size": 19688
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

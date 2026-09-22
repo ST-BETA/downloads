@@ -1,0 +1,18 @@
+{
+  "appid": 878000,
+  "files": [
+    {
+      "name": "878000.zip",
+      "sha256": "033773863e6729478034825549c4e3f6661c0dbedc990450e03d9a812efd9483",
+      "size": 43274
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "878000.zip",
+    "sha256": "033773863e6729478034825549c4e3f6661c0dbedc990450e03d9a812efd9483",
+    "size": 43274
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

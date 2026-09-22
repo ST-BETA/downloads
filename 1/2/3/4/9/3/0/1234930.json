@@ -1,0 +1,18 @@
+{
+  "appid": 1234930,
+  "files": [
+    {
+      "name": "1234930.zip",
+      "sha256": "95bc7c915676662faaa3942bffa9110851ad8edb743e6e28f134bc9cce1ed358",
+      "size": 22156
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1234930.zip",
+    "sha256": "95bc7c915676662faaa3942bffa9110851ad8edb743e6e28f134bc9cce1ed358",
+    "size": 22156
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

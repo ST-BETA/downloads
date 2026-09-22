@@ -1,0 +1,18 @@
+{
+  "appid": 895110,
+  "files": [
+    {
+      "name": "895110.zip",
+      "sha256": "445d269990994bed9a1a43637eb7aebe7d3d187a85dbd907a52f2ffdeaea78a2",
+      "size": 310106
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "895110.zip",
+    "sha256": "445d269990994bed9a1a43637eb7aebe7d3d187a85dbd907a52f2ffdeaea78a2",
+    "size": 310106
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

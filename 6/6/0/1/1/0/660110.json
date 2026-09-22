@@ -1,0 +1,18 @@
+{
+  "appid": 660110,
+  "files": [
+    {
+      "name": "660110.zip",
+      "sha256": "a315e0141e05474734fadfb17ac8c3c20d3a118482b417ae588d2268b9854530",
+      "size": 74391
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "660110.zip",
+    "sha256": "a315e0141e05474734fadfb17ac8c3c20d3a118482b417ae588d2268b9854530",
+    "size": 74391
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

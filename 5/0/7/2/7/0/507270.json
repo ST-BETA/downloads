@@ -1,0 +1,18 @@
+{
+  "appid": 507270,
+  "files": [
+    {
+      "name": "507270.zip",
+      "sha256": "41708f8b50d4ec1dc17c70aa45847fda172043e41e337d47e9f793362c33ca68",
+      "size": 69325
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "507270.zip",
+    "sha256": "41708f8b50d4ec1dc17c70aa45847fda172043e41e337d47e9f793362c33ca68",
+    "size": 69325
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

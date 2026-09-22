@@ -1,0 +1,18 @@
+{
+  "appid": 353700,
+  "files": [
+    {
+      "name": "353700.zip",
+      "sha256": "583d2a5a516a2224d1184bf96eec780a3aec87346c2a3736477286ddd3a1860b",
+      "size": 158049
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "353700.zip",
+    "sha256": "583d2a5a516a2224d1184bf96eec780a3aec87346c2a3736477286ddd3a1860b",
+    "size": 158049
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

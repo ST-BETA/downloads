@@ -1,0 +1,18 @@
+{
+  "appid": 700510,
+  "files": [
+    {
+      "name": "700510.zip",
+      "sha256": "274081aca353e8ffdb5b1a0bfc4adc080a2414ebc352282a7fb13479e5eb00ab",
+      "size": 33224
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "700510.zip",
+    "sha256": "274081aca353e8ffdb5b1a0bfc4adc080a2414ebc352282a7fb13479e5eb00ab",
+    "size": 33224
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

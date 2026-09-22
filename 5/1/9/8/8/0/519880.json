@@ -1,0 +1,18 @@
+{
+  "appid": 519880,
+  "files": [
+    {
+      "name": "519880.zip",
+      "sha256": "2b90fd1d94b2ac90679576220bb90d505bb74e7488dd093988e5d3f32ce932a1",
+      "size": 125251
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "519880.zip",
+    "sha256": "2b90fd1d94b2ac90679576220bb90d505bb74e7488dd093988e5d3f32ce932a1",
+    "size": 125251
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

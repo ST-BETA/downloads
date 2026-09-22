@@ -1,0 +1,18 @@
+{
+  "appid": 98500,
+  "files": [
+    {
+      "name": "98500.zip",
+      "sha256": "27ff20071c5e1d7c6b2321385263cc77f3eb7e645851698f327386c8bc2f8bfe",
+      "size": 90797
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "98500.zip",
+    "sha256": "27ff20071c5e1d7c6b2321385263cc77f3eb7e645851698f327386c8bc2f8bfe",
+    "size": 90797
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

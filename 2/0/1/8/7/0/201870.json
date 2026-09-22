@@ -1,0 +1,18 @@
+{
+  "appid": 201870,
+  "files": [
+    {
+      "name": "201870.zip",
+      "sha256": "6fbf708af07700a9e56aea1ae75cd5e35fb339f36c6c6d59c5f90ccc21c40905",
+      "size": 440851
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201870.zip",
+    "sha256": "6fbf708af07700a9e56aea1ae75cd5e35fb339f36c6c6d59c5f90ccc21c40905",
+    "size": 440851
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

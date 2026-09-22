@@ -1,0 +1,18 @@
+{
+  "appid": 699760,
+  "files": [
+    {
+      "name": "699760.zip",
+      "sha256": "a83d6a6d76bfe370ca6551be544fdc153525f88ee92f83dbac50b5504c7ab751",
+      "size": 41271
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "699760.zip",
+    "sha256": "a83d6a6d76bfe370ca6551be544fdc153525f88ee92f83dbac50b5504c7ab751",
+    "size": 41271
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

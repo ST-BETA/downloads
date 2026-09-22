@@ -1,0 +1,18 @@
+{
+  "appid": 2637120,
+  "files": [
+    {
+      "name": "2637120.zip",
+      "sha256": "deb9223fdd36773abcc38a9bc495b6b96ecabcfaa8812765b03e057580940434",
+      "size": 635913
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2637120.zip",
+    "sha256": "deb9223fdd36773abcc38a9bc495b6b96ecabcfaa8812765b03e057580940434",
+    "size": 635913
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

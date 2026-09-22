@@ -1,0 +1,18 @@
+{
+  "appid": 226700,
+  "files": [
+    {
+      "name": "226700.zip",
+      "sha256": "3f408ef7837a423c0b2c0d6173da7aba5e5f22e1fdbec5095ff51ac14ebf3d97",
+      "size": 905144
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "226700.zip",
+    "sha256": "3f408ef7837a423c0b2c0d6173da7aba5e5f22e1fdbec5095ff51ac14ebf3d97",
+    "size": 905144
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

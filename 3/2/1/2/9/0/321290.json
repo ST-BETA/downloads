@@ -1,0 +1,18 @@
+{
+  "appid": 321290,
+  "files": [
+    {
+      "name": "321290.zip",
+      "sha256": "775839771e2fdaed595e9f352615a9b3e79e4ff1a92ce58a7695d49ec4065f88",
+      "size": 991810
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "321290.zip",
+    "sha256": "775839771e2fdaed595e9f352615a9b3e79e4ff1a92ce58a7695d49ec4065f88",
+    "size": 991810
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

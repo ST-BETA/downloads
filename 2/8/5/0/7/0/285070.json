@@ -1,0 +1,18 @@
+{
+  "appid": 285070,
+  "files": [
+    {
+      "name": "285070.zip",
+      "sha256": "51a13a312f3f2117efe8d56632aa030ec67f76b2e3ddae01d59865e930177910",
+      "size": 529152
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "285070.zip",
+    "sha256": "51a13a312f3f2117efe8d56632aa030ec67f76b2e3ddae01d59865e930177910",
+    "size": 529152
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

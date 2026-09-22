@@ -1,0 +1,18 @@
+{
+  "appid": 2962000,
+  "files": [
+    {
+      "name": "2962000.zip",
+      "sha256": "5a88cd73580520c6c340f5b410a052f09cfee18e860ab6184b97d3cb8c93f106",
+      "size": 54291
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2962000.zip",
+    "sha256": "5a88cd73580520c6c340f5b410a052f09cfee18e860ab6184b97d3cb8c93f106",
+    "size": 54291
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

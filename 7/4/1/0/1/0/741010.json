@@ -1,0 +1,18 @@
+{
+  "appid": 741010,
+  "files": [
+    {
+      "name": "741010.zip",
+      "sha256": "0f80e9404017afc54e429c4c095ee8fc78a03982e64958ad7aa3c9595eb61721",
+      "size": 9693
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "741010.zip",
+    "sha256": "0f80e9404017afc54e429c4c095ee8fc78a03982e64958ad7aa3c9595eb61721",
+    "size": 9693
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

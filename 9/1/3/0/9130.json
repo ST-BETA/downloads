@@ -1,0 +1,18 @@
+{
+  "appid": 9130,
+  "files": [
+    {
+      "name": "9130.zip",
+      "sha256": "49318e3b771f963c4877e77a7d7d33a39c8fb222579b183b12b313b0d71bf6c6",
+      "size": 27436
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "9130.zip",
+    "sha256": "49318e3b771f963c4877e77a7d7d33a39c8fb222579b183b12b313b0d71bf6c6",
+    "size": 27436
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

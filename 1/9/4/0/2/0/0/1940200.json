@@ -1,0 +1,18 @@
+{
+  "appid": 1940200,
+  "files": [
+    {
+      "name": "1940200.zip",
+      "sha256": "ba5d14583e1eb1ed20bcb349bbebbe0b04561cd46137392bce68cd251b0beade",
+      "size": 520024
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1940200.zip",
+    "sha256": "ba5d14583e1eb1ed20bcb349bbebbe0b04561cd46137392bce68cd251b0beade",
+    "size": 520024
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

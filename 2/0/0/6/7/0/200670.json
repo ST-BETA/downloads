@@ -1,0 +1,18 @@
+{
+  "appid": 200670,
+  "files": [
+    {
+      "name": "200670.zip",
+      "sha256": "cce48b4cc5a1bff88c387652faa3d895e90a31ebaf8def8bbca34998cc4db0c6",
+      "size": 6124416
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200670.zip",
+    "sha256": "cce48b4cc5a1bff88c387652faa3d895e90a31ebaf8def8bbca34998cc4db0c6",
+    "size": 6124416
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

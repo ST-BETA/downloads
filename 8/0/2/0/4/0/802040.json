@@ -1,0 +1,18 @@
+{
+  "appid": 802040,
+  "files": [
+    {
+      "name": "802040.zip",
+      "sha256": "8f5ade8af10954ac2b3243f83da410069201bbc6d2d13ac28c9480d545740da5",
+      "size": 109912
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "802040.zip",
+    "sha256": "8f5ade8af10954ac2b3243f83da410069201bbc6d2d13ac28c9480d545740da5",
+    "size": 109912
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

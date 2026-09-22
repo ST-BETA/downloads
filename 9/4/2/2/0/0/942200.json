@@ -1,0 +1,18 @@
+{
+  "appid": 942200,
+  "files": [
+    {
+      "name": "942200.zip",
+      "sha256": "9184fa2ba02ae685dc747a0b60cfcd31e3ce23a16f2642fac06d098914bc8765",
+      "size": 418078
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "942200.zip",
+    "sha256": "9184fa2ba02ae685dc747a0b60cfcd31e3ce23a16f2642fac06d098914bc8765",
+    "size": 418078
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

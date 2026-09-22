@@ -1,0 +1,18 @@
+{
+  "appid": 2500110,
+  "files": [
+    {
+      "name": "2500110.zip",
+      "sha256": "481b4a68ff273151e298c231530fd47e546d1ddc5254b47e3fcce41dca27632b",
+      "size": 673641
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2500110.zip",
+    "sha256": "481b4a68ff273151e298c231530fd47e546d1ddc5254b47e3fcce41dca27632b",
+    "size": 673641
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

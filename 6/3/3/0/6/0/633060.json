@@ -1,0 +1,18 @@
+{
+  "appid": 633060,
+  "files": [
+    {
+      "name": "633060.zip",
+      "sha256": "cc2ca2c5cafab76e55f2dadfe286a8d858b2bfa738493fad00df24e431e791da",
+      "size": 131395
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "633060.zip",
+    "sha256": "cc2ca2c5cafab76e55f2dadfe286a8d858b2bfa738493fad00df24e431e791da",
+    "size": 131395
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

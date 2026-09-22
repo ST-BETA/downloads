@@ -1,0 +1,18 @@
+{
+  "appid": 3601800,
+  "files": [
+    {
+      "name": "3601800.zip",
+      "sha256": "820231a9c187169938c1942a3c8b52716cc979b1f0b44a6dc530da0e2d58c92b",
+      "size": 236864
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3601800.zip",
+    "sha256": "820231a9c187169938c1942a3c8b52716cc979b1f0b44a6dc530da0e2d58c92b",
+    "size": 236864
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

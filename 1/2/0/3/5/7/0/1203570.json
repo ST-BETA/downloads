@@ -1,0 +1,18 @@
+{
+  "appid": 1203570,
+  "files": [
+    {
+      "name": "1203570.zip",
+      "sha256": "3b633852e692294dc8c11761cf1ed07019c9f703405e3900f22643cdfafd944d",
+      "size": 37129
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1203570.zip",
+    "sha256": "3b633852e692294dc8c11761cf1ed07019c9f703405e3900f22643cdfafd944d",
+    "size": 37129
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

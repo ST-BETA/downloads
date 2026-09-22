@@ -1,0 +1,18 @@
+{
+  "appid": 420900,
+  "files": [
+    {
+      "name": "420900.zip",
+      "sha256": "49c508b77cdba93edeeb4f959e1625ed8b1aeb04facea2c15b464a927f92c637",
+      "size": 18016
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "420900.zip",
+    "sha256": "49c508b77cdba93edeeb4f959e1625ed8b1aeb04facea2c15b464a927f92c637",
+    "size": 18016
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

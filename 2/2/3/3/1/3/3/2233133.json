@@ -1,0 +1,18 @@
+{
+  "appid": 2233133,
+  "files": [
+    {
+      "name": "2233133.zip",
+      "sha256": "c5034727d4543f380828f9b674f06e938954eac5e99cbfde3ee23acd116997da",
+      "size": 1416
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2233133.zip",
+    "sha256": "c5034727d4543f380828f9b674f06e938954eac5e99cbfde3ee23acd116997da",
+    "size": 1416
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

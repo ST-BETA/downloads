@@ -1,0 +1,18 @@
+{
+  "appid": 1964000,
+  "files": [
+    {
+      "name": "1964000.zip",
+      "sha256": "c837c1f1970553d72bc8509a5354382a60805fdf169d3bcaebc1cc53d38710e0",
+      "size": 60581
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1964000.zip",
+    "sha256": "c837c1f1970553d72bc8509a5354382a60805fdf169d3bcaebc1cc53d38710e0",
+    "size": 60581
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

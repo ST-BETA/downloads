@@ -1,0 +1,18 @@
+{
+  "appid": 810250,
+  "files": [
+    {
+      "name": "810250.zip",
+      "sha256": "0afee0db0c1d2d2c1f4374b1ec7a8d05fdb987fb08748bf1b8426752d1b60932",
+      "size": 40178
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "810250.zip",
+    "sha256": "0afee0db0c1d2d2c1f4374b1ec7a8d05fdb987fb08748bf1b8426752d1b60932",
+    "size": 40178
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 401800,
+  "files": [
+    {
+      "name": "401800.zip",
+      "sha256": "845fffab292255fa055354a03a68262ec7f59f96153bd25d6e79ff5da4022ec6",
+      "size": 50448
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "401800.zip",
+    "sha256": "845fffab292255fa055354a03a68262ec7f59f96153bd25d6e79ff5da4022ec6",
+    "size": 50448
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

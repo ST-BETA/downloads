@@ -1,0 +1,18 @@
+{
+  "appid": 1591500,
+  "files": [
+    {
+      "name": "1591500.zip",
+      "sha256": "dabb1aba0237c30e643a13412b48d82e9edab1fa9907a06c2a9cc5a364708aed",
+      "size": 44128
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1591500.zip",
+    "sha256": "dabb1aba0237c30e643a13412b48d82e9edab1fa9907a06c2a9cc5a364708aed",
+    "size": 44128
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

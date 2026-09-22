@@ -1,0 +1,18 @@
+{
+  "appid": 1980980,
+  "files": [
+    {
+      "name": "1980980.zip",
+      "sha256": "12cb42746a059551a705c4124055cc86aee1c597f2644ff922a222182f37e42c",
+      "size": 575823
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1980980.zip",
+    "sha256": "12cb42746a059551a705c4124055cc86aee1c597f2644ff922a222182f37e42c",
+    "size": 575823
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 481190,
+  "files": [
+    {
+      "name": "481190.zip",
+      "sha256": "db69d6d5ca7eb655fec736587926bc95cdb013387c44b2273609114f2d0b071e",
+      "size": 303092
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "481190.zip",
+    "sha256": "db69d6d5ca7eb655fec736587926bc95cdb013387c44b2273609114f2d0b071e",
+    "size": 303092
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

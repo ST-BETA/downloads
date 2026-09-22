@@ -1,0 +1,18 @@
+{
+  "appid": 777110,
+  "files": [
+    {
+      "name": "777110.zip",
+      "sha256": "778a7ae6edcbb6fd47a2c2b6718e4fa59ed4252976e93738926fb0248dfa23ae",
+      "size": 24349
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "777110.zip",
+    "sha256": "778a7ae6edcbb6fd47a2c2b6718e4fa59ed4252976e93738926fb0248dfa23ae",
+    "size": 24349
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

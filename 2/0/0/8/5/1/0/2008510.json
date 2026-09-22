@@ -1,0 +1,18 @@
+{
+  "appid": 2008510,
+  "files": [
+    {
+      "name": "2008510.zip",
+      "sha256": "ed8a682a696a4d77b26aece37eb3230e7c77b88e3b10004b9bd7c9d49214ffd5",
+      "size": 300103
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2008510.zip",
+    "sha256": "ed8a682a696a4d77b26aece37eb3230e7c77b88e3b10004b9bd7c9d49214ffd5",
+    "size": 300103
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

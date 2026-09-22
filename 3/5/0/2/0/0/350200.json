@@ -1,0 +1,18 @@
+{
+  "appid": 350200,
+  "files": [
+    {
+      "name": "350200.zip",
+      "sha256": "9ba9497105191c2c12fbea5d509130a59e31e2a51b5c9719ee97976833d4c8cb",
+      "size": 207190
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "350200.zip",
+    "sha256": "9ba9497105191c2c12fbea5d509130a59e31e2a51b5c9719ee97976833d4c8cb",
+    "size": 207190
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

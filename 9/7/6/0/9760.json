@@ -1,0 +1,18 @@
+{
+  "appid": 9760,
+  "files": [
+    {
+      "name": "9760.zip",
+      "sha256": "d1e6e2536a4dfca35224aa384ec2e1baa7de70f9ee168bc1568147871646d33e",
+      "size": 621782
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "9760.zip",
+    "sha256": "d1e6e2536a4dfca35224aa384ec2e1baa7de70f9ee168bc1568147871646d33e",
+    "size": 621782
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

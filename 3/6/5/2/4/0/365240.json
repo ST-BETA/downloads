@@ -1,0 +1,18 @@
+{
+  "appid": 365240,
+  "files": [
+    {
+      "name": "365240.zip",
+      "sha256": "7195cf01dd15080ac5769f8e06ce48033515923b9d68f45860e953a4e3c521a6",
+      "size": 26555
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "365240.zip",
+    "sha256": "7195cf01dd15080ac5769f8e06ce48033515923b9d68f45860e953a4e3c521a6",
+    "size": 26555
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

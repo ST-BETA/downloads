@@ -1,0 +1,18 @@
+{
+  "appid": 20510,
+  "files": [
+    {
+      "name": "20510.zip",
+      "sha256": "2ab11d15823f007a989117d4f00db7a80f8775cb7edcde0dab05e51b2588b867",
+      "size": 348250
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "20510.zip",
+    "sha256": "2ab11d15823f007a989117d4f00db7a80f8775cb7edcde0dab05e51b2588b867",
+    "size": 348250
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

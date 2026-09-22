@@ -1,0 +1,18 @@
+{
+  "appid": 115120,
+  "files": [
+    {
+      "name": "115120.zip",
+      "sha256": "f6707b13590ae211e45ee351de1606f945421bbd969347b357749923e2d30e17",
+      "size": 153670
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "115120.zip",
+    "sha256": "f6707b13590ae211e45ee351de1606f945421bbd969347b357749923e2d30e17",
+    "size": 153670
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

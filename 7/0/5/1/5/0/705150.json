@@ -1,0 +1,18 @@
+{
+  "appid": 705150,
+  "files": [
+    {
+      "name": "705150.zip",
+      "sha256": "b6a8ebfb50dd9780a4b653619985c3718ecda40ff79865d7eb44c0fdf6507b6f",
+      "size": 109525
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "705150.zip",
+    "sha256": "b6a8ebfb50dd9780a4b653619985c3718ecda40ff79865d7eb44c0fdf6507b6f",
+    "size": 109525
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

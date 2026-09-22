@@ -1,0 +1,18 @@
+{
+  "appid": 2308000,
+  "files": [
+    {
+      "name": "2308000.zip",
+      "sha256": "13f1cceae81249edd65425620ddb897b54dfcee83487aea30c3bf63e722adb5d",
+      "size": 3927
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2308000.zip",
+    "sha256": "13f1cceae81249edd65425620ddb897b54dfcee83487aea30c3bf63e722adb5d",
+    "size": 3927
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

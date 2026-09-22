@@ -1,0 +1,18 @@
+{
+  "appid": 768200,
+  "files": [
+    {
+      "name": "768200.zip",
+      "sha256": "056f4aa40580745c8bc012101b60c0caf24ffe5165f5b825a8b46283476c560f",
+      "size": 1054566
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "768200.zip",
+    "sha256": "056f4aa40580745c8bc012101b60c0caf24ffe5165f5b825a8b46283476c560f",
+    "size": 1054566
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

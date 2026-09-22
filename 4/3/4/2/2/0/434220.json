@@ -1,0 +1,18 @@
+{
+  "appid": 434220,
+  "files": [
+    {
+      "name": "434220.zip",
+      "sha256": "33990c32b88d0cb367e06b6c1084359a41ebdaa2591222d3129c96c3f18aa438",
+      "size": 204342
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "434220.zip",
+    "sha256": "33990c32b88d0cb367e06b6c1084359a41ebdaa2591222d3129c96c3f18aa438",
+    "size": 204342
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

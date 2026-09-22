@@ -1,0 +1,18 @@
+{
+  "appid": 543170,
+  "files": [
+    {
+      "name": "543170.zip",
+      "sha256": "67c1fa87be573b0376bb1886b3d700c04fcd22fca40cd2075effa5870363f255",
+      "size": 15191
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "543170.zip",
+    "sha256": "67c1fa87be573b0376bb1886b3d700c04fcd22fca40cd2075effa5870363f255",
+    "size": 15191
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

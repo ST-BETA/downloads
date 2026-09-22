@@ -1,0 +1,18 @@
+{
+  "appid": 2017020,
+  "files": [
+    {
+      "name": "2017020.zip",
+      "sha256": "a4df3b92b00adf3768402d97c6bd590e89e3f06e1ac3de2ec1ebfba350e0dbc4",
+      "size": 4139
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2017020.zip",
+    "sha256": "a4df3b92b00adf3768402d97c6bd590e89e3f06e1ac3de2ec1ebfba350e0dbc4",
+    "size": 4139
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

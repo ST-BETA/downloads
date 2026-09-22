@@ -1,0 +1,18 @@
+{
+  "appid": 3210870,
+  "files": [
+    {
+      "name": "3210870.zip",
+      "sha256": "1c4e2aaa267fab56aaa823f06b9ee7f7151ae388d13bba84c6426b5d069a30f2",
+      "size": 5205
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3210870.zip",
+    "sha256": "1c4e2aaa267fab56aaa823f06b9ee7f7151ae388d13bba84c6426b5d069a30f2",
+    "size": 5205
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

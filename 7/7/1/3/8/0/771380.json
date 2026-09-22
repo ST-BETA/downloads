@@ -1,0 +1,18 @@
+{
+  "appid": 771380,
+  "files": [
+    {
+      "name": "771380.zip",
+      "sha256": "78f85beb7b10ed1509cb41bcac5430824f043d0a37a824a1753fc4a053a1886d",
+      "size": 192548
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "771380.zip",
+    "sha256": "78f85beb7b10ed1509cb41bcac5430824f043d0a37a824a1753fc4a053a1886d",
+    "size": 192548
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1000900,
+  "files": [
+    {
+      "name": "1000900.zip",
+      "sha256": "72fe258de59fcbc083cf7948555cb1cf90c5fb94480189657bab8cba285e6b51",
+      "size": 693112
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1000900.zip",
+    "sha256": "72fe258de59fcbc083cf7948555cb1cf90c5fb94480189657bab8cba285e6b51",
+    "size": 693112
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

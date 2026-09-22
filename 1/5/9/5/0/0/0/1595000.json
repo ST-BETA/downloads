@@ -1,0 +1,18 @@
+{
+  "appid": 1595000,
+  "files": [
+    {
+      "name": "1595000.zip",
+      "sha256": "c38465def0fd08a29abdcc3f8dadebc1eca5428ee13997ef1a1b57d9c565d634",
+      "size": 93691
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1595000.zip",
+    "sha256": "c38465def0fd08a29abdcc3f8dadebc1eca5428ee13997ef1a1b57d9c565d634",
+    "size": 93691
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1776000,
+  "files": [
+    {
+      "name": "1776000.zip",
+      "sha256": "0548aeb276bcf3e310e2b951ba58c8204f0d0d7b23a673fdb520583b91b939f9",
+      "size": 191840
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1776000.zip",
+    "sha256": "0548aeb276bcf3e310e2b951ba58c8204f0d0d7b23a673fdb520583b91b939f9",
+    "size": 191840
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

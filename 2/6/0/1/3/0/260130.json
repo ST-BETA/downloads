@@ -1,0 +1,18 @@
+{
+  "appid": 260130,
+  "files": [
+    {
+      "name": "260130.zip",
+      "sha256": "6ad1b1ce1bbb5078e31cf8b5b8c8a08fc612c563a907d26ddac609c4b32ba4d3",
+      "size": 225823
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "260130.zip",
+    "sha256": "6ad1b1ce1bbb5078e31cf8b5b8c8a08fc612c563a907d26ddac609c4b32ba4d3",
+    "size": 225823
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

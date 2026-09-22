@@ -1,0 +1,18 @@
+{
+  "appid": 2810100,
+  "files": [
+    {
+      "name": "2810100.zip",
+      "sha256": "def5adfd31942aa562c773842fea8d8ce710b2fdcf5814c2bcf48e8e3a7b5f86",
+      "size": 52285
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2810100.zip",
+    "sha256": "def5adfd31942aa562c773842fea8d8ce710b2fdcf5814c2bcf48e8e3a7b5f86",
+    "size": 52285
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

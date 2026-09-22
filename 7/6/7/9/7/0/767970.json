@@ -1,0 +1,18 @@
+{
+  "appid": 767970,
+  "files": [
+    {
+      "name": "767970.zip",
+      "sha256": "234a45472b6f308de70bb64ab1665b7091b9f3ba80a67327dcbaf1ed5078751d",
+      "size": 3845696
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "767970.zip",
+    "sha256": "234a45472b6f308de70bb64ab1665b7091b9f3ba80a67327dcbaf1ed5078751d",
+    "size": 3845696
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

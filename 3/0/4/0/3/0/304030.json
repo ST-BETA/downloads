@@ -1,0 +1,18 @@
+{
+  "appid": 304030,
+  "files": [
+    {
+      "name": "304030.zip",
+      "sha256": "b2d9837c08fc521fd1a4ca7e261831bcc5b9ce1cb3f24508996d8b9cf2d2a7b1",
+      "size": 2320572
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "304030.zip",
+    "sha256": "b2d9837c08fc521fd1a4ca7e261831bcc5b9ce1cb3f24508996d8b9cf2d2a7b1",
+    "size": 2320572
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

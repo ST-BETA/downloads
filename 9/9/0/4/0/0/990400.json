@@ -1,0 +1,18 @@
+{
+  "appid": 990400,
+  "files": [
+    {
+      "name": "990400.zip",
+      "sha256": "1ab02f11e55686d0324dcc0dd97ea4bd7fb81735a6db2c03f61e3f5b37de62bf",
+      "size": 259687
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "990400.zip",
+    "sha256": "1ab02f11e55686d0324dcc0dd97ea4bd7fb81735a6db2c03f61e3f5b37de62bf",
+    "size": 259687
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

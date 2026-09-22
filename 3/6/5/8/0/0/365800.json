@@ -1,0 +1,18 @@
+{
+  "appid": 365800,
+  "files": [
+    {
+      "name": "365800.zip",
+      "sha256": "4fb1d7949556bc31ecbab824ecd9c242670c7d35a74017f7e38a8748885bfbd9",
+      "size": 38819
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "365800.zip",
+    "sha256": "4fb1d7949556bc31ecbab824ecd9c242670c7d35a74017f7e38a8748885bfbd9",
+    "size": 38819
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2601090,
+  "files": [
+    {
+      "name": "2601090.zip",
+      "sha256": "ceb8c251067104062d8962557015a79eb42db2467193b42cb3a1fb764c6a7d3a",
+      "size": 101209
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2601090.zip",
+    "sha256": "ceb8c251067104062d8962557015a79eb42db2467193b42cb3a1fb764c6a7d3a",
+    "size": 101209
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1121300,
+  "files": [
+    {
+      "name": "1121300.zip",
+      "sha256": "f1bdbd0bf219c6f35ffd79274fa9d59eee6a8cee582d26ca4b6add0b89fc4cd5",
+      "size": 449658
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1121300.zip",
+    "sha256": "f1bdbd0bf219c6f35ffd79274fa9d59eee6a8cee582d26ca4b6add0b89fc4cd5",
+    "size": 449658
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

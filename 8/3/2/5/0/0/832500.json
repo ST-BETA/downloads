@@ -1,0 +1,18 @@
+{
+  "appid": 832500,
+  "files": [
+    {
+      "name": "832500.zip",
+      "sha256": "75a24d429c65bb22870788000db39d90205184d2cb1da5715434fbd7d463fbd2",
+      "size": 1348078
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "832500.zip",
+    "sha256": "75a24d429c65bb22870788000db39d90205184d2cb1da5715434fbd7d463fbd2",
+    "size": 1348078
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 40,
+  "files": [
+    {
+      "name": "40.zip",
+      "sha256": "479415b0ab9ea58542e2b0d9fc7c80d9366dd8931236d0347d7b16fc4e1a0812",
+      "size": 1740363
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "40.zip",
+    "sha256": "479415b0ab9ea58542e2b0d9fc7c80d9366dd8931236d0347d7b16fc4e1a0812",
+    "size": 1740363
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

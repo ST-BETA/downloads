@@ -1,0 +1,18 @@
+{
+  "appid": 803150,
+  "files": [
+    {
+      "name": "803150.zip",
+      "sha256": "1bf0820e6eb4f03599e20bf45d5fb2a21eb1d7fbca83e21cf25bbea06c100035",
+      "size": 414738
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "803150.zip",
+    "sha256": "1bf0820e6eb4f03599e20bf45d5fb2a21eb1d7fbca83e21cf25bbea06c100035",
+    "size": 414738
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

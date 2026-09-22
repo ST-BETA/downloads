@@ -1,0 +1,18 @@
+{
+  "appid": 202530,
+  "files": [
+    {
+      "name": "202530.zip",
+      "sha256": "7da649eaf8109bba439957d4a6510a8bd00582e530def0b4c504135c83ea0121",
+      "size": 104228
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "202530.zip",
+    "sha256": "7da649eaf8109bba439957d4a6510a8bd00582e530def0b4c504135c83ea0121",
+    "size": 104228
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

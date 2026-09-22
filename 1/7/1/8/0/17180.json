@@ -1,0 +1,18 @@
+{
+  "appid": 17180,
+  "files": [
+    {
+      "name": "17180.zip",
+      "sha256": "5cd6f2389dc55cfcc0b4dd19270b178c5f50308c0dd4ee44f01bf9ceda05fa34",
+      "size": 275396
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "17180.zip",
+    "sha256": "5cd6f2389dc55cfcc0b4dd19270b178c5f50308c0dd4ee44f01bf9ceda05fa34",
+    "size": 275396
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

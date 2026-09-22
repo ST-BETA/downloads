@@ -1,0 +1,18 @@
+{
+  "appid": 1790800,
+  "files": [
+    {
+      "name": "1790800.zip",
+      "sha256": "678bd74d2bb040c4acd228dd3d3344ec1978346280fb027e160db18b8d6009b4",
+      "size": 5387
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1790800.zip",
+    "sha256": "678bd74d2bb040c4acd228dd3d3344ec1978346280fb027e160db18b8d6009b4",
+    "size": 5387
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

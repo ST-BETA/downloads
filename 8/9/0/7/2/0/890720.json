@@ -1,0 +1,18 @@
+{
+  "appid": 890720,
+  "files": [
+    {
+      "name": "890720.zip",
+      "sha256": "32ecc412a0d36eaba0694e2a7f6e345cf8ec06af18ecc0fcc1abc73df1fb71d6",
+      "size": 116097
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "890720.zip",
+    "sha256": "32ecc412a0d36eaba0694e2a7f6e345cf8ec06af18ecc0fcc1abc73df1fb71d6",
+    "size": 116097
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

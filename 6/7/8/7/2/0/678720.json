@@ -1,0 +1,18 @@
+{
+  "appid": 678720,
+  "files": [
+    {
+      "name": "678720.zip",
+      "sha256": "1d0f2a66b85b2986f3dd6b599b9d33a9e625006174ec137a07b2907aacbda8c1",
+      "size": 271651
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "678720.zip",
+    "sha256": "1d0f2a66b85b2986f3dd6b599b9d33a9e625006174ec137a07b2907aacbda8c1",
+    "size": 271651
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 501990,
+  "files": [
+    {
+      "name": "501990.zip",
+      "sha256": "2a9f0e991da115c0c965b55cbf6609c847bbf8180fd8f2779ad71d7723f23f45",
+      "size": 199118
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "501990.zip",
+    "sha256": "2a9f0e991da115c0c965b55cbf6609c847bbf8180fd8f2779ad71d7723f23f45",
+    "size": 199118
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

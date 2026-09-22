@@ -1,0 +1,18 @@
+{
+  "appid": 1825900,
+  "files": [
+    {
+      "name": "1825900.zip",
+      "sha256": "dc23edf46e524d4a546450e9e0d9871c7badea28f33531f8c2171a042d3355cc",
+      "size": 38164
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1825900.zip",
+    "sha256": "dc23edf46e524d4a546450e9e0d9871c7badea28f33531f8c2171a042d3355cc",
+    "size": 38164
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

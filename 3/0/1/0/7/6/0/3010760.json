@@ -1,0 +1,18 @@
+{
+  "appid": 3010760,
+  "files": [
+    {
+      "name": "3010760.zip",
+      "sha256": "1a5a9c88c1bc84b7c9ef40f8490cc0f47071ec5ef9ce42978245615ab754a14d",
+      "size": 109644
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3010760.zip",
+    "sha256": "1a5a9c88c1bc84b7c9ef40f8490cc0f47071ec5ef9ce42978245615ab754a14d",
+    "size": 109644
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

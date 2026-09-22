@@ -1,0 +1,18 @@
+{
+  "appid": 2304170,
+  "files": [
+    {
+      "name": "2304170.zip",
+      "sha256": "8cb4d73dc6a5a0bbdb3be366150a6068bdd28486ff34ccc93b915706c4df1cad",
+      "size": 705538
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2304170.zip",
+    "sha256": "8cb4d73dc6a5a0bbdb3be366150a6068bdd28486ff34ccc93b915706c4df1cad",
+    "size": 705538
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

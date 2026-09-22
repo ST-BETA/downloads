@@ -1,0 +1,18 @@
+{
+  "appid": 200550,
+  "files": [
+    {
+      "name": "200550.zip",
+      "sha256": "83cde7d740b64e9ccfaa1f06e93a087861be92eee0d6fd7336ecd3fe58b504c5",
+      "size": 177703
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200550.zip",
+    "sha256": "83cde7d740b64e9ccfaa1f06e93a087861be92eee0d6fd7336ecd3fe58b504c5",
+    "size": 177703
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

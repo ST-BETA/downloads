@@ -1,0 +1,18 @@
+{
+  "appid": 480450,
+  "files": [
+    {
+      "name": "480450.zip",
+      "sha256": "31e71bc740fd1aac68400257d8fc4af03bcc64d5dfa3b15bb7c26badf93ba974",
+      "size": 22883
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "480450.zip",
+    "sha256": "31e71bc740fd1aac68400257d8fc4af03bcc64d5dfa3b15bb7c26badf93ba974",
+    "size": 22883
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

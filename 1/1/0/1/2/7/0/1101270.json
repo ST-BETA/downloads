@@ -1,0 +1,18 @@
+{
+  "appid": 1101270,
+  "files": [
+    {
+      "name": "1101270.zip",
+      "sha256": "acea44c3f5134cac7cd9f4f288e2c00ab137f0c557719918fdab27f20ebd5b18",
+      "size": 54278
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1101270.zip",
+    "sha256": "acea44c3f5134cac7cd9f4f288e2c00ab137f0c557719918fdab27f20ebd5b18",
+    "size": 54278
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

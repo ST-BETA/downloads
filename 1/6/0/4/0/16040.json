@@ -1,0 +1,18 @@
+{
+  "appid": 16040,
+  "files": [
+    {
+      "name": "16040.zip",
+      "sha256": "b4ac687157aa5e9e5c7674c555d9d18bbb8c2348f6168dcf5f320a819c095942",
+      "size": 39461
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "16040.zip",
+    "sha256": "b4ac687157aa5e9e5c7674c555d9d18bbb8c2348f6168dcf5f320a819c095942",
+    "size": 39461
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

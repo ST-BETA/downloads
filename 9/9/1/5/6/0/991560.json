@@ -1,0 +1,18 @@
+{
+  "appid": 991560,
+  "files": [
+    {
+      "name": "991560.zip",
+      "sha256": "104f968605ea33466960cb43239891754cbcc0a63cc0dc3202f9dfd8a1fe39d3",
+      "size": 329989
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "991560.zip",
+    "sha256": "104f968605ea33466960cb43239891754cbcc0a63cc0dc3202f9dfd8a1fe39d3",
+    "size": 329989
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

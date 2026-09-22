@@ -1,0 +1,18 @@
+{
+  "appid": 509081,
+  "files": [
+    {
+      "name": "509081.zip",
+      "sha256": "cd96745d8e1e01433244a53071c6654274e9241930e4a238f9bb54d2dbda2f6d",
+      "size": 18873
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "509081.zip",
+    "sha256": "cd96745d8e1e01433244a53071c6654274e9241930e4a238f9bb54d2dbda2f6d",
+    "size": 18873
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

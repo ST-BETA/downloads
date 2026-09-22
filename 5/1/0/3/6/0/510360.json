@@ -1,0 +1,18 @@
+{
+  "appid": 510360,
+  "files": [
+    {
+      "name": "510360.zip",
+      "sha256": "b55394278ea5cb8491c090f73e1546097f3d7e347c65eb6c57bf47f841081905",
+      "size": 371211
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "510360.zip",
+    "sha256": "b55394278ea5cb8491c090f73e1546097f3d7e347c65eb6c57bf47f841081905",
+    "size": 371211
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

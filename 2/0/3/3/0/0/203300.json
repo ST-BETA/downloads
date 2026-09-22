@@ -1,0 +1,18 @@
+{
+  "appid": 203300,
+  "files": [
+    {
+      "name": "203300.zip",
+      "sha256": "84a203700a30beb2c518f1542350af9646a5e8b1468edbd79250c38facc78873",
+      "size": 224259
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "203300.zip",
+    "sha256": "84a203700a30beb2c518f1542350af9646a5e8b1468edbd79250c38facc78873",
+    "size": 224259
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

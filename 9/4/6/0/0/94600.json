@@ -1,0 +1,18 @@
+{
+  "appid": 94600,
+  "files": [
+    {
+      "name": "94600.zip",
+      "sha256": "2650c26c4d6bec42edceea66f4eb7eb2e5b2605de8edcfc53abe8e5e0133e8a3",
+      "size": 59835
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "94600.zip",
+    "sha256": "2650c26c4d6bec42edceea66f4eb7eb2e5b2605de8edcfc53abe8e5e0133e8a3",
+    "size": 59835
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 998990,
+  "files": [
+    {
+      "name": "998990.zip",
+      "sha256": "dd23d6eba2ba8bb93c12b86a86e964c4a934d3aec6199198ea1b48122cbc2a65",
+      "size": 53259
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "998990.zip",
+    "sha256": "dd23d6eba2ba8bb93c12b86a86e964c4a934d3aec6199198ea1b48122cbc2a65",
+    "size": 53259
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 3390900,
+  "files": [
+    {
+      "name": "3390900.zip",
+      "sha256": "0c0f6ef335985c67df6f90883db8312492020ad06f93407a9b1fe9c8c542fd82",
+      "size": 219419
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3390900.zip",
+    "sha256": "0c0f6ef335985c67df6f90883db8312492020ad06f93407a9b1fe9c8c542fd82",
+    "size": 219419
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

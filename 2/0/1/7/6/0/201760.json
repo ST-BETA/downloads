@@ -1,0 +1,18 @@
+{
+  "appid": 201760,
+  "files": [
+    {
+      "name": "201760.zip",
+      "sha256": "c0e95d872f5b0efb3381863f7911604992e3b856c03279c6ca96709cd44800f2",
+      "size": 678272
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201760.zip",
+    "sha256": "c0e95d872f5b0efb3381863f7911604992e3b856c03279c6ca96709cd44800f2",
+    "size": 678272
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

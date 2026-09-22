@@ -1,0 +1,18 @@
+{
+  "appid": 420060,
+  "files": [
+    {
+      "name": "420060.zip",
+      "sha256": "041c9046e4dd50fdb4d90a11be01f983779e3eccaf63206356927d65e0fc2646",
+      "size": 1425480
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "420060.zip",
+    "sha256": "041c9046e4dd50fdb4d90a11be01f983779e3eccaf63206356927d65e0fc2646",
+    "size": 1425480
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

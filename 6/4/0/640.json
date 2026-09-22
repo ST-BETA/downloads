@@ -1,0 +1,18 @@
+{
+  "appid": 640,
+  "files": [
+    {
+      "name": "640.zip",
+      "sha256": "f662fde599788b4159f1a0a6eba65ef1d66c191f9423bc9f5cdd11b422e4b91c",
+      "size": 681654
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "640.zip",
+    "sha256": "f662fde599788b4159f1a0a6eba65ef1d66c191f9423bc9f5cdd11b422e4b91c",
+    "size": 681654
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2014510,
+  "files": [
+    {
+      "name": "2014510.zip",
+      "sha256": "39ba3013e48e5ce51e0584d2934869efc0db884cb048f8ce691b92ac8ad5b7ca",
+      "size": 1554
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2014510.zip",
+    "sha256": "39ba3013e48e5ce51e0584d2934869efc0db884cb048f8ce691b92ac8ad5b7ca",
+    "size": 1554
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

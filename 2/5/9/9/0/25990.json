@@ -1,0 +1,18 @@
+{
+  "appid": 25990,
+  "files": [
+    {
+      "name": "25990.zip",
+      "sha256": "5f401b63420d40c30427f18a953f042e421c635aa290bc5889710fb8b4912a86",
+      "size": 39381
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "25990.zip",
+    "sha256": "5f401b63420d40c30427f18a953f042e421c635aa290bc5889710fb8b4912a86",
+    "size": 39381
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 490040,
+  "files": [
+    {
+      "name": "490040.zip",
+      "sha256": "a20585c2cb6e182c06218be7eb7b3058fd5c56c729bcb34ac3ea56279e22be86",
+      "size": 56794
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "490040.zip",
+    "sha256": "a20585c2cb6e182c06218be7eb7b3058fd5c56c729bcb34ac3ea56279e22be86",
+    "size": 56794
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 661120,
+  "files": [
+    {
+      "name": "661120.zip",
+      "sha256": "6c6d02a0dbfe07fc9d71a384cf8d369f9203feeb7b5cad5a9e982e56ca72dc64",
+      "size": 118438
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "661120.zip",
+    "sha256": "6c6d02a0dbfe07fc9d71a384cf8d369f9203feeb7b5cad5a9e982e56ca72dc64",
+    "size": 118438
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

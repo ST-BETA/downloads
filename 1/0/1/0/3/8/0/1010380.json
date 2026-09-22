@@ -1,0 +1,18 @@
+{
+  "appid": 1010380,
+  "files": [
+    {
+      "name": "1010380.zip",
+      "sha256": "ea4c1e2be7ba84c01eaeddd830a265cbdcfa9440cbefd4c4cdcfcdbc77ad5e79",
+      "size": 6029
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1010380.zip",
+    "sha256": "ea4c1e2be7ba84c01eaeddd830a265cbdcfa9440cbefd4c4cdcfcdbc77ad5e79",
+    "size": 6029
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

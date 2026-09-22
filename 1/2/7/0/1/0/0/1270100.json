@@ -1,0 +1,18 @@
+{
+  "appid": 1270100,
+  "files": [
+    {
+      "name": "1270100.zip",
+      "sha256": "f334228247b9823bf97d7fdf53956578a9098b948dccd0123cc592766ff26507",
+      "size": 116580
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1270100.zip",
+    "sha256": "f334228247b9823bf97d7fdf53956578a9098b948dccd0123cc592766ff26507",
+    "size": 116580
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

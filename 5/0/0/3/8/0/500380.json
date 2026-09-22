@@ -1,0 +1,18 @@
+{
+  "appid": 500380,
+  "files": [
+    {
+      "name": "500380.zip",
+      "sha256": "8aeb960a9b43e0802d7d07d09399ba4d798d8a477d460e550a4176770ac5eb15",
+      "size": 130690
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "500380.zip",
+    "sha256": "8aeb960a9b43e0802d7d07d09399ba4d798d8a477d460e550a4176770ac5eb15",
+    "size": 130690
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

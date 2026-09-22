@@ -1,0 +1,18 @@
+{
+  "appid": 804130,
+  "files": [
+    {
+      "name": "804130.zip",
+      "sha256": "e46941b23158e57ef6e43dfcd401aee933ffe6938caf54ddc2258d5468418e40",
+      "size": 96265
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "804130.zip",
+    "sha256": "e46941b23158e57ef6e43dfcd401aee933ffe6938caf54ddc2258d5468418e40",
+    "size": 96265
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 680020,
+  "files": [
+    {
+      "name": "680020.zip",
+      "sha256": "ceb48d07f271296d3be16372cdd897093948639b5882baa2084bd207089dbce0",
+      "size": 9214
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "680020.zip",
+    "sha256": "ceb48d07f271296d3be16372cdd897093948639b5882baa2084bd207089dbce0",
+    "size": 9214
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

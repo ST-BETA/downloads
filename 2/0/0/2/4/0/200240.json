@@ -1,0 +1,18 @@
+{
+  "appid": 200240,
+  "files": [
+    {
+      "name": "200240.zip",
+      "sha256": "d7b4de118f1440aae6247fb40b886ff58cfdfd42deea328fd4005bc0ee99e5b2",
+      "size": 219465
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200240.zip",
+    "sha256": "d7b4de118f1440aae6247fb40b886ff58cfdfd42deea328fd4005bc0ee99e5b2",
+    "size": 219465
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 888760,
+  "files": [
+    {
+      "name": "888760.zip",
+      "sha256": "f29eb875b0e3dc0ba1b25043dd87d0517da9ccd36d7a0e9168bb32f6528c45e3",
+      "size": 205166
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "888760.zip",
+    "sha256": "f29eb875b0e3dc0ba1b25043dd87d0517da9ccd36d7a0e9168bb32f6528c45e3",
+    "size": 205166
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

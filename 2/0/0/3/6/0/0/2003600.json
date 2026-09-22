@@ -1,0 +1,18 @@
+{
+  "appid": 2003600,
+  "files": [
+    {
+      "name": "2003600.zip",
+      "sha256": "14319626943dfc7815f174a749e90c43abc825ca539677b3c0b01031202bd58c",
+      "size": 27298
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2003600.zip",
+    "sha256": "14319626943dfc7815f174a749e90c43abc825ca539677b3c0b01031202bd58c",
+    "size": 27298
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 658400,
+  "files": [
+    {
+      "name": "658400.zip",
+      "sha256": "2dc86a24e53dc4d28e09f3a49d874f2ca995da42a2ac9638dddd3e687bcdc091",
+      "size": 1425877
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "658400.zip",
+    "sha256": "2dc86a24e53dc4d28e09f3a49d874f2ca995da42a2ac9638dddd3e687bcdc091",
+    "size": 1425877
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

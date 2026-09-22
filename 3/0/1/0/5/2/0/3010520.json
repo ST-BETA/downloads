@@ -1,0 +1,18 @@
+{
+  "appid": 3010520,
+  "files": [
+    {
+      "name": "3010520.zip",
+      "sha256": "b825a42614782f1629dd2ceb65f9a4658a16615798feb91b752659d5a3bb9d4e",
+      "size": 508594
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3010520.zip",
+    "sha256": "b825a42614782f1629dd2ceb65f9a4658a16615798feb91b752659d5a3bb9d4e",
+    "size": 508594
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

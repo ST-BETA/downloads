@@ -1,0 +1,18 @@
+{
+  "appid": 463760,
+  "files": [
+    {
+      "name": "463760.zip",
+      "sha256": "ef49733d2625cc16cf0617c418b180c9bbe1c96eb6f2810bc79b77fb860a308f",
+      "size": 134010
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "463760.zip",
+    "sha256": "ef49733d2625cc16cf0617c418b180c9bbe1c96eb6f2810bc79b77fb860a308f",
+    "size": 134010
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2097180,
+  "files": [
+    {
+      "name": "2097180.zip",
+      "sha256": "cc13d96b666e324a5f3d603cfd8f9fcb08934c2f98e9df747851a261f55a129f",
+      "size": 35356
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2097180.zip",
+    "sha256": "cc13d96b666e324a5f3d603cfd8f9fcb08934c2f98e9df747851a261f55a129f",
+    "size": 35356
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

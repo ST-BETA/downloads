@@ -1,0 +1,18 @@
+{
+  "appid": 48710,
+  "files": [
+    {
+      "name": "48710.zip",
+      "sha256": "a46b65e7f75fba132e7ef4eaeacb41bfc9d267f6bbdb266929631222cfabd5a1",
+      "size": 298122
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "48710.zip",
+    "sha256": "a46b65e7f75fba132e7ef4eaeacb41bfc9d267f6bbdb266929631222cfabd5a1",
+    "size": 298122
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

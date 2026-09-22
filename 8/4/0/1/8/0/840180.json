@@ -1,0 +1,18 @@
+{
+  "appid": 840180,
+  "files": [
+    {
+      "name": "840180.zip",
+      "sha256": "7583c0201b63a2038a09b08bc09aa006d2250caacfd12904fd0dbe8b40b25f91",
+      "size": 8449
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "840180.zip",
+    "sha256": "7583c0201b63a2038a09b08bc09aa006d2250caacfd12904fd0dbe8b40b25f91",
+    "size": 8449
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

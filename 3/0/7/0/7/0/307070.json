@@ -1,0 +1,18 @@
+{
+  "appid": 307070,
+  "files": [
+    {
+      "name": "307070.zip",
+      "sha256": "10a01ad2d8577170a282ac8c31f99b8cef142627301dc3136bf44a988cbd1fb5",
+      "size": 198951
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "307070.zip",
+    "sha256": "10a01ad2d8577170a282ac8c31f99b8cef142627301dc3136bf44a988cbd1fb5",
+    "size": 198951
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

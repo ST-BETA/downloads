@@ -1,0 +1,18 @@
+{
+  "appid": 656600,
+  "files": [
+    {
+      "name": "656600.zip",
+      "sha256": "a46c53a925898d5e3bb744b7c0812c5396bac024f2ac0eae8b2e241994dfbb6e",
+      "size": 291543
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "656600.zip",
+    "sha256": "a46c53a925898d5e3bb744b7c0812c5396bac024f2ac0eae8b2e241994dfbb6e",
+    "size": 291543
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

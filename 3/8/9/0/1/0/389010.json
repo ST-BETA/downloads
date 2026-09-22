@@ -1,0 +1,18 @@
+{
+  "appid": 389010,
+  "files": [
+    {
+      "name": "389010.zip",
+      "sha256": "89ca2732aacfe5cb13f95e9b3e7ff84a624c582156288ad81ef92beb7812f844",
+      "size": 182482
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "389010.zip",
+    "sha256": "89ca2732aacfe5cb13f95e9b3e7ff84a624c582156288ad81ef92beb7812f844",
+    "size": 182482
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

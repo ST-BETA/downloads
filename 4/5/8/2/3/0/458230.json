@@ -1,0 +1,18 @@
+{
+  "appid": 458230,
+  "files": [
+    {
+      "name": "458230.zip",
+      "sha256": "f2a478c3dc15c530690fdc95b5ce1d8e110ea739345c348dae6ba85be76fc1c0",
+      "size": 195477
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "458230.zip",
+    "sha256": "f2a478c3dc15c530690fdc95b5ce1d8e110ea739345c348dae6ba85be76fc1c0",
+    "size": 195477
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

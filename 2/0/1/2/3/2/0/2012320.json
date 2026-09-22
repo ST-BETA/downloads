@@ -1,0 +1,18 @@
+{
+  "appid": 2012320,
+  "files": [
+    {
+      "name": "2012320.zip",
+      "sha256": "39284446623c29265bcd834502db17822f7000e256bbf89ff74c9fa11d04fdf1",
+      "size": 267569
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2012320.zip",
+    "sha256": "39284446623c29265bcd834502db17822f7000e256bbf89ff74c9fa11d04fdf1",
+    "size": 267569
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

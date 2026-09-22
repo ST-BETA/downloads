@@ -1,0 +1,18 @@
+{
+  "appid": 220420,
+  "files": [
+    {
+      "name": "220420.zip",
+      "sha256": "ad7dd35f3b4069b6a09d0e7373df2004c4522e061088025a5c360d816c632e6b",
+      "size": 2172039
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "220420.zip",
+    "sha256": "ad7dd35f3b4069b6a09d0e7373df2004c4522e061088025a5c360d816c632e6b",
+    "size": 2172039
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

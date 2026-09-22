@@ -1,0 +1,18 @@
+{
+  "appid": 985560,
+  "files": [
+    {
+      "name": "985560.zip",
+      "sha256": "e363ac74a2da3e9fc52ae79d017a49a5511c0cb6588ecc5b802a383d576b8bd8",
+      "size": 283255
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "985560.zip",
+    "sha256": "e363ac74a2da3e9fc52ae79d017a49a5511c0cb6588ecc5b802a383d576b8bd8",
+    "size": 283255
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

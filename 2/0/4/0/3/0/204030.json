@@ -1,0 +1,18 @@
+{
+  "appid": 204030,
+  "files": [
+    {
+      "name": "204030.zip",
+      "sha256": "afcaf97d7116ddb95f2a8e832def4f4c5db7f48147ddb218e9a27f0ebf88de32",
+      "size": 396935
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "204030.zip",
+    "sha256": "afcaf97d7116ddb95f2a8e832def4f4c5db7f48147ddb218e9a27f0ebf88de32",
+    "size": 396935
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

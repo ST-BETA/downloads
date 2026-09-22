@@ -1,0 +1,18 @@
+{
+  "appid": 40390,
+  "files": [
+    {
+      "name": "40390.zip",
+      "sha256": "c9225b3d9da742722969a569221fa9299bbe9b576ef6e0b556bf0fe89515d5cb",
+      "size": 376419
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "40390.zip",
+    "sha256": "c9225b3d9da742722969a569221fa9299bbe9b576ef6e0b556bf0fe89515d5cb",
+    "size": 376419
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

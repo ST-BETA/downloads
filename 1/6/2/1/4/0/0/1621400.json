@@ -1,0 +1,18 @@
+{
+  "appid": 1621400,
+  "files": [
+    {
+      "name": "1621400.zip",
+      "sha256": "90f840ef78f69ae1e0833448c3bd011c0d9bf03409aaed2eef5eaa5165f592fd",
+      "size": 851248
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1621400.zip",
+    "sha256": "90f840ef78f69ae1e0833448c3bd011c0d9bf03409aaed2eef5eaa5165f592fd",
+    "size": 851248
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

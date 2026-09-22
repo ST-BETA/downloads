@@ -1,0 +1,18 @@
+{
+  "appid": 951130,
+  "files": [
+    {
+      "name": "951130.zip",
+      "sha256": "f4f11e724f8612c0db2c47fa0991f72fe46ae3e8dbf11037e6aea497fee65bd5",
+      "size": 61002
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "951130.zip",
+    "sha256": "f4f11e724f8612c0db2c47fa0991f72fe46ae3e8dbf11037e6aea497fee65bd5",
+    "size": 61002
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

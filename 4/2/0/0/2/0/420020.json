@@ -1,0 +1,18 @@
+{
+  "appid": 420020,
+  "files": [
+    {
+      "name": "420020.zip",
+      "sha256": "fc5177d9fca733986176331339a30cb98aab9f6a0e57d7562acfa2056349ee65",
+      "size": 104329
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "420020.zip",
+    "sha256": "fc5177d9fca733986176331339a30cb98aab9f6a0e57d7562acfa2056349ee65",
+    "size": 104329
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

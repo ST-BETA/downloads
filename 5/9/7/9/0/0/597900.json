@@ -1,0 +1,18 @@
+{
+  "appid": 597900,
+  "files": [
+    {
+      "name": "597900.zip",
+      "sha256": "c5faa479168884812fab756ed3b85a8b7b6810ca1ce832f40cff5ed428de5be8",
+      "size": 25408
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "597900.zip",
+    "sha256": "c5faa479168884812fab756ed3b85a8b7b6810ca1ce832f40cff5ed428de5be8",
+    "size": 25408
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

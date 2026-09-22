@@ -1,0 +1,18 @@
+{
+  "appid": 613100,
+  "files": [
+    {
+      "name": "613100.zip",
+      "sha256": "efae3de540fe62161a301ac7f99fe17e67e1f1f76a2e4b931f859504ce756e07",
+      "size": 3625512
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "613100.zip",
+    "sha256": "efae3de540fe62161a301ac7f99fe17e67e1f1f76a2e4b931f859504ce756e07",
+    "size": 3625512
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

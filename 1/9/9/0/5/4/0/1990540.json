@@ -1,0 +1,18 @@
+{
+  "appid": 1990540,
+  "files": [
+    {
+      "name": "1990540.zip",
+      "sha256": "c04e1775a61a8e05d492400db64c15b9189e98ea4e86bb2aec0992a5200c3eeb",
+      "size": 50249
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1990540.zip",
+    "sha256": "c04e1775a61a8e05d492400db64c15b9189e98ea4e86bb2aec0992a5200c3eeb",
+    "size": 50249
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

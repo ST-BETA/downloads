@@ -1,0 +1,18 @@
+{
+  "appid": 2004700,
+  "files": [
+    {
+      "name": "2004700.zip",
+      "sha256": "6e76a296363fc2d8c4f3a914e296523f7a9da8681ac1faef54dc503d1430cafe",
+      "size": 674522
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2004700.zip",
+    "sha256": "6e76a296363fc2d8c4f3a914e296523f7a9da8681ac1faef54dc503d1430cafe",
+    "size": 674522
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

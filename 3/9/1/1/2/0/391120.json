@@ -1,0 +1,18 @@
+{
+  "appid": 391120,
+  "files": [
+    {
+      "name": "391120.zip",
+      "sha256": "15bc5c23c872b88e3d58c10cfde909b839c9889fbfc5a98f4878c42a23355308",
+      "size": 113841
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "391120.zip",
+    "sha256": "15bc5c23c872b88e3d58c10cfde909b839c9889fbfc5a98f4878c42a23355308",
+    "size": 113841
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

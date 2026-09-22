@@ -1,0 +1,18 @@
+{
+  "appid": 2007530,
+  "files": [
+    {
+      "name": "2007530.zip",
+      "sha256": "6f1cd0886f978a649ae0daccae2d0722dcd1bd8a3e35f96851b449816cba69c9",
+      "size": 13983
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2007530.zip",
+    "sha256": "6f1cd0886f978a649ae0daccae2d0722dcd1bd8a3e35f96851b449816cba69c9",
+    "size": 13983
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

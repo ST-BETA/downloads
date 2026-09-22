@@ -1,0 +1,18 @@
+{
+  "appid": 805120,
+  "files": [
+    {
+      "name": "805120.zip",
+      "sha256": "f9bf43c81bef7498df21118ef278711c3c8cde140a3d8db7f78a5811672240af",
+      "size": 18944
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "805120.zip",
+    "sha256": "f9bf43c81bef7498df21118ef278711c3c8cde140a3d8db7f78a5811672240af",
+    "size": 18944
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

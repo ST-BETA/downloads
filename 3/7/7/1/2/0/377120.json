@@ -1,0 +1,18 @@
+{
+  "appid": 377120,
+  "files": [
+    {
+      "name": "377120.zip",
+      "sha256": "4bac005e2568004cd0b0dbdf46e8d5891fd550b6c266689d39d2465829ff7c2c",
+      "size": 1731257
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "377120.zip",
+    "sha256": "4bac005e2568004cd0b0dbdf46e8d5891fd550b6c266689d39d2465829ff7c2c",
+    "size": 1731257
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

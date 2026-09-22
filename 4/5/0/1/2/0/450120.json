@@ -1,0 +1,18 @@
+{
+  "appid": 450120,
+  "files": [
+    {
+      "name": "450120.zip",
+      "sha256": "f80eefb19fad0814906c84901ab22bbcd3ffc209198c32fc9bb491f411cbd781",
+      "size": 31295
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "450120.zip",
+    "sha256": "f80eefb19fad0814906c84901ab22bbcd3ffc209198c32fc9bb491f411cbd781",
+    "size": 31295
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

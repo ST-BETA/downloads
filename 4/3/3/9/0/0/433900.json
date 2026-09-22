@@ -1,0 +1,18 @@
+{
+  "appid": 433900,
+  "files": [
+    {
+      "name": "433900.zip",
+      "sha256": "7730769b52ef320c4e629b43aeb9e20aa11515e6db172f3ca00b4d53e15f7857",
+      "size": 78582
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "433900.zip",
+    "sha256": "7730769b52ef320c4e629b43aeb9e20aa11515e6db172f3ca00b4d53e15f7857",
+    "size": 78582
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

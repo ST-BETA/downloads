@@ -1,0 +1,18 @@
+{
+  "appid": 1201630,
+  "files": [
+    {
+      "name": "1201630.zip",
+      "sha256": "3439608476f0374549ffbd55b29cf92e1340c4442ced454c88eb72c4cbe3e56c",
+      "size": 78352
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1201630.zip",
+    "sha256": "3439608476f0374549ffbd55b29cf92e1340c4442ced454c88eb72c4cbe3e56c",
+    "size": 78352
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

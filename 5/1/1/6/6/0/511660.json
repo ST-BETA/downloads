@@ -1,0 +1,18 @@
+{
+  "appid": 511660,
+  "files": [
+    {
+      "name": "511660.zip",
+      "sha256": "c803a138afc1bd5bc3df43bd8656bb2602313a08b4e36db042c2b968669afa6d",
+      "size": 90613
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "511660.zip",
+    "sha256": "c803a138afc1bd5bc3df43bd8656bb2602313a08b4e36db042c2b968669afa6d",
+    "size": 90613
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 391340,
+  "files": [
+    {
+      "name": "391340.zip",
+      "sha256": "ca443f53d6311f9fbf56f51626960cf79f1180f873d91d8a12f129b679710530",
+      "size": 48852
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "391340.zip",
+    "sha256": "ca443f53d6311f9fbf56f51626960cf79f1180f873d91d8a12f129b679710530",
+    "size": 48852
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

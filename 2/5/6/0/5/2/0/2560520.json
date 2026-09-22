@@ -1,0 +1,18 @@
+{
+  "appid": 2560520,
+  "files": [
+    {
+      "name": "2560520.zip",
+      "sha256": "347ddada455bf98fc8b5dce975fb53361b27cdda72da6369facf2bf9ee1d212c",
+      "size": 700577
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2560520.zip",
+    "sha256": "347ddada455bf98fc8b5dce975fb53361b27cdda72da6369facf2bf9ee1d212c",
+    "size": 700577
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

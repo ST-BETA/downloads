@@ -1,0 +1,18 @@
+{
+  "appid": 8850,
+  "files": [
+    {
+      "name": "8850.zip",
+      "sha256": "570cf6df87b3ca22967ea44653498f09f1a9c121115c21cdfbfe3d86cd0f6475",
+      "size": 1837963
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "8850.zip",
+    "sha256": "570cf6df87b3ca22967ea44653498f09f1a9c121115c21cdfbfe3d86cd0f6475",
+    "size": 1837963
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

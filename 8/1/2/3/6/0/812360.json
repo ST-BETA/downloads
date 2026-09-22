@@ -1,0 +1,18 @@
+{
+  "appid": 812360,
+  "files": [
+    {
+      "name": "812360.zip",
+      "sha256": "db7a7d27e40ebaacd7950d8d0fd8d96d978b13c456e862bcbf9c8b479dbd60a6",
+      "size": 610376
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "812360.zip",
+    "sha256": "db7a7d27e40ebaacd7950d8d0fd8d96d978b13c456e862bcbf9c8b479dbd60a6",
+    "size": 610376
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

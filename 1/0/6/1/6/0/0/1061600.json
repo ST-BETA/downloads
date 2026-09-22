@@ -1,0 +1,18 @@
+{
+  "appid": 1061600,
+  "files": [
+    {
+      "name": "1061600.zip",
+      "sha256": "dea730e8d91cef643f92893ba0c9bedb42cbfedf816cb4b7272a5a315a1c97d9",
+      "size": 35183
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1061600.zip",
+    "sha256": "dea730e8d91cef643f92893ba0c9bedb42cbfedf816cb4b7272a5a315a1c97d9",
+    "size": 35183
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

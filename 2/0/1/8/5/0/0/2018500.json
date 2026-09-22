@@ -1,0 +1,18 @@
+{
+  "appid": 2018500,
+  "files": [
+    {
+      "name": "2018500.zip",
+      "sha256": "402bbb64e6e14ed610889e4878cd34f57d99c7617a173c105385ffab5e1739bd",
+      "size": 327802
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2018500.zip",
+    "sha256": "402bbb64e6e14ed610889e4878cd34f57d99c7617a173c105385ffab5e1739bd",
+    "size": 327802
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

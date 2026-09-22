@@ -1,0 +1,18 @@
+{
+  "appid": 500170,
+  "files": [
+    {
+      "name": "500170.zip",
+      "sha256": "82cced72bd61d05eb163d417e23f025bfcf51680f398226e653a513cd2e1dc88",
+      "size": 798918
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "500170.zip",
+    "sha256": "82cced72bd61d05eb163d417e23f025bfcf51680f398226e653a513cd2e1dc88",
+    "size": 798918
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

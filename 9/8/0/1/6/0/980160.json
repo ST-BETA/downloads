@@ -1,0 +1,18 @@
+{
+  "appid": 980160,
+  "files": [
+    {
+      "name": "980160.zip",
+      "sha256": "0c58d1d2c8ad9be588b7f0219ca27977be10d1566195e826eac95bf903524669",
+      "size": 13402
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "980160.zip",
+    "sha256": "0c58d1d2c8ad9be588b7f0219ca27977be10d1566195e826eac95bf903524669",
+    "size": 13402
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

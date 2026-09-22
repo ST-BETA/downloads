@@ -1,0 +1,18 @@
+{
+  "appid": 802720,
+  "files": [
+    {
+      "name": "802720.zip",
+      "sha256": "365eebacb35906a86d9be03822feebdb078884045884fa93a22e2cc4cc316229",
+      "size": 53546
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "802720.zip",
+    "sha256": "365eebacb35906a86d9be03822feebdb078884045884fa93a22e2cc4cc316229",
+    "size": 53546
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

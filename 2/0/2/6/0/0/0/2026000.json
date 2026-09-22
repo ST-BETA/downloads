@@ -1,0 +1,18 @@
+{
+  "appid": 2026000,
+  "files": [
+    {
+      "name": "2026000.zip",
+      "sha256": "eba103ee3c48802fe9d321d1b8e08dd8aa3617d9ec8fda4de7edbe87d4c3c509",
+      "size": 200345
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2026000.zip",
+    "sha256": "eba103ee3c48802fe9d321d1b8e08dd8aa3617d9ec8fda4de7edbe87d4c3c509",
+    "size": 200345
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

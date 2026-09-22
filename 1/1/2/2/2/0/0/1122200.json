@@ -1,0 +1,18 @@
+{
+  "appid": 1122200,
+  "files": [
+    {
+      "name": "1122200.zip",
+      "sha256": "6c0062771a4364b663f71e0dddc23c05e4eaae9572716c943067a0ccf98d601f",
+      "size": 1799051
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1122200.zip",
+    "sha256": "6c0062771a4364b663f71e0dddc23c05e4eaae9572716c943067a0ccf98d601f",
+    "size": 1799051
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

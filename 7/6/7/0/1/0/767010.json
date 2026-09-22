@@ -1,0 +1,18 @@
+{
+  "appid": 767010,
+  "files": [
+    {
+      "name": "767010.zip",
+      "sha256": "15566339b0a49979806106ea2a0f8581b9caf92610f49aa2653983cf7079f2b1",
+      "size": 38594
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "767010.zip",
+    "sha256": "15566339b0a49979806106ea2a0f8581b9caf92610f49aa2653983cf7079f2b1",
+    "size": 38594
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

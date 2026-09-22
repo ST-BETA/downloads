@@ -1,0 +1,18 @@
+{
+  "appid": 1881000,
+  "files": [
+    {
+      "name": "1881000.zip",
+      "sha256": "1f7456cc00416ecb73cba126fa0a07af5422daee010c46af881d261193fb80a3",
+      "size": 87986
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1881000.zip",
+    "sha256": "1f7456cc00416ecb73cba126fa0a07af5422daee010c46af881d261193fb80a3",
+    "size": 87986
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

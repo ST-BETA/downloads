@@ -1,0 +1,18 @@
+{
+  "appid": 390200,
+  "files": [
+    {
+      "name": "390200.zip",
+      "sha256": "5762b1023da4daa3369d7977310838e4ea606faeede0f61715225b81b6a4829c",
+      "size": 183914
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "390200.zip",
+    "sha256": "5762b1023da4daa3369d7977310838e4ea606faeede0f61715225b81b6a4829c",
+    "size": 183914
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

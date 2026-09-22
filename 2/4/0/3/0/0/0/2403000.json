@@ -1,0 +1,18 @@
+{
+  "appid": 2403000,
+  "files": [
+    {
+      "name": "2403000.zip",
+      "sha256": "5550d71271844081657b873fbc58a61566399b0a8e497fcd6ca638d74f7faaf0",
+      "size": 587720
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2403000.zip",
+    "sha256": "5550d71271844081657b873fbc58a61566399b0a8e497fcd6ca638d74f7faaf0",
+    "size": 587720
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

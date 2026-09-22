@@ -1,0 +1,18 @@
+{
+  "appid": 660900,
+  "files": [
+    {
+      "name": "660900.zip",
+      "sha256": "d7f589e681e7e4045d7e298dd1fac238bd6250375c2523f0ba1b4e8963b16622",
+      "size": 61370
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "660900.zip",
+    "sha256": "d7f589e681e7e4045d7e298dd1fac238bd6250375c2523f0ba1b4e8963b16622",
+    "size": 61370
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

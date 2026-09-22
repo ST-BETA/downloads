@@ -1,0 +1,18 @@
+{
+  "appid": 1636345,
+  "files": [
+    {
+      "name": "1636345.zip",
+      "sha256": "51652524ad8fc4dd0f634b0ac7a39b588e03886791bc25ebb354533230d579af",
+      "size": 1337
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1636345.zip",
+    "sha256": "51652524ad8fc4dd0f634b0ac7a39b588e03886791bc25ebb354533230d579af",
+    "size": 1337
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

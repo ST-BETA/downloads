@@ -1,0 +1,18 @@
+{
+  "appid": 17390,
+  "files": [
+    {
+      "name": "17390.zip",
+      "sha256": "40c4a5cc7405688628d0c640c5281a1b2fbeeca1ecdbf705d7bd82b37198c01b",
+      "size": 360212
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "17390.zip",
+    "sha256": "40c4a5cc7405688628d0c640c5281a1b2fbeeca1ecdbf705d7bd82b37198c01b",
+    "size": 360212
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

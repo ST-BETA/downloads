@@ -1,0 +1,18 @@
+{
+  "appid": 408640,
+  "files": [
+    {
+      "name": "408640.zip",
+      "sha256": "cf169c01e39124bc4dbe944c3e86c74e4f938ea4c45253cc8bfd0a49c47a14bb",
+      "size": 262883
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "408640.zip",
+    "sha256": "cf169c01e39124bc4dbe944c3e86c74e4f938ea4c45253cc8bfd0a49c47a14bb",
+    "size": 262883
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 802070,
+  "files": [
+    {
+      "name": "802070.zip",
+      "sha256": "b255212131a4504397c774d6bd13dd8500ca79befe161ebc9faf5b1f252eda7e",
+      "size": 43928
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "802070.zip",
+    "sha256": "b255212131a4504397c774d6bd13dd8500ca79befe161ebc9faf5b1f252eda7e",
+    "size": 43928
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

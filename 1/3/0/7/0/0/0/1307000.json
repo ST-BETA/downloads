@@ -1,0 +1,18 @@
+{
+  "appid": 1307000,
+  "files": [
+    {
+      "name": "1307000.zip",
+      "sha256": "b84a202208d6dd163a840c475513d7e6f145269d96aab1ffb1375dac78de0a63",
+      "size": 139466
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1307000.zip",
+    "sha256": "b84a202208d6dd163a840c475513d7e6f145269d96aab1ffb1375dac78de0a63",
+    "size": 139466
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

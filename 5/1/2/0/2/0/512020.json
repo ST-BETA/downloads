@@ -1,0 +1,18 @@
+{
+  "appid": 512020,
+  "files": [
+    {
+      "name": "512020.zip",
+      "sha256": "dceb140002bfc76df80aae407d7f63b98dc0539e83819eddafd70504b3908e2b",
+      "size": 11945
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "512020.zip",
+    "sha256": "dceb140002bfc76df80aae407d7f63b98dc0539e83819eddafd70504b3908e2b",
+    "size": 11945
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

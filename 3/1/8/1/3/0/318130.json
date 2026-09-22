@@ -1,0 +1,18 @@
+{
+  "appid": 318130,
+  "files": [
+    {
+      "name": "318130.zip",
+      "sha256": "15ffef2306cf229f605556d545002379468f9bc7c5faadb0cfe5945c0af014ce",
+      "size": 819356
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "318130.zip",
+    "sha256": "15ffef2306cf229f605556d545002379468f9bc7c5faadb0cfe5945c0af014ce",
+    "size": 819356
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2003050,
+  "files": [
+    {
+      "name": "2003050.zip",
+      "sha256": "c0e488e6495c71aed50b190a63f45a48d37c228b77dd8cbb720074db5e43685d",
+      "size": 249648
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2003050.zip",
+    "sha256": "c0e488e6495c71aed50b190a63f45a48d37c228b77dd8cbb720074db5e43685d",
+    "size": 249648
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 3456800,
+  "files": [
+    {
+      "name": "3456800.zip",
+      "sha256": "26eabbee48e00b281132a0ac87cb0ad6c5b494ca3b1b006a4a41e54b1a268638",
+      "size": 48659
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3456800.zip",
+    "sha256": "26eabbee48e00b281132a0ac87cb0ad6c5b494ca3b1b006a4a41e54b1a268638",
+    "size": 48659
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 700490,
+  "files": [
+    {
+      "name": "700490.zip",
+      "sha256": "84911109eaa9f30084f780eeb75e862a7d7f12c34497b9723f73ffc417eb4f84",
+      "size": 16240
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "700490.zip",
+    "sha256": "84911109eaa9f30084f780eeb75e862a7d7f12c34497b9723f73ffc417eb4f84",
+    "size": 16240
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

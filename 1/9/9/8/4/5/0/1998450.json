@@ -1,0 +1,18 @@
+{
+  "appid": 1998450,
+  "files": [
+    {
+      "name": "1998450.zip",
+      "sha256": "816745f29d0f5b902a912130213c5e1ab00bb8f111a99d5b68345cecacdb2c60",
+      "size": 454628
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1998450.zip",
+    "sha256": "816745f29d0f5b902a912130213c5e1ab00bb8f111a99d5b68345cecacdb2c60",
+    "size": 454628
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

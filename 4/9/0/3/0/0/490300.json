@@ -1,0 +1,18 @@
+{
+  "appid": 490300,
+  "files": [
+    {
+      "name": "490300.zip",
+      "sha256": "693578b1ff2574849656396b7e017c64c76c85d9dd5de0ea1fd3e660f9f5d369",
+      "size": 28676
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "490300.zip",
+    "sha256": "693578b1ff2574849656396b7e017c64c76c85d9dd5de0ea1fd3e660f9f5d369",
+    "size": 28676
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

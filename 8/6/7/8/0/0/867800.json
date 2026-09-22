@@ -1,0 +1,18 @@
+{
+  "appid": 867800,
+  "files": [
+    {
+      "name": "867800.zip",
+      "sha256": "a5b1b704672c526715ad10513f19b8d013d1342e29a1d4b034a50db30a7736ac",
+      "size": 30061
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "867800.zip",
+    "sha256": "a5b1b704672c526715ad10513f19b8d013d1342e29a1d4b034a50db30a7736ac",
+    "size": 30061
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

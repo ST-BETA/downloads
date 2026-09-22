@@ -1,0 +1,18 @@
+{
+  "appid": 430300,
+  "files": [
+    {
+      "name": "430300.zip",
+      "sha256": "e4a952a48dd800bac1229ad6813c8a573539c0b6a6163b23f6a7bc94a608b08b",
+      "size": 3043
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "430300.zip",
+    "sha256": "e4a952a48dd800bac1229ad6813c8a573539c0b6a6163b23f6a7bc94a608b08b",
+    "size": 3043
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

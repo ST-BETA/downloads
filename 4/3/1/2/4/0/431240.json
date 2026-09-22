@@ -1,0 +1,18 @@
+{
+  "appid": 431240,
+  "files": [
+    {
+      "name": "431240.zip",
+      "sha256": "06f45102ac82c53b5431563bbad7606d694b973a216536a2fb77c49bbecf85c8",
+      "size": 1215285
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "431240.zip",
+    "sha256": "06f45102ac82c53b5431563bbad7606d694b973a216536a2fb77c49bbecf85c8",
+    "size": 1215285
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

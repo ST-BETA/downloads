@@ -1,0 +1,18 @@
+{
+  "appid": 57710,
+  "files": [
+    {
+      "name": "57710.zip",
+      "sha256": "93056bf475b222d18db3ba4020e6a86d3c051afc0e9438f752c4f2265ae5c03b",
+      "size": 1160734
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "57710.zip",
+    "sha256": "93056bf475b222d18db3ba4020e6a86d3c051afc0e9438f752c4f2265ae5c03b",
+    "size": 1160734
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

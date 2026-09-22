@@ -1,0 +1,18 @@
+{
+  "appid": 2590720,
+  "files": [
+    {
+      "name": "2590720.zip",
+      "sha256": "a03cf789dfa643c7be6d21d30b0f55a855107a56adfb4bc006c2a48156e26717",
+      "size": 61655
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2590720.zip",
+    "sha256": "a03cf789dfa643c7be6d21d30b0f55a855107a56adfb4bc006c2a48156e26717",
+    "size": 61655
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

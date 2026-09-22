@@ -1,0 +1,18 @@
+{
+  "appid": 500650,
+  "files": [
+    {
+      "name": "500650.zip",
+      "sha256": "9e8311e067a5dc53e12053ebb32430205ca4739a3e5541758ddbf749c99b5616",
+      "size": 44742
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "500650.zip",
+    "sha256": "9e8311e067a5dc53e12053ebb32430205ca4739a3e5541758ddbf749c99b5616",
+    "size": 44742
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

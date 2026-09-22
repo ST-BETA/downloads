@@ -1,0 +1,18 @@
+{
+  "appid": 544400,
+  "files": [
+    {
+      "name": "544400.zip",
+      "sha256": "36040dc3a1513c034675f2eec41143149956b72c35782aa71a515f2712520dfe",
+      "size": 6811
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "544400.zip",
+    "sha256": "36040dc3a1513c034675f2eec41143149956b72c35782aa71a515f2712520dfe",
+    "size": 6811
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

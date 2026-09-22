@@ -1,0 +1,18 @@
+{
+  "appid": 4010250,
+  "files": [
+    {
+      "name": "4010250.zip",
+      "sha256": "fa72d022928429d9104325dd9155c76e3c73f9abe619bae21c8f61d551441a8e",
+      "size": 224340
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4010250.zip",
+    "sha256": "fa72d022928429d9104325dd9155c76e3c73f9abe619bae21c8f61d551441a8e",
+    "size": 224340
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

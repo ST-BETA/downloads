@@ -1,0 +1,18 @@
+{
+  "appid": 688880,
+  "files": [
+    {
+      "name": "688880.zip",
+      "sha256": "426263bdbcaae02a0f7c857041a6529e74108f3564b14cf9490070b317eabd61",
+      "size": 256400
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "688880.zip",
+    "sha256": "426263bdbcaae02a0f7c857041a6529e74108f3564b14cf9490070b317eabd61",
+    "size": 256400
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

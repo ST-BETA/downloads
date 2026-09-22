@@ -1,0 +1,18 @@
+{
+  "appid": 602700,
+  "files": [
+    {
+      "name": "602700.zip",
+      "sha256": "1cbe18ff968177248c86111486062682fce4b1b978275e0492ef2c5b813e5fc9",
+      "size": 188898
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "602700.zip",
+    "sha256": "1cbe18ff968177248c86111486062682fce4b1b978275e0492ef2c5b813e5fc9",
+    "size": 188898
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

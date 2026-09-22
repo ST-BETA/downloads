@@ -1,0 +1,18 @@
+{
+  "appid": 3437200,
+  "files": [
+    {
+      "name": "3437200.zip",
+      "sha256": "7e61a957a713f5978fd11e0be6c2dc9084de380b60aa596b903f97c6bcf851e9",
+      "size": 671039
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3437200.zip",
+    "sha256": "7e61a957a713f5978fd11e0be6c2dc9084de380b60aa596b903f97c6bcf851e9",
+    "size": 671039
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 301990,
+  "files": [
+    {
+      "name": "301990.zip",
+      "sha256": "0f3a9b57c3aff72d3893b814fa1b71a079c937a7ab1aa03d10516be57fba2b23",
+      "size": 6106
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "301990.zip",
+    "sha256": "0f3a9b57c3aff72d3893b814fa1b71a079c937a7ab1aa03d10516be57fba2b23",
+    "size": 6106
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

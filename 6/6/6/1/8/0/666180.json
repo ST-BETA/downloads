@@ -1,0 +1,18 @@
+{
+  "appid": 666180,
+  "files": [
+    {
+      "name": "666180.zip",
+      "sha256": "e3e3471779b298dd3d1a17749d561857cb29fa63e148cc314a71c00942565a13",
+      "size": 92341
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "666180.zip",
+    "sha256": "e3e3471779b298dd3d1a17749d561857cb29fa63e148cc314a71c00942565a13",
+    "size": 92341
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

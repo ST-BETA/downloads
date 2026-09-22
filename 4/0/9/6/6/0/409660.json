@@ -1,0 +1,18 @@
+{
+  "appid": 409660,
+  "files": [
+    {
+      "name": "409660.zip",
+      "sha256": "b9ba423ad213ade32fc7d53fcd7b8c94404151f3c0e346fb245f3705c627969f",
+      "size": 95881
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "409660.zip",
+    "sha256": "b9ba423ad213ade32fc7d53fcd7b8c94404151f3c0e346fb245f3705c627969f",
+    "size": 95881
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 589780,
+  "files": [
+    {
+      "name": "589780.zip",
+      "sha256": "76f09b41f67b94c664563ccc5b8b13b7626552c44a03ca52fa926370390ea2ce",
+      "size": 859770
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "589780.zip",
+    "sha256": "76f09b41f67b94c664563ccc5b8b13b7626552c44a03ca52fa926370390ea2ce",
+    "size": 859770
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

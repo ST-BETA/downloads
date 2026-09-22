@@ -1,0 +1,18 @@
+{
+  "appid": 952020,
+  "files": [
+    {
+      "name": "952020.zip",
+      "sha256": "e8c0002bbaf24c541446be702c72b65348f9f9ce189a6005ac73f23eee51db8f",
+      "size": 19108
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "952020.zip",
+    "sha256": "e8c0002bbaf24c541446be702c72b65348f9f9ce189a6005ac73f23eee51db8f",
+    "size": 19108
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

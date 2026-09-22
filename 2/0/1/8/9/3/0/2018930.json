@@ -1,0 +1,18 @@
+{
+  "appid": 2018930,
+  "files": [
+    {
+      "name": "2018930.zip",
+      "sha256": "de1ca03ba1c6228daf0248308b408428676d8cf671e3437a6bdef21305b3d015",
+      "size": 249163
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2018930.zip",
+    "sha256": "de1ca03ba1c6228daf0248308b408428676d8cf671e3437a6bdef21305b3d015",
+    "size": 249163
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

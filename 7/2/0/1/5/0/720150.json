@@ -1,0 +1,18 @@
+{
+  "appid": 720150,
+  "files": [
+    {
+      "name": "720150.zip",
+      "sha256": "67b42ef0dff988e62581dd9825d6fee8ee479a18a804177f4e996dcdbb02cd77",
+      "size": 35670
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "720150.zip",
+    "sha256": "67b42ef0dff988e62581dd9825d6fee8ee479a18a804177f4e996dcdbb02cd77",
+    "size": 35670
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

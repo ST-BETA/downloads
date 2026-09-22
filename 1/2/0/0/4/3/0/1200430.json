@@ -1,0 +1,18 @@
+{
+  "appid": 1200430,
+  "files": [
+    {
+      "name": "1200430.zip",
+      "sha256": "384ad3de5f51e0eec5cf62611aa07fc7d32092cdcee9b635a075ed458f5ad2cf",
+      "size": 2023
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1200430.zip",
+    "sha256": "384ad3de5f51e0eec5cf62611aa07fc7d32092cdcee9b635a075ed458f5ad2cf",
+    "size": 2023
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 688700,
+  "files": [
+    {
+      "name": "688700.zip",
+      "sha256": "a3981b2eb857fc66d4a1613cb8176d39de8b3ef808ff10d720ffe94dad58aa58",
+      "size": 86671
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "688700.zip",
+    "sha256": "a3981b2eb857fc66d4a1613cb8176d39de8b3ef808ff10d720ffe94dad58aa58",
+    "size": 86671
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

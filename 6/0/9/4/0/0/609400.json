@@ -1,0 +1,18 @@
+{
+  "appid": 609400,
+  "files": [
+    {
+      "name": "609400.zip",
+      "sha256": "6399048248071f01bc6c7be30191f4d9a2fb47c8ad2252f0051953ff40905f36",
+      "size": 34416
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "609400.zip",
+    "sha256": "6399048248071f01bc6c7be30191f4d9a2fb47c8ad2252f0051953ff40905f36",
+    "size": 34416
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

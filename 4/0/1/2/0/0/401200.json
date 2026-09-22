@@ -1,0 +1,18 @@
+{
+  "appid": 401200,
+  "files": [
+    {
+      "name": "401200.zip",
+      "sha256": "22bc32d5f6d77d5062146d30f01010208e80d5828744fe971bfc1ecac28dc7c7",
+      "size": 107738
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "401200.zip",
+    "sha256": "22bc32d5f6d77d5062146d30f01010208e80d5828744fe971bfc1ecac28dc7c7",
+    "size": 107738
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 437900,
+  "files": [
+    {
+      "name": "437900.zip",
+      "sha256": "a1e2f92c69f97c97ab08e320370b21b3d606480432b6e45dd8f7e6c351153750",
+      "size": 141109
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "437900.zip",
+    "sha256": "a1e2f92c69f97c97ab08e320370b21b3d606480432b6e45dd8f7e6c351153750",
+    "size": 141109
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

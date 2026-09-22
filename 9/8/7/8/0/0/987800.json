@@ -1,0 +1,18 @@
+{
+  "appid": 987800,
+  "files": [
+    {
+      "name": "987800.zip",
+      "sha256": "3e2cfbe31ab26b7ba94c0b161d71245984da7cf4aa71d1163ad85bb9effb41d5",
+      "size": 5422
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "987800.zip",
+    "sha256": "3e2cfbe31ab26b7ba94c0b161d71245984da7cf4aa71d1163ad85bb9effb41d5",
+    "size": 5422
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

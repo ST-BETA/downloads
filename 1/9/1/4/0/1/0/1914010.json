@@ -1,0 +1,18 @@
+{
+  "appid": 1914010,
+  "files": [
+    {
+      "name": "1914010.zip",
+      "sha256": "386c177228195035af2af5cfdabe1a529112d9d2c453afb19963b3f24e0c7e87",
+      "size": 60480
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1914010.zip",
+    "sha256": "386c177228195035af2af5cfdabe1a529112d9d2c453afb19963b3f24e0c7e87",
+    "size": 60480
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

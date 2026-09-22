@@ -1,0 +1,18 @@
+{
+  "appid": 420,
+  "files": [
+    {
+      "name": "420.zip",
+      "sha256": "c74ddd8df2677525a5d9d508b54c60ea3eb1fc44b6a5e7740c223be2af1d7913",
+      "size": 973455
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "420.zip",
+    "sha256": "c74ddd8df2677525a5d9d508b54c60ea3eb1fc44b6a5e7740c223be2af1d7913",
+    "size": 973455
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

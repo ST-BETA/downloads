@@ -1,0 +1,18 @@
+{
+  "appid": 360170,
+  "files": [
+    {
+      "name": "360170.zip",
+      "sha256": "e2727c54a7ca619c6e7ef81b5765e68167635939a45f9f974cb1172818c95fd7",
+      "size": 1924713
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "360170.zip",
+    "sha256": "e2727c54a7ca619c6e7ef81b5765e68167635939a45f9f974cb1172818c95fd7",
+    "size": 1924713
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

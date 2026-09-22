@@ -1,0 +1,18 @@
+{
+  "appid": 301170,
+  "files": [
+    {
+      "name": "301170.zip",
+      "sha256": "6c19f7c8cf5191bb5c6db2d3880773454611d5bcc0a3916e89c112e34a800d7b",
+      "size": 769232
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "301170.zip",
+    "sha256": "6c19f7c8cf5191bb5c6db2d3880773454611d5bcc0a3916e89c112e34a800d7b",
+    "size": 769232
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

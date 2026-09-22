@@ -1,0 +1,18 @@
+{
+  "appid": 12520,
+  "files": [
+    {
+      "name": "12520.zip",
+      "sha256": "188d2c0d7a77c66b7ca08a8fc6e9c9017e4acca160c28234afaa4d1643461d11",
+      "size": 28261
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "12520.zip",
+    "sha256": "188d2c0d7a77c66b7ca08a8fc6e9c9017e4acca160c28234afaa4d1643461d11",
+    "size": 28261
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

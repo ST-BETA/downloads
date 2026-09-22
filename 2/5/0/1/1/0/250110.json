@@ -1,0 +1,18 @@
+{
+  "appid": 250110,
+  "files": [
+    {
+      "name": "250110.zip",
+      "sha256": "78d4fd2976c4c6eede75edd78577dcded5d26e5bb4794026055f7f8b236458a0",
+      "size": 390796
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "250110.zip",
+    "sha256": "78d4fd2976c4c6eede75edd78577dcded5d26e5bb4794026055f7f8b236458a0",
+    "size": 390796
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1340480,
+  "files": [
+    {
+      "name": "1340480.zip",
+      "sha256": "43c1cefdf35e7078ca085ad7caa29fef99f732fb90366168076ccb50458a4ef8",
+      "size": 111011
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1340480.zip",
+    "sha256": "43c1cefdf35e7078ca085ad7caa29fef99f732fb90366168076ccb50458a4ef8",
+    "size": 111011
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

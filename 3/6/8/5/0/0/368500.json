@@ -1,0 +1,18 @@
+{
+  "appid": 368500,
+  "files": [
+    {
+      "name": "368500.zip",
+      "sha256": "2dc51b5130f0cdee2d6428a36b133b4f948834c70312b65a5cf8f1ff71c0fd6d",
+      "size": 3072471
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "368500.zip",
+    "sha256": "2dc51b5130f0cdee2d6428a36b133b4f948834c70312b65a5cf8f1ff71c0fd6d",
+    "size": 3072471
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

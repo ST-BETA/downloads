@@ -1,0 +1,18 @@
+{
+  "appid": 360230,
+  "files": [
+    {
+      "name": "360230.zip",
+      "sha256": "88e9beeaa491f8b83124ad3c69b5695fe8915506d23dcfc46ea6ee602a0b7a44",
+      "size": 2752
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "360230.zip",
+    "sha256": "88e9beeaa491f8b83124ad3c69b5695fe8915506d23dcfc46ea6ee602a0b7a44",
+    "size": 2752
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

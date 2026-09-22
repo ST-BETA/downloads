@@ -1,0 +1,18 @@
+{
+  "appid": 2102020,
+  "files": [
+    {
+      "name": "2102020.zip",
+      "sha256": "45538d81d7f5d428971fc26336868861c62718318d31b421e86e275b308e24c3",
+      "size": 19419
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2102020.zip",
+    "sha256": "45538d81d7f5d428971fc26336868861c62718318d31b421e86e275b308e24c3",
+    "size": 19419
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

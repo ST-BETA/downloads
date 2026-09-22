@@ -1,0 +1,18 @@
+{
+  "appid": 1960100,
+  "files": [
+    {
+      "name": "1960100.zip",
+      "sha256": "d0600b0543df1363409cc94c92453717aa83a9d1e04bb0b99d5c278a7a72273e",
+      "size": 32200
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1960100.zip",
+    "sha256": "d0600b0543df1363409cc94c92453717aa83a9d1e04bb0b99d5c278a7a72273e",
+    "size": 32200
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 8080,
+  "files": [
+    {
+      "name": "8080.zip",
+      "sha256": "d6bef1bceed36e7444bd1f37630d6b428c75b561c3534b1fa8b9fc083e433ab2",
+      "size": 390586
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "8080.zip",
+    "sha256": "d6bef1bceed36e7444bd1f37630d6b428c75b561c3534b1fa8b9fc083e433ab2",
+    "size": 390586
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

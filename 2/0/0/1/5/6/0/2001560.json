@@ -1,0 +1,18 @@
+{
+  "appid": 2001560,
+  "files": [
+    {
+      "name": "2001560.zip",
+      "sha256": "0d67778a091d4c27be233505686fab93ced5b782f9aab9af182dccefc4b25203",
+      "size": 130525
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2001560.zip",
+    "sha256": "0d67778a091d4c27be233505686fab93ced5b782f9aab9af182dccefc4b25203",
+    "size": 130525
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

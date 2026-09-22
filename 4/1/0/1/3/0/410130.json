@@ -1,0 +1,18 @@
+{
+  "appid": 410130,
+  "files": [
+    {
+      "name": "410130.zip",
+      "sha256": "11aca1d382f476736caebc48a2a01caba6bf5c81529b12df25ab386889e4f5b7",
+      "size": 382455
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "410130.zip",
+    "sha256": "11aca1d382f476736caebc48a2a01caba6bf5c81529b12df25ab386889e4f5b7",
+    "size": 382455
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

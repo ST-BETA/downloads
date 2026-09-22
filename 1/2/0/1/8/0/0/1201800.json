@@ -1,0 +1,18 @@
+{
+  "appid": 1201800,
+  "files": [
+    {
+      "name": "1201800.zip",
+      "sha256": "89dfaba69141a7ed1e820d90e80a8ef1256dfae34b5ccf5eb9171d2a6104f509",
+      "size": 32539
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1201800.zip",
+    "sha256": "89dfaba69141a7ed1e820d90e80a8ef1256dfae34b5ccf5eb9171d2a6104f509",
+    "size": 32539
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

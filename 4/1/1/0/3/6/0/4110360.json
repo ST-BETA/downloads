@@ -1,0 +1,18 @@
+{
+  "appid": 4110360,
+  "files": [
+    {
+      "name": "4110360.zip",
+      "sha256": "b15c63ce860533cb69a8928f9597496210f5348fd17e1d25d264dbf1d5fbf55a",
+      "size": 51565
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4110360.zip",
+    "sha256": "b15c63ce860533cb69a8928f9597496210f5348fd17e1d25d264dbf1d5fbf55a",
+    "size": 51565
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

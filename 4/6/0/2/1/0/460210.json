@@ -1,0 +1,18 @@
+{
+  "appid": 460210,
+  "files": [
+    {
+      "name": "460210.zip",
+      "sha256": "b89d167cd429112dfbc5c856e10c9322f40c7013db8d296c73064e1d91dbae5e",
+      "size": 454277
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "460210.zip",
+    "sha256": "b89d167cd429112dfbc5c856e10c9322f40c7013db8d296c73064e1d91dbae5e",
+    "size": 454277
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

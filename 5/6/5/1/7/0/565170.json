@@ -1,0 +1,18 @@
+{
+  "appid": 565170,
+  "files": [
+    {
+      "name": "565170.zip",
+      "sha256": "b2fbd32c4cf358c35f454967b0106913db843dccdd4efc991a3378927efad6e7",
+      "size": 149861
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "565170.zip",
+    "sha256": "b2fbd32c4cf358c35f454967b0106913db843dccdd4efc991a3378927efad6e7",
+    "size": 149861
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

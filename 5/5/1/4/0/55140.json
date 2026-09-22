@@ -1,0 +1,18 @@
+{
+  "appid": 55140,
+  "files": [
+    {
+      "name": "55140.zip",
+      "sha256": "6faea85998be79a2200d64f662ea4325060e3dcab4fab0e27fb4c88a9f4175b8",
+      "size": 359529
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "55140.zip",
+    "sha256": "6faea85998be79a2200d64f662ea4325060e3dcab4fab0e27fb4c88a9f4175b8",
+    "size": 359529
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

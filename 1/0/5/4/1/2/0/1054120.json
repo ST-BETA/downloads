@@ -1,0 +1,18 @@
+{
+  "appid": 1054120,
+  "files": [
+    {
+      "name": "1054120.zip",
+      "sha256": "6393bca44451cc758aa8320d610384f12c33e71e835215d95091f2c3c21cb487",
+      "size": 10208
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1054120.zip",
+    "sha256": "6393bca44451cc758aa8320d610384f12c33e71e835215d95091f2c3c21cb487",
+    "size": 10208
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

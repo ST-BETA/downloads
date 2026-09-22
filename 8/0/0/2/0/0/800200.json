@@ -1,0 +1,18 @@
+{
+  "appid": 800200,
+  "files": [
+    {
+      "name": "800200.zip",
+      "sha256": "e57e2ce3f7db58f7d6ddd3dae1633edf0bc566109df30aa9e77820dfec4e9b8b",
+      "size": 442310
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "800200.zip",
+    "sha256": "e57e2ce3f7db58f7d6ddd3dae1633edf0bc566109df30aa9e77820dfec4e9b8b",
+    "size": 442310
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

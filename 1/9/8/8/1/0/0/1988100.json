@@ -1,0 +1,18 @@
+{
+  "appid": 1988100,
+  "files": [
+    {
+      "name": "1988100.zip",
+      "sha256": "bfc561492a8b0c2e453e0968ed1ce2cec013bde167cd7cc2222785855765a845",
+      "size": 424137
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1988100.zip",
+    "sha256": "bfc561492a8b0c2e453e0968ed1ce2cec013bde167cd7cc2222785855765a845",
+    "size": 424137
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

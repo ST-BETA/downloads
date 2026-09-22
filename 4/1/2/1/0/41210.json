@@ -1,0 +1,18 @@
+{
+  "appid": 41210,
+  "files": [
+    {
+      "name": "41210.zip",
+      "sha256": "c4027bc1d373b78d84dee7fd8252aa4625977a442cf78e68c994d95185660c0c",
+      "size": 95131
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "41210.zip",
+    "sha256": "c4027bc1d373b78d84dee7fd8252aa4625977a442cf78e68c994d95185660c0c",
+    "size": 95131
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

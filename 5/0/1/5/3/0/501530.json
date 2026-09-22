@@ -1,0 +1,18 @@
+{
+  "appid": 501530,
+  "files": [
+    {
+      "name": "501530.zip",
+      "sha256": "c13f49a933fdb105ceb9a62b11ead7ddbd4c3d2aae1da2e5532c38576e7044f7",
+      "size": 36030
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "501530.zip",
+    "sha256": "c13f49a933fdb105ceb9a62b11ead7ddbd4c3d2aae1da2e5532c38576e7044f7",
+    "size": 36030
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

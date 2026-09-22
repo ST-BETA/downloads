@@ -1,0 +1,18 @@
+{
+  "appid": 657020,
+  "files": [
+    {
+      "name": "657020.zip",
+      "sha256": "938b0236f30aca899cf55c0a0c5263dc054f481143be36b9ff634d6d19830913",
+      "size": 35071
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "657020.zip",
+    "sha256": "938b0236f30aca899cf55c0a0c5263dc054f481143be36b9ff634d6d19830913",
+    "size": 35071
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

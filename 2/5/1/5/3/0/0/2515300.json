@@ -1,0 +1,18 @@
+{
+  "appid": 2515300,
+  "files": [
+    {
+      "name": "2515300.zip",
+      "sha256": "786ea4f61176c5363b35fee0f55394c03beb076c25cc7c4e742d3945624d40cb",
+      "size": 168098
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2515300.zip",
+    "sha256": "786ea4f61176c5363b35fee0f55394c03beb076c25cc7c4e742d3945624d40cb",
+    "size": 168098
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

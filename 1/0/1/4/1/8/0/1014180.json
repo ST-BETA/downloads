@@ -1,0 +1,18 @@
+{
+  "appid": 1014180,
+  "files": [
+    {
+      "name": "1014180.zip",
+      "sha256": "ded97785b54fbf7ec0d266d7166594166384958a8d714ac018915e8603aaadb6",
+      "size": 235604
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1014180.zip",
+    "sha256": "ded97785b54fbf7ec0d266d7166594166384958a8d714ac018915e8603aaadb6",
+    "size": 235604
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

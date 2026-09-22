@@ -1,0 +1,18 @@
+{
+  "appid": 2002600,
+  "files": [
+    {
+      "name": "2002600.zip",
+      "sha256": "b2a3f9eda0c4078d170d705de9004f008645813e3f5a126ae3696aedb9582631",
+      "size": 1089721
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2002600.zip",
+    "sha256": "b2a3f9eda0c4078d170d705de9004f008645813e3f5a126ae3696aedb9582631",
+    "size": 1089721
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

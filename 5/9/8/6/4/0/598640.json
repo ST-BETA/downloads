@@ -1,0 +1,18 @@
+{
+  "appid": 598640,
+  "files": [
+    {
+      "name": "598640.zip",
+      "sha256": "61fef69b9236470c35716f92d4c5714faa6f91152911a7e0c5f73437715516db",
+      "size": 101100
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "598640.zip",
+    "sha256": "61fef69b9236470c35716f92d4c5714faa6f91152911a7e0c5f73437715516db",
+    "size": 101100
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 614900,
+  "files": [
+    {
+      "name": "614900.zip",
+      "sha256": "e5909bdf1a66f06779bdc8e45bfa74d32fee481d00b0d2c26c4567d5ce587400",
+      "size": 24644
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "614900.zip",
+    "sha256": "e5909bdf1a66f06779bdc8e45bfa74d32fee481d00b0d2c26c4567d5ce587400",
+    "size": 24644
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

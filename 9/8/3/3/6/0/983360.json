@@ -1,0 +1,18 @@
+{
+  "appid": 983360,
+  "files": [
+    {
+      "name": "983360.zip",
+      "sha256": "33541cba1e62ace52e2827bbc1ea009282be9409f3031a50763010356de1e19e",
+      "size": 56983
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "983360.zip",
+    "sha256": "33541cba1e62ace52e2827bbc1ea009282be9409f3031a50763010356de1e19e",
+    "size": 56983
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2000150,
+  "files": [
+    {
+      "name": "2000150.zip",
+      "sha256": "b6e371e4fa59457357344ea2557ec2b401c9aeb70005f0c55c2c2acfa08230a7",
+      "size": 351701
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2000150.zip",
+    "sha256": "b6e371e4fa59457357344ea2557ec2b401c9aeb70005f0c55c2c2acfa08230a7",
+    "size": 351701
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

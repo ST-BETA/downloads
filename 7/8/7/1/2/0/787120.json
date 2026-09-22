@@ -1,0 +1,18 @@
+{
+  "appid": 787120,
+  "files": [
+    {
+      "name": "787120.zip",
+      "sha256": "b11dea736c205df68edfd9992ae9746ef47ab2b7ba27c177451bcbcaabec4004",
+      "size": 336045
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "787120.zip",
+    "sha256": "b11dea736c205df68edfd9992ae9746ef47ab2b7ba27c177451bcbcaabec4004",
+    "size": 336045
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

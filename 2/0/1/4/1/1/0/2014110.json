@@ -1,0 +1,18 @@
+{
+  "appid": 2014110,
+  "files": [
+    {
+      "name": "2014110.zip",
+      "sha256": "6c4d5c00e77c9e8c25c21d108077e1cdad45487b7f11337a7edf3422e7e16627",
+      "size": 127506
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2014110.zip",
+    "sha256": "6c4d5c00e77c9e8c25c21d108077e1cdad45487b7f11337a7edf3422e7e16627",
+    "size": 127506
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

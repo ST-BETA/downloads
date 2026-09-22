@@ -1,0 +1,18 @@
+{
+  "appid": 2019300,
+  "files": [
+    {
+      "name": "2019300.zip",
+      "sha256": "41179ae4e14a7e2ad667f9cea832f94eae8cf0ac9d564469a998d09c43f95343",
+      "size": 13817
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2019300.zip",
+    "sha256": "41179ae4e14a7e2ad667f9cea832f94eae8cf0ac9d564469a998d09c43f95343",
+    "size": 13817
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

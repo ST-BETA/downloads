@@ -1,0 +1,18 @@
+{
+  "appid": 381550,
+  "files": [
+    {
+      "name": "381550.zip",
+      "sha256": "89bf7c0073c934fefd3fbf4ee27cd95f6bebed7c1ec94cc208ed97b611db02da",
+      "size": 560159
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "381550.zip",
+    "sha256": "89bf7c0073c934fefd3fbf4ee27cd95f6bebed7c1ec94cc208ed97b611db02da",
+    "size": 560159
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

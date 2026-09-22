@@ -1,0 +1,18 @@
+{
+  "appid": 13240,
+  "files": [
+    {
+      "name": "13240.zip",
+      "sha256": "4543bd66fd410e1105b68ad64490e95b3901143c4b7741aa05efd22bcc10550e",
+      "size": 84424
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "13240.zip",
+    "sha256": "4543bd66fd410e1105b68ad64490e95b3901143c4b7741aa05efd22bcc10550e",
+    "size": 84424
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

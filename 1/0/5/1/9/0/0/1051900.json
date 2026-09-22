@@ -1,0 +1,18 @@
+{
+  "appid": 1051900,
+  "files": [
+    {
+      "name": "1051900.zip",
+      "sha256": "2bdb65ff393c5ba211112d95212ab50b5ee1666d20bc99d1fcee839f4c8d51f5",
+      "size": 218921
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1051900.zip",
+    "sha256": "2bdb65ff393c5ba211112d95212ab50b5ee1666d20bc99d1fcee839f4c8d51f5",
+    "size": 218921
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

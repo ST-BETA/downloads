@@ -1,0 +1,18 @@
+{
+  "appid": 2500,
+  "files": [
+    {
+      "name": "2500.zip",
+      "sha256": "a8e3d54d31616b06acc7e7e0475a726fdf86a4b845aeeaba289f2954f43c7484",
+      "size": 267670
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2500.zip",
+    "sha256": "a8e3d54d31616b06acc7e7e0475a726fdf86a4b845aeeaba289f2954f43c7484",
+    "size": 267670
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

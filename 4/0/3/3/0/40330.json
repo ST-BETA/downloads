@@ -1,0 +1,18 @@
+{
+  "appid": 40330,
+  "files": [
+    {
+      "name": "40330.zip",
+      "sha256": "8cd1baa8861bac1976781d6d72f96c5bda3f9258f399aa3625dde76b07d47ab4",
+      "size": 287382
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "40330.zip",
+    "sha256": "8cd1baa8861bac1976781d6d72f96c5bda3f9258f399aa3625dde76b07d47ab4",
+    "size": 287382
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

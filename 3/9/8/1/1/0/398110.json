@@ -1,0 +1,18 @@
+{
+  "appid": 398110,
+  "files": [
+    {
+      "name": "398110.zip",
+      "sha256": "c20f42857b4064c57355b237791319ffef692efb31e2599d1f8ce06b42490848",
+      "size": 5443
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "398110.zip",
+    "sha256": "c20f42857b4064c57355b237791319ffef692efb31e2599d1f8ce06b42490848",
+    "size": 5443
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

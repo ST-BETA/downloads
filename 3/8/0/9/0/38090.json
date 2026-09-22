@@ -1,0 +1,18 @@
+{
+  "appid": 38090,
+  "files": [
+    {
+      "name": "38090.zip",
+      "sha256": "22433e4aeec3dcc9c44811d7a63c80e20edd33e43adc9a69c8c84db0e7d25fa9",
+      "size": 3083
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "38090.zip",
+    "sha256": "22433e4aeec3dcc9c44811d7a63c80e20edd33e43adc9a69c8c84db0e7d25fa9",
+    "size": 3083
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

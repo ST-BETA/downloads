@@ -1,0 +1,18 @@
+{
+  "appid": 650340,
+  "files": [
+    {
+      "name": "650340.zip",
+      "sha256": "975eb0f4ac3e1d397863aaddd300696fd238f280e7811b6421f3995915a942f6",
+      "size": 841207
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "650340.zip",
+    "sha256": "975eb0f4ac3e1d397863aaddd300696fd238f280e7811b6421f3995915a942f6",
+    "size": 841207
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

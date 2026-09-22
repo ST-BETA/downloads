@@ -1,0 +1,18 @@
+{
+  "appid": 15710,
+  "files": [
+    {
+      "name": "15710.zip",
+      "sha256": "8089ca114aff77d929848aa3fa49309a904ebe9ebb2ca3c04fbb35375b52aae0",
+      "size": 141055
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "15710.zip",
+    "sha256": "8089ca114aff77d929848aa3fa49309a904ebe9ebb2ca3c04fbb35375b52aae0",
+    "size": 141055
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 298840,
+  "files": [
+    {
+      "name": "298840.zip",
+      "sha256": "1652b8f5744fb43160ee56f831c18138c9c6a0ba7a80006cb8645d668acdccea",
+      "size": 40604
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "298840.zip",
+    "sha256": "1652b8f5744fb43160ee56f831c18138c9c6a0ba7a80006cb8645d668acdccea",
+    "size": 40604
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

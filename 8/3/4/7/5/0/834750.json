@@ -1,0 +1,18 @@
+{
+  "appid": 834750,
+  "files": [
+    {
+      "name": "834750.zip",
+      "sha256": "1dda933c9b6f1542a7ecbeadb5f448101bacf899755be20fe86be1f221a56444",
+      "size": 160165
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "834750.zip",
+    "sha256": "1dda933c9b6f1542a7ecbeadb5f448101bacf899755be20fe86be1f221a56444",
+    "size": 160165
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

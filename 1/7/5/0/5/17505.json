@@ -1,0 +1,18 @@
+{
+  "appid": 17505,
+  "files": [
+    {
+      "name": "17505.zip",
+      "sha256": "5d4e0de134977f9ec3deb299aa6d901a4953e2341f420096b5acb8b56d6cb8ee",
+      "size": 445325
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "17505.zip",
+    "sha256": "5d4e0de134977f9ec3deb299aa6d901a4953e2341f420096b5acb8b56d6cb8ee",
+    "size": 445325
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

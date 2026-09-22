@@ -1,0 +1,18 @@
+{
+  "appid": 443110,
+  "files": [
+    {
+      "name": "443110.zip",
+      "sha256": "718c3ec85f02af32db682811f5c9142386d248b61959ec734ec904e87a562c9c",
+      "size": 3118391
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "443110.zip",
+    "sha256": "718c3ec85f02af32db682811f5c9142386d248b61959ec734ec904e87a562c9c",
+    "size": 3118391
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

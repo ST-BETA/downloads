@@ -1,0 +1,18 @@
+{
+  "appid": 739980,
+  "files": [
+    {
+      "name": "739980.zip",
+      "sha256": "53d511ac977698cb45b9bd35cc99f530a185c2efa1bc4b63b897cb7cfbd20eba",
+      "size": 217728
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "739980.zip",
+    "sha256": "53d511ac977698cb45b9bd35cc99f530a185c2efa1bc4b63b897cb7cfbd20eba",
+    "size": 217728
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 285330,
+  "files": [
+    {
+      "name": "285330.zip",
+      "sha256": "ec2fd900c207d9320d40ddd8f7bb42ecf356296fd574b400f1f394d8bf313e99",
+      "size": 1505450
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "285330.zip",
+    "sha256": "ec2fd900c207d9320d40ddd8f7bb42ecf356296fd574b400f1f394d8bf313e99",
+    "size": 1505450
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

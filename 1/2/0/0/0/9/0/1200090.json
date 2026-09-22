@@ -1,0 +1,18 @@
+{
+  "appid": 1200090,
+  "files": [
+    {
+      "name": "1200090.zip",
+      "sha256": "78e9c379c2c805e0ceea7f8129facf7ee89d645f7ae14e25466482078fd441ff",
+      "size": 94109
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1200090.zip",
+    "sha256": "78e9c379c2c805e0ceea7f8129facf7ee89d645f7ae14e25466482078fd441ff",
+    "size": 94109
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

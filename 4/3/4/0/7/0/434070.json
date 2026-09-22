@@ -1,0 +1,18 @@
+{
+  "appid": 434070,
+  "files": [
+    {
+      "name": "434070.zip",
+      "sha256": "bb1bc9965b1699ad73e6099423400d61c78937ec569c83d2256a144e6a1adb44",
+      "size": 119716
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "434070.zip",
+    "sha256": "bb1bc9965b1699ad73e6099423400d61c78937ec569c83d2256a144e6a1adb44",
+    "size": 119716
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

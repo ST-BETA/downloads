@@ -1,0 +1,18 @@
+{
+  "appid": 790900,
+  "files": [
+    {
+      "name": "790900.zip",
+      "sha256": "5be3b8941d51feb3f0118d4bb4169d2ec5fff74c0a656a2e1e8ea4c88945fc49",
+      "size": 7046133
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "790900.zip",
+    "sha256": "5be3b8941d51feb3f0118d4bb4169d2ec5fff74c0a656a2e1e8ea4c88945fc49",
+    "size": 7046133
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

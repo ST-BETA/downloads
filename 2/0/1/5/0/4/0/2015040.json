@@ -1,0 +1,18 @@
+{
+  "appid": 2015040,
+  "files": [
+    {
+      "name": "2015040.zip",
+      "sha256": "fea216b6a674f7cfe8cce85fe658c3ef062047f9b8af6c89529924da01d277bb",
+      "size": 108245
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2015040.zip",
+    "sha256": "fea216b6a674f7cfe8cce85fe658c3ef062047f9b8af6c89529924da01d277bb",
+    "size": 108245
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 492500,
+  "files": [
+    {
+      "name": "492500.zip",
+      "sha256": "3ce737c789b44d62bb6cc958af2fee9aed6d07cc0c95dd3b77d88c05be200b2a",
+      "size": 111397
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "492500.zip",
+    "sha256": "3ce737c789b44d62bb6cc958af2fee9aed6d07cc0c95dd3b77d88c05be200b2a",
+    "size": 111397
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

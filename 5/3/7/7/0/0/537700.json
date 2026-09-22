@@ -1,0 +1,18 @@
+{
+  "appid": 537700,
+  "files": [
+    {
+      "name": "537700.zip",
+      "sha256": "d1020c5264cffc26172509f0afa0b021bdb03687edeca313bde886aada762372",
+      "size": 163677
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "537700.zip",
+    "sha256": "d1020c5264cffc26172509f0afa0b021bdb03687edeca313bde886aada762372",
+    "size": 163677
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

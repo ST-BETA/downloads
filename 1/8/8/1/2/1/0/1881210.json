@@ -1,0 +1,18 @@
+{
+  "appid": 1881210,
+  "files": [
+    {
+      "name": "1881210.zip",
+      "sha256": "c650cb17af523d01452578daf84365e2426e8502ef3fe6a45adb7daeb01a9e96",
+      "size": 64400
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1881210.zip",
+    "sha256": "c650cb17af523d01452578daf84365e2426e8502ef3fe6a45adb7daeb01a9e96",
+    "size": 64400
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

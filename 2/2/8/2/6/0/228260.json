@@ -1,0 +1,18 @@
+{
+  "appid": 228260,
+  "files": [
+    {
+      "name": "228260.zip",
+      "sha256": "370b83f7e57e2a52a6005f7c3f9165c0f0fbfc5de790fe70ca79dcabcd2d53b7",
+      "size": 2427916
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "228260.zip",
+    "sha256": "370b83f7e57e2a52a6005f7c3f9165c0f0fbfc5de790fe70ca79dcabcd2d53b7",
+    "size": 2427916
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

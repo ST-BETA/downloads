@@ -1,0 +1,18 @@
+{
+  "appid": 270880,
+  "files": [
+    {
+      "name": "270880.zip",
+      "sha256": "cc42912f3d727d123e9fa37706348b92db70b07d3ec1cd3df83fd05defd10d27",
+      "size": 1286332
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "270880.zip",
+    "sha256": "cc42912f3d727d123e9fa37706348b92db70b07d3ec1cd3df83fd05defd10d27",
+    "size": 1286332
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

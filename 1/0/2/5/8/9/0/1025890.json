@@ -1,0 +1,18 @@
+{
+  "appid": 1025890,
+  "files": [
+    {
+      "name": "1025890.zip",
+      "sha256": "8ccf4644f51db6f564ebdddd5102241ae4144dfbc156440b1274e4a29c3d3cfb",
+      "size": 110681
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1025890.zip",
+    "sha256": "8ccf4644f51db6f564ebdddd5102241ae4144dfbc156440b1274e4a29c3d3cfb",
+    "size": 110681
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

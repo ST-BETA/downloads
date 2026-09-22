@@ -1,0 +1,18 @@
+{
+  "appid": 786060,
+  "files": [
+    {
+      "name": "786060.zip",
+      "sha256": "bce987ae53fe015ae70b9561edf8e1ca89f44065ca5900f5b9d23def23aebbcb",
+      "size": 40969
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "786060.zip",
+    "sha256": "bce987ae53fe015ae70b9561edf8e1ca89f44065ca5900f5b9d23def23aebbcb",
+    "size": 40969
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

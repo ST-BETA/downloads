@@ -1,0 +1,18 @@
+{
+  "appid": 2203500,
+  "files": [
+    {
+      "name": "2203500.zip",
+      "sha256": "4ccb51c13fbecc3ac6d1a920334c6ebd5d74ccb3f009d1f09dff717ac72add10",
+      "size": 29570
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2203500.zip",
+    "sha256": "4ccb51c13fbecc3ac6d1a920334c6ebd5d74ccb3f009d1f09dff717ac72add10",
+    "size": 29570
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

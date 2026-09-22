@@ -1,0 +1,18 @@
+{
+  "appid": 456090,
+  "files": [
+    {
+      "name": "456090.zip",
+      "sha256": "649caea897c98df8de635e050c7818f4e694baea39e5bc48fa0fd04e09691af8",
+      "size": 31025
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "456090.zip",
+    "sha256": "649caea897c98df8de635e050c7818f4e694baea39e5bc48fa0fd04e09691af8",
+    "size": 31025
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

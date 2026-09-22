@@ -1,0 +1,18 @@
+{
+  "appid": 400220,
+  "files": [
+    {
+      "name": "400220.zip",
+      "sha256": "68f1f045835b63ed6a6630e4a8c45bcc36f4b15b9775b91a7f999096366826e3",
+      "size": 18725
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "400220.zip",
+    "sha256": "68f1f045835b63ed6a6630e4a8c45bcc36f4b15b9775b91a7f999096366826e3",
+    "size": 18725
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

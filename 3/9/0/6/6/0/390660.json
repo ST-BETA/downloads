@@ -1,0 +1,18 @@
+{
+  "appid": 390660,
+  "files": [
+    {
+      "name": "390660.zip",
+      "sha256": "45b647a017295070abf12014eb3dc92ef4609051b82855829188a18b7552527b",
+      "size": 10720
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "390660.zip",
+    "sha256": "45b647a017295070abf12014eb3dc92ef4609051b82855829188a18b7552527b",
+    "size": 10720
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

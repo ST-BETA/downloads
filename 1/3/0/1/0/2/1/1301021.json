@@ -1,0 +1,18 @@
+{
+  "appid": 1301021,
+  "files": [
+    {
+      "name": "1301021.zip",
+      "sha256": "8f96755d03742a7fd1105001031b7007aa414a76cb55dcb48b20746b8a3ddb87",
+      "size": 77711
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1301021.zip",
+    "sha256": "8f96755d03742a7fd1105001031b7007aa414a76cb55dcb48b20746b8a3ddb87",
+    "size": 77711
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

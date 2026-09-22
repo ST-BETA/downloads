@@ -1,0 +1,18 @@
+{
+  "appid": 877010,
+  "files": [
+    {
+      "name": "877010.zip",
+      "sha256": "dbcc42504a535c67cce13c34ba42d698e3d8f2234a6790083010f14fde9a048c",
+      "size": 443254
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "877010.zip",
+    "sha256": "dbcc42504a535c67cce13c34ba42d698e3d8f2234a6790083010f14fde9a048c",
+    "size": 443254
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

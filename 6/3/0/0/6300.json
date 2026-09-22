@@ -1,0 +1,18 @@
+{
+  "appid": 6300,
+  "files": [
+    {
+      "name": "6300.zip",
+      "sha256": "913389b3b3ebf56055845b578df7f28e1cf65a3d38a0d5a7071681311de48b58",
+      "size": 273388
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "6300.zip",
+    "sha256": "913389b3b3ebf56055845b578df7f28e1cf65a3d38a0d5a7071681311de48b58",
+    "size": 273388
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

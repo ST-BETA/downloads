@@ -1,0 +1,18 @@
+{
+  "appid": 243450,
+  "files": [
+    {
+      "name": "243450.zip",
+      "sha256": "5544075e7c6900f2c87665d8145e791ea61b3e2c6dc1e321e54445cdc6a4a880",
+      "size": 35241
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "243450.zip",
+    "sha256": "5544075e7c6900f2c87665d8145e791ea61b3e2c6dc1e321e54445cdc6a4a880",
+    "size": 35241
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 854110,
+  "files": [
+    {
+      "name": "854110.zip",
+      "sha256": "c53ec7b59ee87bd684562f157a70a07e4680f55a96e517c25fff03b3bc64243e",
+      "size": 564444
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "854110.zip",
+    "sha256": "c53ec7b59ee87bd684562f157a70a07e4680f55a96e517c25fff03b3bc64243e",
+    "size": 564444
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

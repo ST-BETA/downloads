@@ -1,0 +1,18 @@
+{
+  "appid": 1357890,
+  "files": [
+    {
+      "name": "1357890.zip",
+      "sha256": "148b0fb1f7fb1be54cea22130daeebee6acededb5337dba5fba36985da80c1e9",
+      "size": 95559
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1357890.zip",
+    "sha256": "148b0fb1f7fb1be54cea22130daeebee6acededb5337dba5fba36985da80c1e9",
+    "size": 95559
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1101120,
+  "files": [
+    {
+      "name": "1101120.zip",
+      "sha256": "8b8e9fa22ab9191a4fc9a8424f0c7210b47197e2b1f52710e877de38fd1eebb7",
+      "size": 1426266
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1101120.zip",
+    "sha256": "8b8e9fa22ab9191a4fc9a8424f0c7210b47197e2b1f52710e877de38fd1eebb7",
+    "size": 1426266
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1400700,
+  "files": [
+    {
+      "name": "1400700.zip",
+      "sha256": "50faa4be28489bd479499986d6718aff4cf86c007bbaef03c290cfbcc96d48a5",
+      "size": 8643
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1400700.zip",
+    "sha256": "50faa4be28489bd479499986d6718aff4cf86c007bbaef03c290cfbcc96d48a5",
+    "size": 8643
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1503400,
+  "files": [
+    {
+      "name": "1503400.zip",
+      "sha256": "ecb2b1b95061e517022bd3c1a7da6e2be3fff2df0a18da0778b3ff20ca94cc21",
+      "size": 259550
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1503400.zip",
+    "sha256": "ecb2b1b95061e517022bd3c1a7da6e2be3fff2df0a18da0778b3ff20ca94cc21",
+    "size": 259550
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

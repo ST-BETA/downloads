@@ -1,0 +1,18 @@
+{
+  "appid": 58400,
+  "files": [
+    {
+      "name": "58400.zip",
+      "sha256": "1cff12add4a397741cc497df4819ac7ee83956a62717affeef1432ada2d13c25",
+      "size": 55894
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "58400.zip",
+    "sha256": "1cff12add4a397741cc497df4819ac7ee83956a62717affeef1432ada2d13c25",
+    "size": 55894
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

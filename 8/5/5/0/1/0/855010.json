@@ -1,0 +1,18 @@
+{
+  "appid": 855010,
+  "files": [
+    {
+      "name": "855010.zip",
+      "sha256": "87a2170529a0d9dbaf8fc19ef80384da2b8998342a22bd7a23b9d1f28ddd7583",
+      "size": 116206
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "855010.zip",
+    "sha256": "87a2170529a0d9dbaf8fc19ef80384da2b8998342a22bd7a23b9d1f28ddd7583",
+    "size": 116206
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2004150,
+  "files": [
+    {
+      "name": "2004150.zip",
+      "sha256": "ff97b9a5f53b4845fece8c9eb00993ba9ca2db91d2a318ea52ada79f66a0248e",
+      "size": 43965
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2004150.zip",
+    "sha256": "ff97b9a5f53b4845fece8c9eb00993ba9ca2db91d2a318ea52ada79f66a0248e",
+    "size": 43965
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

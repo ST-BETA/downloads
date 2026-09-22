@@ -1,0 +1,18 @@
+{
+  "appid": 1082000,
+  "files": [
+    {
+      "name": "1082000.zip",
+      "sha256": "0841102596f9b09d679bbc78d553a965e31a5a16b9f52137835194e10391c8d6",
+      "size": 18025
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1082000.zip",
+    "sha256": "0841102596f9b09d679bbc78d553a965e31a5a16b9f52137835194e10391c8d6",
+    "size": 18025
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

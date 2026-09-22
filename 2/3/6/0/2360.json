@@ -1,0 +1,18 @@
+{
+  "appid": 2360,
+  "files": [
+    {
+      "name": "2360.zip",
+      "sha256": "d120f9d9526894038e5eda1b34025bfc608e39367ebe66986f3e86eced17e4a0",
+      "size": 6151
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2360.zip",
+    "sha256": "d120f9d9526894038e5eda1b34025bfc608e39367ebe66986f3e86eced17e4a0",
+    "size": 6151
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

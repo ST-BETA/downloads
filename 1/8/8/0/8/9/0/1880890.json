@@ -1,0 +1,18 @@
+{
+  "appid": 1880890,
+  "files": [
+    {
+      "name": "1880890.zip",
+      "sha256": "c37de4f1a8776364af89ff864cb325d86963335c58f636f0a4abc4b74e7a0962",
+      "size": 3072347
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1880890.zip",
+    "sha256": "c37de4f1a8776364af89ff864cb325d86963335c58f636f0a4abc4b74e7a0962",
+    "size": 3072347
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

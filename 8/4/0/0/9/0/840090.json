@@ -1,0 +1,18 @@
+{
+  "appid": 840090,
+  "files": [
+    {
+      "name": "840090.zip",
+      "sha256": "255ecf9d1b254ed433af136b98247d6d965dd306bac02bcae499e9e4f6ecaf17",
+      "size": 50867
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "840090.zip",
+    "sha256": "255ecf9d1b254ed433af136b98247d6d965dd306bac02bcae499e9e4f6ecaf17",
+    "size": 50867
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

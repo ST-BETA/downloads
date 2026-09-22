@@ -1,0 +1,18 @@
+{
+  "appid": 102850,
+  "files": [
+    {
+      "name": "102850.zip",
+      "sha256": "b1bd39d2d482cc0a2c13610be77274e7f82d64e312bb375e924224341ed0a5de",
+      "size": 368731
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "102850.zip",
+    "sha256": "b1bd39d2d482cc0a2c13610be77274e7f82d64e312bb375e924224341ed0a5de",
+    "size": 368731
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

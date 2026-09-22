@@ -1,0 +1,18 @@
+{
+  "appid": 561450,
+  "files": [
+    {
+      "name": "561450.zip",
+      "sha256": "55c5c97d38c480f939388de2a5cf74bd20772beff5b9fc848f08a761d89b61ba",
+      "size": 83015
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "561450.zip",
+    "sha256": "55c5c97d38c480f939388de2a5cf74bd20772beff5b9fc848f08a761d89b61ba",
+    "size": 83015
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

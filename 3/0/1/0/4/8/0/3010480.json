@@ -1,0 +1,18 @@
+{
+  "appid": 3010480,
+  "files": [
+    {
+      "name": "3010480.zip",
+      "sha256": "43fa05a51bc6ac7d7989d68c3bcc378781e5b920ca4dd76ef617191d8ded47ff",
+      "size": 25047
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3010480.zip",
+    "sha256": "43fa05a51bc6ac7d7989d68c3bcc378781e5b920ca4dd76ef617191d8ded47ff",
+    "size": 25047
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

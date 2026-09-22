@@ -1,0 +1,18 @@
+{
+  "appid": 40980,
+  "files": [
+    {
+      "name": "40980.zip",
+      "sha256": "7b8251024697bb4075f2d4254a6a032a98a7cb3e9071387f213a002db9f02b78",
+      "size": 4455740
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "40980.zip",
+    "sha256": "7b8251024697bb4075f2d4254a6a032a98a7cb3e9071387f213a002db9f02b78",
+    "size": 4455740
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

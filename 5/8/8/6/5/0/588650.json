@@ -1,0 +1,18 @@
+{
+  "appid": 588650,
+  "files": [
+    {
+      "name": "588650.zip",
+      "sha256": "a704e0c302bb448c67d8c874ba40b97a4112afea5efdc86d0572fd36e8f225c4",
+      "size": 300880
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "588650.zip",
+    "sha256": "a704e0c302bb448c67d8c874ba40b97a4112afea5efdc86d0572fd36e8f225c4",
+    "size": 300880
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

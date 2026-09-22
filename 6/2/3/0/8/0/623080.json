@@ -1,0 +1,18 @@
+{
+  "appid": 623080,
+  "files": [
+    {
+      "name": "623080.zip",
+      "sha256": "1b3c2ce9ca197875f090372eb77b41a59dbbac45140336e82d9ac2b122333ffb",
+      "size": 201883
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "623080.zip",
+    "sha256": "1b3c2ce9ca197875f090372eb77b41a59dbbac45140336e82d9ac2b122333ffb",
+    "size": 201883
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

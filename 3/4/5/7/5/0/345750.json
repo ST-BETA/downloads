@@ -1,0 +1,18 @@
+{
+  "appid": 345750,
+  "files": [
+    {
+      "name": "345750.zip",
+      "sha256": "6f617517f0721d75b9c42b41297ce7614c16fc4de53823eb4c1ebc49f0342969",
+      "size": 124431
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "345750.zip",
+    "sha256": "6f617517f0721d75b9c42b41297ce7614c16fc4de53823eb4c1ebc49f0342969",
+    "size": 124431
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

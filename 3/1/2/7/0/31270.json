@@ -1,0 +1,18 @@
+{
+  "appid": 31270,
+  "files": [
+    {
+      "name": "31270.zip",
+      "sha256": "7ad513db81068c7c8791791b515fa414cd1f607722c6725d6a5aaac9b9d7b9ff",
+      "size": 72400
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "31270.zip",
+    "sha256": "7ad513db81068c7c8791791b515fa414cd1f607722c6725d6a5aaac9b9d7b9ff",
+    "size": 72400
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 408120,
+  "files": [
+    {
+      "name": "408120.zip",
+      "sha256": "ced7510c560a5776f7fff8aebd33c246ab6fa72e1dd4329ded83c3e2212c466b",
+      "size": 198080
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "408120.zip",
+    "sha256": "ced7510c560a5776f7fff8aebd33c246ab6fa72e1dd4329ded83c3e2212c466b",
+    "size": 198080
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

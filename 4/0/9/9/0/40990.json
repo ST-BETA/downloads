@@ -1,0 +1,18 @@
+{
+  "appid": 40990,
+  "files": [
+    {
+      "name": "40990.zip",
+      "sha256": "557de18c295c1742324f647de92debb18b32620cb92daf948dae300f32653ddc",
+      "size": 9941235
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "40990.zip",
+    "sha256": "557de18c295c1742324f647de92debb18b32620cb92daf948dae300f32653ddc",
+    "size": 9941235
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

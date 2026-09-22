@@ -1,0 +1,18 @@
+{
+  "appid": 555280,
+  "files": [
+    {
+      "name": "555280.zip",
+      "sha256": "2bc14d5cfadb54434cfae6815bda21cab7c4264e2a1323c16eec0464b308eb9a",
+      "size": 7097
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "555280.zip",
+    "sha256": "2bc14d5cfadb54434cfae6815bda21cab7c4264e2a1323c16eec0464b308eb9a",
+    "size": 7097
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

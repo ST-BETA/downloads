@@ -1,0 +1,18 @@
+{
+  "appid": 980210,
+  "files": [
+    {
+      "name": "980210.zip",
+      "sha256": "45db4ebe90fe01891b525d3dcc6b98202a60625a0931b349d3003b25f885454f",
+      "size": 163573
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "980210.zip",
+    "sha256": "45db4ebe90fe01891b525d3dcc6b98202a60625a0931b349d3003b25f885454f",
+    "size": 163573
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

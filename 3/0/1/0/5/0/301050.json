@@ -1,0 +1,18 @@
+{
+  "appid": 301050,
+  "files": [
+    {
+      "name": "301050.zip",
+      "sha256": "53bcc5da5c6d42fc23574e004f601fe73e235c9d5704a5ed58442af2c0af6edd",
+      "size": 147592
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "301050.zip",
+    "sha256": "53bcc5da5c6d42fc23574e004f601fe73e235c9d5704a5ed58442af2c0af6edd",
+    "size": 147592
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2018230,
+  "files": [
+    {
+      "name": "2018230.zip",
+      "sha256": "e28c45f94767ac9954692a7bd0aa6adad3fe44d1d46da8bf3850fea4d7932c2f",
+      "size": 2155510
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2018230.zip",
+    "sha256": "e28c45f94767ac9954692a7bd0aa6adad3fe44d1d46da8bf3850fea4d7932c2f",
+    "size": 2155510
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

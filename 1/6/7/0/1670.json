@@ -1,0 +1,18 @@
+{
+  "appid": 1670,
+  "files": [
+    {
+      "name": "1670.zip",
+      "sha256": "975b99c508156fcb2be7199a545bfef95f647b883402bd94271bff4de1f0aaff",
+      "size": 461241
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1670.zip",
+    "sha256": "975b99c508156fcb2be7199a545bfef95f647b883402bd94271bff4de1f0aaff",
+    "size": 461241
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

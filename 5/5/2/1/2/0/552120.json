@@ -1,0 +1,18 @@
+{
+  "appid": 552120,
+  "files": [
+    {
+      "name": "552120.zip",
+      "sha256": "d610212bf76b7eb92ee455c37406a7c06f12486c4a4fb28623bc1c1aef0dad4a",
+      "size": 92650
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "552120.zip",
+    "sha256": "d610212bf76b7eb92ee455c37406a7c06f12486c4a4fb28623bc1c1aef0dad4a",
+    "size": 92650
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

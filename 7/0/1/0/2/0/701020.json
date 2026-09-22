@@ -1,0 +1,18 @@
+{
+  "appid": 701020,
+  "files": [
+    {
+      "name": "701020.zip",
+      "sha256": "970394c443d766ba342900ea45cadaf38b01e04fbb06bb9b3f0df84a78786e56",
+      "size": 33268
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "701020.zip",
+    "sha256": "970394c443d766ba342900ea45cadaf38b01e04fbb06bb9b3f0df84a78786e56",
+    "size": 33268
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

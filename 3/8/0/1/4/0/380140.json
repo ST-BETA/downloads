@@ -1,0 +1,18 @@
+{
+  "appid": 380140,
+  "files": [
+    {
+      "name": "380140.zip",
+      "sha256": "7bbac46e4d32c187118914831a0d6d7ae79a00e57d4c045c0e24582a08b2f1be",
+      "size": 226630
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "380140.zip",
+    "sha256": "7bbac46e4d32c187118914831a0d6d7ae79a00e57d4c045c0e24582a08b2f1be",
+    "size": 226630
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

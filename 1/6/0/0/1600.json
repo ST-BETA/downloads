@@ -1,0 +1,18 @@
+{
+  "appid": 1600,
+  "files": [
+    {
+      "name": "1600.zip",
+      "sha256": "0f92e556dd69b6697c0ad9820313f56183b7e092e7950f126b7e4ef0c3ee67cd",
+      "size": 125200
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1600.zip",
+    "sha256": "0f92e556dd69b6697c0ad9820313f56183b7e092e7950f126b7e4ef0c3ee67cd",
+    "size": 125200
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 301540,
+  "files": [
+    {
+      "name": "301540.zip",
+      "sha256": "8b0f000d2a2f5e1b4b2c5239c398a2192d6baf968db5156e7ab03a6ea8957c67",
+      "size": 221964
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "301540.zip",
+    "sha256": "8b0f000d2a2f5e1b4b2c5239c398a2192d6baf968db5156e7ab03a6ea8957c67",
+    "size": 221964
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

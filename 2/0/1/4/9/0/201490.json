@@ -1,0 +1,18 @@
+{
+  "appid": 201490,
+  "files": [
+    {
+      "name": "201490.zip",
+      "sha256": "eb7d1cc5e10860316e90edb9bdc45df2414b783ac4022a48c7692430dacac187",
+      "size": 4416081
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201490.zip",
+    "sha256": "eb7d1cc5e10860316e90edb9bdc45df2414b783ac4022a48c7692430dacac187",
+    "size": 4416081
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

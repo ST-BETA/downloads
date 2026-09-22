@@ -1,0 +1,18 @@
+{
+  "appid": 1012720,
+  "files": [
+    {
+      "name": "1012720.zip",
+      "sha256": "a31481e15875b5fca633d5dd8e53e8b21869d7bbeea1c2f01cfe9dcf4395d280",
+      "size": 49975
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1012720.zip",
+    "sha256": "a31481e15875b5fca633d5dd8e53e8b21869d7bbeea1c2f01cfe9dcf4395d280",
+    "size": 49975
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

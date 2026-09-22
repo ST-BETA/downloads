@@ -1,0 +1,18 @@
+{
+  "appid": 2001540,
+  "files": [
+    {
+      "name": "2001540.zip",
+      "sha256": "d795e62162de82d02e1ec94c5638eba973e8c664a29656d2dfe6d544e9fbb285",
+      "size": 107498
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2001540.zip",
+    "sha256": "d795e62162de82d02e1ec94c5638eba973e8c664a29656d2dfe6d544e9fbb285",
+    "size": 107498
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 501970,
+  "files": [
+    {
+      "name": "501970.zip",
+      "sha256": "f4ece6cdb23a75eb7fbe9c689a1b26e7c50f175aa6bc4207634287255bfc5bab",
+      "size": 196670
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "501970.zip",
+    "sha256": "f4ece6cdb23a75eb7fbe9c689a1b26e7c50f175aa6bc4207634287255bfc5bab",
+    "size": 196670
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

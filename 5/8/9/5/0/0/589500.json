@@ -1,0 +1,18 @@
+{
+  "appid": 589500,
+  "files": [
+    {
+      "name": "589500.zip",
+      "sha256": "e62630cfb5a1e7ed68713640ea3fa12ba164663fe48e5cf34933b6ccade90676",
+      "size": 96259
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "589500.zip",
+    "sha256": "e62630cfb5a1e7ed68713640ea3fa12ba164663fe48e5cf34933b6ccade90676",
+    "size": 96259
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2103400,
+  "files": [
+    {
+      "name": "2103400.zip",
+      "sha256": "7b5f7592d853d24addebb0ee5c0696965d205e633ecf9fe44c7f729f433470d1",
+      "size": 251644
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2103400.zip",
+    "sha256": "7b5f7592d853d24addebb0ee5c0696965d205e633ecf9fe44c7f729f433470d1",
+    "size": 251644
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 80310,
+  "files": [
+    {
+      "name": "80310.zip",
+      "sha256": "fdb08e0e880910a602ae1a57b816eab820c425e2be94dbb10f1cd6185539ada8",
+      "size": 71747
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "80310.zip",
+    "sha256": "fdb08e0e880910a602ae1a57b816eab820c425e2be94dbb10f1cd6185539ada8",
+    "size": 71747
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

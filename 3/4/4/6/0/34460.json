@@ -1,0 +1,18 @@
+{
+  "appid": 34460,
+  "files": [
+    {
+      "name": "34460.zip",
+      "sha256": "35f8b012ceedf3203b1ff54a5192e7389d4583f54bc1c086b01051fcf710b0ab",
+      "size": 4325508
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "34460.zip",
+    "sha256": "35f8b012ceedf3203b1ff54a5192e7389d4583f54bc1c086b01051fcf710b0ab",
+    "size": 4325508
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

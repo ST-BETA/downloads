@@ -1,0 +1,18 @@
+{
+  "appid": 3149840,
+  "files": [
+    {
+      "name": "3149840.zip",
+      "sha256": "8eac46bbebda2dec8fc408d28f46de015b411805f830b902fb200a0cab0e5500",
+      "size": 153523
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3149840.zip",
+    "sha256": "8eac46bbebda2dec8fc408d28f46de015b411805f830b902fb200a0cab0e5500",
+    "size": 153523
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 12310,
+  "files": [
+    {
+      "name": "12310.zip",
+      "sha256": "071e0231d4467aeb35a8e40bfdf39a382bfb7d68d3881c58b2b390e9a0c7cb86",
+      "size": 154503
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "12310.zip",
+    "sha256": "071e0231d4467aeb35a8e40bfdf39a382bfb7d68d3881c58b2b390e9a0c7cb86",
+    "size": 154503
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

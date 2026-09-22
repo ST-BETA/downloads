@@ -1,0 +1,18 @@
+{
+  "appid": 1929900,
+  "files": [
+    {
+      "name": "1929900.zip",
+      "sha256": "b958dc50969f8977b56d2097a0b2fe08a1250d67a6cb76fde26ab90eec0f0050",
+      "size": 112352
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1929900.zip",
+    "sha256": "b958dc50969f8977b56d2097a0b2fe08a1250d67a6cb76fde26ab90eec0f0050",
+    "size": 112352
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

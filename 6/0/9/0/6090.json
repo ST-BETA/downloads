@@ -1,0 +1,18 @@
+{
+  "appid": 6090,
+  "files": [
+    {
+      "name": "6090.zip",
+      "sha256": "3525552f09ae0b207ed897616f32d66512bd8f77775ef8302be28ab6faa69b17",
+      "size": 435545
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "6090.zip",
+    "sha256": "3525552f09ae0b207ed897616f32d66512bd8f77775ef8302be28ab6faa69b17",
+    "size": 435545
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

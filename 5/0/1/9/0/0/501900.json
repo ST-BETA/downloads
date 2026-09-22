@@ -1,0 +1,18 @@
+{
+  "appid": 501900,
+  "files": [
+    {
+      "name": "501900.zip",
+      "sha256": "a952b69b1c80a867b2572a9c89384e87339d5c6ba57d9e8370e90d353685b16f",
+      "size": 7623
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "501900.zip",
+    "sha256": "a952b69b1c80a867b2572a9c89384e87339d5c6ba57d9e8370e90d353685b16f",
+    "size": 7623
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

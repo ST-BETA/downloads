@@ -1,0 +1,18 @@
+{
+  "appid": 3489700,
+  "files": [
+    {
+      "name": "3489700.zip",
+      "sha256": "2ea75d5875eaf53323951eac316fa47ab57a1deef09ac196a307bea6584bd622",
+      "size": 2839360
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3489700.zip",
+    "sha256": "2ea75d5875eaf53323951eac316fa47ab57a1deef09ac196a307bea6584bd622",
+    "size": 2839360
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

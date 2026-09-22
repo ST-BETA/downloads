@@ -1,0 +1,18 @@
+{
+  "appid": 32720,
+  "files": [
+    {
+      "name": "32720.zip",
+      "sha256": "ed0b89e108474039de50f27b2e766cd68e844058df3ccad76f26d5bcddd935c6",
+      "size": 37388
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "32720.zip",
+    "sha256": "ed0b89e108474039de50f27b2e766cd68e844058df3ccad76f26d5bcddd935c6",
+    "size": 37388
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

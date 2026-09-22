@@ -1,0 +1,18 @@
+{
+  "appid": 950160,
+  "files": [
+    {
+      "name": "950160.zip",
+      "sha256": "e08ed565d1c7f452cc15b35638fc65b14fb8bdb95ffb2ea59b9f133ff78eec7d",
+      "size": 63412
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "950160.zip",
+    "sha256": "e08ed565d1c7f452cc15b35638fc65b14fb8bdb95ffb2ea59b9f133ff78eec7d",
+    "size": 63412
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

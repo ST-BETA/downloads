@@ -1,0 +1,18 @@
+{
+  "appid": 443800,
+  "files": [
+    {
+      "name": "443800.zip",
+      "sha256": "3b4431381fa80a1d22df7da014c71fa21dbcae85f7b51e63aafdf7c31513e183",
+      "size": 128872
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "443800.zip",
+    "sha256": "3b4431381fa80a1d22df7da014c71fa21dbcae85f7b51e63aafdf7c31513e183",
+    "size": 128872
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

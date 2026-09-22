@@ -1,0 +1,18 @@
+{
+  "appid": 407110,
+  "files": [
+    {
+      "name": "407110.zip",
+      "sha256": "dc34c58e65f33bcf9de265aafa324c97ef2ebc733b182d89e37a45a1865bc536",
+      "size": 7886
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "407110.zip",
+    "sha256": "dc34c58e65f33bcf9de265aafa324c97ef2ebc733b182d89e37a45a1865bc536",
+    "size": 7886
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

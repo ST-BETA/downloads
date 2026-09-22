@@ -1,0 +1,18 @@
+{
+  "appid": 1984800,
+  "files": [
+    {
+      "name": "1984800.zip",
+      "sha256": "b5c0a13eb6ca4bff3a6a2dad681b705d01d314e11d4d791e2e47a13b16de8cb7",
+      "size": 888960
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1984800.zip",
+    "sha256": "b5c0a13eb6ca4bff3a6a2dad681b705d01d314e11d4d791e2e47a13b16de8cb7",
+    "size": 888960
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

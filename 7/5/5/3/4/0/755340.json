@@ -1,0 +1,18 @@
+{
+  "appid": 755340,
+  "files": [
+    {
+      "name": "755340.zip",
+      "sha256": "47f76c46e360f9b345f2f250bae630bdfcc2a1df9f733375fd381ca70751f81f",
+      "size": 9235
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "755340.zip",
+    "sha256": "47f76c46e360f9b345f2f250bae630bdfcc2a1df9f733375fd381ca70751f81f",
+    "size": 9235
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

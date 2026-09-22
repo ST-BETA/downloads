@@ -1,0 +1,18 @@
+{
+  "appid": 2099010,
+  "files": [
+    {
+      "name": "2099010.zip",
+      "sha256": "d75498b08c956c4e48215b5ee379a1ca04470136c966fc30674ec33056ee3471",
+      "size": 1691228
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2099010.zip",
+    "sha256": "d75498b08c956c4e48215b5ee379a1ca04470136c966fc30674ec33056ee3471",
+    "size": 1691228
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

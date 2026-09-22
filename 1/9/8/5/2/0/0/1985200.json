@@ -1,0 +1,18 @@
+{
+  "appid": 1985200,
+  "files": [
+    {
+      "name": "1985200.zip",
+      "sha256": "232c6337ca4511196e83fc74a532b8c587d51b223afc8360d112400f76406234",
+      "size": 121073
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1985200.zip",
+    "sha256": "232c6337ca4511196e83fc74a532b8c587d51b223afc8360d112400f76406234",
+    "size": 121073
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

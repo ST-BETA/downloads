@@ -1,0 +1,18 @@
+{
+  "appid": 980170,
+  "files": [
+    {
+      "name": "980170.zip",
+      "sha256": "32df53ec62c84d780bed6cbc419ad9765cb49b03e2c30d1b877584bffb9841e0",
+      "size": 9509
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "980170.zip",
+    "sha256": "32df53ec62c84d780bed6cbc419ad9765cb49b03e2c30d1b877584bffb9841e0",
+    "size": 9509
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

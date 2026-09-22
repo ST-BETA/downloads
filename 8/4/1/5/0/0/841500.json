@@ -1,0 +1,18 @@
+{
+  "appid": 841500,
+  "files": [
+    {
+      "name": "841500.zip",
+      "sha256": "2704f1f6c25755c18012600a3e82fd971fac993f7ed295ff5739ea9672ef7c95",
+      "size": 71875
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "841500.zip",
+    "sha256": "2704f1f6c25755c18012600a3e82fd971fac993f7ed295ff5739ea9672ef7c95",
+    "size": 71875
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

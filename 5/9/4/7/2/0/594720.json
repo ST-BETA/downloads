@@ -1,0 +1,18 @@
+{
+  "appid": 594720,
+  "files": [
+    {
+      "name": "594720.zip",
+      "sha256": "acff6ea56b24761bde1aa5ca7691c68cecd868058fd1cb26c2072866771950b8",
+      "size": 10346
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "594720.zip",
+    "sha256": "acff6ea56b24761bde1aa5ca7691c68cecd868058fd1cb26c2072866771950b8",
+    "size": 10346
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

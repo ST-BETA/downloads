@@ -1,0 +1,18 @@
+{
+  "appid": 1234810,
+  "files": [
+    {
+      "name": "1234810.zip",
+      "sha256": "8599934fd9de9d4b4a63d8bb9151a5901794bd174a83992d0b210f4a1bfcde8f",
+      "size": 55100
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1234810.zip",
+    "sha256": "8599934fd9de9d4b4a63d8bb9151a5901794bd174a83992d0b210f4a1bfcde8f",
+    "size": 55100
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

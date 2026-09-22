@@ -1,0 +1,18 @@
+{
+  "appid": 310060,
+  "files": [
+    {
+      "name": "310060.zip",
+      "sha256": "d8ae6dba8e6eb7309dde7545d3ee0dadacb06e4ae4e871ebec456b0451831fca",
+      "size": 78378
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "310060.zip",
+    "sha256": "d8ae6dba8e6eb7309dde7545d3ee0dadacb06e4ae4e871ebec456b0451831fca",
+    "size": 78378
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

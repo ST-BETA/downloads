@@ -1,0 +1,18 @@
+{
+  "appid": 803590,
+  "files": [
+    {
+      "name": "803590.zip",
+      "sha256": "df71eb412da92a1d5e5fb9c4b85b832982a037cb47e198928ffb3846ad611def",
+      "size": 33968
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "803590.zip",
+    "sha256": "df71eb412da92a1d5e5fb9c4b85b832982a037cb47e198928ffb3846ad611def",
+    "size": 33968
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

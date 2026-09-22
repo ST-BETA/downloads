@@ -1,0 +1,18 @@
+{
+  "appid": 480,
+  "files": [
+    {
+      "name": "480.zip",
+      "sha256": "ae0f2238a2f421d26c6808c6c9d4e83ec4f0972d12483300ec1e0b9cd8a33bd3",
+      "size": 1411
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "480.zip",
+    "sha256": "ae0f2238a2f421d26c6808c6c9d4e83ec4f0972d12483300ec1e0b9cd8a33bd3",
+    "size": 1411
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

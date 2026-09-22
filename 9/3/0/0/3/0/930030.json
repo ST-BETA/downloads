@@ -1,0 +1,18 @@
+{
+  "appid": 930030,
+  "files": [
+    {
+      "name": "930030.zip",
+      "sha256": "f0386d21de3a8b2c88364932b665bcf862a7fc3b363a352b23df634f26cb7509",
+      "size": 507674
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "930030.zip",
+    "sha256": "f0386d21de3a8b2c88364932b665bcf862a7fc3b363a352b23df634f26cb7509",
+    "size": 507674
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

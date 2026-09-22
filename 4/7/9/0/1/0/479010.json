@@ -1,0 +1,18 @@
+{
+  "appid": 479010,
+  "files": [
+    {
+      "name": "479010.zip",
+      "sha256": "d1aaffffc169e8f18c63f2b81eb2dccf9fc981893a784d917b044c444c958bcf",
+      "size": 183010
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "479010.zip",
+    "sha256": "d1aaffffc169e8f18c63f2b81eb2dccf9fc981893a784d917b044c444c958bcf",
+    "size": 183010
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 460120,
+  "files": [
+    {
+      "name": "460120.zip",
+      "sha256": "9bb94cb7b4b64753136e34325469edb758a08614ad77ee45a98b883f66e6686f",
+      "size": 789994
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "460120.zip",
+    "sha256": "9bb94cb7b4b64753136e34325469edb758a08614ad77ee45a98b883f66e6686f",
+    "size": 789994
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

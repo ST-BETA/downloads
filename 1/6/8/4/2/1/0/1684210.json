@@ -1,0 +1,18 @@
+{
+  "appid": 1684210,
+  "files": [
+    {
+      "name": "1684210.zip",
+      "sha256": "f0bb2d4ad87f034a7b89fd08671f96f64c607f684f65d7680de271cfed6f4263",
+      "size": 168641
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1684210.zip",
+    "sha256": "f0bb2d4ad87f034a7b89fd08671f96f64c607f684f65d7680de271cfed6f4263",
+    "size": 168641
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

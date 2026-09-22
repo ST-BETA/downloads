@@ -1,0 +1,18 @@
+{
+  "appid": 2020030,
+  "files": [
+    {
+      "name": "2020030.zip",
+      "sha256": "3e028076434550ab08195e6d3a94a974de557e30abe0d4a60b832991cae7ca6d",
+      "size": 55789
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2020030.zip",
+    "sha256": "3e028076434550ab08195e6d3a94a974de557e30abe0d4a60b832991cae7ca6d",
+    "size": 55789
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

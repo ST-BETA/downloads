@@ -1,0 +1,18 @@
+{
+  "appid": 795120,
+  "files": [
+    {
+      "name": "795120.zip",
+      "sha256": "fd56abf57777c4151b724fcb7ae31a3ea185e0e3d59973ebd62166cb14e53415",
+      "size": 308212
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "795120.zip",
+    "sha256": "fd56abf57777c4151b724fcb7ae31a3ea185e0e3d59973ebd62166cb14e53415",
+    "size": 308212
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

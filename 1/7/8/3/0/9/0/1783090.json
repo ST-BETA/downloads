@@ -1,0 +1,18 @@
+{
+  "appid": 1783090,
+  "files": [
+    {
+      "name": "1783090.zip",
+      "sha256": "946f8ad01cb2a59b6b73e211355a7b822e4fc043dbac0794eb2db56333400d7f",
+      "size": 65860
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1783090.zip",
+    "sha256": "946f8ad01cb2a59b6b73e211355a7b822e4fc043dbac0794eb2db56333400d7f",
+    "size": 65860
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

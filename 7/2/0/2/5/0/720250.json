@@ -1,0 +1,18 @@
+{
+  "appid": 720250,
+  "files": [
+    {
+      "name": "720250.zip",
+      "sha256": "b78e588778dc8cac2f2155ba11867e459929c5b8904f314b1f676a3771b8afc9",
+      "size": 491585
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "720250.zip",
+    "sha256": "b78e588778dc8cac2f2155ba11867e459929c5b8904f314b1f676a3771b8afc9",
+    "size": 491585
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

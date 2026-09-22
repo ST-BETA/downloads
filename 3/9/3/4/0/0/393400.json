@@ -1,0 +1,18 @@
+{
+  "appid": 393400,
+  "files": [
+    {
+      "name": "393400.zip",
+      "sha256": "2aa37052f455a2181eff2a46da62d89f9a68d5a0b40057ca230c039ae296bb77",
+      "size": 12101
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "393400.zip",
+    "sha256": "2aa37052f455a2181eff2a46da62d89f9a68d5a0b40057ca230c039ae296bb77",
+    "size": 12101
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 407900,
+  "files": [
+    {
+      "name": "407900.zip",
+      "sha256": "a59e90175502297b33c9b01bdb518e04037bb357b54d7cc2335920928d349e77",
+      "size": 2524
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "407900.zip",
+    "sha256": "a59e90175502297b33c9b01bdb518e04037bb357b54d7cc2335920928d349e77",
+    "size": 2524
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

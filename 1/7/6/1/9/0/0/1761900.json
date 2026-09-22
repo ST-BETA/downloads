@@ -1,0 +1,18 @@
+{
+  "appid": 1761900,
+  "files": [
+    {
+      "name": "1761900.zip",
+      "sha256": "ca741bfb2949c09e01de1e9c386da6bd429e962ca250759c2d2610a8cbd15eeb",
+      "size": 359925
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1761900.zip",
+    "sha256": "ca741bfb2949c09e01de1e9c386da6bd429e962ca250759c2d2610a8cbd15eeb",
+    "size": 359925
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

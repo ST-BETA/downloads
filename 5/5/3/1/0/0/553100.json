@@ -1,0 +1,18 @@
+{
+  "appid": 553100,
+  "files": [
+    {
+      "name": "553100.zip",
+      "sha256": "ed7c8bbe873b3abca4577d9dc32e60f564bdfe9a4c4b54b7dde1309bacefd1dc",
+      "size": 430726
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "553100.zip",
+    "sha256": "ed7c8bbe873b3abca4577d9dc32e60f564bdfe9a4c4b54b7dde1309bacefd1dc",
+    "size": 430726
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

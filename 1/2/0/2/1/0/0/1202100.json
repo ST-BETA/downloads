@@ -1,0 +1,18 @@
+{
+  "appid": 1202100,
+  "files": [
+    {
+      "name": "1202100.zip",
+      "sha256": "455fb1ad0c3f707d82d562db2a722302a6f3cdf088cc5e63de9c1ad57ff539ef",
+      "size": 196835
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1202100.zip",
+    "sha256": "455fb1ad0c3f707d82d562db2a722302a6f3cdf088cc5e63de9c1ad57ff539ef",
+    "size": 196835
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

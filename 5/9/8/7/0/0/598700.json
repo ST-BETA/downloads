@@ -1,0 +1,18 @@
+{
+  "appid": 598700,
+  "files": [
+    {
+      "name": "598700.zip",
+      "sha256": "fb24485500e9a1d8c33305d7309f03294f79ea7d17c30a3b700395bf118284e7",
+      "size": 170568
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "598700.zip",
+    "sha256": "fb24485500e9a1d8c33305d7309f03294f79ea7d17c30a3b700395bf118284e7",
+    "size": 170568
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

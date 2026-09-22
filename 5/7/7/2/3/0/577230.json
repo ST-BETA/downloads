@@ -1,0 +1,18 @@
+{
+  "appid": 577230,
+  "files": [
+    {
+      "name": "577230.zip",
+      "sha256": "cd0c8f60427ce898abcb68ca5834f9c2251852585e0788bb611eab3ca9a186ba",
+      "size": 10131769
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "577230.zip",
+    "sha256": "cd0c8f60427ce898abcb68ca5834f9c2251852585e0788bb611eab3ca9a186ba",
+    "size": 10131769
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

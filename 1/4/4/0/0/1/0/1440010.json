@@ -1,0 +1,18 @@
+{
+  "appid": 1440010,
+  "files": [
+    {
+      "name": "1440010.zip",
+      "sha256": "c55902a490cda48aba1e2bc9653ad64b6f45f064b810db2f33718e9ecd5cc99c",
+      "size": 357512
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1440010.zip",
+    "sha256": "c55902a490cda48aba1e2bc9653ad64b6f45f064b810db2f33718e9ecd5cc99c",
+    "size": 357512
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 3210500,
+  "files": [
+    {
+      "name": "3210500.zip",
+      "sha256": "33d13974cee5c518ac0d882c54e355ebd98c43fdd3651e9c35a84e1a346b00d1",
+      "size": 56115
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3210500.zip",
+    "sha256": "33d13974cee5c518ac0d882c54e355ebd98c43fdd3651e9c35a84e1a346b00d1",
+    "size": 56115
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

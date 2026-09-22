@@ -1,0 +1,18 @@
+{
+  "appid": 864500,
+  "files": [
+    {
+      "name": "864500.zip",
+      "sha256": "c7ddd19f401054dbd56e95552e01acfc8d815e6ce2d325a12c89200868ab40e6",
+      "size": 21004
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "864500.zip",
+    "sha256": "c7ddd19f401054dbd56e95552e01acfc8d815e6ce2d325a12c89200868ab40e6",
+    "size": 21004
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

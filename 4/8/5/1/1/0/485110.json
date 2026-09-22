@@ -1,0 +1,18 @@
+{
+  "appid": 485110,
+  "files": [
+    {
+      "name": "485110.zip",
+      "sha256": "8f3281f315eb0406cfdbf65de33668a036384c2a1dece73c114c08a18100c840",
+      "size": 140546
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "485110.zip",
+    "sha256": "8f3281f315eb0406cfdbf65de33668a036384c2a1dece73c114c08a18100c840",
+    "size": 140546
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

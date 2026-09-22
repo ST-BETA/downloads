@@ -1,0 +1,18 @@
+{
+  "appid": 321980,
+  "files": [
+    {
+      "name": "321980.zip",
+      "sha256": "d372cb45cf6af83b98d7d6213a94b820c6fa1d5519d8e4ed355cf78140d8ee70",
+      "size": 871593
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "321980.zip",
+    "sha256": "d372cb45cf6af83b98d7d6213a94b820c6fa1d5519d8e4ed355cf78140d8ee70",
+    "size": 871593
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

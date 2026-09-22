@@ -1,0 +1,18 @@
+{
+  "appid": 465180,
+  "files": [
+    {
+      "name": "465180.zip",
+      "sha256": "af90e794446169642a9dbde70d0bed53bf8e815e0c87fac50328ca0b3fe74f1b",
+      "size": 243017
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "465180.zip",
+    "sha256": "af90e794446169642a9dbde70d0bed53bf8e815e0c87fac50328ca0b3fe74f1b",
+    "size": 243017
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

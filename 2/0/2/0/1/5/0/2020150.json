@@ -1,0 +1,18 @@
+{
+  "appid": 2020150,
+  "files": [
+    {
+      "name": "2020150.zip",
+      "sha256": "543900d6bf3dbd1633ebed2d40005229722b95974b874bdbe77b1c73966259f0",
+      "size": 110171
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2020150.zip",
+    "sha256": "543900d6bf3dbd1633ebed2d40005229722b95974b874bdbe77b1c73966259f0",
+    "size": 110171
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

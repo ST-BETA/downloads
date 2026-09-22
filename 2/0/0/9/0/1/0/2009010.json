@@ -1,0 +1,18 @@
+{
+  "appid": 2009010,
+  "files": [
+    {
+      "name": "2009010.zip",
+      "sha256": "4456dc7390f119beeb5bdff9f70b2850372d7adef78699172341f2d40b492efe",
+      "size": 383065
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2009010.zip",
+    "sha256": "4456dc7390f119beeb5bdff9f70b2850372d7adef78699172341f2d40b492efe",
+    "size": 383065
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 559150,
+  "files": [
+    {
+      "name": "559150.zip",
+      "sha256": "363bc484881edb9d9c38958ccb03f249ab7a9e0af18ea86771263f483f52fec9",
+      "size": 656640
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "559150.zip",
+    "sha256": "363bc484881edb9d9c38958ccb03f249ab7a9e0af18ea86771263f483f52fec9",
+    "size": 656640
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

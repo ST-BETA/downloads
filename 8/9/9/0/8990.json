@@ -1,0 +1,18 @@
+{
+  "appid": 8990,
+  "files": [
+    {
+      "name": "8990.zip",
+      "sha256": "bba64ea6b95c40da25e744869466615598b6e0c90355064b8795cef6d09a28d4",
+      "size": 89519
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "8990.zip",
+    "sha256": "bba64ea6b95c40da25e744869466615598b6e0c90355064b8795cef6d09a28d4",
+    "size": 89519
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

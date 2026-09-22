@@ -1,0 +1,18 @@
+{
+  "appid": 4000090,
+  "files": [
+    {
+      "name": "4000090.zip",
+      "sha256": "3da941553ae4409eab7f8b3c10ea2bb69cd0b7c24a2b50ac8c9fc48491662e9d",
+      "size": 30594
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4000090.zip",
+    "sha256": "3da941553ae4409eab7f8b3c10ea2bb69cd0b7c24a2b50ac8c9fc48491662e9d",
+    "size": 30594
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

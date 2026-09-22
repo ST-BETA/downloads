@@ -1,0 +1,18 @@
+{
+  "appid": 2216700,
+  "files": [
+    {
+      "name": "2216700.zip",
+      "sha256": "649ccf6c5847e804e978866a0a509ceced47e979a7a8785dbfd364f2db0f75d8",
+      "size": 70229
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2216700.zip",
+    "sha256": "649ccf6c5847e804e978866a0a509ceced47e979a7a8785dbfd364f2db0f75d8",
+    "size": 70229
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

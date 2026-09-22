@@ -1,0 +1,18 @@
+{
+  "appid": 3000020,
+  "files": [
+    {
+      "name": "3000020.zip",
+      "sha256": "32439ca8e47ae8c91072468ce48e0940dec1e811e4039a4afa68ca1ac840ba80",
+      "size": 26831
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3000020.zip",
+    "sha256": "32439ca8e47ae8c91072468ce48e0940dec1e811e4039a4afa68ca1ac840ba80",
+    "size": 26831
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

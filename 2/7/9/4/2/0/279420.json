@@ -1,0 +1,18 @@
+{
+  "appid": 279420,
+  "files": [
+    {
+      "name": "279420.zip",
+      "sha256": "4ae6dccbbccdeecd82415a0e307b92ffa7893a734584b49be0eac49060676f49",
+      "size": 883651
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "279420.zip",
+    "sha256": "4ae6dccbbccdeecd82415a0e307b92ffa7893a734584b49be0eac49060676f49",
+    "size": 883651
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 702360,
+  "files": [
+    {
+      "name": "702360.zip",
+      "sha256": "670dcc40d5fe2b67727c98baa977bcdd0bd9c2af6b3ada24301f1630af06c2cf",
+      "size": 158333
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "702360.zip",
+    "sha256": "670dcc40d5fe2b67727c98baa977bcdd0bd9c2af6b3ada24301f1630af06c2cf",
+    "size": 158333
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 385100,
+  "files": [
+    {
+      "name": "385100.zip",
+      "sha256": "696a70a217188879821b1b572255dc602f2a816ef520dfb225b79ac077b1b591",
+      "size": 63630
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "385100.zip",
+    "sha256": "696a70a217188879821b1b572255dc602f2a816ef520dfb225b79ac077b1b591",
+    "size": 63630
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

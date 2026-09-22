@@ -1,0 +1,18 @@
+{
+  "appid": 546700,
+  "files": [
+    {
+      "name": "546700.zip",
+      "sha256": "ef8422de14ed87a07c87dd46f6e39519e778255059c6abda036b8340448fb970",
+      "size": 1063382
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "546700.zip",
+    "sha256": "ef8422de14ed87a07c87dd46f6e39519e778255059c6abda036b8340448fb970",
+    "size": 1063382
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

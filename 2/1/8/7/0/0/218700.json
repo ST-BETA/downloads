@@ -1,0 +1,18 @@
+{
+  "appid": 218700,
+  "files": [
+    {
+      "name": "218700.zip",
+      "sha256": "4069bac20a051bdfb550ffbe74ac2c76354d4d3bfcc043e626e80409d20a728a",
+      "size": 54798
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "218700.zip",
+    "sha256": "4069bac20a051bdfb550ffbe74ac2c76354d4d3bfcc043e626e80409d20a728a",
+    "size": 54798
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

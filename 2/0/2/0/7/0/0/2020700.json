@@ -1,0 +1,18 @@
+{
+  "appid": 2020700,
+  "files": [
+    {
+      "name": "2020700.zip",
+      "sha256": "9790b89955ed643f130ee9e54d222e746cf7a9e2a8e98e1990a370d4c9a7b1d1",
+      "size": 36245
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2020700.zip",
+    "sha256": "9790b89955ed643f130ee9e54d222e746cf7a9e2a8e98e1990a370d4c9a7b1d1",
+    "size": 36245
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

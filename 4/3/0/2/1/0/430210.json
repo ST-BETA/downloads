@@ -1,0 +1,18 @@
+{
+  "appid": 430210,
+  "files": [
+    {
+      "name": "430210.zip",
+      "sha256": "6ab23b5665c6fa77673b2a684948661fc21e6e1baa016d15916b9cfeee508610",
+      "size": 39046
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "430210.zip",
+    "sha256": "6ab23b5665c6fa77673b2a684948661fc21e6e1baa016d15916b9cfeee508610",
+    "size": 39046
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

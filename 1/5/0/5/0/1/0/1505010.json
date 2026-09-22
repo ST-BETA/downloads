@@ -1,0 +1,18 @@
+{
+  "appid": 1505010,
+  "files": [
+    {
+      "name": "1505010.zip",
+      "sha256": "3969067a856f54812a8f6cf161f9a83a255e8eb543e9a410f7e844da9893d008",
+      "size": 55758
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1505010.zip",
+    "sha256": "3969067a856f54812a8f6cf161f9a83a255e8eb543e9a410f7e844da9893d008",
+    "size": 55758
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

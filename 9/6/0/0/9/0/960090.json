@@ -1,0 +1,18 @@
+{
+  "appid": 960090,
+  "files": [
+    {
+      "name": "960090.zip",
+      "sha256": "7af03c681b2070014ed988e75d40c69b2a8a327d9d0aafcd8341f067fcc99bf7",
+      "size": 359320
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "960090.zip",
+    "sha256": "7af03c681b2070014ed988e75d40c69b2a8a327d9d0aafcd8341f067fcc99bf7",
+    "size": 359320
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

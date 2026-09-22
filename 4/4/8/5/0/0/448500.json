@@ -1,0 +1,18 @@
+{
+  "appid": 448500,
+  "files": [
+    {
+      "name": "448500.zip",
+      "sha256": "444ee38ed993afb88e40d42f7e9b45e9483726a75ba4655c0ab13ed959155252",
+      "size": 3856
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "448500.zip",
+    "sha256": "444ee38ed993afb88e40d42f7e9b45e9483726a75ba4655c0ab13ed959155252",
+    "size": 3856
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

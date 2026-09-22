@@ -1,0 +1,18 @@
+{
+  "appid": 4102700,
+  "files": [
+    {
+      "name": "4102700.zip",
+      "sha256": "96fc05b95823c0fbbcd9829976dfd7bdb4aa0386b845b3e45895c8c386b713d1",
+      "size": 25396
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4102700.zip",
+    "sha256": "96fc05b95823c0fbbcd9829976dfd7bdb4aa0386b845b3e45895c8c386b713d1",
+    "size": 25396
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

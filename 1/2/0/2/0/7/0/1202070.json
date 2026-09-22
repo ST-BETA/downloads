@@ -1,0 +1,18 @@
+{
+  "appid": 1202070,
+  "files": [
+    {
+      "name": "1202070.zip",
+      "sha256": "56bf3019ef077c683658066d35a308851281195773e68b0f92970e39f6529965",
+      "size": 4001
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1202070.zip",
+    "sha256": "56bf3019ef077c683658066d35a308851281195773e68b0f92970e39f6529965",
+    "size": 4001
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

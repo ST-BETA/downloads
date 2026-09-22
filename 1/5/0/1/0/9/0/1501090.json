@@ -1,0 +1,18 @@
+{
+  "appid": 1501090,
+  "files": [
+    {
+      "name": "1501090.zip",
+      "sha256": "7c0d7a4fbe30e818c634954995a6be3cf03975a7045d5096bc504766bf67ec5c",
+      "size": 36144
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1501090.zip",
+    "sha256": "7c0d7a4fbe30e818c634954995a6be3cf03975a7045d5096bc504766bf67ec5c",
+    "size": 36144
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

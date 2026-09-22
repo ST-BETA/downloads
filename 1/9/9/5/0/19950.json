@@ -1,0 +1,18 @@
+{
+  "appid": 19950,
+  "files": [
+    {
+      "name": "19950.zip",
+      "sha256": "84cd4809ece546d80268a900065162e3887eaa4fc4f979f1b9edb4d5b2d1d321",
+      "size": 253889
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "19950.zip",
+    "sha256": "84cd4809ece546d80268a900065162e3887eaa4fc4f979f1b9edb4d5b2d1d321",
+    "size": 253889
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

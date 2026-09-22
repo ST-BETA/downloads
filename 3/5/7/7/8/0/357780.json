@@ -1,0 +1,18 @@
+{
+  "appid": 357780,
+  "files": [
+    {
+      "name": "357780.zip",
+      "sha256": "01a4198e9b112e5cdbe0b2df3355f38a0a7157d4bb0f4f0c5d3c64f5e5f03eac",
+      "size": 105824
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "357780.zip",
+    "sha256": "01a4198e9b112e5cdbe0b2df3355f38a0a7157d4bb0f4f0c5d3c64f5e5f03eac",
+    "size": 105824
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

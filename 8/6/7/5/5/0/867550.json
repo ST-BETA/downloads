@@ -1,0 +1,18 @@
+{
+  "appid": 867550,
+  "files": [
+    {
+      "name": "867550.zip",
+      "sha256": "30893e77abc46a1d83cb42cb6ce22bf09561426fe5e7ba3a0ea3a530d610fc02",
+      "size": 25216
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "867550.zip",
+    "sha256": "30893e77abc46a1d83cb42cb6ce22bf09561426fe5e7ba3a0ea3a530d610fc02",
+    "size": 25216
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

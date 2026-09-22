@@ -1,0 +1,18 @@
+{
+  "appid": 1337170,
+  "files": [
+    {
+      "name": "1337170.zip",
+      "sha256": "d1f5cbe96e6056404f387f0615567baf10c148f778cedb6102fe2b4b81fcf8b4",
+      "size": 107715
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1337170.zip",
+    "sha256": "d1f5cbe96e6056404f387f0615567baf10c148f778cedb6102fe2b4b81fcf8b4",
+    "size": 107715
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

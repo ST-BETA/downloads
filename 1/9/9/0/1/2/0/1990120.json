@@ -1,0 +1,18 @@
+{
+  "appid": 1990120,
+  "files": [
+    {
+      "name": "1990120.zip",
+      "sha256": "4b5dbdc1ede5ff3c690348e93fe5e701fa3a35ba7e7ba41b32156297e11306ad",
+      "size": 49372
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1990120.zip",
+    "sha256": "4b5dbdc1ede5ff3c690348e93fe5e701fa3a35ba7e7ba41b32156297e11306ad",
+    "size": 49372
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

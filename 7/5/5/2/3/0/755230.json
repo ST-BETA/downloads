@@ -1,0 +1,18 @@
+{
+  "appid": 755230,
+  "files": [
+    {
+      "name": "755230.zip",
+      "sha256": "c2e49c6cae901b3ff836b3914ea8ac987b3462245db934dd2ec60fa71e63a788",
+      "size": 8295
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "755230.zip",
+    "sha256": "c2e49c6cae901b3ff836b3914ea8ac987b3462245db934dd2ec60fa71e63a788",
+    "size": 8295
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

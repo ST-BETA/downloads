@@ -1,0 +1,18 @@
+{
+  "appid": 2013480,
+  "files": [
+    {
+      "name": "2013480.zip",
+      "sha256": "2cb9c034f9a5b987fed2deb44f7bf18486d1ccf472476c62a15780521a958449",
+      "size": 7420
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2013480.zip",
+    "sha256": "2cb9c034f9a5b987fed2deb44f7bf18486d1ccf472476c62a15780521a958449",
+    "size": 7420
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

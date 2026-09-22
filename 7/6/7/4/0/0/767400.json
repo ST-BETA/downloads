@@ -1,0 +1,18 @@
+{
+  "appid": 767400,
+  "files": [
+    {
+      "name": "767400.zip",
+      "sha256": "a52b3484aca112ec80575a170b14b5ea4aa340f79dc730ce6381d28a93fd74d4",
+      "size": 35916
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "767400.zip",
+    "sha256": "a52b3484aca112ec80575a170b14b5ea4aa340f79dc730ce6381d28a93fd74d4",
+    "size": 35916
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

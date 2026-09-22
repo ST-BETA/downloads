@@ -1,0 +1,18 @@
+{
+  "appid": 321150,
+  "files": [
+    {
+      "name": "321150.zip",
+      "sha256": "f1c45d8dca6abcc98913d7afef8536a115e79819979cdf173b5d7500ac1a7743",
+      "size": 353530
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "321150.zip",
+    "sha256": "f1c45d8dca6abcc98913d7afef8536a115e79819979cdf173b5d7500ac1a7743",
+    "size": 353530
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

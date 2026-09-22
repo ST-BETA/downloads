@@ -1,0 +1,18 @@
+{
+  "appid": 736200,
+  "files": [
+    {
+      "name": "736200.zip",
+      "sha256": "db8c43c25458c4a14d2b1e4d7f68eb2d6003fc68805a5e6e598cd95862144c01",
+      "size": 21445
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "736200.zip",
+    "sha256": "db8c43c25458c4a14d2b1e4d7f68eb2d6003fc68805a5e6e598cd95862144c01",
+    "size": 21445
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 501060,
+  "files": [
+    {
+      "name": "501060.zip",
+      "sha256": "f9c619ca0ecd35adacad9367fc9b66101e54f1aa00979ca0baa7d173cb07b99e",
+      "size": 174868
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "501060.zip",
+    "sha256": "f9c619ca0ecd35adacad9367fc9b66101e54f1aa00979ca0baa7d173cb07b99e",
+    "size": 174868
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

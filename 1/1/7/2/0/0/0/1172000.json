@@ -1,0 +1,18 @@
+{
+  "appid": 1172000,
+  "files": [
+    {
+      "name": "1172000.zip",
+      "sha256": "33c2c5f6a4643c94f2f889227e2e1eb84b08318d6ce67275773aab47462ec42b",
+      "size": 30606
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1172000.zip",
+    "sha256": "33c2c5f6a4643c94f2f889227e2e1eb84b08318d6ce67275773aab47462ec42b",
+    "size": 30606
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

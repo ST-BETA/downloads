@@ -1,0 +1,18 @@
+{
+  "appid": 2019600,
+  "files": [
+    {
+      "name": "2019600.zip",
+      "sha256": "5997408ad79ddb41fce8ab810b982bbe26de2acec991ab63128b3df65be0a00b",
+      "size": 94522
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2019600.zip",
+    "sha256": "5997408ad79ddb41fce8ab810b982bbe26de2acec991ab63128b3df65be0a00b",
+    "size": 94522
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

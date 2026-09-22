@@ -1,0 +1,18 @@
+{
+  "appid": 107400,
+  "files": [
+    {
+      "name": "107400.zip",
+      "sha256": "914c27cff6ca64ebd5981a4486b287ce58512ef0a23740d3dc57f72e0f09f216",
+      "size": 136505
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "107400.zip",
+    "sha256": "914c27cff6ca64ebd5981a4486b287ce58512ef0a23740d3dc57f72e0f09f216",
+    "size": 136505
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

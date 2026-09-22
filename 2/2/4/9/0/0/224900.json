@@ -1,0 +1,18 @@
+{
+  "appid": 224900,
+  "files": [
+    {
+      "name": "224900.zip",
+      "sha256": "317b44f3790053580af80840ee00a62f2a8cfb3f3330b4e5cca7e878e0a670e0",
+      "size": 2137709
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "224900.zip",
+    "sha256": "317b44f3790053580af80840ee00a62f2a8cfb3f3330b4e5cca7e878e0a670e0",
+    "size": 2137709
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

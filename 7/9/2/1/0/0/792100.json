@@ -1,0 +1,18 @@
+{
+  "appid": 792100,
+  "files": [
+    {
+      "name": "792100.zip",
+      "sha256": "1efe0e80d01d1d9ba8de5d2d2f5687749dbbb201fdbe17e917af7f9289ac94cc",
+      "size": 50840
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "792100.zip",
+    "sha256": "1efe0e80d01d1d9ba8de5d2d2f5687749dbbb201fdbe17e917af7f9289ac94cc",
+    "size": 50840
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

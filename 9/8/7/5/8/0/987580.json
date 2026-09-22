@@ -1,0 +1,18 @@
+{
+  "appid": 987580,
+  "files": [
+    {
+      "name": "987580.zip",
+      "sha256": "170e862944d9ebf63813f96990ea1bf5e557fcdd4457a1ee085dbd690237db9e",
+      "size": 17736
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "987580.zip",
+    "sha256": "170e862944d9ebf63813f96990ea1bf5e557fcdd4457a1ee085dbd690237db9e",
+    "size": 17736
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

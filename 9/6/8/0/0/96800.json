@@ -1,0 +1,18 @@
+{
+  "appid": 96800,
+  "files": [
+    {
+      "name": "96800.zip",
+      "sha256": "0ae0ebdbec93532adf214b3cada6cef17dd7083d312eac9be412f59bbea0be2d",
+      "size": 175764
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "96800.zip",
+    "sha256": "0ae0ebdbec93532adf214b3cada6cef17dd7083d312eac9be412f59bbea0be2d",
+    "size": 175764
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

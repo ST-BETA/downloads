@@ -1,0 +1,18 @@
+{
+  "appid": 380150,
+  "files": [
+    {
+      "name": "380150.zip",
+      "sha256": "2d3cf8085abdad09cb1a3de2190b604831fd0b942af9f6f0b7bf9f4bc1f1a60b",
+      "size": 446361
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "380150.zip",
+    "sha256": "2d3cf8085abdad09cb1a3de2190b604831fd0b942af9f6f0b7bf9f4bc1f1a60b",
+    "size": 446361
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

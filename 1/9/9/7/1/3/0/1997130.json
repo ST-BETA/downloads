@@ -1,0 +1,18 @@
+{
+  "appid": 1997130,
+  "files": [
+    {
+      "name": "1997130.zip",
+      "sha256": "ff12b7aaf12d0eccd9c52fa5fff83351f99f45249176057ed05150f92efca340",
+      "size": 767465
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1997130.zip",
+    "sha256": "ff12b7aaf12d0eccd9c52fa5fff83351f99f45249176057ed05150f92efca340",
+    "size": 767465
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

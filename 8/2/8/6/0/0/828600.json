@@ -1,0 +1,18 @@
+{
+  "appid": 828600,
+  "files": [
+    {
+      "name": "828600.zip",
+      "sha256": "1939af60cbebca5f549c6ddf743124ad220c4871436df8528d28fc59b22ae56a",
+      "size": 39289
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "828600.zip",
+    "sha256": "1939af60cbebca5f549c6ddf743124ad220c4871436df8528d28fc59b22ae56a",
+    "size": 39289
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

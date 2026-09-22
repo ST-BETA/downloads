@@ -1,0 +1,18 @@
+{
+  "appid": 2016460,
+  "files": [
+    {
+      "name": "2016460.zip",
+      "sha256": "9c31c8cf045bb735838c145782c5705b5d2c0903912aabebfea111369ac78401",
+      "size": 364284
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2016460.zip",
+    "sha256": "9c31c8cf045bb735838c145782c5705b5d2c0903912aabebfea111369ac78401",
+    "size": 364284
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

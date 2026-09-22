@@ -1,0 +1,18 @@
+{
+  "appid": 587400,
+  "files": [
+    {
+      "name": "587400.zip",
+      "sha256": "d153ed8ab83d8f339877f2dea191ea63c61209522d0075d9cf9a5e6a359593ba",
+      "size": 90350
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "587400.zip",
+    "sha256": "d153ed8ab83d8f339877f2dea191ea63c61209522d0075d9cf9a5e6a359593ba",
+    "size": 90350
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

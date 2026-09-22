@@ -1,0 +1,18 @@
+{
+  "appid": 787100,
+  "files": [
+    {
+      "name": "787100.zip",
+      "sha256": "40fe377616c3873dc3ecd9b4c395f2d1c65cbca443079e2e4b592149cd4ca8ee",
+      "size": 51315
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "787100.zip",
+    "sha256": "40fe377616c3873dc3ecd9b4c395f2d1c65cbca443079e2e4b592149cd4ca8ee",
+    "size": 51315
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

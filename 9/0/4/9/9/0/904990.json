@@ -1,0 +1,18 @@
+{
+  "appid": 904990,
+  "files": [
+    {
+      "name": "904990.zip",
+      "sha256": "1e02563bd395f7a15e4348f150d7eed1da61741292d277ffff6cb9d37d6f41cd",
+      "size": 607341
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "904990.zip",
+    "sha256": "1e02563bd395f7a15e4348f150d7eed1da61741292d277ffff6cb9d37d6f41cd",
+    "size": 607341
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

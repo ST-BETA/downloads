@@ -1,0 +1,18 @@
+{
+  "appid": 434230,
+  "files": [
+    {
+      "name": "434230.zip",
+      "sha256": "22731aab1261ed0346c3f7b8c928965dc035c275ab496baadcc6f37fdd0dc157",
+      "size": 53523
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "434230.zip",
+    "sha256": "22731aab1261ed0346c3f7b8c928965dc035c275ab496baadcc6f37fdd0dc157",
+    "size": 53523
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

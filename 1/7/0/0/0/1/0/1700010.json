@@ -1,0 +1,18 @@
+{
+  "appid": 1700010,
+  "files": [
+    {
+      "name": "1700010.zip",
+      "sha256": "d8727677d9b63e8c8a6338d4afdaaa5b7f10df7338c95ef447b331a117207eb3",
+      "size": 131963
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1700010.zip",
+    "sha256": "d8727677d9b63e8c8a6338d4afdaaa5b7f10df7338c95ef447b331a117207eb3",
+    "size": 131963
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

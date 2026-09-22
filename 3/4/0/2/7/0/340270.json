@@ -1,0 +1,18 @@
+{
+  "appid": 340270,
+  "files": [
+    {
+      "name": "340270.zip",
+      "sha256": "cfb17bb0d450bbb03473fc48f3fa9eae3fb184f64687ca9cc07677fedb8c31e0",
+      "size": 129028
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "340270.zip",
+    "sha256": "cfb17bb0d450bbb03473fc48f3fa9eae3fb184f64687ca9cc07677fedb8c31e0",
+    "size": 129028
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

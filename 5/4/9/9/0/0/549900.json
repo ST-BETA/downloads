@@ -1,0 +1,18 @@
+{
+  "appid": 549900,
+  "files": [
+    {
+      "name": "549900.zip",
+      "sha256": "29b7524e2f3bff34cb2aedd27c49f106c932294d0940458f714cdf737a86e8f0",
+      "size": 9091
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "549900.zip",
+    "sha256": "29b7524e2f3bff34cb2aedd27c49f106c932294d0940458f714cdf737a86e8f0",
+    "size": 9091
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

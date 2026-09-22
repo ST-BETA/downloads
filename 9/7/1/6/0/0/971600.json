@@ -1,0 +1,18 @@
+{
+  "appid": 971600,
+  "files": [
+    {
+      "name": "971600.zip",
+      "sha256": "c8e5e0e7932ba52da8b174d3cd5eec62efaa15cad662c7e2f0b51f33103e750d",
+      "size": 16995
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "971600.zip",
+    "sha256": "c8e5e0e7932ba52da8b174d3cd5eec62efaa15cad662c7e2f0b51f33103e750d",
+    "size": 16995
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

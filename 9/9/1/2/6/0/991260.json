@@ -1,0 +1,18 @@
+{
+  "appid": 991260,
+  "files": [
+    {
+      "name": "991260.zip",
+      "sha256": "242cabcada2dc018f373fb0ea70293d7c3fa7d1b490032cd54fb9fb34a3c2480",
+      "size": 3505510
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "991260.zip",
+    "sha256": "242cabcada2dc018f373fb0ea70293d7c3fa7d1b490032cd54fb9fb34a3c2480",
+    "size": 3505510
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

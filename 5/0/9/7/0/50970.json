@@ -1,0 +1,18 @@
+{
+  "appid": 50970,
+  "files": [
+    {
+      "name": "50970.zip",
+      "sha256": "cc0a4bfe41c1271402ce5462e012add9b67690fb73621af3108e7da766d6f34d",
+      "size": 12245
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "50970.zip",
+    "sha256": "cc0a4bfe41c1271402ce5462e012add9b67690fb73621af3108e7da766d6f34d",
+    "size": 12245
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

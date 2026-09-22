@@ -1,0 +1,18 @@
+{
+  "appid": 571550,
+  "files": [
+    {
+      "name": "571550.zip",
+      "sha256": "deb496cd27c974cd4fbac28f98433e68ad09430feb39ace9f1f66c76552b6e86",
+      "size": 70068
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "571550.zip",
+    "sha256": "deb496cd27c974cd4fbac28f98433e68ad09430feb39ace9f1f66c76552b6e86",
+    "size": 70068
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 222750,
+  "files": [
+    {
+      "name": "222750.zip",
+      "sha256": "4601c61b8e3c4bfe5d7d33510de31e9866f58c2c23c6950508e656e025723870",
+      "size": 1242459
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "222750.zip",
+    "sha256": "4601c61b8e3c4bfe5d7d33510de31e9866f58c2c23c6950508e656e025723870",
+    "size": 1242459
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

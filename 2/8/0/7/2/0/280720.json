@@ -1,0 +1,18 @@
+{
+  "appid": 280720,
+  "files": [
+    {
+      "name": "280720.zip",
+      "sha256": "60e93b8f1112b0693bcce5b3027c3944cf4a877aae47ef38b80b8df76932b859",
+      "size": 396698
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "280720.zip",
+    "sha256": "60e93b8f1112b0693bcce5b3027c3944cf4a877aae47ef38b80b8df76932b859",
+    "size": 396698
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

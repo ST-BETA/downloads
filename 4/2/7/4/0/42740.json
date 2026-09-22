@@ -1,0 +1,18 @@
+{
+  "appid": 42740,
+  "files": [
+    {
+      "name": "42740.zip",
+      "sha256": "0e3e7cbbe540960bd2dedf7864fd818173e2dd0e4db79ed607dbf3520abc77d6",
+      "size": 23766742
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "42740.zip",
+    "sha256": "0e3e7cbbe540960bd2dedf7864fd818173e2dd0e4db79ed607dbf3520abc77d6",
+    "size": 23766742
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

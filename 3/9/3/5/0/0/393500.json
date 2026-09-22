@@ -1,0 +1,18 @@
+{
+  "appid": 393500,
+  "files": [
+    {
+      "name": "393500.zip",
+      "sha256": "414810a73201d2fafb3541f8f3817da1bb9e3c87cf1f626c9d7be1d77a61fd11",
+      "size": 33060
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "393500.zip",
+    "sha256": "414810a73201d2fafb3541f8f3817da1bb9e3c87cf1f626c9d7be1d77a61fd11",
+    "size": 33060
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

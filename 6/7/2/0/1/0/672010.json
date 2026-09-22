@@ -1,0 +1,18 @@
+{
+  "appid": 672010,
+  "files": [
+    {
+      "name": "672010.zip",
+      "sha256": "dd7253e48e57dcdb793a50b22895634099a782ceaabb7795df3013bf0d89a8fb",
+      "size": 44035
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "672010.zip",
+    "sha256": "dd7253e48e57dcdb793a50b22895634099a782ceaabb7795df3013bf0d89a8fb",
+    "size": 44035
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

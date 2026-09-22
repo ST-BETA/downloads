@@ -1,0 +1,18 @@
+{
+  "appid": 737890,
+  "files": [
+    {
+      "name": "737890.zip",
+      "sha256": "ad20b26c11f05b6c008b7a64568f9d87fd30a292dd28c3c3e087c4d4e6bcdce1",
+      "size": 58953
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "737890.zip",
+    "sha256": "ad20b26c11f05b6c008b7a64568f9d87fd30a292dd28c3c3e087c4d4e6bcdce1",
+    "size": 58953
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

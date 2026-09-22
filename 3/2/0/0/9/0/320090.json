@@ -1,0 +1,18 @@
+{
+  "appid": 320090,
+  "files": [
+    {
+      "name": "320090.zip",
+      "sha256": "7d892bc66822e2df1d45b7314b563e5a1276877ad78447915fcc84545a2b4c06",
+      "size": 373785
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "320090.zip",
+    "sha256": "7d892bc66822e2df1d45b7314b563e5a1276877ad78447915fcc84545a2b4c06",
+    "size": 373785
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

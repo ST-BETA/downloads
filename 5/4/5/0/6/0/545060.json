@@ -1,0 +1,18 @@
+{
+  "appid": 545060,
+  "files": [
+    {
+      "name": "545060.zip",
+      "sha256": "545ead9234307f42403bd480ec58e6a2ff55d5c716432d362d292eda59e1fe58",
+      "size": 351316
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "545060.zip",
+    "sha256": "545ead9234307f42403bd480ec58e6a2ff55d5c716432d362d292eda59e1fe58",
+    "size": 351316
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

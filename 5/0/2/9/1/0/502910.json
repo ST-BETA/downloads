@@ -1,0 +1,18 @@
+{
+  "appid": 502910,
+  "files": [
+    {
+      "name": "502910.zip",
+      "sha256": "320467dc164a3c09723ec86abaf1e712c6e306a8d827c6da9c3934d9d671f407",
+      "size": 171043
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "502910.zip",
+    "sha256": "320467dc164a3c09723ec86abaf1e712c6e306a8d827c6da9c3934d9d671f407",
+    "size": 171043
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

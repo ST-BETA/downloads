@@ -1,0 +1,18 @@
+{
+  "appid": 464100,
+  "files": [
+    {
+      "name": "464100.zip",
+      "sha256": "6467496852048566b149925b66dcdb4092f8df0579064be959354b84502fee7c",
+      "size": 282799
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "464100.zip",
+    "sha256": "6467496852048566b149925b66dcdb4092f8df0579064be959354b84502fee7c",
+    "size": 282799
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

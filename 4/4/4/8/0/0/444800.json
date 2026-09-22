@@ -1,0 +1,18 @@
+{
+  "appid": 444800,
+  "files": [
+    {
+      "name": "444800.zip",
+      "sha256": "cbc54dc1f5986f47f7a9356b0c9fa17bcbb63a13072c01bfc770930fd07dc959",
+      "size": 139787
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "444800.zip",
+    "sha256": "cbc54dc1f5986f47f7a9356b0c9fa17bcbb63a13072c01bfc770930fd07dc959",
+    "size": 139787
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

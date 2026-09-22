@@ -1,0 +1,18 @@
+{
+  "appid": 1064200,
+  "files": [
+    {
+      "name": "1064200.zip",
+      "sha256": "78be0dfea0d79847301ee85747009d99d549c617a89217aeec8d85a36042ea9b",
+      "size": 27939
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1064200.zip",
+    "sha256": "78be0dfea0d79847301ee85747009d99d549c617a89217aeec8d85a36042ea9b",
+    "size": 27939
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

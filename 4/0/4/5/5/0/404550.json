@@ -1,0 +1,18 @@
+{
+  "appid": 404550,
+  "files": [
+    {
+      "name": "404550.zip",
+      "sha256": "09ad002fa55d58da55f6f4372ec5d5221f607b18dfe6815e298555109a9c7f05",
+      "size": 62713
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "404550.zip",
+    "sha256": "09ad002fa55d58da55f6f4372ec5d5221f607b18dfe6815e298555109a9c7f05",
+    "size": 62713
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

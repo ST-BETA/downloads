@@ -1,0 +1,18 @@
+{
+  "appid": 1600890,
+  "files": [
+    {
+      "name": "1600890.zip",
+      "sha256": "e339f90f10f8a239facc7c949e9ec9a983e8dd57594369ce4c97c1f1649c82ee",
+      "size": 63456
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1600890.zip",
+    "sha256": "e339f90f10f8a239facc7c949e9ec9a983e8dd57594369ce4c97c1f1649c82ee",
+    "size": 63456
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

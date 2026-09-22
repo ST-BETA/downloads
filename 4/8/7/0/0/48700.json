@@ -1,0 +1,18 @@
+{
+  "appid": 48700,
+  "files": [
+    {
+      "name": "48700.zip",
+      "sha256": "4447b665c86a4f1e8d99a3d402dca32864a6ea935598582a590ae99de5d74731",
+      "size": 1644168
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "48700.zip",
+    "sha256": "4447b665c86a4f1e8d99a3d402dca32864a6ea935598582a590ae99de5d74731",
+    "size": 1644168
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

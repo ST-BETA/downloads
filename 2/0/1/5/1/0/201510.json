@@ -1,0 +1,18 @@
+{
+  "appid": 201510,
+  "files": [
+    {
+      "name": "201510.zip",
+      "sha256": "6f2c881c3b0b289878e06a4327b06bd682ae5e22d87899d58c75aaa5819b61c6",
+      "size": 1862234
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201510.zip",
+    "sha256": "6f2c881c3b0b289878e06a4327b06bd682ae5e22d87899d58c75aaa5819b61c6",
+    "size": 1862234
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

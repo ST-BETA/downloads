@@ -1,0 +1,18 @@
+{
+  "appid": 512300,
+  "files": [
+    {
+      "name": "512300.zip",
+      "sha256": "f1a353944e2685476daf7c8626b8ca363f9d8cd30b02a963f9eb45e12c593140",
+      "size": 6318781
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "512300.zip",
+    "sha256": "f1a353944e2685476daf7c8626b8ca363f9d8cd30b02a963f9eb45e12c593140",
+    "size": 6318781
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

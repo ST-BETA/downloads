@@ -1,0 +1,18 @@
+{
+  "appid": 1987080,
+  "files": [
+    {
+      "name": "1987080.zip",
+      "sha256": "a53f61adda61ba80033ff60546981805a3bbe2f0a0e03cdff9c987c4884b701b",
+      "size": 1044364
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1987080.zip",
+    "sha256": "a53f61adda61ba80033ff60546981805a3bbe2f0a0e03cdff9c987c4884b701b",
+    "size": 1044364
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

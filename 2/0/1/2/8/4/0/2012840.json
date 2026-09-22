@@ -1,0 +1,18 @@
+{
+  "appid": 2012840,
+  "files": [
+    {
+      "name": "2012840.zip",
+      "sha256": "a08fd7be64894d9fdcd0f502a3ea3769c6cc07d2b1e52fab00fbdd2cbd58d03a",
+      "size": 1085137
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2012840.zip",
+    "sha256": "a08fd7be64894d9fdcd0f502a3ea3769c6cc07d2b1e52fab00fbdd2cbd58d03a",
+    "size": 1085137
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 844420,
+  "files": [
+    {
+      "name": "844420.zip",
+      "sha256": "70f152eb604c798c0585cefae68e0bb56a30a2deffc08a12d4fe5010243e93c8",
+      "size": 241186
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "844420.zip",
+    "sha256": "70f152eb604c798c0585cefae68e0bb56a30a2deffc08a12d4fe5010243e93c8",
+    "size": 241186
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

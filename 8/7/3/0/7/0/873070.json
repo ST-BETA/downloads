@@ -1,0 +1,18 @@
+{
+  "appid": 873070,
+  "files": [
+    {
+      "name": "873070.zip",
+      "sha256": "bfa4dc906dfc1832b300a17ed78e325fd4847f035dbddbe7ec9a03737b058213",
+      "size": 280831
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "873070.zip",
+    "sha256": "bfa4dc906dfc1832b300a17ed78e325fd4847f035dbddbe7ec9a03737b058213",
+    "size": 280831
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

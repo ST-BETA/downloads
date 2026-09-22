@@ -1,0 +1,18 @@
+{
+  "appid": 800560,
+  "files": [
+    {
+      "name": "800560.zip",
+      "sha256": "8da4f9ca06ad25be02220e704238413ce64d0ac2d251addd9ce679e07c9891f7",
+      "size": 20243
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "800560.zip",
+    "sha256": "8da4f9ca06ad25be02220e704238413ce64d0ac2d251addd9ce679e07c9891f7",
+    "size": 20243
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

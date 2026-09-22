@@ -1,0 +1,18 @@
+{
+  "appid": 3298080,
+  "files": [
+    {
+      "name": "3298080.zip",
+      "sha256": "a5da6f293bbcc5e01e3e78219fc25fe48d9e5f2ba0b7ceb990f39f6e37560a34",
+      "size": 50000
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3298080.zip",
+    "sha256": "a5da6f293bbcc5e01e3e78219fc25fe48d9e5f2ba0b7ceb990f39f6e37560a34",
+    "size": 50000
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

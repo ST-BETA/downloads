@@ -1,0 +1,18 @@
+{
+  "appid": 110400,
+  "files": [
+    {
+      "name": "110400.zip",
+      "sha256": "0118d14b11cda499f14dfebd3256947232592b6b325b1aaf6ba720fb43076625",
+      "size": 175122
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "110400.zip",
+    "sha256": "0118d14b11cda499f14dfebd3256947232592b6b325b1aaf6ba720fb43076625",
+    "size": 175122
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

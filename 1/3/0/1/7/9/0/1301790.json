@@ -1,0 +1,18 @@
+{
+  "appid": 1301790,
+  "files": [
+    {
+      "name": "1301790.zip",
+      "sha256": "57f124be598db07cc62c512ebe15ee9b24d796560423cb3371dc5778de3db976",
+      "size": 119569
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1301790.zip",
+    "sha256": "57f124be598db07cc62c512ebe15ee9b24d796560423cb3371dc5778de3db976",
+    "size": 119569
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

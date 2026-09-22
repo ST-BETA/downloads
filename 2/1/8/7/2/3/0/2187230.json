@@ -1,0 +1,18 @@
+{
+  "appid": 2187230,
+  "files": [
+    {
+      "name": "2187230.zip",
+      "sha256": "e3a6af02ed86307e06fb417f014e07e81207813ccd567e2701486d764ba28e89",
+      "size": 864725
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2187230.zip",
+    "sha256": "e3a6af02ed86307e06fb417f014e07e81207813ccd567e2701486d764ba28e89",
+    "size": 864725
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

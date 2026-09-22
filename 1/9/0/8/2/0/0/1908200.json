@@ -1,0 +1,18 @@
+{
+  "appid": 1908200,
+  "files": [
+    {
+      "name": "1908200.zip",
+      "sha256": "55c9872284a4a0583e2143b23134fd7e3b89eb30f1b36cc0df1c1221ed02a871",
+      "size": 51385
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1908200.zip",
+    "sha256": "55c9872284a4a0583e2143b23134fd7e3b89eb30f1b36cc0df1c1221ed02a871",
+    "size": 51385
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

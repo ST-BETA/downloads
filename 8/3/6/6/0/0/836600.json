@@ -1,0 +1,18 @@
+{
+  "appid": 836600,
+  "files": [
+    {
+      "name": "836600.zip",
+      "sha256": "b3df57e07920c9cda5f261e484ca8aa6ce351576822d28fb7dfc8b10571e8bae",
+      "size": 2876893
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "836600.zip",
+    "sha256": "b3df57e07920c9cda5f261e484ca8aa6ce351576822d28fb7dfc8b10571e8bae",
+    "size": 2876893
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

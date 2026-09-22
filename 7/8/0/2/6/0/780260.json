@@ -1,0 +1,18 @@
+{
+  "appid": 780260,
+  "files": [
+    {
+      "name": "780260.zip",
+      "sha256": "b67427349ff94e6f5954571065b30f40356f513518ec260e6e0c09286a11327c",
+      "size": 50871
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "780260.zip",
+    "sha256": "b67427349ff94e6f5954571065b30f40356f513518ec260e6e0c09286a11327c",
+    "size": 50871
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

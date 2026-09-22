@@ -1,0 +1,18 @@
+{
+  "appid": 1614500,
+  "files": [
+    {
+      "name": "1614500.zip",
+      "sha256": "ab4be5beabf2fc7a2e12dae2d0103bb25f64bcff4e207dd3fc05cfdf34e93def",
+      "size": 123480
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1614500.zip",
+    "sha256": "ab4be5beabf2fc7a2e12dae2d0103bb25f64bcff4e207dd3fc05cfdf34e93def",
+    "size": 123480
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

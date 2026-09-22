@@ -1,0 +1,18 @@
+{
+  "appid": 334100,
+  "files": [
+    {
+      "name": "334100.zip",
+      "sha256": "357285ee9840a38045350ba3946c85ec4be26f9eac9dafe2f8192380bff709f1",
+      "size": 44334
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "334100.zip",
+    "sha256": "357285ee9840a38045350ba3946c85ec4be26f9eac9dafe2f8192380bff709f1",
+    "size": 44334
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

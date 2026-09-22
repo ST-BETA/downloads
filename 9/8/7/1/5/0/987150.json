@@ -1,0 +1,18 @@
+{
+  "appid": 987150,
+  "files": [
+    {
+      "name": "987150.zip",
+      "sha256": "f9741e87ee3c51fe9d9ca7917e4f649871c6b844725400029b5c60ff5a4bde1b",
+      "size": 308665
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "987150.zip",
+    "sha256": "f9741e87ee3c51fe9d9ca7917e4f649871c6b844725400029b5c60ff5a4bde1b",
+    "size": 308665
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1006880,
+  "files": [
+    {
+      "name": "1006880.zip",
+      "sha256": "2989759ccf4b3cd261c688c5874e2848b809016f6aea920376112098768abb30",
+      "size": 3635
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1006880.zip",
+    "sha256": "2989759ccf4b3cd261c688c5874e2848b809016f6aea920376112098768abb30",
+    "size": 3635
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

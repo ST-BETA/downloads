@@ -1,0 +1,18 @@
+{
+  "appid": 2270,
+  "files": [
+    {
+      "name": "2270.zip",
+      "sha256": "71837f8fac59711f3049d060b79961e1c7f980fed0496fa3292c6d0f9d71d0ae",
+      "size": 5974
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2270.zip",
+    "sha256": "71837f8fac59711f3049d060b79961e1c7f980fed0496fa3292c6d0f9d71d0ae",
+    "size": 5974
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

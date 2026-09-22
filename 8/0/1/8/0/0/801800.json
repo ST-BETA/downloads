@@ -1,0 +1,18 @@
+{
+  "appid": 801800,
+  "files": [
+    {
+      "name": "801800.zip",
+      "sha256": "d4291d863123ca09baef5e9348d87a2335041369e0d431c29974ba3bee2fa5cc",
+      "size": 3588978
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "801800.zip",
+    "sha256": "d4291d863123ca09baef5e9348d87a2335041369e0d431c29974ba3bee2fa5cc",
+    "size": 3588978
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

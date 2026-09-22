@@ -1,0 +1,23 @@
+{
+  "appid": 314160,
+  "files": [
+    {
+      "name": "314160_001.zip",
+      "sha256": "71f2ecc8ffdc41176ff0109ae0580cc681a1e09d5a6aff83ad8a6c4d12bd4d9a",
+      "size": 103809024
+    },
+    {
+      "name": "314160_002.zip",
+      "sha256": "515ac3ec75dba0bd7d44b5cac8b2d70df3290c1714b9fbbba80d1a41832b5d86",
+      "size": 32828988
+    }
+  ],
+  "merge": true,
+  "original": {
+    "name": "314160.zip",
+    "sha256": "a64e1ee2afd32dba419ad0f80eb4d0e7b7566c8004240f544b5358a2805eeb41",
+    "size": 136638012
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

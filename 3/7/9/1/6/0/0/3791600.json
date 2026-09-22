@@ -1,0 +1,18 @@
+{
+  "appid": 3791600,
+  "files": [
+    {
+      "name": "3791600.zip",
+      "sha256": "ca910e00125b2f55e8d8e0190680a65c1e16aeb46bec8a0b389a9b14918e41ff",
+      "size": 13142
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3791600.zip",
+    "sha256": "ca910e00125b2f55e8d8e0190680a65c1e16aeb46bec8a0b389a9b14918e41ff",
+    "size": 13142
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

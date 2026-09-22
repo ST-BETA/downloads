@@ -1,0 +1,18 @@
+{
+  "appid": 780310,
+  "files": [
+    {
+      "name": "780310.zip",
+      "sha256": "b0b97ac51a781aec36acebb31302f142c90051bad4aeced81cd04120e480d63b",
+      "size": 634000
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "780310.zip",
+    "sha256": "b0b97ac51a781aec36acebb31302f142c90051bad4aeced81cd04120e480d63b",
+    "size": 634000
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

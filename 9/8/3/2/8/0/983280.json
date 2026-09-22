@@ -1,0 +1,18 @@
+{
+  "appid": 983280,
+  "files": [
+    {
+      "name": "983280.zip",
+      "sha256": "4b59d81eda09967d18ebe054d476f01ee756a99b161f8267ee16991a5eeb5ddb",
+      "size": 5250
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "983280.zip",
+    "sha256": "4b59d81eda09967d18ebe054d476f01ee756a99b161f8267ee16991a5eeb5ddb",
+    "size": 5250
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

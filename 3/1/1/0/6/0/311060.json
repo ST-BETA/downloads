@@ -1,0 +1,18 @@
+{
+  "appid": 311060,
+  "files": [
+    {
+      "name": "311060.zip",
+      "sha256": "256a4cff41c54a5a3c32dccd830073814bc3357ab58df847558f0c564875d0b8",
+      "size": 96706
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "311060.zip",
+    "sha256": "256a4cff41c54a5a3c32dccd830073814bc3357ab58df847558f0c564875d0b8",
+    "size": 96706
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 523870,
+  "files": [
+    {
+      "name": "523870.zip",
+      "sha256": "0ee87b7b9459b754b996365006247ac65a06c5373c4b2793b459b45e2a319cab",
+      "size": 61636
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "523870.zip",
+    "sha256": "0ee87b7b9459b754b996365006247ac65a06c5373c4b2793b459b45e2a319cab",
+    "size": 61636
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

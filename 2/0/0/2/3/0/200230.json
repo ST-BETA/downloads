@@ -1,0 +1,18 @@
+{
+  "appid": 200230,
+  "files": [
+    {
+      "name": "200230.zip",
+      "sha256": "dc8f99720c38c449d391218734df4f7df83c73762ca3b4943df40ad8d488e4d5",
+      "size": 477891
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200230.zip",
+    "sha256": "dc8f99720c38c449d391218734df4f7df83c73762ca3b4943df40ad8d488e4d5",
+    "size": 477891
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

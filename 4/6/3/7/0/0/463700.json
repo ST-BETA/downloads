@@ -1,0 +1,18 @@
+{
+  "appid": 463700,
+  "files": [
+    {
+      "name": "463700.zip",
+      "sha256": "f15d430d3d8c8cd08e282e165c97173465742c3ab0bdaa17069dd35212a74170",
+      "size": 125144
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "463700.zip",
+    "sha256": "f15d430d3d8c8cd08e282e165c97173465742c3ab0bdaa17069dd35212a74170",
+    "size": 125144
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

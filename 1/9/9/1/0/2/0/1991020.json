@@ -1,0 +1,18 @@
+{
+  "appid": 1991020,
+  "files": [
+    {
+      "name": "1991020.zip",
+      "sha256": "888dbd1299ee58967bc32171825a6148eb9107cbc887e35019ea458161d3bc4b",
+      "size": 662098
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1991020.zip",
+    "sha256": "888dbd1299ee58967bc32171825a6148eb9107cbc887e35019ea458161d3bc4b",
+    "size": 662098
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

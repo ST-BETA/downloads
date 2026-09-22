@@ -1,0 +1,18 @@
+{
+  "appid": 385800,
+  "files": [
+    {
+      "name": "385800.zip",
+      "sha256": "0719e0478ec764bf224eb5ab32e12b14e2ab4cef53ea2fc862d21704f401003e",
+      "size": 75814
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "385800.zip",
+    "sha256": "0719e0478ec764bf224eb5ab32e12b14e2ab4cef53ea2fc862d21704f401003e",
+    "size": 75814
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

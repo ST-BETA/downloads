@@ -1,0 +1,18 @@
+{
+  "appid": 564010,
+  "files": [
+    {
+      "name": "564010.zip",
+      "sha256": "ccef18cfbb016cf2806b9e535869590fdf44c8c71003004665b52d1bb9e23f16",
+      "size": 183330
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "564010.zip",
+    "sha256": "ccef18cfbb016cf2806b9e535869590fdf44c8c71003004665b52d1bb9e23f16",
+    "size": 183330
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

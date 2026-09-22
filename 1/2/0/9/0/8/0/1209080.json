@@ -1,0 +1,18 @@
+{
+  "appid": 1209080,
+  "files": [
+    {
+      "name": "1209080.zip",
+      "sha256": "dcc90dde9da8f1f2821250c6207da34e1435351d896f633d484a5231258a13d4",
+      "size": 92465
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1209080.zip",
+    "sha256": "dcc90dde9da8f1f2821250c6207da34e1435351d896f633d484a5231258a13d4",
+    "size": 92465
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2008150,
+  "files": [
+    {
+      "name": "2008150.zip",
+      "sha256": "a02de40dc0af358be30c48b89c2c6822d7779273e5f44cc4c6ceb485f9ebf255",
+      "size": 94016
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2008150.zip",
+    "sha256": "a02de40dc0af358be30c48b89c2c6822d7779273e5f44cc4c6ceb485f9ebf255",
+    "size": 94016
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

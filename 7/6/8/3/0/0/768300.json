@@ -1,0 +1,18 @@
+{
+  "appid": 768300,
+  "files": [
+    {
+      "name": "768300.zip",
+      "sha256": "b20870b96e783488b7b70dc4275878e0a9407712abfa2a1af81f39cc2cd21e15",
+      "size": 3995
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "768300.zip",
+    "sha256": "b20870b96e783488b7b70dc4275878e0a9407712abfa2a1af81f39cc2cd21e15",
+    "size": 3995
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

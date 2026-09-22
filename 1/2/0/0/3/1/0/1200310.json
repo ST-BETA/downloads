@@ -1,0 +1,18 @@
+{
+  "appid": 1200310,
+  "files": [
+    {
+      "name": "1200310.zip",
+      "sha256": "82cdd63270a2aaba322564ab213b612bc8e6f6676dfc88c3ddb47a44c7ff8670",
+      "size": 109365
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1200310.zip",
+    "sha256": "82cdd63270a2aaba322564ab213b612bc8e6f6676dfc88c3ddb47a44c7ff8670",
+    "size": 109365
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

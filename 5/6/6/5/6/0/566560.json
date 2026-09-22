@@ -1,0 +1,18 @@
+{
+  "appid": 566560,
+  "files": [
+    {
+      "name": "566560.zip",
+      "sha256": "6a25a25cd2c9a89aaa58020b1a71b89ab31e023ea03dd2a7b3ecc368be4ece5a",
+      "size": 50995
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "566560.zip",
+    "sha256": "6a25a25cd2c9a89aaa58020b1a71b89ab31e023ea03dd2a7b3ecc368be4ece5a",
+    "size": 50995
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

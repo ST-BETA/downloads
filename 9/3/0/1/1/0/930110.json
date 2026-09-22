@@ -1,0 +1,18 @@
+{
+  "appid": 930110,
+  "files": [
+    {
+      "name": "930110.zip",
+      "sha256": "4174ffbd188e49a7c5bbed6e7e1264f2baaf9c5599a62071f08977a443077d42",
+      "size": 187462
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "930110.zip",
+    "sha256": "4174ffbd188e49a7c5bbed6e7e1264f2baaf9c5599a62071f08977a443077d42",
+    "size": 187462
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

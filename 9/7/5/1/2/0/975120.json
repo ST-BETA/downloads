@@ -1,0 +1,18 @@
+{
+  "appid": 975120,
+  "files": [
+    {
+      "name": "975120.zip",
+      "sha256": "c08bb0ecdc84e5378ad7e6c733206f08613b9a7f2931a9cc9bf434a87cef99aa",
+      "size": 111230
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "975120.zip",
+    "sha256": "c08bb0ecdc84e5378ad7e6c733206f08613b9a7f2931a9cc9bf434a87cef99aa",
+    "size": 111230
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

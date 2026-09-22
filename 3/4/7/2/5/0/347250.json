@@ -1,0 +1,18 @@
+{
+  "appid": 347250,
+  "files": [
+    {
+      "name": "347250.zip",
+      "sha256": "9189ef25287c2b07731bc456100a2d7e3789ea5463c2f6abdecec39402a78379",
+      "size": 54705
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "347250.zip",
+    "sha256": "9189ef25287c2b07731bc456100a2d7e3789ea5463c2f6abdecec39402a78379",
+    "size": 54705
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

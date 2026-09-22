@@ -1,0 +1,18 @@
+{
+  "appid": 681800,
+  "files": [
+    {
+      "name": "681800.zip",
+      "sha256": "b5d55f3869bafdbbe7f640cf78e2c1f5fb839032572de9d08e28f38f21a31800",
+      "size": 50141
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "681800.zip",
+    "sha256": "b5d55f3869bafdbbe7f640cf78e2c1f5fb839032572de9d08e28f38f21a31800",
+    "size": 50141
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

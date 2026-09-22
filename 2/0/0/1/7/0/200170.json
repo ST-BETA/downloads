@@ -1,0 +1,18 @@
+{
+  "appid": 200170,
+  "files": [
+    {
+      "name": "200170.zip",
+      "sha256": "eb311355119353d0a6369eb49fac4a6f53809786ea6d2e92f8ddfb50a53d0982",
+      "size": 246581
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200170.zip",
+    "sha256": "eb311355119353d0a6369eb49fac4a6f53809786ea6d2e92f8ddfb50a53d0982",
+    "size": 246581
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 2091020,
+  "files": [
+    {
+      "name": "2091020.zip",
+      "sha256": "13e2249a1f5693c37179e6245898d1137f14b5cfb726985a3c201ae708582bb5",
+      "size": 2464713
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2091020.zip",
+    "sha256": "13e2249a1f5693c37179e6245898d1137f14b5cfb726985a3c201ae708582bb5",
+    "size": 2464713
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

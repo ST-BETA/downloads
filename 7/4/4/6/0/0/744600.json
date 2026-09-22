@@ -1,0 +1,18 @@
+{
+  "appid": 744600,
+  "files": [
+    {
+      "name": "744600.zip",
+      "sha256": "34e3b12c632d44a7f66fe668187ad6e06a723ef67dd2d126c69f72c280e8a8b4",
+      "size": 110945
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "744600.zip",
+    "sha256": "34e3b12c632d44a7f66fe668187ad6e06a723ef67dd2d126c69f72c280e8a8b4",
+    "size": 110945
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

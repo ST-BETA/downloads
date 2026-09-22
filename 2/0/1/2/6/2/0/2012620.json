@@ -1,0 +1,18 @@
+{
+  "appid": 2012620,
+  "files": [
+    {
+      "name": "2012620.zip",
+      "sha256": "83b14cdd0290e58f15e741b576719ce164f5113cd3b193a70904f03737fefb08",
+      "size": 55800
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2012620.zip",
+    "sha256": "83b14cdd0290e58f15e741b576719ce164f5113cd3b193a70904f03737fefb08",
+    "size": 55800
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

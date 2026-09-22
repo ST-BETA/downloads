@@ -1,0 +1,18 @@
+{
+  "appid": 1021900,
+  "files": [
+    {
+      "name": "1021900.zip",
+      "sha256": "28806f7f2fbef03de95ad23f921a3250b2c43c37c82be81e15bc8631176ea321",
+      "size": 6217
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1021900.zip",
+    "sha256": "28806f7f2fbef03de95ad23f921a3250b2c43c37c82be81e15bc8631176ea321",
+    "size": 6217
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 1983600,
+  "files": [
+    {
+      "name": "1983600.zip",
+      "sha256": "e93105d85089e1808866b738426a22a9000fdf1eb38786b4f822c262957a7b72",
+      "size": 32305
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1983600.zip",
+    "sha256": "e93105d85089e1808866b738426a22a9000fdf1eb38786b4f822c262957a7b72",
+    "size": 32305
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

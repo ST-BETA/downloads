@@ -1,0 +1,18 @@
+{
+  "appid": 8170,
+  "files": [
+    {
+      "name": "8170.zip",
+      "sha256": "2e4913f29ebcc33de91a3970a3336642404e09afc65b49672c9a1f24e2a30be3",
+      "size": 490978
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "8170.zip",
+    "sha256": "2e4913f29ebcc33de91a3970a3336642404e09afc65b49672c9a1f24e2a30be3",
+    "size": 490978
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

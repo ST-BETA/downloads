@@ -1,0 +1,18 @@
+{
+  "appid": 2360100,
+  "files": [
+    {
+      "name": "2360100.zip",
+      "sha256": "d7ea2802b40bafaf8fec3879bc6f292dbe44da6425c6b68cf3aaaadaff67c05e",
+      "size": 336921
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2360100.zip",
+    "sha256": "d7ea2802b40bafaf8fec3879bc6f292dbe44da6425c6b68cf3aaaadaff67c05e",
+    "size": 336921
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}

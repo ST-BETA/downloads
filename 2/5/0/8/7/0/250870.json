@@ -1,0 +1,18 @@
+{
+  "appid": 250870,
+  "files": [
+    {
+      "name": "250870.zip",
+      "sha256": "b620b36e2ccc86305d657f92e596fe54b98741df14ae4e73a0dd4523e9506e70",
+      "size": 343552
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "250870.zip",
+    "sha256": "b620b36e2ccc86305d657f92e596fe54b98741df14ae4e73a0dd4523e9506e70",
+    "size": 343552
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

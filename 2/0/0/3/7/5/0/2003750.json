@@ -1,0 +1,18 @@
+{
+  "appid": 2003750,
+  "files": [
+    {
+      "name": "2003750.zip",
+      "sha256": "451a884f7457475fdfe5632431f7213adcdb2d6ddb2cb0f217cd3ad031efbdd9",
+      "size": 28094
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2003750.zip",
+    "sha256": "451a884f7457475fdfe5632431f7213adcdb2d6ddb2cb0f217cd3ad031efbdd9",
+    "size": 28094
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 900400,
+  "files": [
+    {
+      "name": "900400.zip",
+      "sha256": "6e40250ea43354e68f49895e855ef8bbb14334383397b600939a830f15a0943e",
+      "size": 57921
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "900400.zip",
+    "sha256": "6e40250ea43354e68f49895e855ef8bbb14334383397b600939a830f15a0943e",
+    "size": 57921
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 800640,
+  "files": [
+    {
+      "name": "800640.zip",
+      "sha256": "e6390e914a7499ffea37c23d5f385b59d4ff1e7168604c4dd4359d1dbbb2ed98",
+      "size": 166146
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "800640.zip",
+    "sha256": "e6390e914a7499ffea37c23d5f385b59d4ff1e7168604c4dd4359d1dbbb2ed98",
+    "size": 166146
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}

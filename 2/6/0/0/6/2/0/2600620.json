@@ -1,0 +1,18 @@
+{
+  "appid": 2600620,
+  "files": [
+    {
+      "name": "2600620.zip",
+      "sha256": "3ae78357575709ea12f7a0fea030011e27ebf20377bbdb18dfb142ca60bd8870",
+      "size": 90260
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2600620.zip",
+    "sha256": "3ae78357575709ea12f7a0fea030011e27ebf20377bbdb18dfb142ca60bd8870",
+    "size": 90260
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 888140,
+  "files": [
+    {
+      "name": "888140.zip",
+      "sha256": "3f4fbc26bd2c1d6b6501cca8c1853704537837d4bd8cc80b545f7e27753b362a",
+      "size": 287205
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "888140.zip",
+    "sha256": "3f4fbc26bd2c1d6b6501cca8c1853704537837d4bd8cc80b545f7e27753b362a",
+    "size": 287205
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}

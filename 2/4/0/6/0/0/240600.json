@@ -1,0 +1,18 @@
+{
+  "appid": 240600,
+  "files": [
+    {
+      "name": "240600.zip",
+      "sha256": "4018de79f8d08d9d2a2432245b02488c2d34857d9c80ca2740ab6d1bca7bdb21",
+      "size": 319595
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "240600.zip",
+    "sha256": "4018de79f8d08d9d2a2432245b02488c2d34857d9c80ca2740ab6d1bca7bdb21",
+    "size": 319595
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}

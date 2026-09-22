@@ -1,0 +1,18 @@
+{
+  "appid": 860070,
+  "files": [
+    {
+      "name": "860070.zip",
+      "sha256": "3bade6adb960c6c865add793cd7752015e7faba3ab58945ed692ac5955f10e7c",
+      "size": 38668
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "860070.zip",
+    "sha256": "3bade6adb960c6c865add793cd7752015e7faba3ab58945ed692ac5955f10e7c",
+    "size": 38668
+  },
+  "repository": "downloads-06",
+  "schema": 1
+}

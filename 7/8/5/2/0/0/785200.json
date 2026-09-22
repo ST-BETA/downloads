@@ -1,0 +1,18 @@
+{
+  "appid": 785200,
+  "files": [
+    {
+      "name": "785200.zip",
+      "sha256": "bb2d853d4911d699a1c9b397c5e01b9f11efc6a28ac6192f9f9421a2fbad1642",
+      "size": 26488
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "785200.zip",
+    "sha256": "bb2d853d4911d699a1c9b397c5e01b9f11efc6a28ac6192f9f9421a2fbad1642",
+    "size": 26488
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

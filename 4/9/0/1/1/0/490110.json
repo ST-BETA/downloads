@@ -1,0 +1,18 @@
+{
+  "appid": 490110,
+  "files": [
+    {
+      "name": "490110.zip",
+      "sha256": "1af642f1c03ecb1a0e5f4fc121196083a3312f8fb1da8da1f85287fed7a72ae0",
+      "size": 471259
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "490110.zip",
+    "sha256": "1af642f1c03ecb1a0e5f4fc121196083a3312f8fb1da8da1f85287fed7a72ae0",
+    "size": 471259
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}

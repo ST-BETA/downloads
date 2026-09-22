@@ -1,0 +1,18 @@
+{
+  "appid": 701540,
+  "files": [
+    {
+      "name": "701540.zip",
+      "sha256": "d45fdfa64635003f591260554c64fab71dd730ff2b1cf1a1e0f76a9c20a6104c",
+      "size": 88395
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "701540.zip",
+    "sha256": "d45fdfa64635003f591260554c64fab71dd730ff2b1cf1a1e0f76a9c20a6104c",
+    "size": 88395
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}

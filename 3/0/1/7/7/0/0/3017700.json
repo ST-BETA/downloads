@@ -1,0 +1,18 @@
+{
+  "appid": 3017700,
+  "files": [
+    {
+      "name": "3017700.zip",
+      "sha256": "9eb2a4d2f86f193d96dacda24d44adb93bdbe8a67a3c6edad5bd19f150efbbfc",
+      "size": 1327240
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3017700.zip",
+    "sha256": "9eb2a4d2f86f193d96dacda24d44adb93bdbe8a67a3c6edad5bd19f150efbbfc",
+    "size": 1327240
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 435140,
+  "files": [
+    {
+      "name": "435140.zip",
+      "sha256": "971a08e38acb7ba2d1ec4bd1130b962ad9eb477263d161e39e9b1148aefdd654",
+      "size": 309263
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "435140.zip",
+    "sha256": "971a08e38acb7ba2d1ec4bd1130b962ad9eb477263d161e39e9b1148aefdd654",
+    "size": 309263
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}
