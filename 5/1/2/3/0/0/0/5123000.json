@@ -1,0 +1,17 @@
+{
+  "appid": 5123000,
+  "files": [
+    {
+      "name": "5123000.zip",
+      "sha256": "d27a30fbaf42d4080ef13a1512ff9b792f06294cf19405875e8b1384d4015b7f",
+      "size": 514341
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "5123000.zip",
+    "size": 514341
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}
