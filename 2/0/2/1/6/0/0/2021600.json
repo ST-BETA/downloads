@@ -1,0 +1,17 @@
+{
+  "appid": 2021600,
+  "files": [
+    {
+      "name": "2021600.zip",
+      "sha256": "4de4175011704b324359ea1947758829723ef2f8ff53cb7df0e3bfc33d2e6b1d",
+      "size": 131981
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2021600.zip",
+    "size": 131981
+  },
+  "repository": "downloads-09",
+  "schema": 1
+}
