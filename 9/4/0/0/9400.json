@@ -1,0 +1,17 @@
+{
+  "appid": 9400,
+  "files": [
+    {
+      "name": "9400.zip",
+      "sha256": "de9364fc90cec3213f7423e2100fa95804809a3db545ad0a91a81fe13d68c2a7",
+      "size": 440907
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "9400.zip",
+    "size": 440907
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}
