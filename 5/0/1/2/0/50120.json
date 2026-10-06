@@ -1,0 +1,17 @@
+{
+  "appid": 50120,
+  "files": [
+    {
+      "name": "50120.zip",
+      "sha256": "a5914f2455f8e2e9582908675df354e245d7678900dce12ada1114139bafab43",
+      "size": 618947
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "50120.zip",
+    "size": 618947
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}
