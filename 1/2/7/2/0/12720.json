@@ -1,0 +1,17 @@
+{
+  "appid": 12720,
+  "files": [
+    {
+      "name": "12720.zip",
+      "sha256": "8f9c7a45d90c9a60913fcc5fd6f2420044e0bf1dcee29490fcbd4470e7aa101b",
+      "size": 1040092
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "12720.zip",
+    "size": 1040092
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}
