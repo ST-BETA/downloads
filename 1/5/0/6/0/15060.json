@@ -1,0 +1,17 @@
+{
+  "appid": 15060,
+  "files": [
+    {
+      "name": "15060.zip",
+      "sha256": "9f5ffee913267b1e3bb88e10af3159cd0ca8d988fec3246a6e3afc2687f69c73",
+      "size": 270122
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "15060.zip",
+    "size": 270122
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}
