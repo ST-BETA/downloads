@@ -1,0 +1,17 @@
+{
+  "appid": 1840,
+  "files": [
+    {
+      "name": "1840.zip",
+      "sha256": "c586dbc7285a6cfbb59778750b45d43906886269b0f8fe5ef2b0bafeb2f88162",
+      "size": 38126038
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1840.zip",
+    "size": 38126038
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}
