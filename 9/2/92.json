@@ -1,0 +1,17 @@
+{
+  "appid": 92,
+  "files": [
+    {
+      "name": "92.zip",
+      "sha256": "8b24b5c74d4b861a59c63e8130e1ec477f20689190a4954e46c063867c229ecf",
+      "size": 3569
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "92.zip",
+    "size": 3569
+  },
+  "repository": "downloads-02",
+  "schema": 1
+}
