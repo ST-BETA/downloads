@@ -1,0 +1,17 @@
+{
+  "appid": 10700,
+  "files": [
+    {
+      "name": "10700.zip",
+      "sha256": "828dfe03e7969b685f785eda147cf2670d5d85d4294c3cc139948cc9522bb3b9",
+      "size": 387655
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "10700.zip",
+    "size": 387655
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
