@@ -1,0 +1,17 @@
+{
+  "appid": 7900,
+  "files": [
+    {
+      "name": "7900.zip",
+      "sha256": "1aea9fbd8b852502b5579f4b91637206becb0ac572a5046c9a65cb1ad782dc49",
+      "size": 478205
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "7900.zip",
+    "size": 478205
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
