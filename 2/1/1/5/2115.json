@@ -1,0 +1,17 @@
+{
+  "appid": 2115,
+  "files": [
+    {
+      "name": "2115.zip",
+      "sha256": "c093a72e610cf7d530a4c15ead64dded069a41bb1d1430ee2dc7574cc772c94b",
+      "size": 9012038
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2115.zip",
+    "size": 9012038
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}
