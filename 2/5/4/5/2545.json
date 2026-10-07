@@ -1,0 +1,17 @@
+{
+  "appid": 2545,
+  "files": [
+    {
+      "name": "2545.zip",
+      "sha256": "e656b9f8a2faf2c418ad20a67f155437de426227b36e9acac092fd25642a1f1e",
+      "size": 21175
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2545.zip",
+    "size": 21175
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}
