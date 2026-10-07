@@ -1,0 +1,17 @@
+{
+  "appid": 240220,
+  "files": [
+    {
+      "name": "240220.zip",
+      "sha256": "fe4cef187a27de319dea150df87aac0ec6cce0e16b0dfd5dc3de1f05f3aa704f",
+      "size": 453439
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "240220.zip",
+    "size": 453439
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}
