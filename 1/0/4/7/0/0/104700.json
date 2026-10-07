@@ -1,0 +1,17 @@
+{
+  "appid": 104700,
+  "files": [
+    {
+      "name": "104700.zip",
+      "sha256": "1b81c683fd36b0a971cc932f28e167013a131c25eb413ace98edd781923d4a49",
+      "size": 419978
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "104700.zip",
+    "size": 419978
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}
