@@ -1,0 +1,17 @@
+{
+  "appid": 2570,
+  "files": [
+    {
+      "name": "2570.zip",
+      "sha256": "30945c8c27f4faac1b73ef3a5846d9db82ceceb1d35e434bf62f454075975499",
+      "size": 112003
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2570.zip",
+    "size": 112003
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}
