@@ -1,0 +1,17 @@
+{
+  "appid": 201310,
+  "files": [
+    {
+      "name": "201310.zip",
+      "sha256": "3573abec4336dad8d2937e3347bc1348ac2fbe8cc2c54f48ff056dd2386755bc",
+      "size": 1080529
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201310.zip",
+    "size": 1080529
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}
