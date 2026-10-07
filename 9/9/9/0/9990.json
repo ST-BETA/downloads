@@ -1,0 +1,17 @@
+{
+  "appid": 9990,
+  "files": [
+    {
+      "name": "9990.zip",
+      "sha256": "58a5bb84882134a2cadcade4b4a8793c73030a7c82062cc948c620f8a5d4eb8f",
+      "size": 30024
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "9990.zip",
+    "size": 30024
+  },
+  "repository": "downloads-04",
+  "schema": 1
+}
