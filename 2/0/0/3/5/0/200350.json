@@ -1,0 +1,17 @@
+{
+  "appid": 200350,
+  "files": [
+    {
+      "name": "200350.zip",
+      "sha256": "efccb40127a1784b8b0ab8b30e5535a36ea89c48ee8945d4a68228d8a2d1b5b4",
+      "size": 45568
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "200350.zip",
+    "size": 45568
+  },
+  "repository": "downloads-05",
+  "schema": 1
+}
