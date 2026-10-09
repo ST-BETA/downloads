@@ -1,0 +1,17 @@
+{
+  "appid": 21910,
+  "files": [
+    {
+      "name": "21910.zip",
+      "sha256": "247e6b7295adb741557cbac9c5a23fac0df2e47aa4f65d98905455b55fb19126",
+      "size": 800120
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "21910.zip",
+    "size": 800120
+  },
+  "repository": "downloads-08",
+  "schema": 1
+}
