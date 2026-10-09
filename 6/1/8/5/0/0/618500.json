@@ -1,0 +1,17 @@
+{
+  "appid": 618500,
+  "files": [
+    {
+      "name": "618500.zip",
+      "sha256": "1757e5218dff938be6241c878087a5ade34882911bfa9b40833d4ccd0cff79d9",
+      "size": 233730
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "618500.zip",
+    "size": 233730
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
