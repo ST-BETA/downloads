@@ -1,0 +1,17 @@
+{
+  "appid": 108100,
+  "files": [
+    {
+      "name": "108100.zip",
+      "sha256": "c0e2c44dbc30ee14fba2530cb6ca80b7b43f36f1dd0a706b3d6d897108054fde",
+      "size": 67601
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "108100.zip",
+    "size": 67601
+  },
+  "repository": "downloads-03",
+  "schema": 1
+}
