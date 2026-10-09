@@ -1,0 +1,17 @@
+{
+  "appid": 15540,
+  "files": [
+    {
+      "name": "15540.zip",
+      "sha256": "2c21910d7b5c5a16762d63da0c577b916724dc017facd165e0bf72f27ed6561d",
+      "size": 524984
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "15540.zip",
+    "size": 524984
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
