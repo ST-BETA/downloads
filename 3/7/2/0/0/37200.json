@@ -1,0 +1,17 @@
+{
+  "appid": 37200,
+  "files": [
+    {
+      "name": "37200.zip",
+      "sha256": "5cda4e3635aa388f790bf6391bd18a83c359d9ce1795086dad9dbf064e77bf71",
+      "size": 101155
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "37200.zip",
+    "size": 101155
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
