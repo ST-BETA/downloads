@@ -1,0 +1,17 @@
+{
+  "appid": 21760,
+  "files": [
+    {
+      "name": "21760.zip",
+      "sha256": "e00d2b24a1d0bd7cba2c0717653021b3f6b41cd2ba72ae4c98401390e767f94d",
+      "size": 670258
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "21760.zip",
+    "size": 670258
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
