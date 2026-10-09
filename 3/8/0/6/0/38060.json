@@ -1,0 +1,17 @@
+{
+  "appid": 38060,
+  "files": [
+    {
+      "name": "38060.zip",
+      "sha256": "18ead16a725f2ee8bd37dde8f7386b0bc3da6e359ce5bd5d8403a9e6d1060311",
+      "size": 96523
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "38060.zip",
+    "size": 96523
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
