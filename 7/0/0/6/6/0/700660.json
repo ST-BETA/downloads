@@ -1,0 +1,17 @@
+{
+  "appid": 700660,
+  "files": [
+    {
+      "name": "700660.zip",
+      "sha256": "5bdc5a51b60252b273d8d1538da655dc5d403be3d3a6493cad0343e169eb6a1f",
+      "size": 100256
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "700660.zip",
+    "size": 100256
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}
