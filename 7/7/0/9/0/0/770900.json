@@ -1,0 +1,17 @@
+{
+  "appid": 770900,
+  "files": [
+    {
+      "name": "770900.zip",
+      "sha256": "de4d7ce4af3363927954ac7340c79ffd1c637b1ace2978bd0bdc5403670c942d",
+      "size": 37408
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "770900.zip",
+    "size": 37408
+  },
+  "repository": "downloads-01",
+  "schema": 1
+}
