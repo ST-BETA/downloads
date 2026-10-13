@@ -1,0 +1,17 @@
+{
+  "appid": 755800,
+  "files": [
+    {
+      "name": "755800.zip",
+      "sha256": "85d7a3a0805a66b7fc5b4ee824179ad47dcd506602a87405259125e8885048e3",
+      "size": 147489
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "755800.zip",
+    "size": 147489
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
