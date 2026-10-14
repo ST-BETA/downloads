@@ -1,0 +1,17 @@
+{
+  "appid": 1024800,
+  "files": [
+    {
+      "name": "1024800.zip",
+      "sha256": "de48bde3fcbd302c9fdc78eaf9c660704309cc906866323515f8ea8d0e5297e3",
+      "size": 18287
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1024800.zip",
+    "size": 18287
+  },
+  "repository": "downloads-10",
+  "schema": 1
+}
