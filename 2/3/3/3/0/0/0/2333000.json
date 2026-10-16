@@ -1,0 +1,17 @@
+{
+  "appid": 2333000,
+  "files": [
+    {
+      "name": "2333000.zip",
+      "sha256": "ed02925d687823cdc1adff93267daee1d72e2e7e2cf2cfe710598328341f91c2",
+      "size": 835907
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2333000.zip",
+    "size": 835907
+  },
+  "repository": "downloads-07",
+  "schema": 1
+}
