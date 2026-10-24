@@ -1,0 +1,19 @@
+{
+  "appid": 485230,
+  "files": [
+    {
+      "name": "485230.zip",
+      "sha256": "492ab627ca4e6904606b3eb12b9f4010f865e3dd423c84829d68dadf65564d85",
+      "size": 39207
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "485230.zip",
+    "sha256": "492ab627ca4e6904606b3eb12b9f4010f865e3dd423c84829d68dadf65564d85",
+    "size": 39207
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

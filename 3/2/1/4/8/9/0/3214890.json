@@ -1,0 +1,19 @@
+{
+  "appid": 3214890,
+  "files": [
+    {
+      "name": "3214890.zip",
+      "sha256": "68000a5cce277eaffc575eb26bfa0206dff2821c65fd472aec73924c67cda2ba",
+      "size": 191177
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3214890.zip",
+    "sha256": "68000a5cce277eaffc575eb26bfa0206dff2821c65fd472aec73924c67cda2ba",
+    "size": 191177
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

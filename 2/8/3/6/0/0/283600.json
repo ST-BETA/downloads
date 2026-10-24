@@ -1,0 +1,19 @@
+{
+  "appid": 283600,
+  "files": [
+    {
+      "name": "283600.zip",
+      "sha256": "752dd373ed99f984c271b2769cda3eadde57fbe9f9112d8194ce30b87b5bb7e7",
+      "size": 280291
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "283600.zip",
+    "sha256": "752dd373ed99f984c271b2769cda3eadde57fbe9f9112d8194ce30b87b5bb7e7",
+    "size": 280291
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

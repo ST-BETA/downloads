@@ -1,0 +1,19 @@
+{
+  "appid": 1226230,
+  "files": [
+    {
+      "name": "1226230.zip",
+      "sha256": "c662f5b5459d27575239ab95de8f86359741220943d9d5b34cb6c678dff7082b",
+      "size": 101805
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1226230.zip",
+    "sha256": "c662f5b5459d27575239ab95de8f86359741220943d9d5b34cb6c678dff7082b",
+    "size": 101805
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

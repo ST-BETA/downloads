@@ -1,0 +1,18 @@
+{
+  "appid": 476000,
+  "files": [
+    {
+      "name": "476000.zip",
+      "size": 100342,
+      "sha256": "29f231eaf4a74a76a4e87fec1246673eaff9dd674cf659a6f1971d9da9e8a973"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "476000.zip",
+    "size": 100342
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-23T22:17:11Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1002500,
+  "files": [
+    {
+      "name": "1002500.zip",
+      "sha256": "63741a7c89fcdccb9c0d5e3652d58b6c2401505206167910998b684a227dfef9",
+      "size": 292337
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1002500.zip",
+    "sha256": "63741a7c89fcdccb9c0d5e3652d58b6c2401505206167910998b684a227dfef9",
+    "size": 292337
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

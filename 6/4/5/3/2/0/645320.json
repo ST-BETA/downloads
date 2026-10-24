@@ -1,0 +1,19 @@
+{
+  "appid": 645320,
+  "files": [
+    {
+      "name": "645320.zip",
+      "sha256": "9de2db1dde4ca8d2aea505345ec72e1070e95e85fcf1d835f30008e9fa875606",
+      "size": 560962
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "645320.zip",
+    "sha256": "9de2db1dde4ca8d2aea505345ec72e1070e95e85fcf1d835f30008e9fa875606",
+    "size": 560962
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

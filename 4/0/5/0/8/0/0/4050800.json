@@ -1,0 +1,19 @@
+{
+  "appid": 4050800,
+  "files": [
+    {
+      "name": "4050800.zip",
+      "sha256": "5e3e74da5b8bdc3c35f730320befdc104a10bdac172b7280709a77b59813f160",
+      "size": 101523
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4050800.zip",
+    "sha256": "5e3e74da5b8bdc3c35f730320befdc104a10bdac172b7280709a77b59813f160",
+    "size": 101523
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

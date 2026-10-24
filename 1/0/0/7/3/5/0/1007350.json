@@ -1,0 +1,19 @@
+{
+  "appid": 1007350,
+  "files": [
+    {
+      "name": "1007350.zip",
+      "sha256": "dea45782e1231850171d65f6ed4a5edaac9df41d7115a57cf0ddd303eefa8306",
+      "size": 128900
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1007350.zip",
+    "sha256": "dea45782e1231850171d65f6ed4a5edaac9df41d7115a57cf0ddd303eefa8306",
+    "size": 128900
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

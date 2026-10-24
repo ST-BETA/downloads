@@ -1,0 +1,19 @@
+{
+  "appid": 2850300,
+  "files": [
+    {
+      "name": "2850300.zip",
+      "sha256": "5f5672e32c0650334334fe23668f8fed48439096d2b1c397b48e49640ebdc72d",
+      "size": 130110
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2850300.zip",
+    "sha256": "5f5672e32c0650334334fe23668f8fed48439096d2b1c397b48e49640ebdc72d",
+    "size": 130110
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

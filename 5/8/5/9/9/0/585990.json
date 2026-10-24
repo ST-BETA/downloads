@@ -1,0 +1,19 @@
+{
+  "appid": 585990,
+  "files": [
+    {
+      "name": "585990.zip",
+      "sha256": "fb6ea22215959cd25d38b65e551bdce27391d36a1990cd3384aa9e8b0d1d696d",
+      "size": 226564
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "585990.zip",
+    "sha256": "fb6ea22215959cd25d38b65e551bdce27391d36a1990cd3384aa9e8b0d1d696d",
+    "size": 226564
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

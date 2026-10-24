@@ -1,0 +1,19 @@
+{
+  "appid": 363970,
+  "files": [
+    {
+      "name": "363970.zip",
+      "sha256": "b122e8a44a25557cd9a782490efd845c328ec4c2fb2de22f310ffa547de509ce",
+      "size": 261709
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "363970.zip",
+    "sha256": "b122e8a44a25557cd9a782490efd845c328ec4c2fb2de22f310ffa547de509ce",
+    "size": 261709
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

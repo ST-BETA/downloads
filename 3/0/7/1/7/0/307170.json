@@ -1,0 +1,19 @@
+{
+  "appid": 307170,
+  "files": [
+    {
+      "name": "307170.zip",
+      "sha256": "819a2486dc96b99a1863499f4c3ec8952a237f716823626e9cd83e4dd8d881cf",
+      "size": 117467
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "307170.zip",
+    "sha256": "819a2486dc96b99a1863499f4c3ec8952a237f716823626e9cd83e4dd8d881cf",
+    "size": 117467
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

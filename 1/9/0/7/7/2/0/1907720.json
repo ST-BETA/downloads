@@ -1,0 +1,19 @@
+{
+  "appid": 1907720,
+  "files": [
+    {
+      "name": "1907720.zip",
+      "sha256": "e2698c48f7daba04057e9c6d669096f0eb004a641f7902b1b41516fe851c10a5",
+      "size": 65198
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1907720.zip",
+    "sha256": "e2698c48f7daba04057e9c6d669096f0eb004a641f7902b1b41516fe851c10a5",
+    "size": 65198
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

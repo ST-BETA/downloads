@@ -1,0 +1,19 @@
+{
+  "appid": 48800,
+  "files": [
+    {
+      "name": "48800.zip",
+      "sha256": "87e128dc808d484f9ce22041cd0fd1e97d72dabe433eb16aff2050642dba184e",
+      "size": 2827560
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "48800.zip",
+    "sha256": "87e128dc808d484f9ce22041cd0fd1e97d72dabe433eb16aff2050642dba184e",
+    "size": 2827560
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

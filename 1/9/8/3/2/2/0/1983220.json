@@ -1,0 +1,19 @@
+{
+  "appid": 1983220,
+  "files": [
+    {
+      "name": "1983220.zip",
+      "sha256": "68ad0f4adf5fcb2bf1c7cbb500ede60d2fd60903f547bdcc82df9cca07603617",
+      "size": 546072
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1983220.zip",
+    "sha256": "68ad0f4adf5fcb2bf1c7cbb500ede60d2fd60903f547bdcc82df9cca07603617",
+    "size": 546072
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 573460,
+  "files": [
+    {
+      "name": "573460.zip",
+      "sha256": "695cc67dbc1728763f0c4c1777836da74e3951da11906bc044fd7568d64a105f",
+      "size": 63819
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "573460.zip",
+    "sha256": "695cc67dbc1728763f0c4c1777836da74e3951da11906bc044fd7568d64a105f",
+    "size": 63819
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

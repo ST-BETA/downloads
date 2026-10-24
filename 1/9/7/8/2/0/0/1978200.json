@@ -1,0 +1,19 @@
+{
+  "appid": 1978200,
+  "files": [
+    {
+      "name": "1978200.zip",
+      "sha256": "623d519fbef50eedeea923277e66c738f3cafd3825737729498cd1458e91ada8",
+      "size": 7318
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1978200.zip",
+    "sha256": "623d519fbef50eedeea923277e66c738f3cafd3825737729498cd1458e91ada8",
+    "size": 7318
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

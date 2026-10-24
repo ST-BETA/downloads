@@ -1,0 +1,19 @@
+{
+  "appid": 1702430,
+  "files": [
+    {
+      "name": "1702430.zip",
+      "sha256": "7fcebab56726958cc31cb1d014e188f65b85d6c4fc5bf9ee834297570ab0ca2c",
+      "size": 166065
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1702430.zip",
+    "sha256": "7fcebab56726958cc31cb1d014e188f65b85d6c4fc5bf9ee834297570ab0ca2c",
+    "size": 166065
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

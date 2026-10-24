@@ -1,0 +1,19 @@
+{
+  "appid": 1760240,
+  "files": [
+    {
+      "name": "1760240.zip",
+      "sha256": "23c533ea6f486338ddb0cf2c7a9056ab7e189a428135b3aaba9bac4ee01a3335",
+      "size": 114541
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1760240.zip",
+    "sha256": "23c533ea6f486338ddb0cf2c7a9056ab7e189a428135b3aaba9bac4ee01a3335",
+    "size": 114541
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

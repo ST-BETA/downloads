@@ -1,0 +1,19 @@
+{
+  "appid": 2000980,
+  "files": [
+    {
+      "name": "2000980.zip",
+      "sha256": "512ca2b9eca495d81b53c0af83e7466b187ad5c2264ff00ad876885af804237e",
+      "size": 44562
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2000980.zip",
+    "sha256": "512ca2b9eca495d81b53c0af83e7466b187ad5c2264ff00ad876885af804237e",
+    "size": 44562
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

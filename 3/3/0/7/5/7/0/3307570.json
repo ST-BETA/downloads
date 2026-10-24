@@ -1,0 +1,19 @@
+{
+  "appid": 3307570,
+  "files": [
+    {
+      "name": "3307570.zip",
+      "sha256": "321b9aed02cbabc931d98f117256924c128ee9ab5e79272ebd5355d990870ccd",
+      "size": 231864
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3307570.zip",
+    "sha256": "321b9aed02cbabc931d98f117256924c128ee9ab5e79272ebd5355d990870ccd",
+    "size": 231864
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

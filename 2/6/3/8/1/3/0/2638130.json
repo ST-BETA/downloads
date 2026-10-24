@@ -1,0 +1,19 @@
+{
+  "appid": 2638130,
+  "files": [
+    {
+      "name": "2638130.zip",
+      "sha256": "91db4728cebf1fbc188ef107aeae043643327ea37b89f9841c29e88ce422a9a8",
+      "size": 611981
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2638130.zip",
+    "sha256": "91db4728cebf1fbc188ef107aeae043643327ea37b89f9841c29e88ce422a9a8",
+    "size": 611981
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

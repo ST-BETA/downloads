@@ -1,0 +1,19 @@
+{
+  "appid": 485760,
+  "files": [
+    {
+      "name": "485760.zip",
+      "sha256": "1348170dfb79a7829e94608a5d55642caeb4c109dadefcd8751b18c85045edbc",
+      "size": 120596
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "485760.zip",
+    "sha256": "1348170dfb79a7829e94608a5d55642caeb4c109dadefcd8751b18c85045edbc",
+    "size": 120596
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

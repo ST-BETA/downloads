@@ -1,0 +1,19 @@
+{
+  "appid": 1753010,
+  "files": [
+    {
+      "name": "1753010.zip",
+      "sha256": "164d1e4d5d6b7d907983e35b9d0f0757912e250f8e17d153c98d52afedaa94b8",
+      "size": 26260
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1753010.zip",
+    "sha256": "164d1e4d5d6b7d907983e35b9d0f0757912e250f8e17d153c98d52afedaa94b8",
+    "size": 26260
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

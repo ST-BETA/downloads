@@ -1,0 +1,19 @@
+{
+  "appid": 1230800,
+  "files": [
+    {
+      "name": "1230800.zip",
+      "sha256": "518bb7e175609728e011895be07022351b10e846d1d89af34d456541f9d798c1",
+      "size": 30721
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1230800.zip",
+    "sha256": "518bb7e175609728e011895be07022351b10e846d1d89af34d456541f9d798c1",
+    "size": 30721
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

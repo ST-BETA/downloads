@@ -1,0 +1,19 @@
+{
+  "appid": 2065800,
+  "files": [
+    {
+      "name": "2065800.zip",
+      "sha256": "ba76aa8829015ef68c6322b8a40654d8e81178ff932e594465e14cb0bad19641",
+      "size": 733955
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2065800.zip",
+    "sha256": "ba76aa8829015ef68c6322b8a40654d8e81178ff932e594465e14cb0bad19641",
+    "size": 733955
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

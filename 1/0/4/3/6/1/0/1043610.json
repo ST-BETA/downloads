@@ -1,0 +1,19 @@
+{
+  "appid": 1043610,
+  "files": [
+    {
+      "name": "1043610.zip",
+      "sha256": "88488a0a44336fb3a245b97bf3e7931600311d6d907e1c697e716143db89c5a1",
+      "size": 1955768
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1043610.zip",
+    "sha256": "88488a0a44336fb3a245b97bf3e7931600311d6d907e1c697e716143db89c5a1",
+    "size": 1955768
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

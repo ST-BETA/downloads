@@ -1,0 +1,19 @@
+{
+  "appid": 1302440,
+  "files": [
+    {
+      "name": "1302440.zip",
+      "sha256": "540e4bd778fe5de87730d2519cec88aa90d5cac169d59a26ed4274283bbe43b4",
+      "size": 20233
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1302440.zip",
+    "sha256": "540e4bd778fe5de87730d2519cec88aa90d5cac169d59a26ed4274283bbe43b4",
+    "size": 20233
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

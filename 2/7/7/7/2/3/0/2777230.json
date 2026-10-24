@@ -1,0 +1,19 @@
+{
+  "appid": 2777230,
+  "files": [
+    {
+      "name": "2777230.zip",
+      "sha256": "74f4aaf2164fe2caa4e60b9228ba8f1e777d52083a94508c0dc3737773173cd5",
+      "size": 75857
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2777230.zip",
+    "sha256": "74f4aaf2164fe2caa4e60b9228ba8f1e777d52083a94508c0dc3737773173cd5",
+    "size": 75857
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

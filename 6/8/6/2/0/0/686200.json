@@ -1,0 +1,19 @@
+{
+  "appid": 686200,
+  "files": [
+    {
+      "name": "686200.zip",
+      "sha256": "4765263d8c82875be2d580de80bc992638f84f479ebc923bcf9d84c589110b4d",
+      "size": 109608
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "686200.zip",
+    "sha256": "4765263d8c82875be2d580de80bc992638f84f479ebc923bcf9d84c589110b4d",
+    "size": 109608
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

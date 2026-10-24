@@ -1,0 +1,19 @@
+{
+  "appid": 2150980,
+  "files": [
+    {
+      "name": "2150980.zip",
+      "sha256": "e16e506c2a62b8ffe908938a57c31886661859d0c039ba55707ba287baebca82",
+      "size": 48523
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2150980.zip",
+    "sha256": "e16e506c2a62b8ffe908938a57c31886661859d0c039ba55707ba287baebca82",
+    "size": 48523
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

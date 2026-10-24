@@ -1,0 +1,19 @@
+{
+  "appid": 2348100,
+  "files": [
+    {
+      "name": "2348100.zip",
+      "sha256": "bd707bbbcc4de811f5555792d05c72359fe1f1481607bf27114205e3ab7398d0",
+      "size": 105268
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2348100.zip",
+    "sha256": "bd707bbbcc4de811f5555792d05c72359fe1f1481607bf27114205e3ab7398d0",
+    "size": 105268
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

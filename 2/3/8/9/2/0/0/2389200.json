@@ -1,0 +1,19 @@
+{
+  "appid": 2389200,
+  "files": [
+    {
+      "name": "2389200.zip",
+      "sha256": "4eee849c16860c8855a61db779550d6d6032f99b6864b9daf5c3eea66e329154",
+      "size": 85725
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2389200.zip",
+    "sha256": "4eee849c16860c8855a61db779550d6d6032f99b6864b9daf5c3eea66e329154",
+    "size": 85725
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

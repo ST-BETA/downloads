@@ -1,0 +1,19 @@
+{
+  "appid": 569890,
+  "files": [
+    {
+      "name": "569890.zip",
+      "sha256": "7b59ba380c7dbc15c5fbb1ad3377c787e8b964e4cece995f72471479960aadb0",
+      "size": 352287
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "569890.zip",
+    "sha256": "7b59ba380c7dbc15c5fbb1ad3377c787e8b964e4cece995f72471479960aadb0",
+    "size": 352287
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

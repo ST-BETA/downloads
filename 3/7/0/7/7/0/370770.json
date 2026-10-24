@@ -1,0 +1,19 @@
+{
+  "appid": 370770,
+  "files": [
+    {
+      "name": "370770.zip",
+      "sha256": "a0028a4f4d18e47b2d7d7dbe138d32e5d0f93017abb658e5a7ad8c36993d2e53",
+      "size": 87990
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "370770.zip",
+    "sha256": "a0028a4f4d18e47b2d7d7dbe138d32e5d0f93017abb658e5a7ad8c36993d2e53",
+    "size": 87990
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

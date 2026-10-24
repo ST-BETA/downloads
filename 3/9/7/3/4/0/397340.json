@@ -1,0 +1,19 @@
+{
+  "appid": 397340,
+  "files": [
+    {
+      "name": "397340.zip",
+      "sha256": "805d44ca99e8d464946949eab12298352c1dd5f82fae1e7f230db67e5ba2a7de",
+      "size": 149062
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "397340.zip",
+    "sha256": "805d44ca99e8d464946949eab12298352c1dd5f82fae1e7f230db67e5ba2a7de",
+    "size": 149062
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 250720,
+  "files": [
+    {
+      "name": "250720.zip",
+      "sha256": "02a993395156c0083468fa66d9d6cc9efdd6f0fab66ee9b7cbd851fa268618da",
+      "size": 695965
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "250720.zip",
+    "sha256": "02a993395156c0083468fa66d9d6cc9efdd6f0fab66ee9b7cbd851fa268618da",
+    "size": 695965
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

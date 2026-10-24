@@ -1,0 +1,19 @@
+{
+  "appid": 2998880,
+  "files": [
+    {
+      "name": "2998880.zip",
+      "sha256": "8fd06fbc43c7c86fb767cc78b6ce3c00d728dde2284ad52e3bc46d5ca783334b",
+      "size": 208186
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2998880.zip",
+    "sha256": "8fd06fbc43c7c86fb767cc78b6ce3c00d728dde2284ad52e3bc46d5ca783334b",
+    "size": 208186
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 702790,
+  "files": [
+    {
+      "name": "702790.zip",
+      "sha256": "2eabb7f3333bfdcccef4f6dc2be2f46756810595b73424abc35c74ef9c315548",
+      "size": 147426
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "702790.zip",
+    "sha256": "2eabb7f3333bfdcccef4f6dc2be2f46756810595b73424abc35c74ef9c315548",
+    "size": 147426
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

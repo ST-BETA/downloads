@@ -1,0 +1,19 @@
+{
+  "appid": 774361,
+  "files": [
+    {
+      "name": "774361.zip",
+      "sha256": "68c0d219b8e2572dc8b2ef4b50876b89a30de2e486a77875941db10ada9a7d00",
+      "size": 210381
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "774361.zip",
+    "sha256": "68c0d219b8e2572dc8b2ef4b50876b89a30de2e486a77875941db10ada9a7d00",
+    "size": 210381
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

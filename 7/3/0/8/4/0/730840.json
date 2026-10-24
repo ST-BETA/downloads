@@ -1,0 +1,19 @@
+{
+  "appid": 730840,
+  "files": [
+    {
+      "name": "730840.zip",
+      "sha256": "41f99392e805317a99b0a2ce6fb4fa91431d4efa9fe1e194d886fb6da054760e",
+      "size": 25180
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "730840.zip",
+    "sha256": "41f99392e805317a99b0a2ce6fb4fa91431d4efa9fe1e194d886fb6da054760e",
+    "size": 25180
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

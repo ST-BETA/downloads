@@ -1,0 +1,19 @@
+{
+  "appid": 2260450,
+  "files": [
+    {
+      "name": "2260450.zip",
+      "sha256": "48b03e527b031dcdad8e42c7cd41fd3c8c4b9cc5558b70e22bcc69b19a7d14b4",
+      "size": 308871
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2260450.zip",
+    "sha256": "48b03e527b031dcdad8e42c7cd41fd3c8c4b9cc5558b70e22bcc69b19a7d14b4",
+    "size": 308871
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

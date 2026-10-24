@@ -1,0 +1,19 @@
+{
+  "appid": 384000,
+  "files": [
+    {
+      "name": "384000.zip",
+      "sha256": "8e90f9c9f1f722b19e5e67bb52c184331e91599453ab067eb2afece650482dd8",
+      "size": 344365
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "384000.zip",
+    "sha256": "8e90f9c9f1f722b19e5e67bb52c184331e91599453ab067eb2afece650482dd8",
+    "size": 344365
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

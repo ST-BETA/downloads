@@ -1,0 +1,18 @@
+{
+  "appid": 70600,
+  "files": [
+    {
+      "name": "70600.zip",
+      "size": 407226,
+      "sha256": "d40218ee02d1b1230bebd1b4ea863c1d038b0f535d180956c0eacf2ec7707153"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "70600.zip",
+    "size": 407226
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T05:09:01Z"
+}

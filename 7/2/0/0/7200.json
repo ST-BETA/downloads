@@ -1,0 +1,19 @@
+{
+  "appid": 7200,
+  "files": [
+    {
+      "name": "7200.zip",
+      "sha256": "1ca4d218c13624038dbaa6192cb117bcb582f7fc59ad631b9f2192f402fcabbc",
+      "size": 525623
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "7200.zip",
+    "sha256": "1ca4d218c13624038dbaa6192cb117bcb582f7fc59ad631b9f2192f402fcabbc",
+    "size": 525623
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

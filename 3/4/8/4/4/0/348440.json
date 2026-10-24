@@ -1,0 +1,19 @@
+{
+  "appid": 348440,
+  "files": [
+    {
+      "name": "348440.zip",
+      "sha256": "952d274cc964d60ad60cbe169b1cea1a3f1a3675dfa9211591e525d84fd7fef2",
+      "size": 7257
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "348440.zip",
+    "sha256": "952d274cc964d60ad60cbe169b1cea1a3f1a3675dfa9211591e525d84fd7fef2",
+    "size": 7257
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

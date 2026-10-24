@@ -1,0 +1,19 @@
+{
+  "appid": 3543000,
+  "files": [
+    {
+      "name": "3543000.zip",
+      "sha256": "8049254331090dcddbab3c6f285576624cbfc8cddbfdc9d06b3f66c3fc9c0631",
+      "size": 52100
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3543000.zip",
+    "sha256": "8049254331090dcddbab3c6f285576624cbfc8cddbfdc9d06b3f66c3fc9c0631",
+    "size": 52100
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

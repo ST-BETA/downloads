@@ -1,0 +1,19 @@
+{
+  "appid": 560740,
+  "files": [
+    {
+      "name": "560740.zip",
+      "sha256": "aca4ec3ef751d8b898b040b301db472a54e8eb02d3f2d257fe4bbe19343c55e4",
+      "size": 95867
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "560740.zip",
+    "sha256": "aca4ec3ef751d8b898b040b301db472a54e8eb02d3f2d257fe4bbe19343c55e4",
+    "size": 95867
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

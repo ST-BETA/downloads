@@ -1,0 +1,19 @@
+{
+  "appid": 2875210,
+  "files": [
+    {
+      "name": "2875210.zip",
+      "sha256": "f7a5014ef9b5c889cea74ce6d8d3713c57931dad584b5bb4b79cfc018c120bcf",
+      "size": 950
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2875210.zip",
+    "sha256": "f7a5014ef9b5c889cea74ce6d8d3713c57931dad584b5bb4b79cfc018c120bcf",
+    "size": 950
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

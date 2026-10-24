@@ -1,0 +1,19 @@
+{
+  "appid": 991490,
+  "files": [
+    {
+      "name": "991490.zip",
+      "sha256": "36050b63c775ec8ea6e5a8aa2a623784f68be33112adf3c2d3a8d6dfbe23d1cd",
+      "size": 25165
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "991490.zip",
+    "sha256": "36050b63c775ec8ea6e5a8aa2a623784f68be33112adf3c2d3a8d6dfbe23d1cd",
+    "size": 25165
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 865630,
+  "files": [
+    {
+      "name": "865630.zip",
+      "sha256": "7af3aaff4644ac17be00935ce9f00e63ae3a77b450bc6b80cc2d2fc24f646476",
+      "size": 5031
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "865630.zip",
+    "sha256": "7af3aaff4644ac17be00935ce9f00e63ae3a77b450bc6b80cc2d2fc24f646476",
+    "size": 5031
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

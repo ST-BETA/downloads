@@ -1,0 +1,19 @@
+{
+  "appid": 1091250,
+  "files": [
+    {
+      "name": "1091250.zip",
+      "sha256": "b090073b5acd02b693a88d4cea84e9d5bbff776dac177f3e12b552e2880b7632",
+      "size": 77388
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1091250.zip",
+    "sha256": "b090073b5acd02b693a88d4cea84e9d5bbff776dac177f3e12b552e2880b7632",
+    "size": 77388
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

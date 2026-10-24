@@ -1,0 +1,19 @@
+{
+  "appid": 1461420,
+  "files": [
+    {
+      "name": "1461420.zip",
+      "sha256": "3081f975fd9f487bf29e5de7e2fbbfc5e13ed3a1487a313219c2cc869add5ecd",
+      "size": 33205
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1461420.zip",
+    "sha256": "3081f975fd9f487bf29e5de7e2fbbfc5e13ed3a1487a313219c2cc869add5ecd",
+    "size": 33205
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

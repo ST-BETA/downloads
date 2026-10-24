@@ -1,0 +1,19 @@
+{
+  "appid": 600430,
+  "files": [
+    {
+      "name": "600430.zip",
+      "sha256": "e044f0b0b98d7e65a95b8585fd90e51568971bbb37ef6ff5342fd7a77ee89854",
+      "size": 37517
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "600430.zip",
+    "sha256": "e044f0b0b98d7e65a95b8585fd90e51568971bbb37ef6ff5342fd7a77ee89854",
+    "size": 37517
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

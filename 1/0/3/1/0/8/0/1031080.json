@@ -1,0 +1,19 @@
+{
+  "appid": 1031080,
+  "files": [
+    {
+      "name": "1031080.zip",
+      "sha256": "3bb6592dba5ca58ae45e3ff4db3525a9f49a5e0379a0f338c288b52dcb8ac710",
+      "size": 869275
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1031080.zip",
+    "sha256": "3bb6592dba5ca58ae45e3ff4db3525a9f49a5e0379a0f338c288b52dcb8ac710",
+    "size": 869275
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

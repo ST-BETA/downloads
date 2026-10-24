@@ -1,0 +1,19 @@
+{
+  "appid": 3141080,
+  "files": [
+    {
+      "name": "3141080.zip",
+      "sha256": "fec7ecb742cf0840b56b1843cb05c6bb7122b6daba910b6b2c9bd1d366ad46de",
+      "size": 27996
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3141080.zip",
+    "sha256": "fec7ecb742cf0840b56b1843cb05c6bb7122b6daba910b6b2c9bd1d366ad46de",
+    "size": 27996
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

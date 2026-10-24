@@ -1,0 +1,19 @@
+{
+  "appid": 1150400,
+  "files": [
+    {
+      "name": "1150400.zip",
+      "sha256": "29beec3cee58f6120f26713168f343e1b18d0e5854acaf29695461df5e155174",
+      "size": 111751
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1150400.zip",
+    "sha256": "29beec3cee58f6120f26713168f343e1b18d0e5854acaf29695461df5e155174",
+    "size": 111751
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

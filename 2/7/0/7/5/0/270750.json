@@ -1,0 +1,19 @@
+{
+  "appid": 270750,
+  "files": [
+    {
+      "name": "270750.zip",
+      "sha256": "79bc2428b5e3919fcc52e69bc3f072d2f0cd266db824700f6a886d0b78341e47",
+      "size": 246576
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "270750.zip",
+    "sha256": "79bc2428b5e3919fcc52e69bc3f072d2f0cd266db824700f6a886d0b78341e47",
+    "size": 246576
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

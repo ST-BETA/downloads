@@ -1,0 +1,19 @@
+{
+  "appid": 2806140,
+  "files": [
+    {
+      "name": "2806140.zip",
+      "sha256": "a741502fbc8aa5766e770b16002a3f21e1742deb83cb7aecf9002a675d62036a",
+      "size": 27525
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2806140.zip",
+    "sha256": "a741502fbc8aa5766e770b16002a3f21e1742deb83cb7aecf9002a675d62036a",
+    "size": 27525
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

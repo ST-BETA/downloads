@@ -1,0 +1,19 @@
+{
+  "appid": 509590,
+  "files": [
+    {
+      "name": "509590.zip",
+      "sha256": "89a3508f1db026448352305009356e989f944ec4f35469532e307177fae03e3c",
+      "size": 21621
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "509590.zip",
+    "sha256": "89a3508f1db026448352305009356e989f944ec4f35469532e307177fae03e3c",
+    "size": 21621
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

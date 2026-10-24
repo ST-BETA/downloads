@@ -1,0 +1,19 @@
+{
+  "appid": 10120,
+  "files": [
+    {
+      "name": "10120.zip",
+      "sha256": "ded19dd4cf3039dce21f1b7d40199c41d5c3fdf145f03bc0c77a6de0ad3b2da8",
+      "size": 49493
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "10120.zip",
+    "sha256": "ded19dd4cf3039dce21f1b7d40199c41d5c3fdf145f03bc0c77a6de0ad3b2da8",
+    "size": 49493
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 406220,
+  "files": [
+    {
+      "name": "406220.zip",
+      "sha256": "789cdc19e7e6d89aa1104949b08db1e672a518a9acb3d0543b79826a30d47777",
+      "size": 1859070
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "406220.zip",
+    "sha256": "789cdc19e7e6d89aa1104949b08db1e672a518a9acb3d0543b79826a30d47777",
+    "size": 1859070
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

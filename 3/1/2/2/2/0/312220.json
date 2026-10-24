@@ -1,0 +1,19 @@
+{
+  "appid": 312220,
+  "files": [
+    {
+      "name": "312220.zip",
+      "sha256": "74e8061b4f43837fedc7d0b50cf333bed83847e4dac8783a11e293ddfde15ecf",
+      "size": 13751
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "312220.zip",
+    "sha256": "74e8061b4f43837fedc7d0b50cf333bed83847e4dac8783a11e293ddfde15ecf",
+    "size": 13751
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

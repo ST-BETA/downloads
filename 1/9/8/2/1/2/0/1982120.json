@@ -1,0 +1,19 @@
+{
+  "appid": 1982120,
+  "files": [
+    {
+      "name": "1982120.zip",
+      "sha256": "5cb8edc781255f33aeac030570096c9b24df0ccd153a9d58dd8763895937ada9",
+      "size": 63863
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1982120.zip",
+    "sha256": "5cb8edc781255f33aeac030570096c9b24df0ccd153a9d58dd8763895937ada9",
+    "size": 63863
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

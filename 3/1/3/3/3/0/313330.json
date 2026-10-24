@@ -1,0 +1,19 @@
+{
+  "appid": 313330,
+  "files": [
+    {
+      "name": "313330.zip",
+      "sha256": "a5940d43ed92883a27bd91c129668f9509588c43d250fa91fe12d5969b4640c5",
+      "size": 4512
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "313330.zip",
+    "sha256": "a5940d43ed92883a27bd91c129668f9509588c43d250fa91fe12d5969b4640c5",
+    "size": 4512
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

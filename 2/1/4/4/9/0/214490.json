@@ -1,0 +1,19 @@
+{
+  "appid": 214490,
+  "files": [
+    {
+      "name": "214490.zip",
+      "sha256": "8fb53d0cb688c6011289a6b450d773cb21515fccbb2f92cd0fe953c4b09bdb7d",
+      "size": 8116383
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "214490.zip",
+    "sha256": "8fb53d0cb688c6011289a6b450d773cb21515fccbb2f92cd0fe953c4b09bdb7d",
+    "size": 8116383
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

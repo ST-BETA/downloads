@@ -1,0 +1,19 @@
+{
+  "appid": 1000380,
+  "files": [
+    {
+      "name": "1000380.zip",
+      "sha256": "24b249f3be7de0f6fc5d2151e24db358122440818193d68c99f165cc423ee9af",
+      "size": 43909
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1000380.zip",
+    "sha256": "24b249f3be7de0f6fc5d2151e24db358122440818193d68c99f165cc423ee9af",
+    "size": 43909
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

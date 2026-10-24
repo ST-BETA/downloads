@@ -1,0 +1,19 @@
+{
+  "appid": 2010700,
+  "files": [
+    {
+      "name": "2010700.zip",
+      "sha256": "313ea2aca314199672918ef11eb91507a78daff72bab9debf4c7445bb26798ac",
+      "size": 28030
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2010700.zip",
+    "sha256": "313ea2aca314199672918ef11eb91507a78daff72bab9debf4c7445bb26798ac",
+    "size": 28030
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

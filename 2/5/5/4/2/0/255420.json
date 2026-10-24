@@ -1,0 +1,19 @@
+{
+  "appid": 255420,
+  "files": [
+    {
+      "name": "255420.zip",
+      "sha256": "39a78ad64cef514f5c0b36025972eb66c0c585d8edfdc97fbded0254bd47839b",
+      "size": 71750
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "255420.zip",
+    "sha256": "39a78ad64cef514f5c0b36025972eb66c0c585d8edfdc97fbded0254bd47839b",
+    "size": 71750
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

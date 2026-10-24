@@ -1,0 +1,19 @@
+{
+  "appid": 417880,
+  "files": [
+    {
+      "name": "417880.zip",
+      "sha256": "83459c949afe716934c2e547e7c34ea4694fa793c25c79d74ef5d412d0185c4c",
+      "size": 293134
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "417880.zip",
+    "sha256": "83459c949afe716934c2e547e7c34ea4694fa793c25c79d74ef5d412d0185c4c",
+    "size": 293134
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

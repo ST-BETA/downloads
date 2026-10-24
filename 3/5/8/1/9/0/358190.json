@@ -1,0 +1,19 @@
+{
+  "appid": 358190,
+  "files": [
+    {
+      "name": "358190.zip",
+      "sha256": "b81648ed3f7b6f21f9a727087b54b139a4b33afa4eaf190862a88e22192c71cb",
+      "size": 74741
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "358190.zip",
+    "sha256": "b81648ed3f7b6f21f9a727087b54b139a4b33afa4eaf190862a88e22192c71cb",
+    "size": 74741
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

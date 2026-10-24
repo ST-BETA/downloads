@@ -1,0 +1,19 @@
+{
+  "appid": 1196260,
+  "files": [
+    {
+      "name": "1196260.zip",
+      "sha256": "2d48cd30f191069ce93d9e2324f2260984848897c691539e72d7e00dd018851d",
+      "size": 225601
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1196260.zip",
+    "sha256": "2d48cd30f191069ce93d9e2324f2260984848897c691539e72d7e00dd018851d",
+    "size": 225601
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1454010,
+  "files": [
+    {
+      "name": "1454010.zip",
+      "sha256": "33d82c217af02728409a596cbda38b627d9cb43c8bdcfda1c737082436d25c06",
+      "size": 2140096
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1454010.zip",
+    "sha256": "33d82c217af02728409a596cbda38b627d9cb43c8bdcfda1c737082436d25c06",
+    "size": 2140096
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

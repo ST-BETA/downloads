@@ -1,0 +1,19 @@
+{
+  "appid": 996250,
+  "files": [
+    {
+      "name": "996250.zip",
+      "sha256": "b0c02e89c2550a59611185cd512a1a3721bd6558d20f768c73c74520bb529496",
+      "size": 70506
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "996250.zip",
+    "sha256": "b0c02e89c2550a59611185cd512a1a3721bd6558d20f768c73c74520bb529496",
+    "size": 70506
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

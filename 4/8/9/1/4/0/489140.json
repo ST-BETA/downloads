@@ -1,0 +1,19 @@
+{
+  "appid": 489140,
+  "files": [
+    {
+      "name": "489140.zip",
+      "sha256": "e693f1e2752a0e68385a2bdeae5400bc0b09650127efc50426a7169bc444fdab",
+      "size": 680978
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "489140.zip",
+    "sha256": "e693f1e2752a0e68385a2bdeae5400bc0b09650127efc50426a7169bc444fdab",
+    "size": 680978
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

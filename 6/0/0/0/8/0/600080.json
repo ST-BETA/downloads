@@ -1,0 +1,19 @@
+{
+  "appid": 600080,
+  "files": [
+    {
+      "name": "600080.zip",
+      "sha256": "4e9ccd3fff0bf1ed6b3a25301f14e7691c531acc27ff4486ae4a7608da55f924",
+      "size": 246387
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "600080.zip",
+    "sha256": "4e9ccd3fff0bf1ed6b3a25301f14e7691c531acc27ff4486ae4a7608da55f924",
+    "size": 246387
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

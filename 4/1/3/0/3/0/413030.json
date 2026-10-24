@@ -1,0 +1,19 @@
+{
+  "appid": 413030,
+  "files": [
+    {
+      "name": "413030.zip",
+      "sha256": "2943fdf73c29b5abe3e71eef9cc7e92a106ca2ca5226540ac5531cdb499e7f90",
+      "size": 51285
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "413030.zip",
+    "sha256": "2943fdf73c29b5abe3e71eef9cc7e92a106ca2ca5226540ac5531cdb499e7f90",
+    "size": 51285
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

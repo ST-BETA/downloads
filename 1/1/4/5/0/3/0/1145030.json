@@ -1,0 +1,19 @@
+{
+  "appid": 1145030,
+  "files": [
+    {
+      "name": "1145030.zip",
+      "sha256": "4722d5fb8000c9dc89ea2a1179f58cd968f3baef671c55f7ee7035a952437c50",
+      "size": 139553
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1145030.zip",
+    "sha256": "4722d5fb8000c9dc89ea2a1179f58cd968f3baef671c55f7ee7035a952437c50",
+    "size": 139553
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

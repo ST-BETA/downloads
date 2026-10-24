@@ -1,0 +1,19 @@
+{
+  "appid": 1440360,
+  "files": [
+    {
+      "name": "1440360.zip",
+      "sha256": "450d1128c16887b88faadf37975217df004cd0c4127276e9d3e9314fe230443d",
+      "size": 34638
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1440360.zip",
+    "sha256": "450d1128c16887b88faadf37975217df004cd0c4127276e9d3e9314fe230443d",
+    "size": 34638
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

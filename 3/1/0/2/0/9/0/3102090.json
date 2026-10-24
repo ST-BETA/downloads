@@ -1,0 +1,19 @@
+{
+  "appid": 3102090,
+  "files": [
+    {
+      "name": "3102090.zip",
+      "sha256": "de97350f74d80927406fb690026df8c36964d86faa1ae85b36334def24b7665f",
+      "size": 280465
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3102090.zip",
+    "sha256": "de97350f74d80927406fb690026df8c36964d86faa1ae85b36334def24b7665f",
+    "size": 280465
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2052420,
+  "files": [
+    {
+      "name": "2052420.zip",
+      "sha256": "3eb4df162fed4cfa1a8db9b3d43453773454a2e15023f193db371ed59715e5a9",
+      "size": 839
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2052420.zip",
+    "sha256": "3eb4df162fed4cfa1a8db9b3d43453773454a2e15023f193db371ed59715e5a9",
+    "size": 839
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

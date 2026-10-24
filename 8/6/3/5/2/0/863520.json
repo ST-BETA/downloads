@@ -1,0 +1,19 @@
+{
+  "appid": 863520,
+  "files": [
+    {
+      "name": "863520.zip",
+      "sha256": "c5567c4107b85ce3c722a18670b631956eee34d8bace17c7c4c904076b814e09",
+      "size": 10623
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "863520.zip",
+    "sha256": "c5567c4107b85ce3c722a18670b631956eee34d8bace17c7c4c904076b814e09",
+    "size": 10623
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

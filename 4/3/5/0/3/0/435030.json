@@ -1,0 +1,19 @@
+{
+  "appid": 435030,
+  "files": [
+    {
+      "name": "435030.zip",
+      "sha256": "73ce112b1a6e6dde5ca27d600f3451030837bd14984d5468eabce2cf8618b83c",
+      "size": 75023
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "435030.zip",
+    "sha256": "73ce112b1a6e6dde5ca27d600f3451030837bd14984d5468eabce2cf8618b83c",
+    "size": 75023
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

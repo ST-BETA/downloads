@@ -1,0 +1,18 @@
+{
+  "appid": 33230,
+  "files": [
+    {
+      "name": "33230.zip",
+      "sha256": "a54f536d53cbe811978e523282916ffa993a6d83e976733ea38a3b811d84de4c",
+      "size": 802680
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "33230.zip",
+    "size": 802680
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

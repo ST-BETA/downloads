@@ -1,0 +1,19 @@
+{
+  "appid": 223280,
+  "files": [
+    {
+      "name": "223280.zip",
+      "sha256": "eeacc16cdde90d9dbe0479292fadef6348fcf94c4f768fd40620df5ce21bb993",
+      "size": 55929
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "223280.zip",
+    "sha256": "eeacc16cdde90d9dbe0479292fadef6348fcf94c4f768fd40620df5ce21bb993",
+    "size": 55929
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1899970,
+  "files": [
+    {
+      "name": "1899970.zip",
+      "sha256": "34eb1e86e498062f9e1369aac03f1d67a96524952e511023fcde3b969a1ddf64",
+      "size": 9217
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1899970.zip",
+    "sha256": "34eb1e86e498062f9e1369aac03f1d67a96524952e511023fcde3b969a1ddf64",
+    "size": 9217
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

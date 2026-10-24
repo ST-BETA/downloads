@@ -1,0 +1,19 @@
+{
+  "appid": 701990,
+  "files": [
+    {
+      "name": "701990.zip",
+      "sha256": "889f2df5597100758b0f211c4419e0366a8e85f95d0cdbbf2028a6413a3f6951",
+      "size": 1453148
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "701990.zip",
+    "sha256": "889f2df5597100758b0f211c4419e0366a8e85f95d0cdbbf2028a6413a3f6951",
+    "size": 1453148
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 467440,
+  "files": [
+    {
+      "name": "467440.zip",
+      "sha256": "c81d34dbaca100924db4614aa3510bd01b9304804d2b2074915403d0aab1825a",
+      "size": 298756
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "467440.zip",
+    "sha256": "c81d34dbaca100924db4614aa3510bd01b9304804d2b2074915403d0aab1825a",
+    "size": 298756
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

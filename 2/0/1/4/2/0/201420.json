@@ -1,0 +1,19 @@
+{
+  "appid": 201420,
+  "files": [
+    {
+      "name": "201420.zip",
+      "sha256": "4ffcbb97393fba85ba61dc2582a6ac089b88400f08a836f8e9f66ea7c22f69aa",
+      "size": 1949962
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "201420.zip",
+    "sha256": "4ffcbb97393fba85ba61dc2582a6ac089b88400f08a836f8e9f66ea7c22f69aa",
+    "size": 1949962
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

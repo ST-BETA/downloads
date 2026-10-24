@@ -1,0 +1,19 @@
+{
+  "appid": 2011580,
+  "files": [
+    {
+      "name": "2011580.zip",
+      "sha256": "d16f6956a4df55350a699a09fce175f1f750624597151f727962d9f54ee42763",
+      "size": 105884
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2011580.zip",
+    "sha256": "d16f6956a4df55350a699a09fce175f1f750624597151f727962d9f54ee42763",
+    "size": 105884
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1022499,
+  "files": [
+    {
+      "name": "1022499.zip",
+      "sha256": "c5d7e7df03eccaa309b08817baa883081c43351c84d3f4dba12175c1ff0974d1",
+      "size": 552
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1022499.zip",
+    "sha256": "c5d7e7df03eccaa309b08817baa883081c43351c84d3f4dba12175c1ff0974d1",
+    "size": 552
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

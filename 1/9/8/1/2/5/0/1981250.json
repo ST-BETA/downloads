@@ -1,0 +1,19 @@
+{
+  "appid": 1981250,
+  "files": [
+    {
+      "name": "1981250.zip",
+      "sha256": "0d901387495f6e98b323ced877df0a60bedb1ef82f384043111a82e47ee5fd54",
+      "size": 271866
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1981250.zip",
+    "sha256": "0d901387495f6e98b323ced877df0a60bedb1ef82f384043111a82e47ee5fd54",
+    "size": 271866
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

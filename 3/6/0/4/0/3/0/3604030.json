@@ -1,0 +1,19 @@
+{
+  "appid": 3604030,
+  "files": [
+    {
+      "name": "3604030.zip",
+      "sha256": "1eac0dcb2c797e28a424da90da4babd90ccd912dd045333a93ccfc2301183941",
+      "size": 130649
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3604030.zip",
+    "sha256": "1eac0dcb2c797e28a424da90da4babd90ccd912dd045333a93ccfc2301183941",
+    "size": 130649
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

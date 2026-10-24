@@ -1,0 +1,19 @@
+{
+  "appid": 498000,
+  "files": [
+    {
+      "name": "498000.zip",
+      "sha256": "80a9d7f8aef570f9326d2ce252063f06e375f581af71b644927cd30c91765033",
+      "size": 167553
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "498000.zip",
+    "sha256": "80a9d7f8aef570f9326d2ce252063f06e375f581af71b644927cd30c91765033",
+    "size": 167553
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

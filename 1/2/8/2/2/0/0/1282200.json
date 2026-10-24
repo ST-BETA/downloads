@@ -1,0 +1,19 @@
+{
+  "appid": 1282200,
+  "files": [
+    {
+      "name": "1282200.zip",
+      "sha256": "c9823b102edbf93052903f26c3c921c0b3185c107a08af3340eaa9d83097af7d",
+      "size": 229630
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1282200.zip",
+    "sha256": "c9823b102edbf93052903f26c3c921c0b3185c107a08af3340eaa9d83097af7d",
+    "size": 229630
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

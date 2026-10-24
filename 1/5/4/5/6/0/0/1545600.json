@@ -1,0 +1,19 @@
+{
+  "appid": 1545600,
+  "files": [
+    {
+      "name": "1545600.zip",
+      "sha256": "7a4e707956d4982edc8e5b69e4ee73098d7d833b21fe433d9bc86fe17eaa3252",
+      "size": 268398
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1545600.zip",
+    "sha256": "7a4e707956d4982edc8e5b69e4ee73098d7d833b21fe433d9bc86fe17eaa3252",
+    "size": 268398
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

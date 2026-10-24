@@ -1,0 +1,19 @@
+{
+  "appid": 790850,
+  "files": [
+    {
+      "name": "790850.zip",
+      "sha256": "172ceb85ebc20b547decc09ac28dd07ca28fdf7146efae48dca4827f73c3c25b",
+      "size": 36400
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "790850.zip",
+    "sha256": "172ceb85ebc20b547decc09ac28dd07ca28fdf7146efae48dca4827f73c3c25b",
+    "size": 36400
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 979890,
+  "files": [
+    {
+      "name": "979890.zip",
+      "sha256": "23c8c1ab4d6a1928827d70f935659cd12bb178caa2edaffa69df439a803e9467",
+      "size": 358557
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "979890.zip",
+    "sha256": "23c8c1ab4d6a1928827d70f935659cd12bb178caa2edaffa69df439a803e9467",
+    "size": 358557
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 654050,
+  "files": [
+    {
+      "name": "654050.zip",
+      "sha256": "d09043afa1cc40b475ce4f53fcdc3d8d8fc9383b05359074d1d1217459f553de",
+      "size": 48077
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "654050.zip",
+    "sha256": "d09043afa1cc40b475ce4f53fcdc3d8d8fc9383b05359074d1d1217459f553de",
+    "size": 48077
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

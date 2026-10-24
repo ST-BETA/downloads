@@ -1,0 +1,19 @@
+{
+  "appid": 1302100,
+  "files": [
+    {
+      "name": "1302100.zip",
+      "sha256": "6bb0d993d70554e852016e43c603bc696d0b8590859280a5649688f049c854a8",
+      "size": 169340
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1302100.zip",
+    "sha256": "6bb0d993d70554e852016e43c603bc696d0b8590859280a5649688f049c854a8",
+    "size": 169340
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

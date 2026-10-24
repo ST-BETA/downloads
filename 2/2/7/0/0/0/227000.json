@@ -1,0 +1,19 @@
+{
+  "appid": 227000,
+  "files": [
+    {
+      "name": "227000.zip",
+      "sha256": "11f1b6373a7672c41ecca9b90ca737ec246d9e3e10a2f1ae68ad222d80223b24",
+      "size": 253944
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "227000.zip",
+    "sha256": "11f1b6373a7672c41ecca9b90ca737ec246d9e3e10a2f1ae68ad222d80223b24",
+    "size": 253944
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

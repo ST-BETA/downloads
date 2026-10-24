@@ -1,0 +1,19 @@
+{
+  "appid": 511570,
+  "files": [
+    {
+      "name": "511570.zip",
+      "sha256": "bac946d238deca6448b142ac3ee95624b9df678672aa5abc6f6a30ac3c2e202c",
+      "size": 187144
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "511570.zip",
+    "sha256": "bac946d238deca6448b142ac3ee95624b9df678672aa5abc6f6a30ac3c2e202c",
+    "size": 187144
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

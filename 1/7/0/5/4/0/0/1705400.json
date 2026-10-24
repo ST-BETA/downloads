@@ -1,0 +1,19 @@
+{
+  "appid": 1705400,
+  "files": [
+    {
+      "name": "1705400.zip",
+      "sha256": "f65be2a304fed9dcbb3250c400c8742f46c53f65cd1e4a3422538cca99098429",
+      "size": 89087
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1705400.zip",
+    "sha256": "f65be2a304fed9dcbb3250c400c8742f46c53f65cd1e4a3422538cca99098429",
+    "size": 89087
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

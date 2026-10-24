@@ -1,0 +1,19 @@
+{
+  "appid": 4706950,
+  "files": [
+    {
+      "name": "4706950.zip",
+      "sha256": "f309c328ccced1ab98734994e3a917d3f4e7b57cc6efb75dffff32e26f459c05",
+      "size": 120323
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4706950.zip",
+    "sha256": "f309c328ccced1ab98734994e3a917d3f4e7b57cc6efb75dffff32e26f459c05",
+    "size": 120323
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

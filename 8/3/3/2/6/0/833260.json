@@ -1,0 +1,19 @@
+{
+  "appid": 833260,
+  "files": [
+    {
+      "name": "833260.zip",
+      "sha256": "729fe0d742fda88e85ba2acd0825d04ffd23b958ca5eeefbcaf55fb9210aee4f",
+      "size": 15878
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "833260.zip",
+    "sha256": "729fe0d742fda88e85ba2acd0825d04ffd23b958ca5eeefbcaf55fb9210aee4f",
+    "size": 15878
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

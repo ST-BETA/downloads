@@ -1,0 +1,19 @@
+{
+  "appid": 32670,
+  "files": [
+    {
+      "name": "32670.zip",
+      "sha256": "98b456ded84526c3fe36dcedbb98dc439e86c8ffc22d51eae21a5bd0e863c3c1",
+      "size": 40215
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "32670.zip",
+    "sha256": "98b456ded84526c3fe36dcedbb98dc439e86c8ffc22d51eae21a5bd0e863c3c1",
+    "size": 40215
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

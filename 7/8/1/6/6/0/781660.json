@@ -1,0 +1,19 @@
+{
+  "appid": 781660,
+  "files": [
+    {
+      "name": "781660.zip",
+      "sha256": "92108a5004fba78949ad78821f459f51c312891a666f1d545cc63bb0e362fc9d",
+      "size": 22354
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "781660.zip",
+    "sha256": "92108a5004fba78949ad78821f459f51c312891a666f1d545cc63bb0e362fc9d",
+    "size": 22354
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 207140,
+  "files": [
+    {
+      "name": "207140.zip",
+      "sha256": "45023a7e4e1d635bac57956ebcdbbae482fc102794e62f3fd14bbba627bc9a30",
+      "size": 1474014
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "207140.zip",
+    "sha256": "45023a7e4e1d635bac57956ebcdbbae482fc102794e62f3fd14bbba627bc9a30",
+    "size": 1474014
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

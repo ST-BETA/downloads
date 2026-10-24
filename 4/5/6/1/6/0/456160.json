@@ -1,0 +1,19 @@
+{
+  "appid": 456160,
+  "files": [
+    {
+      "name": "456160.zip",
+      "sha256": "f1dd3d5c706a58ea6e11140226fc1845e8ae69c7e398696e8705fb37b586f17c",
+      "size": 16138
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "456160.zip",
+    "sha256": "f1dd3d5c706a58ea6e11140226fc1845e8ae69c7e398696e8705fb37b586f17c",
+    "size": 16138
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

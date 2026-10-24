@@ -1,0 +1,19 @@
+{
+  "appid": 1990580,
+  "files": [
+    {
+      "name": "1990580.zip",
+      "sha256": "b7516e115cbb548064ad3784b50b2a84879f460c74a540c5e5743e83fa834dbd",
+      "size": 293966
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1990580.zip",
+    "sha256": "b7516e115cbb548064ad3784b50b2a84879f460c74a540c5e5743e83fa834dbd",
+    "size": 293966
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

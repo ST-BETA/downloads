@@ -1,0 +1,19 @@
+{
+  "appid": 981450,
+  "files": [
+    {
+      "name": "981450.zip",
+      "sha256": "ec3669953e3a2325ee918cd406dd698df9b6fe7d5c78ef2f2d234abd407869a5",
+      "size": 3379
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "981450.zip",
+    "sha256": "ec3669953e3a2325ee918cd406dd698df9b6fe7d5c78ef2f2d234abd407869a5",
+    "size": 3379
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

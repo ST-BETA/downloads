@@ -1,0 +1,19 @@
+{
+  "appid": 2302820,
+  "files": [
+    {
+      "name": "2302820.zip",
+      "sha256": "05ac843444609014f7e5b5007e1b2f95d68fb8ad6421c257de509d2f71d99b2a",
+      "size": 448263
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2302820.zip",
+    "sha256": "05ac843444609014f7e5b5007e1b2f95d68fb8ad6421c257de509d2f71d99b2a",
+    "size": 448263
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

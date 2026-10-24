@@ -1,0 +1,19 @@
+{
+  "appid": 793940,
+  "files": [
+    {
+      "name": "793940.zip",
+      "sha256": "a64f0a35f1a1aab15b88b82fb706b361cbd0adf117e72295bf9cbcd75a6788fc",
+      "size": 26776
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "793940.zip",
+    "sha256": "a64f0a35f1a1aab15b88b82fb706b361cbd0adf117e72295bf9cbcd75a6788fc",
+    "size": 26776
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

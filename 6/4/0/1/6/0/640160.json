@@ -1,0 +1,19 @@
+{
+  "appid": 640160,
+  "files": [
+    {
+      "name": "640160.zip",
+      "sha256": "ebf8a265011b2bd0326bf07f53e4f8db0820d9c961af3216b4b7af56a0f99b16",
+      "size": 32347
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "640160.zip",
+    "sha256": "ebf8a265011b2bd0326bf07f53e4f8db0820d9c961af3216b4b7af56a0f99b16",
+    "size": 32347
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

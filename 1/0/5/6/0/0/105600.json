@@ -1,0 +1,18 @@
+{
+  "appid": 105600,
+  "files": [
+    {
+      "name": "105600.zip",
+      "size": 6484372,
+      "sha256": "5ed838492be68d085dc86d01bae4a614ec935738c3b9d76fd4c79f7731897a4d"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "105600.zip",
+    "size": 6484372
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-23T02:50:57Z"
+}

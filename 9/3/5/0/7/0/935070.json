@@ -1,0 +1,19 @@
+{
+  "appid": 935070,
+  "files": [
+    {
+      "name": "935070.zip",
+      "sha256": "fc2b96904c509ce880292ea3215b14b6de880512d77b0c80d460f8a0016082e1",
+      "size": 186103
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "935070.zip",
+    "sha256": "fc2b96904c509ce880292ea3215b14b6de880512d77b0c80d460f8a0016082e1",
+    "size": 186103
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

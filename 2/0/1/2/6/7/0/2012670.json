@@ -1,0 +1,19 @@
+{
+  "appid": 2012670,
+  "files": [
+    {
+      "name": "2012670.zip",
+      "sha256": "b8d8b13ad9871c332bb1888904b4cdc0834db72c6a69e9f5b4959f45851bdab5",
+      "size": 140860
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2012670.zip",
+    "sha256": "b8d8b13ad9871c332bb1888904b4cdc0834db72c6a69e9f5b4959f45851bdab5",
+    "size": 140860
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

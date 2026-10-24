@@ -1,0 +1,19 @@
+{
+  "appid": 4047180,
+  "files": [
+    {
+      "name": "4047180.zip",
+      "sha256": "0cc050fdea6566fa7c5afdec2a7775134b5bf268ae48761c3cf72fb2a515c503",
+      "size": 333070
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4047180.zip",
+    "sha256": "0cc050fdea6566fa7c5afdec2a7775134b5bf268ae48761c3cf72fb2a515c503",
+    "size": 333070
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

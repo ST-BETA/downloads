@@ -1,0 +1,19 @@
+{
+  "appid": 27600,
+  "files": [
+    {
+      "name": "27600.zip",
+      "sha256": "831fabea874bd4ca72b771b537e6b4c738c5a853956f870f9328bfe3448b0c42",
+      "size": 5522
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "27600.zip",
+    "sha256": "831fabea874bd4ca72b771b537e6b4c738c5a853956f870f9328bfe3448b0c42",
+    "size": 5522
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

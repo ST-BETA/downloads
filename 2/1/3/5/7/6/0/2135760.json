@@ -1,0 +1,19 @@
+{
+  "appid": 2135760,
+  "files": [
+    {
+      "name": "2135760.zip",
+      "sha256": "eee954aff33fcb39b5ff381aaac8d3d54583b9c7176c25de20687264577c0a7b",
+      "size": 32372
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2135760.zip",
+    "sha256": "eee954aff33fcb39b5ff381aaac8d3d54583b9c7176c25de20687264577c0a7b",
+    "size": 32372
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

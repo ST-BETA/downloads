@@ -1,0 +1,19 @@
+{
+  "appid": 828420,
+  "files": [
+    {
+      "name": "828420.zip",
+      "sha256": "da9a70a08255f412588b01469eef4496b6d2d4705fa34405be36dc3159542de8",
+      "size": 23079
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "828420.zip",
+    "sha256": "da9a70a08255f412588b01469eef4496b6d2d4705fa34405be36dc3159542de8",
+    "size": 23079
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

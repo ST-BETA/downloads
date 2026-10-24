@@ -1,0 +1,19 @@
+{
+  "appid": 1402900,
+  "files": [
+    {
+      "name": "1402900.zip",
+      "sha256": "732e58fe10a222c8ab037f8a2e7a8e00d389169d92f87a976f4c7f90c22c053e",
+      "size": 260388
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1402900.zip",
+    "sha256": "732e58fe10a222c8ab037f8a2e7a8e00d389169d92f87a976f4c7f90c22c053e",
+    "size": 260388
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

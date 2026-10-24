@@ -1,0 +1,19 @@
+{
+  "appid": 743960,
+  "files": [
+    {
+      "name": "743960.zip",
+      "sha256": "1d6edbbda09dd7cb07f72ffe34ad09dbaf856789a16f7216a1ddf663df81035a",
+      "size": 190257
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "743960.zip",
+    "sha256": "1d6edbbda09dd7cb07f72ffe34ad09dbaf856789a16f7216a1ddf663df81035a",
+    "size": 190257
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

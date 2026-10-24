@@ -1,0 +1,19 @@
+{
+  "appid": 2627280,
+  "files": [
+    {
+      "name": "2627280.zip",
+      "sha256": "7569bd78efc982f718ed048ce2d5da353a3891a4eef8d3bf02f291b008af1ab4",
+      "size": 48248
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2627280.zip",
+    "sha256": "7569bd78efc982f718ed048ce2d5da353a3891a4eef8d3bf02f291b008af1ab4",
+    "size": 48248
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

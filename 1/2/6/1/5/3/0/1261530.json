@@ -1,0 +1,19 @@
+{
+  "appid": 1261530,
+  "files": [
+    {
+      "name": "1261530.zip",
+      "sha256": "c249b1538e943ff99ec01efdcaa7d7b6f887619d21790a9901dde6853f09cfae",
+      "size": 128476
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1261530.zip",
+    "sha256": "c249b1538e943ff99ec01efdcaa7d7b6f887619d21790a9901dde6853f09cfae",
+    "size": 128476
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

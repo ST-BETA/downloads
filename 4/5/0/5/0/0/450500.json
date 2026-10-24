@@ -1,0 +1,18 @@
+{
+  "appid": 450500,
+  "files": [
+    {
+      "name": "450500.zip",
+      "size": 39828,
+      "sha256": "8b26cc7acd345afaddb6ee81e5336edef4a06b13122a61900fca35d43259dcf5"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "450500.zip",
+    "size": 39828
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-23T19:15:58Z"
+}

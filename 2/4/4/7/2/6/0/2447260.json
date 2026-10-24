@@ -1,0 +1,19 @@
+{
+  "appid": 2447260,
+  "files": [
+    {
+      "name": "2447260.zip",
+      "sha256": "725fce5ebba17739a916a09b355e5083539646066068f5a087fdbdb5b11d8e66",
+      "size": 86639
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2447260.zip",
+    "sha256": "725fce5ebba17739a916a09b355e5083539646066068f5a087fdbdb5b11d8e66",
+    "size": 86639
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

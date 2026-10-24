@@ -1,0 +1,19 @@
+{
+  "appid": 612240,
+  "files": [
+    {
+      "name": "612240.zip",
+      "sha256": "350f4d7e1279969319e320bdd2cccfe577b40423960d6c732e21de50f77cc94a",
+      "size": 34036
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "612240.zip",
+    "sha256": "350f4d7e1279969319e320bdd2cccfe577b40423960d6c732e21de50f77cc94a",
+    "size": 34036
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 367550,
+  "files": [
+    {
+      "name": "367550.zip",
+      "sha256": "d492df3dec93623f56a7986106c9ba858a4b79a145bf24491ccefdd66ac1d0e4",
+      "size": 779304
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "367550.zip",
+    "sha256": "d492df3dec93623f56a7986106c9ba858a4b79a145bf24491ccefdd66ac1d0e4",
+    "size": 779304
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

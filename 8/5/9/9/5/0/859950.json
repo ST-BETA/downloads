@@ -1,0 +1,19 @@
+{
+  "appid": 859950,
+  "files": [
+    {
+      "name": "859950.zip",
+      "sha256": "13b63a51a2bc3782c864cd259c398503d71103eafffe4dbe83f0634586a7dded",
+      "size": 81765
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "859950.zip",
+    "sha256": "13b63a51a2bc3782c864cd259c398503d71103eafffe4dbe83f0634586a7dded",
+    "size": 81765
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

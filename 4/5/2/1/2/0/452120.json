@@ -1,0 +1,19 @@
+{
+  "appid": 452120,
+  "files": [
+    {
+      "name": "452120.zip",
+      "sha256": "77dcb622750d4e6e5e2c9346a2bb4d71db611e8e685051612fbdcad1767bcb62",
+      "size": 30669
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "452120.zip",
+    "sha256": "77dcb622750d4e6e5e2c9346a2bb4d71db611e8e685051612fbdcad1767bcb62",
+    "size": 30669
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 508630,
+  "files": [
+    {
+      "name": "508630.zip",
+      "sha256": "df2c037a15947d2bfe9300c9de85a1c56d415cd10b0ddffcd8af0cddccb24947",
+      "size": 4337
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "508630.zip",
+    "sha256": "df2c037a15947d2bfe9300c9de85a1c56d415cd10b0ddffcd8af0cddccb24947",
+    "size": 4337
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 821330,
+  "files": [
+    {
+      "name": "821330.zip",
+      "sha256": "3975d0a2f470532fc685ecc322d1f14f571939dc714c5cdbc22be9f0bbe5893b",
+      "size": 180083
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "821330.zip",
+    "sha256": "3975d0a2f470532fc685ecc322d1f14f571939dc714c5cdbc22be9f0bbe5893b",
+    "size": 180083
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

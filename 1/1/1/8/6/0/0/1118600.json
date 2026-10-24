@@ -1,0 +1,19 @@
+{
+  "appid": 1118600,
+  "files": [
+    {
+      "name": "1118600.zip",
+      "sha256": "aca8c5c13823309ad58a158066453639fefb95e4da485bc793cfd8f42260339d",
+      "size": 194726
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1118600.zip",
+    "sha256": "aca8c5c13823309ad58a158066453639fefb95e4da485bc793cfd8f42260339d",
+    "size": 194726
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

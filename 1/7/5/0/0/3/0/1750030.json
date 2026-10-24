@@ -1,0 +1,19 @@
+{
+  "appid": 1750030,
+  "files": [
+    {
+      "name": "1750030.zip",
+      "sha256": "c3554bbd3ccc496023310f1775dec699dd540d3ee06e07dc9bab8974e7288e0c",
+      "size": 1001703
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1750030.zip",
+    "sha256": "c3554bbd3ccc496023310f1775dec699dd540d3ee06e07dc9bab8974e7288e0c",
+    "size": 1001703
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

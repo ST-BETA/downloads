@@ -1,0 +1,19 @@
+{
+  "appid": 1072000,
+  "files": [
+    {
+      "name": "1072000.zip",
+      "sha256": "988e45584dc58b71c9f71e924cf238bb2b8f4409065308ed2436d9e8bda71e88",
+      "size": 76845
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1072000.zip",
+    "sha256": "988e45584dc58b71c9f71e924cf238bb2b8f4409065308ed2436d9e8bda71e88",
+    "size": 76845
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

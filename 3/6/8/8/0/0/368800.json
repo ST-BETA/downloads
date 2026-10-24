@@ -1,0 +1,19 @@
+{
+  "appid": 368800,
+  "files": [
+    {
+      "name": "368800.zip",
+      "sha256": "20e2096203fb7eb72ebcb88aa48f207db49c138b5dde47d117d85dc0622bd4d8",
+      "size": 170649
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "368800.zip",
+    "sha256": "20e2096203fb7eb72ebcb88aa48f207db49c138b5dde47d117d85dc0622bd4d8",
+    "size": 170649
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

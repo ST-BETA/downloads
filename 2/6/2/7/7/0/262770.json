@@ -1,0 +1,19 @@
+{
+  "appid": 262770,
+  "files": [
+    {
+      "name": "262770.zip",
+      "sha256": "be5fcd9f65b9c1d409cfa686f96bb5ec751f87543cc92ac4a0e4532575f9949f",
+      "size": 366268
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "262770.zip",
+    "sha256": "be5fcd9f65b9c1d409cfa686f96bb5ec751f87543cc92ac4a0e4532575f9949f",
+    "size": 366268
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

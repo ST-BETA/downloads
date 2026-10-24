@@ -1,0 +1,19 @@
+{
+  "appid": 703630,
+  "files": [
+    {
+      "name": "703630.zip",
+      "sha256": "68c1e0dd776d434877516172a0d50924daa92468720679e47eaa854ad123f341",
+      "size": 7163
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "703630.zip",
+    "sha256": "68c1e0dd776d434877516172a0d50924daa92468720679e47eaa854ad123f341",
+    "size": 7163
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

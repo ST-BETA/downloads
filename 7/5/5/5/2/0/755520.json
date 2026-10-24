@@ -1,0 +1,19 @@
+{
+  "appid": 755520,
+  "files": [
+    {
+      "name": "755520.zip",
+      "sha256": "6001a518bba69d7f69217833019acef1f4c969629c0500421927ee7bedfd3b67",
+      "size": 14342
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "755520.zip",
+    "sha256": "6001a518bba69d7f69217833019acef1f4c969629c0500421927ee7bedfd3b67",
+    "size": 14342
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

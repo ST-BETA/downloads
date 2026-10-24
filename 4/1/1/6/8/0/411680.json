@@ -1,0 +1,19 @@
+{
+  "appid": 411680,
+  "files": [
+    {
+      "name": "411680.zip",
+      "sha256": "29b66fa5759aef20640a5d1a48e65842be37c3d74216dc77d9f56c23d93f857a",
+      "size": 184687
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "411680.zip",
+    "sha256": "29b66fa5759aef20640a5d1a48e65842be37c3d74216dc77d9f56c23d93f857a",
+    "size": 184687
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

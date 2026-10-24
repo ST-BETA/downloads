@@ -1,0 +1,19 @@
+{
+  "appid": 384200,
+  "files": [
+    {
+      "name": "384200.zip",
+      "sha256": "f15b22eff2900a3a41772526b032659c3b127be155d8c4566f8cb65d49662b0c",
+      "size": 623904
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "384200.zip",
+    "sha256": "f15b22eff2900a3a41772526b032659c3b127be155d8c4566f8cb65d49662b0c",
+    "size": 623904
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

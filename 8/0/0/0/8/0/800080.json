@@ -1,0 +1,18 @@
+{
+  "appid": 800080,
+  "files": [
+    {
+      "name": "800080.zip",
+      "sha256": "00f2ca8ec81bb09a75180aba381e2df7fd9181fd8829b53e22bd0c85e040649f",
+      "size": 3122801
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "800080.zip",
+    "size": 3122801
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

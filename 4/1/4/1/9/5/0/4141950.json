@@ -1,0 +1,19 @@
+{
+  "appid": 4141950,
+  "files": [
+    {
+      "name": "4141950.zip",
+      "sha256": "155c4b5fa7fff1dcd10fef33b770dc8d3dd336f143f943eaa77f036212a0b8e6",
+      "size": 155448
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4141950.zip",
+    "sha256": "155c4b5fa7fff1dcd10fef33b770dc8d3dd336f143f943eaa77f036212a0b8e6",
+    "size": 155448
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

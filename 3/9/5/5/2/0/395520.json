@@ -1,0 +1,19 @@
+{
+  "appid": 395520,
+  "files": [
+    {
+      "name": "395520.zip",
+      "sha256": "2821ad87bc99789bf3e82e42f80ef4abc25cda2f5ecc140896d1ba51ca612a06",
+      "size": 77463
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "395520.zip",
+    "sha256": "2821ad87bc99789bf3e82e42f80ef4abc25cda2f5ecc140896d1ba51ca612a06",
+    "size": 77463
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

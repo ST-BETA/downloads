@@ -1,0 +1,18 @@
+{
+  "appid": 102600,
+  "files": [
+    {
+      "name": "102600.zip",
+      "size": 288095,
+      "sha256": "299df336c712ccd630e4d978e7b1423ebc7a9edec169b5cd10065f33315c157a"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "102600.zip",
+    "size": 288095
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T05:35:59Z"
+}

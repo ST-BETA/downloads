@@ -1,0 +1,19 @@
+{
+  "appid": 2331960,
+  "files": [
+    {
+      "name": "2331960.zip",
+      "sha256": "0987c5f22445e81280d2ed5b6c6ca451aef7160286ad4513a356ccb7c58ee099",
+      "size": 57535
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2331960.zip",
+    "sha256": "0987c5f22445e81280d2ed5b6c6ca451aef7160286ad4513a356ccb7c58ee099",
+    "size": 57535
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

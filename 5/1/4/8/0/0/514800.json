@@ -1,0 +1,19 @@
+{
+  "appid": 514800,
+  "files": [
+    {
+      "name": "514800.zip",
+      "sha256": "ebf31dd1f577a26237bb0aa0cd7f487e515502f90efc619dee19ea48a5e25298",
+      "size": 6614
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "514800.zip",
+    "sha256": "ebf31dd1f577a26237bb0aa0cd7f487e515502f90efc619dee19ea48a5e25298",
+    "size": 6614
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1925100,
+  "files": [
+    {
+      "name": "1925100.zip",
+      "sha256": "b2e5d391702468cf8b9846232a513382555b6bd92af08b54a17e2ae11baa03c5",
+      "size": 47211
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1925100.zip",
+    "sha256": "b2e5d391702468cf8b9846232a513382555b6bd92af08b54a17e2ae11baa03c5",
+    "size": 47211
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 742340,
+  "files": [
+    {
+      "name": "742340.zip",
+      "sha256": "74964c06e2b98fab4059291d0dd96f666da09cd5588ef72d83a175a3cc5ed40a",
+      "size": 2265
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "742340.zip",
+    "sha256": "74964c06e2b98fab4059291d0dd96f666da09cd5588ef72d83a175a3cc5ed40a",
+    "size": 2265
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

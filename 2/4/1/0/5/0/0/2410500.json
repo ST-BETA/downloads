@@ -1,0 +1,19 @@
+{
+  "appid": 2410500,
+  "files": [
+    {
+      "name": "2410500.zip",
+      "sha256": "82db0b23a197d3a3dc360206c5d8c2c83f191d862cc597f0c7cf1f097687007c",
+      "size": 366378
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2410500.zip",
+    "sha256": "82db0b23a197d3a3dc360206c5d8c2c83f191d862cc597f0c7cf1f097687007c",
+    "size": 366378
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

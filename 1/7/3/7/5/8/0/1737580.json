@@ -1,0 +1,19 @@
+{
+  "appid": 1737580,
+  "files": [
+    {
+      "name": "1737580.zip",
+      "sha256": "815e429e30978878eb789718dd8b26f7425f559d5a79e9107c8e4dfefbab7dbe",
+      "size": 155724
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1737580.zip",
+    "sha256": "815e429e30978878eb789718dd8b26f7425f559d5a79e9107c8e4dfefbab7dbe",
+    "size": 155724
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

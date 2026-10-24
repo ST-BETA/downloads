@@ -1,0 +1,19 @@
+{
+  "appid": 662390,
+  "files": [
+    {
+      "name": "662390.zip",
+      "sha256": "7b38c375ff9a3e976cba45ed2ecdceb313480c5374b8bd326ba0d35e50282bd9",
+      "size": 82765
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "662390.zip",
+    "sha256": "7b38c375ff9a3e976cba45ed2ecdceb313480c5374b8bd326ba0d35e50282bd9",
+    "size": 82765
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

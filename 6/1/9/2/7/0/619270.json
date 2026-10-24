@@ -1,0 +1,19 @@
+{
+  "appid": 619270,
+  "files": [
+    {
+      "name": "619270.zip",
+      "sha256": "09aa736ee6a10bdd8ffe572d0dec628c5201b924d52d5e6c3e056857e8305fc6",
+      "size": 619847
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "619270.zip",
+    "sha256": "09aa736ee6a10bdd8ffe572d0dec628c5201b924d52d5e6c3e056857e8305fc6",
+    "size": 619847
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

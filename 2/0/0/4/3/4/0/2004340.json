@@ -1,0 +1,19 @@
+{
+  "appid": 2004340,
+  "files": [
+    {
+      "name": "2004340.zip",
+      "sha256": "50412ca517471d10242e0f364cf4c2fe0dcfd85e0f8167dc82d6aac73fc53147",
+      "size": 52804
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2004340.zip",
+    "sha256": "50412ca517471d10242e0f364cf4c2fe0dcfd85e0f8167dc82d6aac73fc53147",
+    "size": 52804
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 326130,
+  "files": [
+    {
+      "name": "326130.zip",
+      "sha256": "46674ca69dceb2d566afd254be12fdccaed2a1f1c9219f9c148936c0e18aa5e2",
+      "size": 61476
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "326130.zip",
+    "sha256": "46674ca69dceb2d566afd254be12fdccaed2a1f1c9219f9c148936c0e18aa5e2",
+    "size": 61476
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1203580,
+  "files": [
+    {
+      "name": "1203580.zip",
+      "sha256": "b8dc16c5dfd97d1ad607c5428607e745d502658b37a1989d054a639e813cd27f",
+      "size": 27005
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1203580.zip",
+    "sha256": "b8dc16c5dfd97d1ad607c5428607e745d502658b37a1989d054a639e813cd27f",
+    "size": 27005
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

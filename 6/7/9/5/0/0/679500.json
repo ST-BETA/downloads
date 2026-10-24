@@ -1,0 +1,19 @@
+{
+  "appid": 679500,
+  "files": [
+    {
+      "name": "679500.zip",
+      "sha256": "74ccfdba3ca1aae659a4e40b97c7153ddda17116333a2a8c93fcb6cab181c084",
+      "size": 123756
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "679500.zip",
+    "sha256": "74ccfdba3ca1aae659a4e40b97c7153ddda17116333a2a8c93fcb6cab181c084",
+    "size": 123756
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

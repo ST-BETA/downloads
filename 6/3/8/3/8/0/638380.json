@@ -1,0 +1,19 @@
+{
+  "appid": 638380,
+  "files": [
+    {
+      "name": "638380.zip",
+      "sha256": "5c3085dd920b718c0f541b2c2c03819bad3295f79da471c17e34b76737490657",
+      "size": 372328
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "638380.zip",
+    "sha256": "5c3085dd920b718c0f541b2c2c03819bad3295f79da471c17e34b76737490657",
+    "size": 372328
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 337880,
+  "files": [
+    {
+      "name": "337880.zip",
+      "sha256": "4ee6f1df6df4f935adb3e9b8b58e05aa5976428498b41e06525dc6e66bd1cf84",
+      "size": 134203
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "337880.zip",
+    "sha256": "4ee6f1df6df4f935adb3e9b8b58e05aa5976428498b41e06525dc6e66bd1cf84",
+    "size": 134203
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 585380,
+  "files": [
+    {
+      "name": "585380.zip",
+      "sha256": "43a7acecae368e924d69e1a9d9f4dad9ff012a2db1945ce5dc2fe22ca1dd4c28",
+      "size": 26514
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "585380.zip",
+    "sha256": "43a7acecae368e924d69e1a9d9f4dad9ff012a2db1945ce5dc2fe22ca1dd4c28",
+    "size": 26514
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

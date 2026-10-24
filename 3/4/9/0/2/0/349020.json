@@ -1,0 +1,19 @@
+{
+  "appid": 349020,
+  "files": [
+    {
+      "name": "349020.zip",
+      "sha256": "3f441bd83353edba177fa9943de4cc33677f0974bfd076b2f699cdf856a217d0",
+      "size": 69248
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "349020.zip",
+    "sha256": "3f441bd83353edba177fa9943de4cc33677f0974bfd076b2f699cdf856a217d0",
+    "size": 69248
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

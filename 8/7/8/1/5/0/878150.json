@@ -1,0 +1,19 @@
+{
+  "appid": 878150,
+  "files": [
+    {
+      "name": "878150.zip",
+      "sha256": "ec4e826c7885a9241b682fe869dfccc7f32cda0d55f496049e9cbe938559c95e",
+      "size": 65586
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "878150.zip",
+    "sha256": "ec4e826c7885a9241b682fe869dfccc7f32cda0d55f496049e9cbe938559c95e",
+    "size": 65586
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 312960,
+  "files": [
+    {
+      "name": "312960.zip",
+      "sha256": "5b4e67189989839abe497c1f1a27c4bd96335676c2f53f08a0fb47f0052bf88c",
+      "size": 44430
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "312960.zip",
+    "sha256": "5b4e67189989839abe497c1f1a27c4bd96335676c2f53f08a0fb47f0052bf88c",
+    "size": 44430
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

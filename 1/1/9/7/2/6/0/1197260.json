@@ -1,0 +1,19 @@
+{
+  "appid": 1197260,
+  "files": [
+    {
+      "name": "1197260.zip",
+      "sha256": "812dacc07fc885bcb93876d6a60ae67e86e7095eea0823c158eea0e2413f9be8",
+      "size": 37729
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1197260.zip",
+    "sha256": "812dacc07fc885bcb93876d6a60ae67e86e7095eea0823c158eea0e2413f9be8",
+    "size": 37729
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

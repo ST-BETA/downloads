@@ -1,0 +1,19 @@
+{
+  "appid": 1593700,
+  "files": [
+    {
+      "name": "1593700.zip",
+      "sha256": "b80589941349b777b7e8885ed1a57626f588b0b24ee7db7a05b9a57c223dabfd",
+      "size": 36490
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1593700.zip",
+    "sha256": "b80589941349b777b7e8885ed1a57626f588b0b24ee7db7a05b9a57c223dabfd",
+    "size": 36490
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

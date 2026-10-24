@@ -1,0 +1,19 @@
+{
+  "appid": 1558100,
+  "files": [
+    {
+      "name": "1558100.zip",
+      "sha256": "b41ed8182e206b869dab4e92dfe2aca9a062c6aa84c3ed308d221143a964f839",
+      "size": 46642
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1558100.zip",
+    "sha256": "b41ed8182e206b869dab4e92dfe2aca9a062c6aa84c3ed308d221143a964f839",
+    "size": 46642
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

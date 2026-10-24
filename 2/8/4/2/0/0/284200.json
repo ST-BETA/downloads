@@ -1,0 +1,19 @@
+{
+  "appid": 284200,
+  "files": [
+    {
+      "name": "284200.zip",
+      "sha256": "07fada4ed669dec6089147d205e414f8ccd646afbd1a119e90c393efddb38155",
+      "size": 554996
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "284200.zip",
+    "sha256": "07fada4ed669dec6089147d205e414f8ccd646afbd1a119e90c393efddb38155",
+    "size": 554996
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

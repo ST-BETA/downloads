@@ -1,0 +1,19 @@
+{
+  "appid": 497680,
+  "files": [
+    {
+      "name": "497680.zip",
+      "sha256": "a33f2e022443eea622ecf08fe29ba22feb00de3b64bc55707119f4234bcd4aab",
+      "size": 31378
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "497680.zip",
+    "sha256": "a33f2e022443eea622ecf08fe29ba22feb00de3b64bc55707119f4234bcd4aab",
+    "size": 31378
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

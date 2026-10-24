@@ -1,0 +1,19 @@
+{
+  "appid": 650570,
+  "files": [
+    {
+      "name": "650570.zip",
+      "sha256": "547c6b564d2b0d2d47b7e51184d22934d521e408b04c7348a976f8ce90c5c77c",
+      "size": 313371
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "650570.zip",
+    "sha256": "547c6b564d2b0d2d47b7e51184d22934d521e408b04c7348a976f8ce90c5c77c",
+    "size": 313371
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

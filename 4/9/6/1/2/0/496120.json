@@ -1,0 +1,19 @@
+{
+  "appid": 496120,
+  "files": [
+    {
+      "name": "496120.zip",
+      "sha256": "e797a3842d100b700a38ea4ad842194fc528ae1b5aa2b5c902268f2dd22a0050",
+      "size": 20075
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "496120.zip",
+    "sha256": "e797a3842d100b700a38ea4ad842194fc528ae1b5aa2b5c902268f2dd22a0050",
+    "size": 20075
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

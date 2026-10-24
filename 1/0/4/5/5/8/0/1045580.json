@@ -1,0 +1,19 @@
+{
+  "appid": 1045580,
+  "files": [
+    {
+      "name": "1045580.zip",
+      "sha256": "4c65f86fad4409fc444b6ecb52127b05a0dcc59d48853fd70b23e141dd34b51b",
+      "size": 239288
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1045580.zip",
+    "sha256": "4c65f86fad4409fc444b6ecb52127b05a0dcc59d48853fd70b23e141dd34b51b",
+    "size": 239288
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

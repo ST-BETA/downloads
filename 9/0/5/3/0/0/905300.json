@@ -1,0 +1,18 @@
+{
+  "appid": 905300,
+  "files": [
+    {
+      "name": "905300.zip",
+      "sha256": "63610b52cb6020cd0c4af1f73c03789632933e713b90bdfebd777d0a14819e34",
+      "size": 87149
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "905300.zip",
+    "size": 87149
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 900270,
+  "files": [
+    {
+      "name": "900270.zip",
+      "sha256": "e165a34553a3831df3ed5030cd9415ae4a4ece10c3252a9ffa78e8c9c2a87ba6",
+      "size": 88924
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "900270.zip",
+    "sha256": "e165a34553a3831df3ed5030cd9415ae4a4ece10c3252a9ffa78e8c9c2a87ba6",
+    "size": 88924
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

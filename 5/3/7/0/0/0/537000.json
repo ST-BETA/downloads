@@ -1,0 +1,19 @@
+{
+  "appid": 537000,
+  "files": [
+    {
+      "name": "537000.zip",
+      "sha256": "c5f9e000920518ec8a4d4ec65cfd7cbaebc646c836e31faefc1424ca57a1e9c5",
+      "size": 272061
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "537000.zip",
+    "sha256": "c5f9e000920518ec8a4d4ec65cfd7cbaebc646c836e31faefc1424ca57a1e9c5",
+    "size": 272061
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 4104020,
+  "files": [
+    {
+      "name": "4104020.zip",
+      "sha256": "8c0b2b2ef285b34d5ed6e199ae881926195907e87ae5a73da1afc098e19e4452",
+      "size": 105157
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4104020.zip",
+    "sha256": "8c0b2b2ef285b34d5ed6e199ae881926195907e87ae5a73da1afc098e19e4452",
+    "size": 105157
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

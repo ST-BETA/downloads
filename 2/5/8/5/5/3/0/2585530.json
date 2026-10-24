@@ -1,0 +1,19 @@
+{
+  "appid": 2585530,
+  "files": [
+    {
+      "name": "2585530.zip",
+      "sha256": "ce2db54c3321985ef66da21e0ce6dc8e5ce9558594eee945cbb4eedfcca49de4",
+      "size": 106065
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2585530.zip",
+    "sha256": "ce2db54c3321985ef66da21e0ce6dc8e5ce9558594eee945cbb4eedfcca49de4",
+    "size": 106065
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 895420,
+  "files": [
+    {
+      "name": "895420.zip",
+      "sha256": "09b739f8c482695ba722e1011ed3de001ac767f4d214d4ca8dacddad0f09bd02",
+      "size": 173085
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "895420.zip",
+    "sha256": "09b739f8c482695ba722e1011ed3de001ac767f4d214d4ca8dacddad0f09bd02",
+    "size": 173085
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

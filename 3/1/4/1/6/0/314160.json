@@ -1,0 +1,28 @@
+{
+  "appid": 314160,
+  "files": [
+    {
+      "name": "314160_001.zip",
+      "size": 67108864,
+      "sha256": "41689288c1e127246295ac68f8df6c81515e480e1ba08caeca9a0a329c9ccc3c"
+    },
+    {
+      "name": "314160_002.zip",
+      "size": 67108864,
+      "sha256": "7b819090c7bab100076c7cd04c40cc7c625ea73cba2382cac130e59ef228f72f"
+    },
+    {
+      "name": "314160_003.zip",
+      "size": 16761416,
+      "sha256": "661208d5a5d621ec5025ba34624d87de33be31764c83959a8c069bac9943251a"
+    }
+  ],
+  "merge": true,
+  "original": {
+    "name": "314160.zip",
+    "size": 150979144
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-22T06:35:54Z"
+}

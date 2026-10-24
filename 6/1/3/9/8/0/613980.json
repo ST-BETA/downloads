@@ -1,0 +1,19 @@
+{
+  "appid": 613980,
+  "files": [
+    {
+      "name": "613980.zip",
+      "sha256": "e35d2f8a117235f78cba40afb28debd58d136e025abe9bf5f6cbc69d24787a9a",
+      "size": 78527
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "613980.zip",
+    "sha256": "e35d2f8a117235f78cba40afb28debd58d136e025abe9bf5f6cbc69d24787a9a",
+    "size": 78527
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

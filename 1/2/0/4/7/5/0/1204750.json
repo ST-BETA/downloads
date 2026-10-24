@@ -1,0 +1,19 @@
+{
+  "appid": 1204750,
+  "files": [
+    {
+      "name": "1204750.zip",
+      "sha256": "23e08a551863735a6a9adeb6fad82ef9e14fa44f759c2b7288db7924461844d1",
+      "size": 470886
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1204750.zip",
+    "sha256": "23e08a551863735a6a9adeb6fad82ef9e14fa44f759c2b7288db7924461844d1",
+    "size": 470886
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

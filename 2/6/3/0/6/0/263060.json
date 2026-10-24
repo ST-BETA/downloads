@@ -1,0 +1,19 @@
+{
+  "appid": 263060,
+  "files": [
+    {
+      "name": "263060.zip",
+      "sha256": "c6741213b63c1553369df8dcf3fe1ae039fdc8cf0538f4f6fe397fad213d818d",
+      "size": 60443
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "263060.zip",
+    "sha256": "c6741213b63c1553369df8dcf3fe1ae039fdc8cf0538f4f6fe397fad213d818d",
+    "size": 60443
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

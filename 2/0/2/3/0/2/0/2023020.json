@@ -1,0 +1,19 @@
+{
+  "appid": 2023020,
+  "files": [
+    {
+      "name": "2023020.zip",
+      "sha256": "1db365f8b23c76b9037e9d163f7c158a5a645cba5e125bae05942d8f044211d4",
+      "size": 2019
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2023020.zip",
+    "sha256": "1db365f8b23c76b9037e9d163f7c158a5a645cba5e125bae05942d8f044211d4",
+    "size": 2019
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

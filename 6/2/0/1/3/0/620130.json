@@ -1,0 +1,19 @@
+{
+  "appid": 620130,
+  "files": [
+    {
+      "name": "620130.zip",
+      "sha256": "c50f43130dd33ad14fea4c048042a383dab7afcd2ed4f8473fc859b97287fe3c",
+      "size": 38582
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "620130.zip",
+    "sha256": "c50f43130dd33ad14fea4c048042a383dab7afcd2ed4f8473fc859b97287fe3c",
+    "size": 38582
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

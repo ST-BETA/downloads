@@ -1,0 +1,19 @@
+{
+  "appid": 374510,
+  "files": [
+    {
+      "name": "374510.zip",
+      "sha256": "c82957e87e175663584900cc0c94df971d291b742e14c6e624938df0cc735cb2",
+      "size": 298400
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "374510.zip",
+    "sha256": "c82957e87e175663584900cc0c94df971d291b742e14c6e624938df0cc735cb2",
+    "size": 298400
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

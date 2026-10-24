@@ -1,0 +1,18 @@
+{
+  "appid": 250400,
+  "files": [
+    {
+      "name": "250400.zip",
+      "size": 1200223,
+      "sha256": "81edd6757e38917e693eefebf9eb4c467e2fc2ad85d15161cd6efd53c13e0d3c"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "250400.zip",
+    "size": 1200223
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T13:49:36Z"
+}

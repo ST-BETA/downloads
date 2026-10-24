@@ -1,0 +1,19 @@
+{
+  "appid": 1552210,
+  "files": [
+    {
+      "name": "1552210.zip",
+      "sha256": "35040b71e7a24efc1b2c55993818c76f5427124a39e5142023512bb48235b1f2",
+      "size": 79691
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1552210.zip",
+    "sha256": "35040b71e7a24efc1b2c55993818c76f5427124a39e5142023512bb48235b1f2",
+    "size": 79691
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

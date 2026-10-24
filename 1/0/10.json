@@ -1,0 +1,18 @@
+{
+  "appid": 10,
+  "files": [
+    {
+      "name": "10.zip",
+      "sha256": "8077e04b071abcfb11f236591e92c4ec4147727b9a3bb002d71e2d53b56380a3",
+      "size": 1923940
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "10.zip",
+    "size": 1923940
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

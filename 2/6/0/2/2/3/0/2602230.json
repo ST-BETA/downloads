@@ -1,0 +1,19 @@
+{
+  "appid": 2602230,
+  "files": [
+    {
+      "name": "2602230.zip",
+      "sha256": "9c966438d982723ec7d947ca21f33ad2a7a1be94e0066229dc204e7fcf490403",
+      "size": 31398
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2602230.zip",
+    "sha256": "9c966438d982723ec7d947ca21f33ad2a7a1be94e0066229dc204e7fcf490403",
+    "size": 31398
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

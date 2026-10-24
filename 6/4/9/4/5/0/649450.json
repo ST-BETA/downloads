@@ -1,0 +1,19 @@
+{
+  "appid": 649450,
+  "files": [
+    {
+      "name": "649450.zip",
+      "sha256": "25a9b654797636b94eefb3e3940612d1975d14fad8f02dd16ddddadd417cad7a",
+      "size": 71966
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "649450.zip",
+    "sha256": "25a9b654797636b94eefb3e3940612d1975d14fad8f02dd16ddddadd417cad7a",
+    "size": 71966
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

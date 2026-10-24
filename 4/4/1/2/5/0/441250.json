@@ -1,0 +1,19 @@
+{
+  "appid": 441250,
+  "files": [
+    {
+      "name": "441250.zip",
+      "sha256": "ddb9141d24ac08242383f0b8ceee2ef8687196a85326d16577bd300ad73d0a9b",
+      "size": 151752
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "441250.zip",
+    "sha256": "ddb9141d24ac08242383f0b8ceee2ef8687196a85326d16577bd300ad73d0a9b",
+    "size": 151752
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

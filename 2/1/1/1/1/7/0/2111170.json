@@ -1,0 +1,19 @@
+{
+  "appid": 2111170,
+  "files": [
+    {
+      "name": "2111170.zip",
+      "sha256": "165d895b190c35dd27e80685e54d3a7f75a447d1d3ba2cf99dc9b29a5190794c",
+      "size": 51418
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2111170.zip",
+    "sha256": "165d895b190c35dd27e80685e54d3a7f75a447d1d3ba2cf99dc9b29a5190794c",
+    "size": 51418
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

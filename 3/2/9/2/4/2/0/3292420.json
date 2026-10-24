@@ -1,0 +1,19 @@
+{
+  "appid": 3292420,
+  "files": [
+    {
+      "name": "3292420.zip",
+      "sha256": "8a7a4dd37be70e648c0c40070c885f16707b79e5b57756aafbc8cd8b78c50d4d",
+      "size": 251070
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3292420.zip",
+    "sha256": "8a7a4dd37be70e648c0c40070c885f16707b79e5b57756aafbc8cd8b78c50d4d",
+    "size": 251070
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

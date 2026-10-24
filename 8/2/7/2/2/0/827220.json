@@ -1,0 +1,19 @@
+{
+  "appid": 827220,
+  "files": [
+    {
+      "name": "827220.zip",
+      "sha256": "66d96a0d78e52ec15fa465a7b73e8972949c4039584ecb58eef2e6d6fc203e07",
+      "size": 225296
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "827220.zip",
+    "sha256": "66d96a0d78e52ec15fa465a7b73e8972949c4039584ecb58eef2e6d6fc203e07",
+    "size": 225296
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1155420,
+  "files": [
+    {
+      "name": "1155420.zip",
+      "sha256": "0bcd8e553781e6a432aaf6f7997c4f6003f62966deb1ff02d9665223d87ef72b",
+      "size": 25206
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1155420.zip",
+    "sha256": "0bcd8e553781e6a432aaf6f7997c4f6003f62966deb1ff02d9665223d87ef72b",
+    "size": 25206
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

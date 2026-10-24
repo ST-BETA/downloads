@@ -1,0 +1,18 @@
+{
+  "appid": 880210,
+  "files": [
+    {
+      "name": "880210.zip",
+      "sha256": "be8d57fee24f1855eba3a16a944d5115c62225e5f055def1667190327cd79eb7",
+      "size": 49972
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "880210.zip",
+    "size": 49972
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

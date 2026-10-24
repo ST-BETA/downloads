@@ -1,0 +1,19 @@
+{
+  "appid": 573750,
+  "files": [
+    {
+      "name": "573750.zip",
+      "sha256": "7533a186a9d332ef840ba39807827ae38e21e18e1283773ee16ce231a0cd1d62",
+      "size": 3639137
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "573750.zip",
+    "sha256": "7533a186a9d332ef840ba39807827ae38e21e18e1283773ee16ce231a0cd1d62",
+    "size": 3639137
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

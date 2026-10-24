@@ -1,0 +1,19 @@
+{
+  "appid": 322190,
+  "files": [
+    {
+      "name": "322190.zip",
+      "sha256": "1a939044cd477e6a65e8f355848cfa404d353bde417f8e04a1d68c6b87aeabed",
+      "size": 663415
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "322190.zip",
+    "sha256": "1a939044cd477e6a65e8f355848cfa404d353bde417f8e04a1d68c6b87aeabed",
+    "size": 663415
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

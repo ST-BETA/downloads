@@ -1,0 +1,19 @@
+{
+  "appid": 334420,
+  "files": [
+    {
+      "name": "334420.zip",
+      "sha256": "62ba4db161d608f8a17927e3a288d391c7f3c0ed16dab34801870a85f46ba089",
+      "size": 159901
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "334420.zip",
+    "sha256": "62ba4db161d608f8a17927e3a288d391c7f3c0ed16dab34801870a85f46ba089",
+    "size": 159901
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 342200,
+  "files": [
+    {
+      "name": "342200.zip",
+      "sha256": "220117433def9a1d2ee396d0030bbccafd42f560bcd19632cb3f0b26c4544a93",
+      "size": 1468900
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "342200.zip",
+    "size": 1468900
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 648580,
+  "files": [
+    {
+      "name": "648580.zip",
+      "sha256": "9f9979eb2d38e6f92ac2e51f8a65e6b269af11b91019da2445de411efc997d99",
+      "size": 600005
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "648580.zip",
+    "sha256": "9f9979eb2d38e6f92ac2e51f8a65e6b269af11b91019da2445de411efc997d99",
+    "size": 600005
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

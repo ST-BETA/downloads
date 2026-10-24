@@ -1,0 +1,19 @@
+{
+  "appid": 1890120,
+  "files": [
+    {
+      "name": "1890120.zip",
+      "sha256": "271e561fbf59d8f9dc35dbafb407a1adc95bb14df0e75a1cefdcb288a30abef2",
+      "size": 101430
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1890120.zip",
+    "sha256": "271e561fbf59d8f9dc35dbafb407a1adc95bb14df0e75a1cefdcb288a30abef2",
+    "size": 101430
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

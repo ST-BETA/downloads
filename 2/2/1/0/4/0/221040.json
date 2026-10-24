@@ -1,0 +1,18 @@
+{
+  "appid": 221040,
+  "files": [
+    {
+      "name": "221040.zip",
+      "size": 17030842,
+      "sha256": "483ebb854ead34e405da0d3f06e01ec7c9449b609146dd541180ca653a8a3359"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "221040.zip",
+    "size": 17030842
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T17:41:47Z"
+}

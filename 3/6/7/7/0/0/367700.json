@@ -1,0 +1,19 @@
+{
+  "appid": 367700,
+  "files": [
+    {
+      "name": "367700.zip",
+      "sha256": "8932ca6d47b74d3e71958dfdb7a8c045d72eadc32ab26af19d818a73fa3e089d",
+      "size": 271430
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "367700.zip",
+    "sha256": "8932ca6d47b74d3e71958dfdb7a8c045d72eadc32ab26af19d818a73fa3e089d",
+    "size": 271430
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

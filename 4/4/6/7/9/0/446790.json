@@ -1,0 +1,19 @@
+{
+  "appid": 446790,
+  "files": [
+    {
+      "name": "446790.zip",
+      "sha256": "c72fa0ba9610971db889933826b3e4ec31d1f4595ab7178f086558e0af10eaaf",
+      "size": 780105
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "446790.zip",
+    "sha256": "c72fa0ba9610971db889933826b3e4ec31d1f4595ab7178f086558e0af10eaaf",
+    "size": 780105
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1081850,
+  "files": [
+    {
+      "name": "1081850.zip",
+      "sha256": "736d1762181c6ef200c7c94ccc0d2b21fd7e9dec1d58e97223058d6a3991f13f",
+      "size": 40958
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1081850.zip",
+    "sha256": "736d1762181c6ef200c7c94ccc0d2b21fd7e9dec1d58e97223058d6a3991f13f",
+    "size": 40958
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

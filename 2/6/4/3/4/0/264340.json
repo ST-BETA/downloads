@@ -1,0 +1,19 @@
+{
+  "appid": 264340,
+  "files": [
+    {
+      "name": "264340.zip",
+      "sha256": "9883c45f7918560c37636cf456d89f5e859c8ac7decff68c17c39da9c8a379d2",
+      "size": 86210
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "264340.zip",
+    "sha256": "9883c45f7918560c37636cf456d89f5e859c8ac7decff68c17c39da9c8a379d2",
+    "size": 86210
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

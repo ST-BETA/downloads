@@ -1,0 +1,19 @@
+{
+  "appid": 4307450,
+  "files": [
+    {
+      "name": "4307450.zip",
+      "sha256": "427d4cacd9a9e92060d7b1b6181d68afdb930f22101302231d58115d4519fefa",
+      "size": 541251
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4307450.zip",
+    "sha256": "427d4cacd9a9e92060d7b1b6181d68afdb930f22101302231d58115d4519fefa",
+    "size": 541251
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

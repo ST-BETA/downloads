@@ -1,0 +1,19 @@
+{
+  "appid": 880400,
+  "files": [
+    {
+      "name": "880400.zip",
+      "sha256": "c0fed2c65fc98bc9ae42165f83e95ed039cd46905f23c735a12c212907f03901",
+      "size": 51781
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "880400.zip",
+    "sha256": "c0fed2c65fc98bc9ae42165f83e95ed039cd46905f23c735a12c212907f03901",
+    "size": 51781
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 3402080,
+  "files": [
+    {
+      "name": "3402080.zip",
+      "sha256": "af05741b204066ff85d82ae9b386531ca1e99f522758d0dcfbcd1df47e9bd17e",
+      "size": 8507
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3402080.zip",
+    "sha256": "af05741b204066ff85d82ae9b386531ca1e99f522758d0dcfbcd1df47e9bd17e",
+    "size": 8507
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

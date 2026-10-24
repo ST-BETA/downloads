@@ -1,0 +1,19 @@
+{
+  "appid": 347590,
+  "files": [
+    {
+      "name": "347590.zip",
+      "sha256": "4d80359b3b08d9e03b32f38ca101c5a817192def006d21831c406cd164fb42f0",
+      "size": 2081898
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "347590.zip",
+    "sha256": "4d80359b3b08d9e03b32f38ca101c5a817192def006d21831c406cd164fb42f0",
+    "size": 2081898
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

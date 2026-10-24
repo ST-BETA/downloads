@@ -1,0 +1,19 @@
+{
+  "appid": 1565840,
+  "files": [
+    {
+      "name": "1565840.zip",
+      "sha256": "01ecd44a3afbbe260226b86d93a787704e6cd3dc312541ea0ddc97d7e8e794cb",
+      "size": 329089
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1565840.zip",
+    "sha256": "01ecd44a3afbbe260226b86d93a787704e6cd3dc312541ea0ddc97d7e8e794cb",
+    "size": 329089
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

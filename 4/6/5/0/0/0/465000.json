@@ -1,0 +1,19 @@
+{
+  "appid": 465000,
+  "files": [
+    {
+      "name": "465000.zip",
+      "sha256": "c48455499f1d4ad726d4266075f861b0d6f755de413124e2a1506e403939f378",
+      "size": 66507
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "465000.zip",
+    "sha256": "c48455499f1d4ad726d4266075f861b0d6f755de413124e2a1506e403939f378",
+    "size": 66507
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

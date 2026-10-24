@@ -1,0 +1,19 @@
+{
+  "appid": 971680,
+  "files": [
+    {
+      "name": "971680.zip",
+      "sha256": "0d80b3d989dfcf07d2ced7eadfed5ceeec6c9318fda78a5b1da75ce403baa4e9",
+      "size": 59251
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "971680.zip",
+    "sha256": "0d80b3d989dfcf07d2ced7eadfed5ceeec6c9318fda78a5b1da75ce403baa4e9",
+    "size": 59251
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

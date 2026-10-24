@@ -1,0 +1,19 @@
+{
+  "appid": 767130,
+  "files": [
+    {
+      "name": "767130.zip",
+      "sha256": "0979f893a0da5cb4d7587f973220e58e00b3a4ad1cc0bb4ef4fce4743336e63c",
+      "size": 108463
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "767130.zip",
+    "sha256": "0979f893a0da5cb4d7587f973220e58e00b3a4ad1cc0bb4ef4fce4743336e63c",
+    "size": 108463
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1671400,
+  "files": [
+    {
+      "name": "1671400.zip",
+      "sha256": "0f15ee591e9554cb2d8f8a0cbdbb365dbb728c3e1b2b7c5dca73f8e543c91e36",
+      "size": 105659
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1671400.zip",
+    "sha256": "0f15ee591e9554cb2d8f8a0cbdbb365dbb728c3e1b2b7c5dca73f8e543c91e36",
+    "size": 105659
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 869630,
+  "files": [
+    {
+      "name": "869630.zip",
+      "sha256": "6f32afe163095cad49732020033b597dbb7774d10050d0c2209020e9dec00cba",
+      "size": 53709
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "869630.zip",
+    "sha256": "6f32afe163095cad49732020033b597dbb7774d10050d0c2209020e9dec00cba",
+    "size": 53709
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

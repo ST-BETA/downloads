@@ -1,0 +1,19 @@
+{
+  "appid": 1008680,
+  "files": [
+    {
+      "name": "1008680.zip",
+      "sha256": "4bc1c02771af4f570700b6ac1879726dc3a4bc392dc2c3302b78c5574b918425",
+      "size": 36484
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1008680.zip",
+    "sha256": "4bc1c02771af4f570700b6ac1879726dc3a4bc392dc2c3302b78c5574b918425",
+    "size": 36484
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

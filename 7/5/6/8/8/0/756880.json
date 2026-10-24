@@ -1,0 +1,19 @@
+{
+  "appid": 756880,
+  "files": [
+    {
+      "name": "756880.zip",
+      "sha256": "4780edd20cde92331cae7a3cb721406d7f79dcea38027b42f4bd319077470b4a",
+      "size": 191942
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "756880.zip",
+    "sha256": "4780edd20cde92331cae7a3cb721406d7f79dcea38027b42f4bd319077470b4a",
+    "size": 191942
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

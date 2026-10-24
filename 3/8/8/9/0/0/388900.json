@@ -1,0 +1,19 @@
+{
+  "appid": 388900,
+  "files": [
+    {
+      "name": "388900.zip",
+      "sha256": "46ebd65340311af32f92e7924b730f30fcdc1a37cde6cf8ff0a5acf75521e7a4",
+      "size": 113900
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "388900.zip",
+    "sha256": "46ebd65340311af32f92e7924b730f30fcdc1a37cde6cf8ff0a5acf75521e7a4",
+    "size": 113900
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

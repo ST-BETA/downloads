@@ -1,0 +1,19 @@
+{
+  "appid": 394120,
+  "files": [
+    {
+      "name": "394120.zip",
+      "sha256": "0ceee91a6d9904f3fcd374fa537350f55b6b265886780aec8725fd8b825177f6",
+      "size": 973636
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "394120.zip",
+    "sha256": "0ceee91a6d9904f3fcd374fa537350f55b6b265886780aec8725fd8b825177f6",
+    "size": 973636
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

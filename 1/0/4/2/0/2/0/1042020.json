@@ -1,0 +1,19 @@
+{
+  "appid": 1042020,
+  "files": [
+    {
+      "name": "1042020.zip",
+      "sha256": "410d83c09a77d4e61391c0b50e336f51398171bcf9a46d7e1170ffa68b59abe0",
+      "size": 149284
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1042020.zip",
+    "sha256": "410d83c09a77d4e61391c0b50e336f51398171bcf9a46d7e1170ffa68b59abe0",
+    "size": 149284
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

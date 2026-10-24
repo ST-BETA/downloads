@@ -1,0 +1,18 @@
+{
+  "appid": 4001600,
+  "files": [
+    {
+      "name": "4001600.zip",
+      "sha256": "573af531b6ba3e7dcd2f2af79cbb189bc539d4d1ce96ea3e87f0525bdfacccee",
+      "size": 279276
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4001600.zip",
+    "size": 279276
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

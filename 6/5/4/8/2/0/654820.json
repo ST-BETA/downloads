@@ -1,0 +1,19 @@
+{
+  "appid": 654820,
+  "files": [
+    {
+      "name": "654820.zip",
+      "sha256": "bb0293c8f733e8a9a30960d38cb1392b9f5c813f2344e966b3428b07fc23e492",
+      "size": 10794
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "654820.zip",
+    "sha256": "bb0293c8f733e8a9a30960d38cb1392b9f5c813f2344e966b3428b07fc23e492",
+    "size": 10794
+  },
+  "repository": "downloads-08",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

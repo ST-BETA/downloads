@@ -1,0 +1,18 @@
+{
+  "appid": 760800,
+  "files": [
+    {
+      "name": "760800.zip",
+      "sha256": "7dc43678a597ae20b0d470d23dc8ac14d6252bd2b9851fe719b268583f3655b7",
+      "size": 222912
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "760800.zip",
+    "size": 222912
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

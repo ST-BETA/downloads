@@ -1,0 +1,19 @@
+{
+  "appid": 1859140,
+  "files": [
+    {
+      "name": "1859140.zip",
+      "sha256": "7d8ca01f3ea46d9e471c67f756144237b33482910cdec5a71414d7adb32e248c",
+      "size": 50541
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1859140.zip",
+    "sha256": "7d8ca01f3ea46d9e471c67f756144237b33482910cdec5a71414d7adb32e248c",
+    "size": 50541
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

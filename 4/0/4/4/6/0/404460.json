@@ -1,0 +1,19 @@
+{
+  "appid": 404460,
+  "files": [
+    {
+      "name": "404460.zip",
+      "sha256": "596cf77a934fc5e14c256c6c53738fc61270d17aca438a204146ca1d17968e7f",
+      "size": 44118
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "404460.zip",
+    "sha256": "596cf77a934fc5e14c256c6c53738fc61270d17aca438a204146ca1d17968e7f",
+    "size": 44118
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

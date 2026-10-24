@@ -1,0 +1,19 @@
+{
+  "appid": 874250,
+  "files": [
+    {
+      "name": "874250.zip",
+      "sha256": "0aeab30f8e035b91efa8a1c260eccab24061463de53d2caa3272dcdbaa421b0c",
+      "size": 221110
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "874250.zip",
+    "sha256": "0aeab30f8e035b91efa8a1c260eccab24061463de53d2caa3272dcdbaa421b0c",
+    "size": 221110
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

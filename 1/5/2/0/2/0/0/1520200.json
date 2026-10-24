@@ -1,0 +1,19 @@
+{
+  "appid": 1520200,
+  "files": [
+    {
+      "name": "1520200.zip",
+      "sha256": "f845fbf155888abb999518b937d1de841f9a42825be13932e8615c958cac3b30",
+      "size": 24192
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1520200.zip",
+    "sha256": "f845fbf155888abb999518b937d1de841f9a42825be13932e8615c958cac3b30",
+    "size": 24192
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

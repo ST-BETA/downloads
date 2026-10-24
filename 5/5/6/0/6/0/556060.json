@@ -1,0 +1,19 @@
+{
+  "appid": 556060,
+  "files": [
+    {
+      "name": "556060.zip",
+      "sha256": "1fd139e4f5303a09722102ec34345a7059a1b0509a5faa58af9ee4f6f9c579e0",
+      "size": 181644
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "556060.zip",
+    "sha256": "1fd139e4f5303a09722102ec34345a7059a1b0509a5faa58af9ee4f6f9c579e0",
+    "size": 181644
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

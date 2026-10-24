@@ -1,0 +1,19 @@
+{
+  "appid": 1077360,
+  "files": [
+    {
+      "name": "1077360.zip",
+      "sha256": "8aef50caef256723e52355a2ac4ec166f50c4a781e6c899e519148b295ad6bcb",
+      "size": 166898
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1077360.zip",
+    "sha256": "8aef50caef256723e52355a2ac4ec166f50c4a781e6c899e519148b295ad6bcb",
+    "size": 166898
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

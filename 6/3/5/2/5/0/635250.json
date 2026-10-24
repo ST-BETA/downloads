@@ -1,0 +1,19 @@
+{
+  "appid": 635250,
+  "files": [
+    {
+      "name": "635250.zip",
+      "sha256": "765743621edfdf65f3d037c642d593c8d543aefb279781385888d313d510b39d",
+      "size": 318484
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "635250.zip",
+    "sha256": "765743621edfdf65f3d037c642d593c8d543aefb279781385888d313d510b39d",
+    "size": 318484
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

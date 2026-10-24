@@ -1,0 +1,19 @@
+{
+  "appid": 763180,
+  "files": [
+    {
+      "name": "763180.zip",
+      "sha256": "743572e08687b01bfff3572311c27ec297ad655b91ff4c32dc25e4454c4c5502",
+      "size": 705083
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "763180.zip",
+    "sha256": "743572e08687b01bfff3572311c27ec297ad655b91ff4c32dc25e4454c4c5502",
+    "size": 705083
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

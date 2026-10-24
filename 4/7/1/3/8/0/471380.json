@@ -1,0 +1,19 @@
+{
+  "appid": 471380,
+  "files": [
+    {
+      "name": "471380.zip",
+      "sha256": "ae15e4f40fe9068f530a8db881ffa870716c2cc02b6e31d6986eede45bfb33bf",
+      "size": 16108
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "471380.zip",
+    "sha256": "ae15e4f40fe9068f530a8db881ffa870716c2cc02b6e31d6986eede45bfb33bf",
+    "size": 16108
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

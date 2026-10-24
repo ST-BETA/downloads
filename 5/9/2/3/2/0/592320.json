@@ -1,0 +1,19 @@
+{
+  "appid": 592320,
+  "files": [
+    {
+      "name": "592320.zip",
+      "sha256": "ac87e62e233d572521705f3b296d4318020a35611b890bf0cd42e6c9d4deb6b4",
+      "size": 252163
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "592320.zip",
+    "sha256": "ac87e62e233d572521705f3b296d4318020a35611b890bf0cd42e6c9d4deb6b4",
+    "size": 252163
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

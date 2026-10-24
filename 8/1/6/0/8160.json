@@ -1,0 +1,18 @@
+{
+  "appid": 8160,
+  "files": [
+    {
+      "name": "8160.zip",
+      "sha256": "82fc55052388933cb668a806ad15b72ca4d76d4ecaf75243bc11a7f90a2ec6f1",
+      "size": 397062
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "8160.zip",
+    "size": 397062
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

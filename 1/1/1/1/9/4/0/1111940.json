@@ -1,0 +1,19 @@
+{
+  "appid": 1111940,
+  "files": [
+    {
+      "name": "1111940.zip",
+      "sha256": "696b7b088999144690b27b14e290904ad6ac25a37a88d91938519a1d0cf3fc4e",
+      "size": 5286522
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1111940.zip",
+    "sha256": "696b7b088999144690b27b14e290904ad6ac25a37a88d91938519a1d0cf3fc4e",
+    "size": 5286522
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

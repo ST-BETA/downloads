@@ -1,0 +1,19 @@
+{
+  "appid": 322630,
+  "files": [
+    {
+      "name": "322630.zip",
+      "sha256": "34eafc234c28d83b5942554588621af729a1e0ad0e05767ba727fba8471c2aec",
+      "size": 1557956
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "322630.zip",
+    "sha256": "34eafc234c28d83b5942554588621af729a1e0ad0e05767ba727fba8471c2aec",
+    "size": 1557956
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

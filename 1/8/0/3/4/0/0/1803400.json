@@ -1,0 +1,19 @@
+{
+  "appid": 1803400,
+  "files": [
+    {
+      "name": "1803400.zip",
+      "sha256": "db526223b9ef714685296f1fa36aea546dce3ec839c9b01938405bd0bcc9621d",
+      "size": 358527
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1803400.zip",
+    "sha256": "db526223b9ef714685296f1fa36aea546dce3ec839c9b01938405bd0bcc9621d",
+    "size": 358527
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1079200,
+  "files": [
+    {
+      "name": "1079200.zip",
+      "sha256": "3f6658bdde8dc6ec030b95fd5e7fc5cbbf2f63847b62cbe40dbcfb0f07525300",
+      "size": 12780
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1079200.zip",
+    "sha256": "3f6658bdde8dc6ec030b95fd5e7fc5cbbf2f63847b62cbe40dbcfb0f07525300",
+    "size": 12780
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

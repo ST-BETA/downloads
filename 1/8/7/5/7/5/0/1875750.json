@@ -1,0 +1,19 @@
+{
+  "appid": 1875750,
+  "files": [
+    {
+      "name": "1875750.zip",
+      "sha256": "71e765fe3b596512f66e4bdac829d21cb37105907ed393209e1cabcdfac8cd5b",
+      "size": 409752
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1875750.zip",
+    "sha256": "71e765fe3b596512f66e4bdac829d21cb37105907ed393209e1cabcdfac8cd5b",
+    "size": 409752
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

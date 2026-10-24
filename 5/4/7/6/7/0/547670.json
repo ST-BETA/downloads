@@ -1,0 +1,19 @@
+{
+  "appid": 547670,
+  "files": [
+    {
+      "name": "547670.zip",
+      "sha256": "c8d19329d0edd463179b7de6038db0dafe7bcd3ccf284ce83c52f3346dbb0c9b",
+      "size": 87674
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "547670.zip",
+    "sha256": "c8d19329d0edd463179b7de6038db0dafe7bcd3ccf284ce83c52f3346dbb0c9b",
+    "size": 87674
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

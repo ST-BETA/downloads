@@ -1,0 +1,19 @@
+{
+  "appid": 2245270,
+  "files": [
+    {
+      "name": "2245270.zip",
+      "sha256": "a5b16dd23139607ad610931c2a1166845968c9bf21525e321431d07d126c5786",
+      "size": 32171
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2245270.zip",
+    "sha256": "a5b16dd23139607ad610931c2a1166845968c9bf21525e321431d07d126c5786",
+    "size": 32171
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

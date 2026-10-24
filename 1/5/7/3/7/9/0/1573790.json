@@ -1,0 +1,19 @@
+{
+  "appid": 1573790,
+  "files": [
+    {
+      "name": "1573790.zip",
+      "sha256": "4a11f7a1e23003cccf0b017e880c82dc378fa66c4e89078bd029ea3847b646c0",
+      "size": 80672
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1573790.zip",
+    "sha256": "4a11f7a1e23003cccf0b017e880c82dc378fa66c4e89078bd029ea3847b646c0",
+    "size": 80672
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2010510,
+  "files": [
+    {
+      "name": "2010510.zip",
+      "sha256": "1bdfcec0c7be933ff75758c0626cd7d47143332ffba1604c111723ffca1e62a8",
+      "size": 354333
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2010510.zip",
+    "sha256": "1bdfcec0c7be933ff75758c0626cd7d47143332ffba1604c111723ffca1e62a8",
+    "size": 354333
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

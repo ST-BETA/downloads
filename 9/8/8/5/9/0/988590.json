@@ -1,0 +1,19 @@
+{
+  "appid": 988590,
+  "files": [
+    {
+      "name": "988590.zip",
+      "sha256": "07e8fe0f1605d460acacbaf0acbe6d402a3edb884ae5a388c04218c50179a7c0",
+      "size": 113930
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "988590.zip",
+    "sha256": "07e8fe0f1605d460acacbaf0acbe6d402a3edb884ae5a388c04218c50179a7c0",
+    "size": 113930
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

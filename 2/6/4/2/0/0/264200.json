@@ -1,0 +1,19 @@
+{
+  "appid": 264200,
+  "files": [
+    {
+      "name": "264200.zip",
+      "sha256": "7a845bf50ec327f4f4119628683cb0021ef82ffae7fbb76a48aa513d059e0c17",
+      "size": 73438
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "264200.zip",
+    "sha256": "7a845bf50ec327f4f4119628683cb0021ef82ffae7fbb76a48aa513d059e0c17",
+    "size": 73438
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

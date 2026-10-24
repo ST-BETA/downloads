@@ -1,0 +1,19 @@
+{
+  "appid": 979600,
+  "files": [
+    {
+      "name": "979600.zip",
+      "sha256": "b19c4ea9912f84e127cfafabe6c436f843fc8ee5e3359fe5cfefe4a8d084ce24",
+      "size": 31498
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "979600.zip",
+    "sha256": "b19c4ea9912f84e127cfafabe6c436f843fc8ee5e3359fe5cfefe4a8d084ce24",
+    "size": 31498
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 740,
+  "files": [
+    {
+      "name": "740.zip",
+      "sha256": "acf2557966614463a1820207d8f19696422ff6e52d270c98f42d486f62034c26",
+      "size": 1853913
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "740.zip",
+    "sha256": "acf2557966614463a1820207d8f19696422ff6e52d270c98f42d486f62034c26",
+    "size": 1853913
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1052760,
+  "files": [
+    {
+      "name": "1052760.zip",
+      "sha256": "46487f647784bbd7a2c83891a43cdbf971ec9bcb4045cafb2cfe97d2299bf906",
+      "size": 91322
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1052760.zip",
+    "sha256": "46487f647784bbd7a2c83891a43cdbf971ec9bcb4045cafb2cfe97d2299bf906",
+    "size": 91322
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

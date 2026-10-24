@@ -1,0 +1,19 @@
+{
+  "appid": 2644400,
+  "files": [
+    {
+      "name": "2644400.zip",
+      "sha256": "89823adce92db0c2583620b6cd806b2bb4b18d7079c06ac3c5bbd022f4298dc1",
+      "size": 260701
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2644400.zip",
+    "sha256": "89823adce92db0c2583620b6cd806b2bb4b18d7079c06ac3c5bbd022f4298dc1",
+    "size": 260701
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

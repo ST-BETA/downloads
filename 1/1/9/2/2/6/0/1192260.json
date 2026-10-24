@@ -1,0 +1,19 @@
+{
+  "appid": 1192260,
+  "files": [
+    {
+      "name": "1192260.zip",
+      "sha256": "15bd95902933629f93a64d559dee0e531b32f25dbd1693f9ee160e7c6df58937",
+      "size": 2723887
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1192260.zip",
+    "sha256": "15bd95902933629f93a64d559dee0e531b32f25dbd1693f9ee160e7c6df58937",
+    "size": 2723887
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

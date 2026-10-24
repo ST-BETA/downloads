@@ -1,0 +1,19 @@
+{
+  "appid": 873730,
+  "files": [
+    {
+      "name": "873730.zip",
+      "sha256": "fa5af9715c5eecc79aa8effda25fab2ba41befc175d213d5bff1df1d9c17d0b0",
+      "size": 60568
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "873730.zip",
+    "sha256": "fa5af9715c5eecc79aa8effda25fab2ba41befc175d213d5bff1df1d9c17d0b0",
+    "size": 60568
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

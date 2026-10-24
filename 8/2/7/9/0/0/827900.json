@@ -1,0 +1,19 @@
+{
+  "appid": 827900,
+  "files": [
+    {
+      "name": "827900.zip",
+      "sha256": "dacd2c552c9a6f0eec1223a89c577581448be0a4f289cd24b159d50dbc1cbfe4",
+      "size": 3240
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "827900.zip",
+    "sha256": "dacd2c552c9a6f0eec1223a89c577581448be0a4f289cd24b159d50dbc1cbfe4",
+    "size": 3240
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

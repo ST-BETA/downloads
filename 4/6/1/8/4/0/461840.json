@@ -1,0 +1,19 @@
+{
+  "appid": 461840,
+  "files": [
+    {
+      "name": "461840.zip",
+      "sha256": "a9e3178ebe6c3416e3501682b696b714ae73532e3f0025497f1d488fc4599add",
+      "size": 423732
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "461840.zip",
+    "sha256": "a9e3178ebe6c3416e3501682b696b714ae73532e3f0025497f1d488fc4599add",
+    "size": 423732
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

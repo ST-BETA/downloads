@@ -1,0 +1,18 @@
+{
+  "appid": 444200,
+  "files": [
+    {
+      "name": "444200.zip",
+      "size": 25403548,
+      "sha256": "2fc6000fe829257cbb6640d1fa1287254c026634190f2f29a5352370f630820e"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "444200.zip",
+    "size": 25403548
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-23T19:14:50Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2058340,
+  "files": [
+    {
+      "name": "2058340.zip",
+      "sha256": "9da783bfe89b583dbfa4762653490ddb912127652cb0d194594a5f938472c7dd",
+      "size": 986844
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2058340.zip",
+    "sha256": "9da783bfe89b583dbfa4762653490ddb912127652cb0d194594a5f938472c7dd",
+    "size": 986844
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

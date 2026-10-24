@@ -1,0 +1,19 @@
+{
+  "appid": 974110,
+  "files": [
+    {
+      "name": "974110.zip",
+      "sha256": "ea630456c82e8f393677ae31505eb30ae28d21e81e2f906f925b7f647a99a7cd",
+      "size": 5225
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "974110.zip",
+    "sha256": "ea630456c82e8f393677ae31505eb30ae28d21e81e2f906f925b7f647a99a7cd",
+    "size": 5225
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

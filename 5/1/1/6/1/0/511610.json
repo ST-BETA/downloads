@@ -1,0 +1,19 @@
+{
+  "appid": 511610,
+  "files": [
+    {
+      "name": "511610.zip",
+      "sha256": "73c1ab726c629aa7a6cbdbd68aff0133f2a09e43268e0aacff75ec9fa792b87c",
+      "size": 37825
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "511610.zip",
+    "sha256": "73c1ab726c629aa7a6cbdbd68aff0133f2a09e43268e0aacff75ec9fa792b87c",
+    "size": 37825
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

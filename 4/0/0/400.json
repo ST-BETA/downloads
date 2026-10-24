@@ -1,0 +1,18 @@
+{
+  "appid": 400,
+  "files": [
+    {
+      "name": "400.zip",
+      "size": 2078341,
+      "sha256": "fcbe2484889045c04d002c3233da391ae46cb142ec645188352164abe9e1ed8d"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "400.zip",
+    "size": 2078341
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-23T12:40:13Z"
+}

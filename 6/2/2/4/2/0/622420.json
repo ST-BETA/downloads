@@ -1,0 +1,19 @@
+{
+  "appid": 622420,
+  "files": [
+    {
+      "name": "622420.zip",
+      "sha256": "bc15e74a883a95514e2315fe8fb474c4ae2685f9f452781b5b93473cd4564ddc",
+      "size": 94778
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "622420.zip",
+    "sha256": "bc15e74a883a95514e2315fe8fb474c4ae2685f9f452781b5b93473cd4564ddc",
+    "size": 94778
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

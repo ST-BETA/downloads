@@ -1,0 +1,19 @@
+{
+  "appid": 1252000,
+  "files": [
+    {
+      "name": "1252000.zip",
+      "sha256": "dfef80a6c2af9977afa8ab09819334a4d89c557397086b80e14768ca3466d99e",
+      "size": 463697
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1252000.zip",
+    "sha256": "dfef80a6c2af9977afa8ab09819334a4d89c557397086b80e14768ca3466d99e",
+    "size": 463697
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

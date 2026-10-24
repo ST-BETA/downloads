@@ -1,0 +1,19 @@
+{
+  "appid": 886120,
+  "files": [
+    {
+      "name": "886120.zip",
+      "sha256": "830c6f6913cd6c00fd69153a7ac05009d27d5f8f253c7b3a23ec9ae74c1bb722",
+      "size": 80873
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "886120.zip",
+    "sha256": "830c6f6913cd6c00fd69153a7ac05009d27d5f8f253c7b3a23ec9ae74c1bb722",
+    "size": 80873
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

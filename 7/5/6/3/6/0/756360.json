@@ -1,0 +1,19 @@
+{
+  "appid": 756360,
+  "files": [
+    {
+      "name": "756360.zip",
+      "sha256": "f073713bcfd6c42013e7e2d0eb08c8231853213bfa10c7008d9523eed554c450",
+      "size": 55883
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "756360.zip",
+    "sha256": "f073713bcfd6c42013e7e2d0eb08c8231853213bfa10c7008d9523eed554c450",
+    "size": 55883
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

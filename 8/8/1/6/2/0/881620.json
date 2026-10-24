@@ -1,0 +1,19 @@
+{
+  "appid": 881620,
+  "files": [
+    {
+      "name": "881620.zip",
+      "sha256": "cdc315385c996330e9db0061606cf26fd3d6e2b02b121e497b68fbbcd33d2f08",
+      "size": 2843
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "881620.zip",
+    "sha256": "cdc315385c996330e9db0061606cf26fd3d6e2b02b121e497b68fbbcd33d2f08",
+    "size": 2843
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

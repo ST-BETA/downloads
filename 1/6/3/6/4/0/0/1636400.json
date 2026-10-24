@@ -1,0 +1,19 @@
+{
+  "appid": 1636400,
+  "files": [
+    {
+      "name": "1636400.zip",
+      "sha256": "a71d4c71b858bfefbaae572c467af8b5a5e0100249558115d77f514778c1230b",
+      "size": 82313
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1636400.zip",
+    "sha256": "a71d4c71b858bfefbaae572c467af8b5a5e0100249558115d77f514778c1230b",
+    "size": 82313
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

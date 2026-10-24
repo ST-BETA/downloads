@@ -1,0 +1,19 @@
+{
+  "appid": 637870,
+  "files": [
+    {
+      "name": "637870.zip",
+      "sha256": "2cf835c101770e287e9ed5ffdd83204d8ec6f72583adc4792be66e7794d88d43",
+      "size": 41013
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "637870.zip",
+    "sha256": "2cf835c101770e287e9ed5ffdd83204d8ec6f72583adc4792be66e7794d88d43",
+    "size": 41013
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

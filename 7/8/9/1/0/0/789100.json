@@ -1,0 +1,18 @@
+{
+  "appid": 789100,
+  "files": [
+    {
+      "name": "789100.zip",
+      "sha256": "a4a233677c0f883dc635ee365caba055a223c7c261708fac3ee8e6ead1baef38",
+      "size": 57722
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "789100.zip",
+    "size": 57722
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

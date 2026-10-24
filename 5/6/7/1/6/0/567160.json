@@ -1,0 +1,19 @@
+{
+  "appid": 567160,
+  "files": [
+    {
+      "name": "567160.zip",
+      "sha256": "db19c98df6ffbe9cd8203c6a1234cfbb0059845da67f3eb913b96c31213818f5",
+      "size": 73922
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "567160.zip",
+    "sha256": "db19c98df6ffbe9cd8203c6a1234cfbb0059845da67f3eb913b96c31213818f5",
+    "size": 73922
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

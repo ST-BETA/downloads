@@ -1,0 +1,23 @@
+{
+  "appid": 269950,
+  "files": [
+    {
+      "name": "269950_001.zip",
+      "size": 88080384,
+      "sha256": "6e72456681afd0c0ea199ae5d19f16cdbe212fde941de0fa4bdab83a629fe6b6"
+    },
+    {
+      "name": "269950_002.zip",
+      "size": 48295116,
+      "sha256": "8d4c6622336c008434db0ef15a81ab8c471cfa86b82789395ecbee496c792c2f"
+    }
+  ],
+  "merge": true,
+  "original": {
+    "name": "269950.zip",
+    "size": 136375500
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-22T10:14:09Z"
+}

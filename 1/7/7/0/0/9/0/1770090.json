@@ -1,0 +1,19 @@
+{
+  "appid": 1770090,
+  "files": [
+    {
+      "name": "1770090.zip",
+      "sha256": "c9348294fc2b482df20a5ec194b023cabbcb860cb090e2e1be9ef2b363dd5da3",
+      "size": 51050
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1770090.zip",
+    "sha256": "c9348294fc2b482df20a5ec194b023cabbcb860cb090e2e1be9ef2b363dd5da3",
+    "size": 51050
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

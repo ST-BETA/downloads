@@ -1,0 +1,19 @@
+{
+  "appid": 1040550,
+  "files": [
+    {
+      "name": "1040550.zip",
+      "sha256": "70ccac6ba8f6541c57d98f3914d0590a9fdc9c7a1e958283988126db2404cae8",
+      "size": 49217
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1040550.zip",
+    "sha256": "70ccac6ba8f6541c57d98f3914d0590a9fdc9c7a1e958283988126db2404cae8",
+    "size": 49217
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

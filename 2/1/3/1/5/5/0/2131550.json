@@ -1,0 +1,19 @@
+{
+  "appid": 2131550,
+  "files": [
+    {
+      "name": "2131550.zip",
+      "sha256": "0af3fe0322efff982443c4d38e7135a6f1d9f8994f75b6e409f9004e1d74ac03",
+      "size": 349220
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2131550.zip",
+    "sha256": "0af3fe0322efff982443c4d38e7135a6f1d9f8994f75b6e409f9004e1d74ac03",
+    "size": 349220
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

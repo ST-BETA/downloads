@@ -1,0 +1,19 @@
+{
+  "appid": 1357230,
+  "files": [
+    {
+      "name": "1357230.zip",
+      "sha256": "48c9042bfe9e3674901730e5117768f6f1daa3d17fe6ae0f53762fe3385de2a1",
+      "size": 26377
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1357230.zip",
+    "sha256": "48c9042bfe9e3674901730e5117768f6f1daa3d17fe6ae0f53762fe3385de2a1",
+    "size": 26377
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2009100,
+  "files": [
+    {
+      "name": "2009100.zip",
+      "sha256": "74e78b07139957f6a0f690ca672a69c1a976d6c69f2afd451829161980f4a751",
+      "size": 2586982
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2009100.zip",
+    "sha256": "74e78b07139957f6a0f690ca672a69c1a976d6c69f2afd451829161980f4a751",
+    "size": 2586982
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1862250,
+  "files": [
+    {
+      "name": "1862250.zip",
+      "sha256": "2058543ef808e5ace12b72644b6b71a159e46e7751f7d7f01bbaa40053a1a048",
+      "size": 64746
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1862250.zip",
+    "sha256": "2058543ef808e5ace12b72644b6b71a159e46e7751f7d7f01bbaa40053a1a048",
+    "size": 64746
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

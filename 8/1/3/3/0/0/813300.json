@@ -1,0 +1,19 @@
+{
+  "appid": 813300,
+  "files": [
+    {
+      "name": "813300.zip",
+      "sha256": "8136cbf0b4ec2ed3118a8a711dc59bb2d88460b3273b4720d3cc5b5bfebd7c5a",
+      "size": 299755
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "813300.zip",
+    "sha256": "8136cbf0b4ec2ed3118a8a711dc59bb2d88460b3273b4720d3cc5b5bfebd7c5a",
+    "size": 299755
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

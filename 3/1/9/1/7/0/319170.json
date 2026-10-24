@@ -1,0 +1,19 @@
+{
+  "appid": 319170,
+  "files": [
+    {
+      "name": "319170.zip",
+      "sha256": "bf529ce002f5ee3413ceaae3efb32260cb9a7478995c7d2d3af132a00e468eb4",
+      "size": 811709
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "319170.zip",
+    "sha256": "bf529ce002f5ee3413ceaae3efb32260cb9a7478995c7d2d3af132a00e468eb4",
+    "size": 811709
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

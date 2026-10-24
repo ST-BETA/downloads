@@ -1,0 +1,19 @@
+{
+  "appid": 2077270,
+  "files": [
+    {
+      "name": "2077270.zip",
+      "sha256": "12ddd5da48cb9802decee4bbc7635a786e1980d76545c6dece40ef1b29de5e8b",
+      "size": 138743
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2077270.zip",
+    "sha256": "12ddd5da48cb9802decee4bbc7635a786e1980d76545c6dece40ef1b29de5e8b",
+    "size": 138743
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

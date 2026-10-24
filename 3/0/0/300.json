@@ -1,0 +1,19 @@
+{
+  "appid": 300,
+  "files": [
+    {
+      "name": "300.zip",
+      "sha256": "afce31b9f9c2c78fb436bc95d24c4dc730e62ac3fbfa79342aff4573e2d25b89",
+      "size": 368798
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "300.zip",
+    "sha256": "afce31b9f9c2c78fb436bc95d24c4dc730e62ac3fbfa79342aff4573e2d25b89",
+    "size": 368798
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

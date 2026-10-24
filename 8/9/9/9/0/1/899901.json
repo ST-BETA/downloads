@@ -1,0 +1,19 @@
+{
+  "appid": 899901,
+  "files": [
+    {
+      "name": "899901.zip",
+      "sha256": "9d51ece6ed94b245d45ba1b3777e27c693d25831c1c814be06787ecfe78d3a6c",
+      "size": 1103
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "899901.zip",
+    "sha256": "9d51ece6ed94b245d45ba1b3777e27c693d25831c1c814be06787ecfe78d3a6c",
+    "size": 1103
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 837390,
+  "files": [
+    {
+      "name": "837390.zip",
+      "sha256": "9d27423ba118c3bb0ab05d296bf7def6e6582c5ec9c9dec7dfbd50d726e63e86",
+      "size": 66713
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "837390.zip",
+    "sha256": "9d27423ba118c3bb0ab05d296bf7def6e6582c5ec9c9dec7dfbd50d726e63e86",
+    "size": 66713
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

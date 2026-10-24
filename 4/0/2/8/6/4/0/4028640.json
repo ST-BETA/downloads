@@ -1,0 +1,19 @@
+{
+  "appid": 4028640,
+  "files": [
+    {
+      "name": "4028640.zip",
+      "sha256": "1ba68e5d52a71c9d3e893d89dc4a1adb7bd2f611f0e41d18bbd8c2355092bc4a",
+      "size": 32527
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4028640.zip",
+    "sha256": "1ba68e5d52a71c9d3e893d89dc4a1adb7bd2f611f0e41d18bbd8c2355092bc4a",
+    "size": 32527
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

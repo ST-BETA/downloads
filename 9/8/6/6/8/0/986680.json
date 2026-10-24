@@ -1,0 +1,19 @@
+{
+  "appid": 986680,
+  "files": [
+    {
+      "name": "986680.zip",
+      "sha256": "b16096133961123037b03d4f3230b36688ce6d8e52b24c22db3ad20d608517a7",
+      "size": 1076249
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "986680.zip",
+    "sha256": "b16096133961123037b03d4f3230b36688ce6d8e52b24c22db3ad20d608517a7",
+    "size": 1076249
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

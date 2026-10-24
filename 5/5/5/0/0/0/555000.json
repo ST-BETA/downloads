@@ -1,0 +1,18 @@
+{
+  "appid": 555000,
+  "files": [
+    {
+      "name": "555000.zip",
+      "size": 647340,
+      "sha256": "eb7d7944dee13bb9f912e55235da8c265a0b1f08b374f2e4130b8f2a56d69417"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "555000.zip",
+    "size": 647340
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-24T08:52:50Z"
+}

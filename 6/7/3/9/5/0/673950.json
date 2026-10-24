@@ -1,0 +1,19 @@
+{
+  "appid": 673950,
+  "files": [
+    {
+      "name": "673950.zip",
+      "sha256": "c0fbdaf555d5f64308a0c2daf650c01d2ce5b93d6195f1363126c1b842990168",
+      "size": 375171
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "673950.zip",
+    "sha256": "c0fbdaf555d5f64308a0c2daf650c01d2ce5b93d6195f1363126c1b842990168",
+    "size": 375171
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

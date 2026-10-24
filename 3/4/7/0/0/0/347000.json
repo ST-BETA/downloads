@@ -1,0 +1,18 @@
+{
+  "appid": 347000,
+  "files": [
+    {
+      "name": "347000.zip",
+      "size": 527010,
+      "sha256": "9278f89244f8216ffbd5952682a08b784b3231718393aab1fa3e44f7405ed582"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "347000.zip",
+    "size": 527010
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-22T10:37:02Z"
+}

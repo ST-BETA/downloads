@@ -1,0 +1,19 @@
+{
+  "appid": 1414090,
+  "files": [
+    {
+      "name": "1414090.zip",
+      "sha256": "a49cd074ca3939cfc6148ed91e89b9638a44b00c76b96513fe268d93a2fd735b",
+      "size": 30680
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1414090.zip",
+    "sha256": "a49cd074ca3939cfc6148ed91e89b9638a44b00c76b96513fe268d93a2fd735b",
+    "size": 30680
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

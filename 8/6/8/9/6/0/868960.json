@@ -1,0 +1,19 @@
+{
+  "appid": 868960,
+  "files": [
+    {
+      "name": "868960.zip",
+      "sha256": "ff33d969b5696bdb2b7fef67289285dfde43d6bb1bbe8e76773df24b140fc2b9",
+      "size": 179252
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "868960.zip",
+    "sha256": "ff33d969b5696bdb2b7fef67289285dfde43d6bb1bbe8e76773df24b140fc2b9",
+    "size": 179252
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

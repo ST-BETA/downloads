@@ -1,0 +1,19 @@
+{
+  "appid": 2753870,
+  "files": [
+    {
+      "name": "2753870.zip",
+      "sha256": "ec23d938a2a6b6c213cafa19755c07be2f4bf48613653bf2e664a5ae764ecdab",
+      "size": 10304
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2753870.zip",
+    "sha256": "ec23d938a2a6b6c213cafa19755c07be2f4bf48613653bf2e664a5ae764ecdab",
+    "size": 10304
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

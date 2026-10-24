@@ -1,0 +1,18 @@
+{
+  "appid": 444000,
+  "files": [
+    {
+      "name": "444000.zip",
+      "sha256": "b37971061008bc4baee5a0e7bc667dfa32c1fb7e2e91ddc11422e18c47f7aa73",
+      "size": 81600
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "444000.zip",
+    "size": 81600
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

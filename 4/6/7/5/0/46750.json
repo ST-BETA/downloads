@@ -1,0 +1,19 @@
+{
+  "appid": 46750,
+  "files": [
+    {
+      "name": "46750.zip",
+      "sha256": "16fa974c6fed6b7626013f4de6205a578cb4ae183f5ab038be878eb5b3bc10de",
+      "size": 63532
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "46750.zip",
+    "sha256": "16fa974c6fed6b7626013f4de6205a578cb4ae183f5ab038be878eb5b3bc10de",
+    "size": 63532
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

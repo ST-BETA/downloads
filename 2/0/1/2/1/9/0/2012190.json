@@ -1,0 +1,19 @@
+{
+  "appid": 2012190,
+  "files": [
+    {
+      "name": "2012190.zip",
+      "sha256": "f80d75380b7f065dcd790bf3102e2fbb7db9941e0083d328d14d8824856acce3",
+      "size": 599251
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2012190.zip",
+    "sha256": "f80d75380b7f065dcd790bf3102e2fbb7db9941e0083d328d14d8824856acce3",
+    "size": 599251
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

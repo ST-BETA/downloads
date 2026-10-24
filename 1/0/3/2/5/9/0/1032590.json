@@ -1,0 +1,19 @@
+{
+  "appid": 1032590,
+  "files": [
+    {
+      "name": "1032590.zip",
+      "sha256": "011d167e027c05bca0b455b548b1588fabf62e386f4d8dd45a6249f29a7afdf2",
+      "size": 55679
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1032590.zip",
+    "sha256": "011d167e027c05bca0b455b548b1588fabf62e386f4d8dd45a6249f29a7afdf2",
+    "size": 55679
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

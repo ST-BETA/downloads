@@ -1,0 +1,19 @@
+{
+  "appid": 2701440,
+  "files": [
+    {
+      "name": "2701440.zip",
+      "sha256": "de4f8f112322fcf7fbc418b2b9d3bd3aba19754d7804e134524122ee560d0f59",
+      "size": 53424
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2701440.zip",
+    "sha256": "de4f8f112322fcf7fbc418b2b9d3bd3aba19754d7804e134524122ee560d0f59",
+    "size": 53424
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

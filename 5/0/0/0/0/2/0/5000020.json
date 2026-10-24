@@ -1,0 +1,18 @@
+{
+  "appid": 5000020,
+  "files": [
+    {
+      "name": "5000020.zip",
+      "sha256": "a879436f4044dc1f91629f5386d43e3b2d81411b7b5a69ae39d6ba311cbff0c1",
+      "size": 308051
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "5000020.zip",
+    "size": 308051
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

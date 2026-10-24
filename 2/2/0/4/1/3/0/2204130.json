@@ -1,0 +1,19 @@
+{
+  "appid": 2204130,
+  "files": [
+    {
+      "name": "2204130.zip",
+      "sha256": "e1e6c04b5423648845d05020ffc31beb826a1c1a7a85210420ee9ca080ac41ef",
+      "size": 204246
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2204130.zip",
+    "sha256": "e1e6c04b5423648845d05020ffc31beb826a1c1a7a85210420ee9ca080ac41ef",
+    "size": 204246
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

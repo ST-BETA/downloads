@@ -1,0 +1,19 @@
+{
+  "appid": 638270,
+  "files": [
+    {
+      "name": "638270.zip",
+      "sha256": "68e9cdfeab83cf09e8162539f4c72db58c4874e0171a8540f89ea871a0daa91c",
+      "size": 52211
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "638270.zip",
+    "sha256": "68e9cdfeab83cf09e8162539f4c72db58c4874e0171a8540f89ea871a0daa91c",
+    "size": 52211
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

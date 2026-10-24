@@ -1,0 +1,19 @@
+{
+  "appid": 1914880,
+  "files": [
+    {
+      "name": "1914880.zip",
+      "sha256": "f309256cf40d1b6d10ceea73e2ab85e7c86d1a8095af8e2bed0583529ba66bbd",
+      "size": 21483
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1914880.zip",
+    "sha256": "f309256cf40d1b6d10ceea73e2ab85e7c86d1a8095af8e2bed0583529ba66bbd",
+    "size": 21483
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

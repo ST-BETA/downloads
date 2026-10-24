@@ -1,0 +1,19 @@
+{
+  "appid": 835040,
+  "files": [
+    {
+      "name": "835040.zip",
+      "sha256": "d90c957c09694df8665746274b3bb2cd41d251a011a4326dff10750240cca846",
+      "size": 49886
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "835040.zip",
+    "sha256": "d90c957c09694df8665746274b3bb2cd41d251a011a4326dff10750240cca846",
+    "size": 49886
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

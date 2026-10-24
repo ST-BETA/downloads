@@ -1,0 +1,19 @@
+{
+  "appid": 496230,
+  "files": [
+    {
+      "name": "496230.zip",
+      "sha256": "73a0cdcf4441cc596d85f62348b401f167d5580d73c7bcb99f9f15a8c323277d",
+      "size": 20614
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "496230.zip",
+    "sha256": "73a0cdcf4441cc596d85f62348b401f167d5580d73c7bcb99f9f15a8c323277d",
+    "size": 20614
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

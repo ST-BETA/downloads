@@ -1,0 +1,19 @@
+{
+  "appid": 652120,
+  "files": [
+    {
+      "name": "652120.zip",
+      "sha256": "d331bb2d55bb5492808d3cc261a2452fff63edad183bc3290b95013289ab2bab",
+      "size": 120765
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "652120.zip",
+    "sha256": "d331bb2d55bb5492808d3cc261a2452fff63edad183bc3290b95013289ab2bab",
+    "size": 120765
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2099030,
+  "files": [
+    {
+      "name": "2099030.zip",
+      "sha256": "89d75535ee90d58a4c7eab077c5d291c11b91986ab99d22041a66d4297c9674b",
+      "size": 349743
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2099030.zip",
+    "sha256": "89d75535ee90d58a4c7eab077c5d291c11b91986ab99d22041a66d4297c9674b",
+    "size": 349743
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1672880,
+  "files": [
+    {
+      "name": "1672880.zip",
+      "sha256": "beab155fec373b214f5138746d069911d190bc063370f09f722c861acc97a9ce",
+      "size": 375765
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1672880.zip",
+    "sha256": "beab155fec373b214f5138746d069911d190bc063370f09f722c861acc97a9ce",
+    "size": 375765
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2154240,
+  "files": [
+    {
+      "name": "2154240.zip",
+      "sha256": "ba4616355c1a9a5f6f5c2f36136215547d887763aedb49076f869cf75c50395a",
+      "size": 48844
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2154240.zip",
+    "sha256": "ba4616355c1a9a5f6f5c2f36136215547d887763aedb49076f869cf75c50395a",
+    "size": 48844
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,18 @@
+{
+  "appid": 234270,
+  "files": [
+    {
+      "name": "234270.zip",
+      "size": 2450763,
+      "sha256": "74d03e398d36025afe6c03b8bb8cfbae1230eae2bcd391d1d5258bceafcf20c4"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "234270.zip",
+    "size": 2450763
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T11:42:06Z"
+}

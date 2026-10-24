@@ -1,0 +1,18 @@
+{
+  "appid": 987410,
+  "files": [
+    {
+      "name": "987410.zip",
+      "sha256": "5556b968f95580ca7826b6e554f2866bd21eb5681431fc72bac6e5d92853a101",
+      "size": 53370
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "987410.zip",
+    "size": 53370
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

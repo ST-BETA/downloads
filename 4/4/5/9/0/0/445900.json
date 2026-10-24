@@ -1,0 +1,19 @@
+{
+  "appid": 445900,
+  "files": [
+    {
+      "name": "445900.zip",
+      "sha256": "7b86edddafc72214276ad0abaf0182871d59438fad883e33a494c63bb3c5ad59",
+      "size": 32761
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "445900.zip",
+    "sha256": "7b86edddafc72214276ad0abaf0182871d59438fad883e33a494c63bb3c5ad59",
+    "size": 32761
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

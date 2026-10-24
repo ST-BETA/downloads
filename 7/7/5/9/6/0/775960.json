@@ -1,0 +1,19 @@
+{
+  "appid": 775960,
+  "files": [
+    {
+      "name": "775960.zip",
+      "sha256": "de29e843928b4fc22ee5601a9bbb18ca3513c6de610c513ed6a6ca4e4a1b8623",
+      "size": 36007
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "775960.zip",
+    "sha256": "de29e843928b4fc22ee5601a9bbb18ca3513c6de610c513ed6a6ca4e4a1b8623",
+    "size": 36007
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

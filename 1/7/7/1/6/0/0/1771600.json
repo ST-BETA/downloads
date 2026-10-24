@@ -1,0 +1,19 @@
+{
+  "appid": 1771600,
+  "files": [
+    {
+      "name": "1771600.zip",
+      "sha256": "925db19392af3cd8af0d5f2605af3e84f32ff9027031a626f39fdf84aa65958c",
+      "size": 26280
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1771600.zip",
+    "sha256": "925db19392af3cd8af0d5f2605af3e84f32ff9027031a626f39fdf84aa65958c",
+    "size": 26280
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

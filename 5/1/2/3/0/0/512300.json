@@ -1,0 +1,18 @@
+{
+  "appid": 512300,
+  "files": [
+    {
+      "name": "512300.zip",
+      "size": 6318651,
+      "sha256": "3cfe69bfe46be9c327a0c7f7b512eb5b0edc6ff8dd02fc8e72849dec70a6e87a"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "512300.zip",
+    "size": 6318651
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-24T05:59:38Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 650770,
+  "files": [
+    {
+      "name": "650770.zip",
+      "sha256": "fdec23f2142b8f699f48e18b3f795293c94252a98da8174b6db97806522be4e1",
+      "size": 65637
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "650770.zip",
+    "sha256": "fdec23f2142b8f699f48e18b3f795293c94252a98da8174b6db97806522be4e1",
+    "size": 65637
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1920700,
+  "files": [
+    {
+      "name": "1920700.zip",
+      "sha256": "39fa661d605b771206ffe7ccdb93d0941dc46f25978d24596a6250a4c4775148",
+      "size": 2640
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1920700.zip",
+    "sha256": "39fa661d605b771206ffe7ccdb93d0941dc46f25978d24596a6250a4c4775148",
+    "size": 2640
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

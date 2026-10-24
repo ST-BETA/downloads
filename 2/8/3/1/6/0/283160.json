@@ -1,0 +1,19 @@
+{
+  "appid": 283160,
+  "files": [
+    {
+      "name": "283160.zip",
+      "sha256": "b046ae392d1ac06574453c2e07524f1bd0dde6697825352c6cfaa3999c4c2218",
+      "size": 56053
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "283160.zip",
+    "sha256": "b046ae392d1ac06574453c2e07524f1bd0dde6697825352c6cfaa3999c4c2218",
+    "size": 56053
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

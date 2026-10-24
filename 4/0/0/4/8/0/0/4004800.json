@@ -1,0 +1,18 @@
+{
+  "appid": 4004800,
+  "files": [
+    {
+      "name": "4004800.zip",
+      "sha256": "55ec6081e78d4b58ef013471610659e3a09e396e21a566aec98496171387ca8c",
+      "size": 688271
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4004800.zip",
+    "size": 688271
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

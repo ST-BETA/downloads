@@ -1,0 +1,19 @@
+{
+  "appid": 736230,
+  "files": [
+    {
+      "name": "736230.zip",
+      "sha256": "db44afb1a20a20056112a49163fbd55e4114667d04ea5df8f859dc7da30dc196",
+      "size": 23041
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "736230.zip",
+    "sha256": "db44afb1a20a20056112a49163fbd55e4114667d04ea5df8f859dc7da30dc196",
+    "size": 23041
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

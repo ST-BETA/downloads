@@ -1,0 +1,19 @@
+{
+  "appid": 769720,
+  "files": [
+    {
+      "name": "769720.zip",
+      "sha256": "5558c0ca565c9963a44df85245c8bd1832102c710e5dfa1e2e95e2a84b432f2a",
+      "size": 552719
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "769720.zip",
+    "sha256": "5558c0ca565c9963a44df85245c8bd1832102c710e5dfa1e2e95e2a84b432f2a",
+    "size": 552719
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

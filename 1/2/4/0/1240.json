@@ -1,0 +1,19 @@
+{
+  "appid": 1240,
+  "files": [
+    {
+      "name": "1240.zip",
+      "sha256": "d7830e15d8199ac57bb55b62ae359cdee76612d6c24d72b9c3f3979748e664d6",
+      "size": 231078
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1240.zip",
+    "sha256": "d7830e15d8199ac57bb55b62ae359cdee76612d6c24d72b9c3f3979748e664d6",
+    "size": 231078
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

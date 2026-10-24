@@ -1,0 +1,19 @@
+{
+  "appid": 408170,
+  "files": [
+    {
+      "name": "408170.zip",
+      "sha256": "e62edd5dd2ba54e46decde0e585b7e521235af2c9802c6b2ba92faa8ccff6f49",
+      "size": 23581
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "408170.zip",
+    "sha256": "e62edd5dd2ba54e46decde0e585b7e521235af2c9802c6b2ba92faa8ccff6f49",
+    "size": 23581
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

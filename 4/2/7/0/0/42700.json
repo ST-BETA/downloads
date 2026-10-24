@@ -1,0 +1,18 @@
+{
+  "appid": 42700,
+  "files": [
+    {
+      "name": "42700.zip",
+      "size": 2772364,
+      "sha256": "b0863c38ff81677ddacd6b0405f3ffdf323012c0a54e3b9e81c2b484e62d5c7c"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "42700.zip",
+    "size": 2772364
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-23T02:50:02Z"
+}

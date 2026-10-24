@@ -1,0 +1,19 @@
+{
+  "appid": 1212100,
+  "files": [
+    {
+      "name": "1212100.zip",
+      "sha256": "5609240de9661a958be39b8326334ac3b7f9073b34277316874320477ba803cd",
+      "size": 6613
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1212100.zip",
+    "sha256": "5609240de9661a958be39b8326334ac3b7f9073b34277316874320477ba803cd",
+    "size": 6613
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1888000,
+  "files": [
+    {
+      "name": "1888000.zip",
+      "sha256": "7275747f2b4cb46b4cb533c61085ee695329a9eced06f5132e202b7fcaa7c91b",
+      "size": 11879
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1888000.zip",
+    "sha256": "7275747f2b4cb46b4cb533c61085ee695329a9eced06f5132e202b7fcaa7c91b",
+    "size": 11879
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

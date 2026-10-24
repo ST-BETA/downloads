@@ -1,0 +1,19 @@
+{
+  "appid": 289580,
+  "files": [
+    {
+      "name": "289580.zip",
+      "sha256": "e5585de1819c7a67e0782fb4a6bb62a83dbf7ef1028e72a7455659e40cb8e174",
+      "size": 1261702
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "289580.zip",
+    "sha256": "e5585de1819c7a67e0782fb4a6bb62a83dbf7ef1028e72a7455659e40cb8e174",
+    "size": 1261702
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

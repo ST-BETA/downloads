@@ -1,0 +1,19 @@
+{
+  "appid": 768990,
+  "files": [
+    {
+      "name": "768990.zip",
+      "sha256": "5f3ec22713b2c102ffa8035ce6f2c3fdc29e92c8aef3351d0552f971fcf8b09f",
+      "size": 241800
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "768990.zip",
+    "sha256": "5f3ec22713b2c102ffa8035ce6f2c3fdc29e92c8aef3351d0552f971fcf8b09f",
+    "size": 241800
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

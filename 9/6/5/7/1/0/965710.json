@@ -1,0 +1,19 @@
+{
+  "appid": 965710,
+  "files": [
+    {
+      "name": "965710.zip",
+      "sha256": "f0b4f7efdbebc91e35eaaf8b49b3d8c53efdcf976235b3b5a2726a9e28203d1e",
+      "size": 238350
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "965710.zip",
+    "sha256": "f0b4f7efdbebc91e35eaaf8b49b3d8c53efdcf976235b3b5a2726a9e28203d1e",
+    "size": 238350
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

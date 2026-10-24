@@ -1,0 +1,19 @@
+{
+  "appid": 1333420,
+  "files": [
+    {
+      "name": "1333420.zip",
+      "sha256": "5bcdd4f0dcbfd4ef62735a95d6a9846f00474db4f34988ea3395c6101f0a72ee",
+      "size": 41107
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1333420.zip",
+    "sha256": "5bcdd4f0dcbfd4ef62735a95d6a9846f00474db4f34988ea3395c6101f0a72ee",
+    "size": 41107
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

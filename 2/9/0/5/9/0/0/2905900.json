@@ -1,0 +1,19 @@
+{
+  "appid": 2905900,
+  "files": [
+    {
+      "name": "2905900.zip",
+      "sha256": "641d59009c44c5f8fa17be6c34c8e8342077b1a3d43684122e3fb94709128ec0",
+      "size": 56557
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2905900.zip",
+    "sha256": "641d59009c44c5f8fa17be6c34c8e8342077b1a3d43684122e3fb94709128ec0",
+    "size": 56557
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

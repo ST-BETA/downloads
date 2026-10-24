@@ -1,0 +1,18 @@
+{
+  "appid": 345180,
+  "files": [
+    {
+      "name": "345180.zip",
+      "size": 322582,
+      "sha256": "057969e8c921a42535787cdced5b1c8109ef579373afb68d28d4d8d7866b8561"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "345180.zip",
+    "size": 322582
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-22T10:36:15Z"
+}

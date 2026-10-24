@@ -1,0 +1,19 @@
+{
+  "appid": 402170,
+  "files": [
+    {
+      "name": "402170.zip",
+      "sha256": "c4d19da5d9f3ed52849b98505a4e8bf992b48419ccbb6b6cc2b26cacffdc4229",
+      "size": 13137
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "402170.zip",
+    "sha256": "c4d19da5d9f3ed52849b98505a4e8bf992b48419ccbb6b6cc2b26cacffdc4229",
+    "size": 13137
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

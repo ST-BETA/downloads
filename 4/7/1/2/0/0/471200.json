@@ -1,0 +1,19 @@
+{
+  "appid": 471200,
+  "files": [
+    {
+      "name": "471200.zip",
+      "sha256": "374eca86667bebf3cf1de756f3749109d884a08bddcd83bc21ac7804af416c28",
+      "size": 52118
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "471200.zip",
+    "sha256": "374eca86667bebf3cf1de756f3749109d884a08bddcd83bc21ac7804af416c28",
+    "size": 52118
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

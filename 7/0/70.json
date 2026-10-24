@@ -1,0 +1,18 @@
+{
+  "appid": 70,
+  "files": [
+    {
+      "name": "70.zip",
+      "size": 2006057,
+      "sha256": "08e8ba12e258536d47988197e9681602cd81173add11765ea2df16adf1aab68f"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "70.zip",
+    "size": 2006057
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-23T02:49:46Z"
+}

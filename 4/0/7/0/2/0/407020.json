@@ -1,0 +1,19 @@
+{
+  "appid": 407020,
+  "files": [
+    {
+      "name": "407020.zip",
+      "sha256": "0fbdaa097ea70c808a81e231c653f8dd8a65fb2324e749ec2fdea6673950fbd0",
+      "size": 79870
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "407020.zip",
+    "sha256": "0fbdaa097ea70c808a81e231c653f8dd8a65fb2324e749ec2fdea6673950fbd0",
+    "size": 79870
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

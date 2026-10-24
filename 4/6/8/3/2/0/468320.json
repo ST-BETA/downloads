@@ -1,0 +1,19 @@
+{
+  "appid": 468320,
+  "files": [
+    {
+      "name": "468320.zip",
+      "sha256": "abb99cec6141bb60911837bf8f1b34fe1e912022078eda88f3ac5e7e5b1a1941",
+      "size": 12916
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "468320.zip",
+    "sha256": "abb99cec6141bb60911837bf8f1b34fe1e912022078eda88f3ac5e7e5b1a1941",
+    "size": 12916
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

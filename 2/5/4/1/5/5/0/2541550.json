@@ -1,0 +1,19 @@
+{
+  "appid": 2541550,
+  "files": [
+    {
+      "name": "2541550.zip",
+      "sha256": "f9c1fcf0372762dcfa16a89bbff36d720a1d048d213fb847ff00031f1af727d3",
+      "size": 336173
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2541550.zip",
+    "sha256": "f9c1fcf0372762dcfa16a89bbff36d720a1d048d213fb847ff00031f1af727d3",
+    "size": 336173
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

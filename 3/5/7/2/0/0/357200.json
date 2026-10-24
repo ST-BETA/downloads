@@ -1,0 +1,19 @@
+{
+  "appid": 357200,
+  "files": [
+    {
+      "name": "357200.zip",
+      "sha256": "bcc61e584f5ed2e1eb46ec329cb2fa20dc38f1e7953632bb903a14b6c8efefc6",
+      "size": 59887
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "357200.zip",
+    "sha256": "bcc61e584f5ed2e1eb46ec329cb2fa20dc38f1e7953632bb903a14b6c8efefc6",
+    "size": 59887
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

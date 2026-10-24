@@ -1,0 +1,19 @@
+{
+  "appid": 339350,
+  "files": [
+    {
+      "name": "339350.zip",
+      "sha256": "90ef051d09db8c79e559e5dc9e14f10dc3d32927366cca923100ecc110cd14da",
+      "size": 59228
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "339350.zip",
+    "sha256": "90ef051d09db8c79e559e5dc9e14f10dc3d32927366cca923100ecc110cd14da",
+    "size": 59228
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

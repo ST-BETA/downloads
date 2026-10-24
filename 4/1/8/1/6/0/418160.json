@@ -1,0 +1,19 @@
+{
+  "appid": 418160,
+  "files": [
+    {
+      "name": "418160.zip",
+      "sha256": "603e3714f30fb92765e14afeb1a3ef357d26514f8ae937cd657bea14d24469ea",
+      "size": 195193
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "418160.zip",
+    "sha256": "603e3714f30fb92765e14afeb1a3ef357d26514f8ae937cd657bea14d24469ea",
+    "size": 195193
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

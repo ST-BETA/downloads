@@ -1,0 +1,19 @@
+{
+  "appid": 747230,
+  "files": [
+    {
+      "name": "747230.zip",
+      "sha256": "abbcddb75463b35f014c523dd3c231304ea7116ea99799092d23260b9a38ed9e",
+      "size": 16499
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "747230.zip",
+    "sha256": "abbcddb75463b35f014c523dd3c231304ea7116ea99799092d23260b9a38ed9e",
+    "size": 16499
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

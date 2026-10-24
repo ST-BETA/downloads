@@ -1,0 +1,19 @@
+{
+  "appid": 1247570,
+  "files": [
+    {
+      "name": "1247570.zip",
+      "sha256": "78e003999b90ac1a68d9a4f64cef4e54a7c0408916c81c6aac5f952c7eecc82d",
+      "size": 826264
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1247570.zip",
+    "sha256": "78e003999b90ac1a68d9a4f64cef4e54a7c0408916c81c6aac5f952c7eecc82d",
+    "size": 826264
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

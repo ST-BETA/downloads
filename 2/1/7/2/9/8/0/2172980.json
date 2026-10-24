@@ -1,0 +1,19 @@
+{
+  "appid": 2172980,
+  "files": [
+    {
+      "name": "2172980.zip",
+      "sha256": "283b0ad717a60495db8888a8e3340554625d4004f6e3ca2f81f3c6b9d6de9462",
+      "size": 505924
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2172980.zip",
+    "sha256": "283b0ad717a60495db8888a8e3340554625d4004f6e3ca2f81f3c6b9d6de9462",
+    "size": 505924
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

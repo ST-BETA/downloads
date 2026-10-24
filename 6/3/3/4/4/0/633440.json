@@ -1,0 +1,19 @@
+{
+  "appid": 633440,
+  "files": [
+    {
+      "name": "633440.zip",
+      "sha256": "72018da6320c2fe48ffb2673abc3a7de48d20418b37439f6146d54028b8eab4a",
+      "size": 42242
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "633440.zip",
+    "sha256": "72018da6320c2fe48ffb2673abc3a7de48d20418b37439f6146d54028b8eab4a",
+    "size": 42242
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

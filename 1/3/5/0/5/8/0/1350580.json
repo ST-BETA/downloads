@@ -1,0 +1,19 @@
+{
+  "appid": 1350580,
+  "files": [
+    {
+      "name": "1350580.zip",
+      "sha256": "c1cbe1c074aa274a88bf17da100e02fe0e6eb2f40bd2aa0eeed56c0756cf0573",
+      "size": 20800
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1350580.zip",
+    "sha256": "c1cbe1c074aa274a88bf17da100e02fe0e6eb2f40bd2aa0eeed56c0756cf0573",
+    "size": 20800
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

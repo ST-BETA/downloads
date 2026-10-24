@@ -1,0 +1,19 @@
+{
+  "appid": 408250,
+  "files": [
+    {
+      "name": "408250.zip",
+      "sha256": "dcbcdc78f86a9e2259136cac3c1907ff4630a41582668ecde65d9835ea99a9f1",
+      "size": 405738
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "408250.zip",
+    "sha256": "dcbcdc78f86a9e2259136cac3c1907ff4630a41582668ecde65d9835ea99a9f1",
+    "size": 405738
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

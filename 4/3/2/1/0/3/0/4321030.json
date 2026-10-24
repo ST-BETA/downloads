@@ -1,0 +1,18 @@
+{
+  "appid": 4321030,
+  "files": [
+    {
+      "name": "4321030.zip",
+      "sha256": "a46079e3d68f155c34d5bcfbb72490b1b00789b623dffe12c5e523d8360d1cd9",
+      "size": 58788
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4321030.zip",
+    "size": 58788
+  },
+  "repository": "downloads-08",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

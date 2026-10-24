@@ -1,0 +1,19 @@
+{
+  "appid": 683790,
+  "files": [
+    {
+      "name": "683790.zip",
+      "sha256": "b903ee7e7d8c63a3d1bb52918f3f50714822558d854805589d3db640259c966b",
+      "size": 71636
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "683790.zip",
+    "sha256": "b903ee7e7d8c63a3d1bb52918f3f50714822558d854805589d3db640259c966b",
+    "size": 71636
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

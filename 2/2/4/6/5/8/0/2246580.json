@@ -1,0 +1,19 @@
+{
+  "appid": 2246580,
+  "files": [
+    {
+      "name": "2246580.zip",
+      "sha256": "eb472ba593459e7325177904c534e7953b32d92bfea0ceda90a084550e16dfb0",
+      "size": 99374
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2246580.zip",
+    "sha256": "eb472ba593459e7325177904c534e7953b32d92bfea0ceda90a084550e16dfb0",
+    "size": 99374
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

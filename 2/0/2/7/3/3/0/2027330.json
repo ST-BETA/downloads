@@ -1,0 +1,19 @@
+{
+  "appid": 2027330,
+  "files": [
+    {
+      "name": "2027330.zip",
+      "sha256": "b0627d09d60ba6dfa9579610456c7d80d5ec38f54babb970bc3bbcba10deba79",
+      "size": 62980
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2027330.zip",
+    "sha256": "b0627d09d60ba6dfa9579610456c7d80d5ec38f54babb970bc3bbcba10deba79",
+    "size": 62980
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

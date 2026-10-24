@@ -1,0 +1,19 @@
+{
+  "appid": 609380,
+  "files": [
+    {
+      "name": "609380.zip",
+      "sha256": "5212998bf0dc283ab5d37f0006b2bf148cef68867b20f281a9c89238beec91ad",
+      "size": 413410
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "609380.zip",
+    "sha256": "5212998bf0dc283ab5d37f0006b2bf148cef68867b20f281a9c89238beec91ad",
+    "size": 413410
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

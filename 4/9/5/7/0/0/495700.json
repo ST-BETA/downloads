@@ -1,0 +1,19 @@
+{
+  "appid": 495700,
+  "files": [
+    {
+      "name": "495700.zip",
+      "sha256": "0fe458198eef2a1c164ccaed77e1670dcefdd3baa49e124efebb8e4bb1f280ea",
+      "size": 33914
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "495700.zip",
+    "sha256": "0fe458198eef2a1c164ccaed77e1670dcefdd3baa49e124efebb8e4bb1f280ea",
+    "size": 33914
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

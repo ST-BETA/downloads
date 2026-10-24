@@ -1,0 +1,19 @@
+{
+  "appid": 523900,
+  "files": [
+    {
+      "name": "523900.zip",
+      "sha256": "23548239dbf789f0138e8ba26822332254b350ce30f5e9095a202aebd4c61380",
+      "size": 27357
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "523900.zip",
+    "sha256": "23548239dbf789f0138e8ba26822332254b350ce30f5e9095a202aebd4c61380",
+    "size": 27357
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

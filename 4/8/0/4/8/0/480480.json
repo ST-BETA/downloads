@@ -1,0 +1,19 @@
+{
+  "appid": 480480,
+  "files": [
+    {
+      "name": "480480.zip",
+      "sha256": "f2795fc6961176169ae09f68a13125bb8620ab266494272b2dd70ecd379c5fba",
+      "size": 1211
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "480480.zip",
+    "sha256": "f2795fc6961176169ae09f68a13125bb8620ab266494272b2dd70ecd379c5fba",
+    "size": 1211
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

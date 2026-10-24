@@ -1,0 +1,19 @@
+{
+  "appid": 2377890,
+  "files": [
+    {
+      "name": "2377890.zip",
+      "sha256": "398f00c168d5486726c32be04a39b596c14edbfd228e9c8978d85a1d060d206c",
+      "size": 127464
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2377890.zip",
+    "sha256": "398f00c168d5486726c32be04a39b596c14edbfd228e9c8978d85a1d060d206c",
+    "size": 127464
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

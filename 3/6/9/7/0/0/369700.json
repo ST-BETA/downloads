@@ -1,0 +1,19 @@
+{
+  "appid": 369700,
+  "files": [
+    {
+      "name": "369700.zip",
+      "sha256": "188cbe10d31fc834a80ecc7313732d995812427941e72112708a35d10b2dd372",
+      "size": 59737
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "369700.zip",
+    "sha256": "188cbe10d31fc834a80ecc7313732d995812427941e72112708a35d10b2dd372",
+    "size": 59737
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

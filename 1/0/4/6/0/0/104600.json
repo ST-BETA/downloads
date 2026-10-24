@@ -1,0 +1,19 @@
+{
+  "appid": 104600,
+  "files": [
+    {
+      "name": "104600.zip",
+      "sha256": "47f3ac35057024735bb6beb9bc95f1d370efeef2ba58db9d29459c5420cd096d",
+      "size": 25713
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "104600.zip",
+    "sha256": "47f3ac35057024735bb6beb9bc95f1d370efeef2ba58db9d29459c5420cd096d",
+    "size": 25713
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

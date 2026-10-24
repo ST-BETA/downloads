@@ -1,0 +1,19 @@
+{
+  "appid": 810800,
+  "files": [
+    {
+      "name": "810800.zip",
+      "sha256": "976c0cbc02d66fff9c96108362f1819a1047d032687f7b348d24160ec6517f05",
+      "size": 86737
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "810800.zip",
+    "sha256": "976c0cbc02d66fff9c96108362f1819a1047d032687f7b348d24160ec6517f05",
+    "size": 86737
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

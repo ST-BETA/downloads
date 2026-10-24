@@ -1,0 +1,19 @@
+{
+  "appid": 447540,
+  "files": [
+    {
+      "name": "447540.zip",
+      "sha256": "5ebd69f0e31e6f4cb6f0d894e95ffdcabdd46450a2b0a5e58ca6c98221aaa7af",
+      "size": 3077
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "447540.zip",
+    "sha256": "5ebd69f0e31e6f4cb6f0d894e95ffdcabdd46450a2b0a5e58ca6c98221aaa7af",
+    "size": 3077
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

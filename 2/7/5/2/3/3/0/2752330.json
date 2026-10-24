@@ -1,0 +1,19 @@
+{
+  "appid": 2752330,
+  "files": [
+    {
+      "name": "2752330.zip",
+      "sha256": "0d5275dc42dd8a498aa9cd1075b8629ce4e58cc330fc43ac65a75db8f6170fa7",
+      "size": 141626
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2752330.zip",
+    "sha256": "0d5275dc42dd8a498aa9cd1075b8629ce4e58cc330fc43ac65a75db8f6170fa7",
+    "size": 141626
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

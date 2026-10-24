@@ -1,0 +1,18 @@
+{
+  "appid": 4234500,
+  "files": [
+    {
+      "name": "4234500.zip",
+      "sha256": "871bb7dc08b4c9e907c5e5178f8d69b43f5891c2000f515d19f727b1671b6eb1",
+      "size": 115847
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4234500.zip",
+    "size": 115847
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2175130,
+  "files": [
+    {
+      "name": "2175130.zip",
+      "sha256": "1513bbfbb78a1c030d965b9f078ebafdc93b1174aa956b44c6cdb197ccfadd8a",
+      "size": 86817
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2175130.zip",
+    "sha256": "1513bbfbb78a1c030d965b9f078ebafdc93b1174aa956b44c6cdb197ccfadd8a",
+    "size": 86817
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 570850,
+  "files": [
+    {
+      "name": "570850.zip",
+      "sha256": "d13f81ba44e9b198502149ecc3f1890bdfac70dc6a67e0a670a0f2b039c47922",
+      "size": 88032
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "570850.zip",
+    "sha256": "d13f81ba44e9b198502149ecc3f1890bdfac70dc6a67e0a670a0f2b039c47922",
+    "size": 88032
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

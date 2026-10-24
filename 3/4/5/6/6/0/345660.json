@@ -1,0 +1,18 @@
+{
+  "appid": 345660,
+  "files": [
+    {
+      "name": "345660.zip",
+      "size": 1230427,
+      "sha256": "dd0dfb53d6bdb17af6baa12a2fc9287e407a7ee6af6a5f7b8b9afe35ec433c58"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "345660.zip",
+    "size": 1230427
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-22T10:36:31Z"
+}

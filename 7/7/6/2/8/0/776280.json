@@ -1,0 +1,19 @@
+{
+  "appid": 776280,
+  "files": [
+    {
+      "name": "776280.zip",
+      "sha256": "7edcf12a170b8338fdc5cb616a7ddb11aa4a215314dad5c056e634b943ebd27d",
+      "size": 11223
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "776280.zip",
+    "sha256": "7edcf12a170b8338fdc5cb616a7ddb11aa4a215314dad5c056e634b943ebd27d",
+    "size": 11223
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

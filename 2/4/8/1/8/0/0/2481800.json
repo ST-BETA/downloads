@@ -1,0 +1,19 @@
+{
+  "appid": 2481800,
+  "files": [
+    {
+      "name": "2481800.zip",
+      "sha256": "70a51d182cb7a1306162279dfb4bafdc158463f069a811357bbaea2c95005bc0",
+      "size": 22068
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2481800.zip",
+    "sha256": "70a51d182cb7a1306162279dfb4bafdc158463f069a811357bbaea2c95005bc0",
+    "size": 22068
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

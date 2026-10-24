@@ -1,0 +1,19 @@
+{
+  "appid": 1843830,
+  "files": [
+    {
+      "name": "1843830.zip",
+      "sha256": "ec31a9f9e95d74e4e169348c1afd4dd28e5a76f03676a39fd75d0b1dfa03ec8b",
+      "size": 236323
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1843830.zip",
+    "sha256": "ec31a9f9e95d74e4e169348c1afd4dd28e5a76f03676a39fd75d0b1dfa03ec8b",
+    "size": 236323
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

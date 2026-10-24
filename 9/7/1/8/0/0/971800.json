@@ -1,0 +1,18 @@
+{
+  "appid": 971800,
+  "files": [
+    {
+      "name": "971800.zip",
+      "sha256": "c77501825b23f98691b22b0e30a886c0213a664ef54e410d38ed4b34a02178ca",
+      "size": 629781
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "971800.zip",
+    "size": 629781
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

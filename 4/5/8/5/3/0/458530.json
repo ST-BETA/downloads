@@ -1,0 +1,19 @@
+{
+  "appid": 458530,
+  "files": [
+    {
+      "name": "458530.zip",
+      "sha256": "8888d443ad0a1f646422c4a4c9942af11581e79e7518948be73010ad77601ccb",
+      "size": 14148
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "458530.zip",
+    "sha256": "8888d443ad0a1f646422c4a4c9942af11581e79e7518948be73010ad77601ccb",
+    "size": 14148
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

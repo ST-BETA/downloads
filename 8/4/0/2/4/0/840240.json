@@ -1,0 +1,19 @@
+{
+  "appid": 840240,
+  "files": [
+    {
+      "name": "840240.zip",
+      "sha256": "1808a20fb07def0d6d445fee62329d497720c039c0286fe1ae972c6de3be06f5",
+      "size": 28204
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "840240.zip",
+    "sha256": "1808a20fb07def0d6d445fee62329d497720c039c0286fe1ae972c6de3be06f5",
+    "size": 28204
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

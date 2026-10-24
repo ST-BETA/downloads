@@ -1,0 +1,19 @@
+{
+  "appid": 500980,
+  "files": [
+    {
+      "name": "500980.zip",
+      "sha256": "0b77d4822debac92adf4a88f57e0350cabf3578478c694b95f64f7631b3de5be",
+      "size": 1973370
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "500980.zip",
+    "sha256": "0b77d4822debac92adf4a88f57e0350cabf3578478c694b95f64f7631b3de5be",
+    "size": 1973370
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

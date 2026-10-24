@@ -1,0 +1,19 @@
+{
+  "appid": 3626100,
+  "files": [
+    {
+      "name": "3626100.zip",
+      "sha256": "4bce0e65c3cf9e2b19bd5e91f5cf7ac0ea0ef405770621830a02b0848aa9c80d",
+      "size": 69052
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3626100.zip",
+    "sha256": "4bce0e65c3cf9e2b19bd5e91f5cf7ac0ea0ef405770621830a02b0848aa9c80d",
+    "size": 69052
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

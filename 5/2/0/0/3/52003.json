@@ -1,0 +1,18 @@
+{
+  "appid": 52003,
+  "files": [
+    {
+      "name": "52003.zip",
+      "size": 1286226,
+      "sha256": "7dd1b7a019f53c5642e1459c2c47467a5b6a9e0a677a59b258747ce1ce92c2cb"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "52003.zip",
+    "size": 1286226
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T05:07:55Z"
+}

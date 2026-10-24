@@ -1,0 +1,19 @@
+{
+  "appid": 1203670,
+  "files": [
+    {
+      "name": "1203670.zip",
+      "sha256": "286e1850a33e17e608b150e0205376cbe33dc338474504cfb207c078cf7aea8b",
+      "size": 926484
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1203670.zip",
+    "sha256": "286e1850a33e17e608b150e0205376cbe33dc338474504cfb207c078cf7aea8b",
+    "size": 926484
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

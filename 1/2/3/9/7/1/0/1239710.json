@@ -1,0 +1,19 @@
+{
+  "appid": 1239710,
+  "files": [
+    {
+      "name": "1239710.zip",
+      "sha256": "9cf4128a6ded2af0dc8ede44ffe145e8b9a7879c12868e18d3318ae648652666",
+      "size": 81975
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1239710.zip",
+    "sha256": "9cf4128a6ded2af0dc8ede44ffe145e8b9a7879c12868e18d3318ae648652666",
+    "size": 81975
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

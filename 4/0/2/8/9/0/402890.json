@@ -1,0 +1,19 @@
+{
+  "appid": 402890,
+  "files": [
+    {
+      "name": "402890.zip",
+      "sha256": "6f30bf3998e4e222cbe79edd1e9da5ca6588694deb5bacb48c98093b25d7b762",
+      "size": 290706
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "402890.zip",
+    "sha256": "6f30bf3998e4e222cbe79edd1e9da5ca6588694deb5bacb48c98093b25d7b762",
+    "size": 290706
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

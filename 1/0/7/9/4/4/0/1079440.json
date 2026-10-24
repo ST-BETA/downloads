@@ -1,0 +1,19 @@
+{
+  "appid": 1079440,
+  "files": [
+    {
+      "name": "1079440.zip",
+      "sha256": "a55ac50e985f4f546af5613f8cdbc5dc2431bdd048585a719bafc0071a0cb76f",
+      "size": 3390939
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1079440.zip",
+    "sha256": "a55ac50e985f4f546af5613f8cdbc5dc2431bdd048585a719bafc0071a0cb76f",
+    "size": 3390939
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

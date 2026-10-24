@@ -1,0 +1,19 @@
+{
+  "appid": 586450,
+  "files": [
+    {
+      "name": "586450.zip",
+      "sha256": "e831a0832315371b8c706cde9ec4d4907a6c3ee77c7de01477cb21214215847e",
+      "size": 3234
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "586450.zip",
+    "sha256": "e831a0832315371b8c706cde9ec4d4907a6c3ee77c7de01477cb21214215847e",
+    "size": 3234
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2214130,
+  "files": [
+    {
+      "name": "2214130.zip",
+      "sha256": "3a68105c6e495a38192b049a0a1514866cb5a8029c15054e1f356d9a74abffff",
+      "size": 24442
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2214130.zip",
+    "sha256": "3a68105c6e495a38192b049a0a1514866cb5a8029c15054e1f356d9a74abffff",
+    "size": 24442
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

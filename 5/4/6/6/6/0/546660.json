@@ -1,0 +1,19 @@
+{
+  "appid": 546660,
+  "files": [
+    {
+      "name": "546660.zip",
+      "sha256": "96480af298269cd6be701fd27d14ac3a9d6fe54d7989cd5a82c2b66a7c95d66c",
+      "size": 649505
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "546660.zip",
+    "sha256": "96480af298269cd6be701fd27d14ac3a9d6fe54d7989cd5a82c2b66a7c95d66c",
+    "size": 649505
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

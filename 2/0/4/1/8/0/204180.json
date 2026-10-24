@@ -1,0 +1,19 @@
+{
+  "appid": 204180,
+  "files": [
+    {
+      "name": "204180.zip",
+      "sha256": "f3010dbee1b88518d4ab8f3f6fd7793480746759b36fc3b7c99ed4794a789238",
+      "size": 46721
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "204180.zip",
+    "sha256": "f3010dbee1b88518d4ab8f3f6fd7793480746759b36fc3b7c99ed4794a789238",
+    "size": 46721
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

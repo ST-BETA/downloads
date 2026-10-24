@@ -1,0 +1,19 @@
+{
+  "appid": 296850,
+  "files": [
+    {
+      "name": "296850.zip",
+      "sha256": "7785236d06b9ff56b7d39dac735b66a1a4d10286bc6e2b66e438c4a5771c4249",
+      "size": 104110
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "296850.zip",
+    "sha256": "7785236d06b9ff56b7d39dac735b66a1a4d10286bc6e2b66e438c4a5771c4249",
+    "size": 104110
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

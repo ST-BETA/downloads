@@ -1,0 +1,19 @@
+{
+  "appid": 581460,
+  "files": [
+    {
+      "name": "581460.zip",
+      "sha256": "60236bc64c6d469bdd9e13d7e533ef28fa5420f0f86bc1a80eb041a1577ec830",
+      "size": 142306
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "581460.zip",
+    "sha256": "60236bc64c6d469bdd9e13d7e533ef28fa5420f0f86bc1a80eb041a1577ec830",
+    "size": 142306
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

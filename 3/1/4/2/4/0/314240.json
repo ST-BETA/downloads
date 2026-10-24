@@ -1,0 +1,19 @@
+{
+  "appid": 314240,
+  "files": [
+    {
+      "name": "314240.zip",
+      "sha256": "a75a0e27e69e12e9ce2cf999a73df93e1e16ddde4ec3a8a0384eeeffb6a2fab6",
+      "size": 155745
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "314240.zip",
+    "sha256": "a75a0e27e69e12e9ce2cf999a73df93e1e16ddde4ec3a8a0384eeeffb6a2fab6",
+    "size": 155745
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

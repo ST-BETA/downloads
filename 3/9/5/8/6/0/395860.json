@@ -1,0 +1,19 @@
+{
+  "appid": 395860,
+  "files": [
+    {
+      "name": "395860.zip",
+      "sha256": "dfd8c4ee427636766085f5a4844486fd5ae7864c6a0adfd8a11287c6483c1d39",
+      "size": 1623320
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "395860.zip",
+    "sha256": "dfd8c4ee427636766085f5a4844486fd5ae7864c6a0adfd8a11287c6483c1d39",
+    "size": 1623320
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

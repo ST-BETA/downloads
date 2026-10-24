@@ -1,0 +1,19 @@
+{
+  "appid": 2579270,
+  "files": [
+    {
+      "name": "2579270.zip",
+      "sha256": "c2a3c1aebb8e6635717ef50d15319c6301443e44edcfdb358202d580f501af4b",
+      "size": 333005
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2579270.zip",
+    "sha256": "c2a3c1aebb8e6635717ef50d15319c6301443e44edcfdb358202d580f501af4b",
+    "size": 333005
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

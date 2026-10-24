@@ -1,0 +1,19 @@
+{
+  "appid": 215790,
+  "files": [
+    {
+      "name": "215790.zip",
+      "sha256": "bd20df26004a68bf3eaf8947c00dadd69be5fc506dfd73213eb3b479deccb44b",
+      "size": 11132207
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "215790.zip",
+    "sha256": "bd20df26004a68bf3eaf8947c00dadd69be5fc506dfd73213eb3b479deccb44b",
+    "size": 11132207
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

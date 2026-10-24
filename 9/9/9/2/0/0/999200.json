@@ -1,0 +1,19 @@
+{
+  "appid": 999200,
+  "files": [
+    {
+      "name": "999200.zip",
+      "sha256": "3a5e6e1097a7b41bd9a09e052555accd0ea9bd87f73f8c21a02ae5ed1446bbb2",
+      "size": 4574
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "999200.zip",
+    "sha256": "3a5e6e1097a7b41bd9a09e052555accd0ea9bd87f73f8c21a02ae5ed1446bbb2",
+    "size": 4574
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

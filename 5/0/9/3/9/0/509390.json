@@ -1,0 +1,19 @@
+{
+  "appid": 509390,
+  "files": [
+    {
+      "name": "509390.zip",
+      "sha256": "d72cb5282aab4100b6288cf52b4b504ce407a7a3f7c125a33a5107cb2777aef0",
+      "size": 4609
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "509390.zip",
+    "sha256": "d72cb5282aab4100b6288cf52b4b504ce407a7a3f7c125a33a5107cb2777aef0",
+    "size": 4609
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

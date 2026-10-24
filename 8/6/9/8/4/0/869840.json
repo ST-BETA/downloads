@@ -1,0 +1,19 @@
+{
+  "appid": 869840,
+  "files": [
+    {
+      "name": "869840.zip",
+      "sha256": "2869909a009b7fa0bf7d35b525331cc735345b024be28a2d8afc7bae3bb248aa",
+      "size": 107520
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "869840.zip",
+    "sha256": "2869909a009b7fa0bf7d35b525331cc735345b024be28a2d8afc7bae3bb248aa",
+    "size": 107520
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

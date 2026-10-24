@@ -1,0 +1,19 @@
+{
+  "appid": 389810,
+  "files": [
+    {
+      "name": "389810.zip",
+      "sha256": "bf119e76d3a9bab990dfd9b01a6147deddb31c90699338cdfbd37c2d78aa1f50",
+      "size": 54492
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "389810.zip",
+    "sha256": "bf119e76d3a9bab990dfd9b01a6147deddb31c90699338cdfbd37c2d78aa1f50",
+    "size": 54492
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

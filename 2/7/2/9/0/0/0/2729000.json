@@ -1,0 +1,19 @@
+{
+  "appid": 2729000,
+  "files": [
+    {
+      "name": "2729000.zip",
+      "sha256": "afab26f21f7aab43e5d212f78b0814392f903ec1565ee6ef51ec966c9919092a",
+      "size": 15851
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2729000.zip",
+    "sha256": "afab26f21f7aab43e5d212f78b0814392f903ec1565ee6ef51ec966c9919092a",
+    "size": 15851
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

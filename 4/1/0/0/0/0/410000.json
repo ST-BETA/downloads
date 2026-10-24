@@ -1,0 +1,18 @@
+{
+  "appid": 410000,
+  "files": [
+    {
+      "name": "410000.zip",
+      "sha256": "53c256578536c3ab84b9355a08c77f879fb9f04831be2fd2358c8bf156e821cb",
+      "size": 55569
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "410000.zip",
+    "size": 55569
+  },
+  "repository": "downloads-08",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

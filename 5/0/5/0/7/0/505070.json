@@ -1,0 +1,19 @@
+{
+  "appid": 505070,
+  "files": [
+    {
+      "name": "505070.zip",
+      "sha256": "ff37390e3a1bcff80a9a891812c79b74ac189a64804eee8bfc821ff9f347a1ef",
+      "size": 416403
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "505070.zip",
+    "sha256": "ff37390e3a1bcff80a9a891812c79b74ac189a64804eee8bfc821ff9f347a1ef",
+    "size": 416403
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

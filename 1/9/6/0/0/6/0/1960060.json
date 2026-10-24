@@ -1,0 +1,19 @@
+{
+  "appid": 1960060,
+  "files": [
+    {
+      "name": "1960060.zip",
+      "sha256": "09f5b4988c6e85488b260443bb81dff2650f7dbd375e5e84aac1f869813d3dfa",
+      "size": 208261
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1960060.zip",
+    "sha256": "09f5b4988c6e85488b260443bb81dff2650f7dbd375e5e84aac1f869813d3dfa",
+    "size": 208261
+  },
+  "repository": "downloads-09",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

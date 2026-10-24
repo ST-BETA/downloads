@@ -1,0 +1,19 @@
+{
+  "appid": 1827800,
+  "files": [
+    {
+      "name": "1827800.zip",
+      "sha256": "fba5e27fa2076c01465075685ab8380847a90d40f36b009fb8d7267d547c5190",
+      "size": 51881
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1827800.zip",
+    "sha256": "fba5e27fa2076c01465075685ab8380847a90d40f36b009fb8d7267d547c5190",
+    "size": 51881
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

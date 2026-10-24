@@ -1,0 +1,19 @@
+{
+  "appid": 2365270,
+  "files": [
+    {
+      "name": "2365270.zip",
+      "sha256": "0d1deaea51d98ffaa2825ce186d43ebd1b10be8542e71e27316007a00fa2f6cf",
+      "size": 104396
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2365270.zip",
+    "sha256": "0d1deaea51d98ffaa2825ce186d43ebd1b10be8542e71e27316007a00fa2f6cf",
+    "size": 104396
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

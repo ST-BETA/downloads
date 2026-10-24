@@ -1,0 +1,19 @@
+{
+  "appid": 1985260,
+  "files": [
+    {
+      "name": "1985260.zip",
+      "sha256": "bb358c0239cc0987a6ab41aef7b65a787985a607fde2419100a347c48bd27480",
+      "size": 240655
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1985260.zip",
+    "sha256": "bb358c0239cc0987a6ab41aef7b65a787985a607fde2419100a347c48bd27480",
+    "size": 240655
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

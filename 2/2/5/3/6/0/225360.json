@@ -1,0 +1,19 @@
+{
+  "appid": 225360,
+  "files": [
+    {
+      "name": "225360.zip",
+      "sha256": "3e183c14821b721e0e046092f3312add1297888003b6ff7524744d7b08e4bfbf",
+      "size": 248768
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "225360.zip",
+    "sha256": "3e183c14821b721e0e046092f3312add1297888003b6ff7524744d7b08e4bfbf",
+    "size": 248768
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

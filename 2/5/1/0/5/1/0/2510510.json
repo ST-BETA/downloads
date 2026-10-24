@@ -1,0 +1,19 @@
+{
+  "appid": 2510510,
+  "files": [
+    {
+      "name": "2510510.zip",
+      "sha256": "5893d02b40ef17945e27e477c0e9eb973dbbaccfa994909731a11b92f613bdb8",
+      "size": 21319
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "2510510.zip",
+    "sha256": "5893d02b40ef17945e27e477c0e9eb973dbbaccfa994909731a11b92f613bdb8",
+    "size": 21319
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

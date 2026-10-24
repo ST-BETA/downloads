@@ -1,0 +1,19 @@
+{
+  "appid": 489740,
+  "files": [
+    {
+      "name": "489740.zip",
+      "sha256": "6cd49cdc1d485c386ce312b1ae54ec9b9ecbef064f727353fcc3578937ffb70f",
+      "size": 56751
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "489740.zip",
+    "sha256": "6cd49cdc1d485c386ce312b1ae54ec9b9ecbef064f727353fcc3578937ffb70f",
+    "size": 56751
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 3040220,
+  "files": [
+    {
+      "name": "3040220.zip",
+      "sha256": "c2078fbda89b0340ba2836451d8d666fc6726d777139cf6f5294bffe0351eab3",
+      "size": 1447586
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3040220.zip",
+    "sha256": "c2078fbda89b0340ba2836451d8d666fc6726d777139cf6f5294bffe0351eab3",
+    "size": 1447586
+  },
+  "repository": "downloads-06",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

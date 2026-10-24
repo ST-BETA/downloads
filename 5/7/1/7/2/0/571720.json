@@ -1,0 +1,19 @@
+{
+  "appid": 571720,
+  "files": [
+    {
+      "name": "571720.zip",
+      "sha256": "c3dbd51d55f9a9669fa0ac0d820ec1a1bede2855fdf29cb087ff0643b92d460b",
+      "size": 517250
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "571720.zip",
+    "sha256": "c3dbd51d55f9a9669fa0ac0d820ec1a1bede2855fdf29cb087ff0643b92d460b",
+    "size": 517250
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

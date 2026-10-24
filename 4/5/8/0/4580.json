@@ -1,0 +1,19 @@
+{
+  "appid": 4580,
+  "files": [
+    {
+      "name": "4580.zip",
+      "sha256": "26a3b2f92a8fe97bfe033fa52d7945d59ee1f0d8b6b7035b6768b46aa252ea3d",
+      "size": 359326
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4580.zip",
+    "sha256": "26a3b2f92a8fe97bfe033fa52d7945d59ee1f0d8b6b7035b6768b46aa252ea3d",
+    "size": 359326
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

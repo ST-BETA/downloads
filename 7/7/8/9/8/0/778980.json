@@ -1,0 +1,19 @@
+{
+  "appid": 778980,
+  "files": [
+    {
+      "name": "778980.zip",
+      "sha256": "30c46d49f2f1b55544bb8c930926fa0caf891d62038d7244e3e38cb3dd46d497",
+      "size": 41713
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "778980.zip",
+    "sha256": "30c46d49f2f1b55544bb8c930926fa0caf891d62038d7244e3e38cb3dd46d497",
+    "size": 41713
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

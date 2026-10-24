@@ -1,0 +1,19 @@
+{
+  "appid": 396260,
+  "files": [
+    {
+      "name": "396260.zip",
+      "sha256": "aa33f0fc43dbf1d7e9942db01fe55f7046245c87f4005480ba4678abcee83d90",
+      "size": 12086
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "396260.zip",
+    "sha256": "aa33f0fc43dbf1d7e9942db01fe55f7046245c87f4005480ba4678abcee83d90",
+    "size": 12086
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

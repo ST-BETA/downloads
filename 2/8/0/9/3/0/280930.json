@@ -1,0 +1,19 @@
+{
+  "appid": 280930,
+  "files": [
+    {
+      "name": "280930.zip",
+      "sha256": "479c2520738cddee970a7d3b0e7d48daf881b6ee8a4aed7dcd7db2ca408fa80b",
+      "size": 56212
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "280930.zip",
+    "sha256": "479c2520738cddee970a7d3b0e7d48daf881b6ee8a4aed7dcd7db2ca408fa80b",
+    "size": 56212
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

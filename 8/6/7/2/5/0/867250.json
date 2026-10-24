@@ -1,0 +1,19 @@
+{
+  "appid": 867250,
+  "files": [
+    {
+      "name": "867250.zip",
+      "sha256": "8aba140bbff0f659e8665eefc86df9ce1132d9a47d09082d16ab53daa9d45af8",
+      "size": 4303358
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "867250.zip",
+    "sha256": "8aba140bbff0f659e8665eefc86df9ce1132d9a47d09082d16ab53daa9d45af8",
+    "size": 4303358
+  },
+  "repository": "downloads-05",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

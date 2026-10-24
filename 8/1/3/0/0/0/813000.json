@@ -1,0 +1,18 @@
+{
+  "appid": 813000,
+  "files": [
+    {
+      "name": "813000.zip",
+      "sha256": "bf4909d24d83ba3a7afd7a972dd671c814db960ee04ed9511d1520a78bf82eac",
+      "size": 305436
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "813000.zip",
+    "size": 305436
+  },
+  "repository": "downloads-04",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

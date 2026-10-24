@@ -1,0 +1,19 @@
+{
+  "appid": 858760,
+  "files": [
+    {
+      "name": "858760.zip",
+      "sha256": "ebce3ac7a9ad160f4ab83c1b4aca39276e21f2f8c77abfc20f169076def2f677",
+      "size": 199647
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "858760.zip",
+    "sha256": "ebce3ac7a9ad160f4ab83c1b4aca39276e21f2f8c77abfc20f169076def2f677",
+    "size": 199647
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

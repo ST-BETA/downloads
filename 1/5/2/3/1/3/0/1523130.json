@@ -1,0 +1,19 @@
+{
+  "appid": 1523130,
+  "files": [
+    {
+      "name": "1523130.zip",
+      "sha256": "8e2ad9fbb06769d97c2541b91c7e857ea344f9bad23fdfc301c4d4f337d568ec",
+      "size": 165079
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "1523130.zip",
+    "sha256": "8e2ad9fbb06769d97c2541b91c7e857ea344f9bad23fdfc301c4d4f337d568ec",
+    "size": 165079
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

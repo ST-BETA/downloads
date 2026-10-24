@@ -1,0 +1,19 @@
+{
+  "appid": 499940,
+  "files": [
+    {
+      "name": "499940.zip",
+      "sha256": "2e1001196f9a4abef057750bbb924841b13077e2c063858c47f311e316cf495d",
+      "size": 26344
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "499940.zip",
+    "sha256": "2e1001196f9a4abef057750bbb924841b13077e2c063858c47f311e316cf495d",
+    "size": 26344
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

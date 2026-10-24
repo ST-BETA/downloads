@@ -1,0 +1,19 @@
+{
+  "appid": 858590,
+  "files": [
+    {
+      "name": "858590.zip",
+      "sha256": "86ef198b92973e80ba4d2fef47c212ae3dd9bf4890d6c0c9e051c6bbfe1d005c",
+      "size": 919830
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "858590.zip",
+    "sha256": "86ef198b92973e80ba4d2fef47c212ae3dd9bf4890d6c0c9e051c6bbfe1d005c",
+    "size": 919830
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

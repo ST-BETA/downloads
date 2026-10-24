@@ -1,0 +1,19 @@
+{
+  "appid": 463100,
+  "files": [
+    {
+      "name": "463100.zip",
+      "sha256": "d3450f614278672c0fef2786b1bf8a18f476b16b01cc3fcabe366608eccf41ae",
+      "size": 127520
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "463100.zip",
+    "sha256": "d3450f614278672c0fef2786b1bf8a18f476b16b01cc3fcabe366608eccf41ae",
+    "size": 127520
+  },
+  "repository": "downloads-07",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

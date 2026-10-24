@@ -1,0 +1,19 @@
+{
+  "appid": 438080,
+  "files": [
+    {
+      "name": "438080.zip",
+      "sha256": "b9f67f75441fc0ee4f6bddb5e18732170ef29cac7a5e394af0602d26b77d514a",
+      "size": 56205
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "438080.zip",
+    "sha256": "b9f67f75441fc0ee4f6bddb5e18732170ef29cac7a5e394af0602d26b77d514a",
+    "size": 56205
+  },
+  "repository": "downloads-08",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

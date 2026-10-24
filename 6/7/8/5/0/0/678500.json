@@ -1,0 +1,18 @@
+{
+  "appid": 678500,
+  "files": [
+    {
+      "name": "678500.zip",
+      "sha256": "f3786b247f96115fdf2c5144250348951e8ece2b002fc534b0ccd8e7e837818f",
+      "size": 37489
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "678500.zip",
+    "size": 37489
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}

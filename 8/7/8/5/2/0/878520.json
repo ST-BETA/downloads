@@ -1,0 +1,19 @@
+{
+  "appid": 878520,
+  "files": [
+    {
+      "name": "878520.zip",
+      "sha256": "587b17353c5d5c50b66cddb98db6c3c8443e584680ea0f0439c3cabc03622bb2",
+      "size": 14033
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "878520.zip",
+    "sha256": "587b17353c5d5c50b66cddb98db6c3c8443e584680ea0f0439c3cabc03622bb2",
+    "size": 14033
+  },
+  "repository": "downloads-01",
+  "schema": 1,
+  "last_update_date": "2026-10-21T04:44:46Z"
+}
