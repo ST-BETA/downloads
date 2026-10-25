@@ -3,17 +3,16 @@
   "files": [
     {
       "name": "654890.zip",
-      "sha256": "2441774a188778b8530afc3d3c5e91b0427e25c8115996f87da25be53712102a",
-      "size": 1529243
+      "size": 1537688,
+      "sha256": "8a32ddd46f3b87e3d02285bf67576095d35a57d1f8df64f8a89d8c95f1c5b5f8"
     }
   ],
   "merge": false,
   "original": {
     "name": "654890.zip",
-    "sha256": "2441774a188778b8530afc3d3c5e91b0427e25c8115996f87da25be53712102a",
-    "size": 1529243
+    "size": 1537688
   },
-  "repository": "downloads-08",
+  "repository": "downloads-01",
   "schema": 1,
-  "last_update_date": "2026-10-21T04:44:46Z"
+  "last_update_date": "2026-10-25T01:39:12Z"
 }
