@@ -1,0 +1,18 @@
+{
+  "appid": 3001200,
+  "files": [
+    {
+      "name": "3001200.zip",
+      "size": 96375,
+      "sha256": "f82409542f72a09062912576b0f3feeed8e45afe21420f7d4bf84fc08c3360e5"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "3001200.zip",
+    "size": 96375
+  },
+  "repository": "downloads-03",
+  "schema": 1,
+  "last_update_date": "2026-10-30T15:57:19Z"
+}
