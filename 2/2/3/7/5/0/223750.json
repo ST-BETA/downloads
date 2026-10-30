@@ -2,18 +2,22 @@
   "appid": 223750,
   "files": [
     {
-      "name": "223750.zip",
-      "sha256": "8cdb160f88b26bbe7e419b069765245d746384f30523a18b2d17ed77d4c9f09f",
-      "size": 86572930
+      "name": "223750_001.zip",
+      "size": 88080384,
+      "sha256": "4ea0c12ea1fb910f032736966322760bad3f0d335e587bd985d6749352b4aee5"
+    },
+    {
+      "name": "223750_002.zip",
+      "size": 1537979,
+      "sha256": "6157b5a52761b431530b00e0096674853c3f7788e9ff0187ad41cd2f9626a3eb"
     }
   ],
-  "merge": false,
+  "merge": true,
   "original": {
     "name": "223750.zip",
-    "sha256": "8cdb160f88b26bbe7e419b069765245d746384f30523a18b2d17ed77d4c9f09f",
-    "size": 86572930
+    "size": 89618363
   },
-  "repository": "downloads-06",
+  "repository": "downloads-02",
   "schema": 1,
-  "last_update_date": "2026-10-21T04:44:46Z"
+  "last_update_date": "2026-10-30T11:24:52Z"
 }
