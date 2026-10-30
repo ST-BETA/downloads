@@ -4,7 +4,7 @@
     {
       "name": "500.zip",
       "size": 6824325,
-      "sha256": "61bcd326f3ecb4b7ccc5b220c44af5578c51d86e8f8c84f448f6db293429da46"
+      "sha256": "fc4eea4d8127a57b8041c7164981178d4870a0705bd29e6f26148dd7e3703e00"
     }
   ],
   "merge": false,
@@ -12,7 +12,7 @@
     "name": "500.zip",
     "size": 6824325
   },
-  "repository": "downloads-05",
+  "repository": "downloads-06",
   "schema": 1,
-  "last_update_date": "2026-10-28T01:59:29Z"
+  "last_update_date": "2026-10-30T11:22:07Z"
 }
