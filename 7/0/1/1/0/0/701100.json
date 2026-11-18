@@ -1,0 +1,18 @@
+{
+  "appid": 701100,
+  "files": [
+    {
+      "name": "701100.zip",
+      "size": 39926,
+      "sha256": "74d95d6bc616815d493957adf885d31bc7fb9ff2e323c3687502fa2174e622d5"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "701100.zip",
+    "size": 39926
+  },
+  "repository": "downloads-10",
+  "schema": 1,
+  "last_update_date": "2026-11-18T01:52:02Z"
+}
