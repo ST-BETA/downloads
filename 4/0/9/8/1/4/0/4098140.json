@@ -1,0 +1,18 @@
+{
+  "appid": 4098140,
+  "files": [
+    {
+      "name": "4098140.zip",
+      "size": 123341,
+      "sha256": "3f4fa13c7577de0b69eda81d124c695fec90b35590d15414cc79d08804cb9f9b"
+    }
+  ],
+  "merge": false,
+  "original": {
+    "name": "4098140.zip",
+    "size": 123341
+  },
+  "repository": "downloads-02",
+  "schema": 1,
+  "last_update_date": "2026-11-19T04:27:58Z"
+}
