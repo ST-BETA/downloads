@@ -3,8 +3,8 @@
   "files": [
     {
       "name": "8870.zip",
-      "sha256": "1c3f3ae45d66aaacad1674ce8467297b6a814de6f50ee0747d159ef9b7a56c03",
-      "size": 8145181
+      "size": 8145181,
+      "sha256": "23695b15f0f76c5c5a54c62c61bd738618fd4cf03918e69e1a206ba3c4cc4e00"
     }
   ],
   "merge": false,
@@ -14,5 +14,5 @@
   },
   "repository": "downloads-08",
   "schema": 1,
-  "last_update_date": "2026-10-21T04:44:46Z"
+  "last_update_date": "2026-11-27T10:07:16Z"
 }
