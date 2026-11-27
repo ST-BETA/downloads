@@ -4,20 +4,20 @@
     {
       "name": "252530_001.zip",
       "size": 88080384,
-      "sha256": "1db6c509872d3f16bad214b728ef91dbe9f80b7d4cde2925eccba6b2474d482b"
+      "sha256": "720a40a205934aa6ef77e2a0b9081f97014b4618943d702e89149f684cb51741"
     },
     {
       "name": "252530_002.zip",
-      "size": 72459365,
-      "sha256": "599c88748cba6fa444d41371bfc7af9893b9bcfc8ae637de80eec6b074a05fe7"
+      "size": 72661658,
+      "sha256": "5f0bb5c503837c827841f3f4b4bba8c5f26813a755065f43b9063e14d0901558"
     }
   ],
   "merge": true,
   "original": {
     "name": "252530.zip",
-    "size": 160539749
+    "size": 160742042
   },
-  "repository": "downloads-01",
+  "repository": "downloads-02",
   "schema": 1,
-  "last_update_date": "2026-10-31T00:51:25Z"
+  "last_update_date": "2026-11-27T13:05:25Z"
 }
